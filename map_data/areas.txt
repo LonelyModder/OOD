@@ -1,9 +1,157 @@
 ﻿
 sea_area = { 
-    provinces = {  }
+    provinces = { 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 }
 }
 
 
 tmp_area = { 
     provinces = {  }    
+}
+
+Angerral = { 
+    provinces = { 13 14 15 8 6}    
+}
+
+Saroth = { 
+    provinces = { 5 7 9  }    
+}
+
+Taeland = { 
+    provinces = { 10 19 20  }    
+}
+
+Drake_isles = { 
+    provinces = { 11 12  }    
+}
+
+Asuryan = { 
+    provinces = { 98 99 3 4   }    
+}
+
+Cairnmoor = { 
+    provinces = { 16 18 24  17 }    
+}
+
+Thanon = { 
+    provinces = { 25 26 27 }    
+}
+
+Yvraine = { 
+    provinces = { 21 22 37 23 50 }    
+}
+
+Cairnmoor = { 
+    provinces = { 32 33 34 }    
+}
+
+Shifting Islse = { 
+    provinces = { 36 35 44 45  }    
+}
+
+Finu = { 
+    provinces = { 28 29 31 30  }    
+}
+
+Tamarha = { 
+    provinces = { 38 39 40 41 42 }    
+}
+
+Evershore = { 
+    provinces = { 68 59 55 56 60 }    
+}
+
+Everwood = { 
+    provinces = { 70 71 58 62 64 65 52 }    
+}
+
+Avelorn = { 
+    provinces = { 54 53 51 }    
+}
+
+Ithilin = { 
+    provinces = { 69 66 63 }    
+}
+
+Ceyl = { 
+    provinces = { 47 49  }    
+}
+
+Laurefalas = { 
+    provinces = { 48 134  }    
+}
+
+Chrace = { 
+    provinces = { 135 133 131 128 130 }    
+}
+
+Blackswale = { 
+    provinces = { 132 129 127  }    
+}
+
+Reavers = { 
+    provinces = { 72 74 73 118 75 76 }    
+}
+
+Highvale = { 
+    provinces = { 77 78  }    
+}
+
+Elyr = { 
+    provinces = { 79 80 81 83 82 }    
+}
+
+Arsuai = { 
+    provinces = { 84 85 }    
+}
+
+Caelandriol = { 
+    provinces = { 88 87 89 }    
+}
+
+Caladai = { 
+    provinces = { 102 90 91 }    
+}
+
+Drakire = { 
+    provinces = { 93 92 }    
+}
+
+Shimmersward = { 
+    provinces = { 100 96 97 94 }    
+}
+
+Dragonwake = { 
+    provinces = { 101 103 104 105 }    
+}
+
+Senlathain = { 
+    provinces = { 106 107 }    
+}
+
+Tiranoc = { 
+    provinces = { 109 110 108 }    
+}
+
+Anroc = { 
+    provinces = { 113 111 112 }    
+}
+
+Sundered_Strand = { 
+    provinces = { 114 115 117 120 }    
+}
+
+Anlec = { 
+    provinces = { 121 124 123 125 136 }    
+}
+
+Shadowmarch = { 
+    provinces = { 116 119 122 126  }    
+}
+
+Isle_of_Blight = { 
+    provinces = { 143 137 138  }    
+}
+
+The_Isle = {  
+    provinces = { 139 140 141 142   }    
 }

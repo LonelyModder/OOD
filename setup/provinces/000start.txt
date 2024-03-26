@@ -1,0 +1,1690 @@
+﻿3=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"wvenedi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"slavic_pantheon"
+	terrain="farmland"
+	trade_goods="grain"
+	
+}
+
+4=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+5=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cattle"
+	
+}
+
+6=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+7=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cattle"
+	
+}
+
+8=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+9=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+10=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+11=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+12=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="vegetables"
+	
+}
+
+13=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+14=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="horses"
+	
+}
+
+15=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+
+16=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dates"
+	
+}
+
+17=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="fish"
+	
+}
+18=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+19=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="precious_metals"
+	
+}
+
+20=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+21=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="gems"
+	
+}
+
+22=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="precious_metals"
+	
+}
+
+23=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="earthware"
+	
+}
+
+24=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cattle"
+	
+}
+
+25=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+26=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="honey"
+	
+}
+
+27=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+28=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="horses"
+	
+}
+
+29=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+30=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cloth"
+	
+}
+
+31=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"sapherian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="iron"
+	
+}
+
+32=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+33=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="woad"
+	
+}
+
+34=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="vegetables"
+	
+}
+
+35=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+36=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+37=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+
+38=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dates"
+	
+}
+
+39=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="gems"
+	
+}
+
+40=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="horses"
+	
+}
+
+41=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="precious_metals"
+	
+}
+
+42=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="silk"
+	
+}
+
+43=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"cothiq"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="honey"
+	
+}
+
+44=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cattle"
+	
+}
+
+45=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"yvressi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+46=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="incense"
+	
+}
+
+47=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"cothiq"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="wood"
+	
+}
+
+48=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"cothiq"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="amber"
+	
+}
+
+49=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"cothiq"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="gems"
+	
+}
+
+50=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+51=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="silk"
+	
+}
+
+52=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="fur"
+	
+}
+
+53=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="vegetables"
+	
+}
+
+54=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="horses"
+	
+}
+
+55=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="papyrus"
+	
+}
+
+56=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dye"
+	
+}
+
+57=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+58=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="hemp"
+	
+}
+
+59=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="papyrus"
+	
+}
+
+60=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dye"
+	
+}
+
+61=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+62=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="wood"
+	
+}
+
+63=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="precious_metals"
+	
+}
+
+64=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+65=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="fur"
+	
+}
+
+66=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="gems"
+	
+}
+
+67=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+68=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="amber"
+	
+}
+
+69=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="gems"
+	
+}
+
+70=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+71=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"avelorni"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="wild_game"
+	
+}
+
+72=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+73=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="marble"
+	
+}
+
+74=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="glass"
+	
+}
+
+75=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cloth"
+	
+}
+
+76=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+77=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="precious_metals"
+	
+}
+
+78=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+79=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="salt"
+	
+}
+
+80=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="fish"
+	
+}
+
+81=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+82=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="horses"
+	
+}
+
+83=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+84=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="vegetables"
+	
+}
+
+85=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="iron"
+	
+}
+
+86=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+87=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="marble"
+	
+}
+
+88=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="honey"
+	
+}
+
+89=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+
+90=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="precious_metals"
+	
+}
+
+91=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="marble"
+	
+}
+
+92=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dates"
+	
+}
+
+93=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cattle"
+	
+}
+
+94=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+95=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="incense"
+	
+}
+
+96=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+97=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+98=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+99=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="vegetables"
+	
+}
+
+100=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"eatainian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="spices"
+	
+}
+
+101=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+102=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+
+103=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+104=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+105=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"caledori"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="horses"
+	
+}
+
+106=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="honey"
+	
+}
+
+107=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="gems"
+	
+}
+
+108=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+
+109=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+110=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dates"
+	
+}
+
+111=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="precious_metals"
+	
+}
+
+112=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+113=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"tiranoci"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="precious_metals"
+	
+}
+
+114=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+115=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="marble"
+	
+}
+
+116=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+117=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+118=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"ellyrian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="iron"
+	
+}
+
+119=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+120=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="wine"
+	
+}
+
+121=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+122=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="gems"
+	
+}
+
+123=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+
+124=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="precious_metals"
+	
+}
+
+125=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="honey"
+	
+}
+
+126=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+127=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="iron"
+	
+}
+
+128=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="gems"
+	
+}
+
+129=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+130=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="stone"
+	
+}
+
+131=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="wood"
+	
+}
+
+132=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="olive"
+	
+}
+
+133=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="wild_game"
+	
+}
+
+134=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"cothiq"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="forest"
+	trade_goods="fur"
+	
+}
+
+135=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"chracian"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="hills"
+	trade_goods="stone"
+	
+}
+#north
+136=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="woad"
+	
+}
+
+137=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="vegetables"
+	
+}
+
+138=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="grain"
+	
+}
+
+139=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="precious_metals"
+	
+}
+
+140=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="mountain"
+	trade_goods="iron"
+	
+}
+
+141=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="stone"
+	
+}
+
+142=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="cattle"
+	
+}
+
+143=
+{
+	barbarian_power=0
+	civilization_value=26
+	culture="wvenedi"#"nagarythi"
+	province_rank="settlement"
+	religion="slavic_pantheon"#"Cadai"
+	terrain="plains"
+	trade_goods="dates"
+	
+}

@@ -5,8 +5,11 @@ modded_sea_region = {
 	}
 }
 
-modded_tmp_region = {
+1_region = {
 	areas = {
-		tmp_area
+		Asuryan
+		Saroth
+		Angerral
+		Yvraine
 	}
 }
