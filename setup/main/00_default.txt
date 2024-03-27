@@ -51,16 +51,7 @@ country = {
 			government = tribal_kingdom
 		}
 		#I update
-		AAA= {          
-			government = tribal_kingdom
-			primary_culture = wvenedi
-			religion = slavic_pantheon
-			capital = 3
-			
-			own_control_core = 	{ 
-				3 4 5 6 23 50
-			}  
-		}
+		
 	}
 }
 

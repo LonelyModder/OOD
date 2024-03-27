@@ -5,4 +5,3 @@ MER = "setup/countries/mercenaries.txt"
 
 #Used A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,R,S,T,V
 #New:
-AAA = "setup/countries/modded/mAAA.txt"
