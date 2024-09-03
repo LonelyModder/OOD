@@ -5,6 +5,11 @@
 	generated_content=no
 	layer="forts_layer"
 	instances={
-		
+		{
+			id=184
+			position={ 2508.606445 0.000000 2109.016113 }
+			rotation={ -0.000000 0.224153 -0.000000 0.974554 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
 	}
 }

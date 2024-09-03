@@ -5,6 +5,11 @@
 	generated_content=no
 	layer="ports_layer"
 	instances={
-		
+		{
+			id=184
+			position={ 2515.737061 0.000000 2098.852783 }
+			rotation={ -0.000000 0.342158 -0.000000 0.939642 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
 	}
 }

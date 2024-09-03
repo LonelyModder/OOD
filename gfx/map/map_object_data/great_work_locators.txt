@@ -5,6 +5,11 @@
 	generated_content=no
 	layer="monument_layer"
 	instances={
-		
+		{
+			id=184
+			position={ 2524.832520 0.000000 2108.299561 }
+			rotation={ -0.000000 -0.327320 -0.000000 0.944914 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
 	}
 }

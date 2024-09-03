@@ -5,6 +5,11 @@
 	generated_content=no
 	layer="cities_layer"
 	instances={
-		
+		{
+			id=184
+			position={ 2512.386230 0.000000 2103.225342 }
+			rotation={ -0.000000 -0.890793 -0.000000 -0.454409 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
 	}
 }
