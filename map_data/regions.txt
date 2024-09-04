@@ -10,3 +10,14 @@ modded_tmp_region = {
 		tmp_area
 	}
 }
+
+modded_dilmun_region = {
+	areas = {
+		dilmun1_area
+		dilmun2_area
+		dilmun3_area
+		dilmun4_area
+		dilmun5_area
+		dilmun6_area
+	}
+}
