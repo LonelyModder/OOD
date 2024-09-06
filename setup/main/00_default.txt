@@ -32,12 +32,15 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	
 	#Passes
-	
-	
+	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	243 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	245 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	250 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	########################################
 	# Barbarian Spawn Spots
 	########################################
-	
+	185 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	188 = { modifier = { modifier = generic_barbarian_spawn_place } }
 }
 
 road_network = {
