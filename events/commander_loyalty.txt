@@ -627,11 +627,11 @@ commander_loyalty.8 = {
 		scope:demanding_general = {
 			ordered_character_unit = {
 				order_by = unit_size
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_archers
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_lightinfantry
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_archers
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_spearmen
 			}
 			add_loyalty = loyalty_general_troops_granted
 		}
@@ -650,11 +650,11 @@ commander_loyalty.8 = {
 		scope:demanding_general = {
 			ordered_character_unit = {
 				order_by = unit_size
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_lightinfantry
-				add_loyal_subunit = lv_lightinfantry
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_spearmen
 			}
 		}
 		remove_stability_effect = yes
