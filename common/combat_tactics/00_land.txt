@@ -15,24 +15,19 @@ shock_action = {
 	casualties = 0.1
 
 	effective_composition = {
-		lv_lightinfantry = 1	
-		lv_heavyinfantry = 0	
-		lv_archers =  0	
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 1.5	
-		lv_cavalry = 0		
-		lv_guarcavalry = 2		
-		lv_horsearchers = 2		
-		lv_dremoras = 2	
-		lv_undead = 0	
-		lv_gryphons = 1.5
-		lv_warriors = 2
-		lv_raiders = 2
-		lv_atronach = 0
-		lv_clanfear = 2
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 2
+		unit_chariots = 2
+		unit_heavychariots = 1
+		unit_archers = 1.5
+		unit_scirmishers = 1				
+		unit_spearmen = 0	
+		unit_axemen = 1.5
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 2	
+		unit_rachnids = 2
+		unit_camels = 1
 	}
 }
 
@@ -47,24 +42,19 @@ envelopment = {
 	padma_vyuha = -0.1
 	
 	effective_composition = {
-		lv_lightinfantry = 0	
-		lv_heavyinfantry = 1	
-		lv_archers =  1.5
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 1.5	
-		lv_cavalry = 2	
-		lv_guarcavalry = 2
-		lv_horsearchers = 2		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 2
-		lv_warriors = 0
-		lv_raiders = 0
-		lv_atronach = 2
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 2
+		unit_heavychariots = 1
+		unit_archers = 1.5
+		unit_scirmishers = 1				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 1	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 2	
+		unit_rachnids = 2 
+		unit_camels = 1
 	}
 }
 
@@ -81,24 +71,19 @@ skirmishing = {
 	casualties = -0.25
 
 	effective_composition = {
-		lv_lightinfantry = 1	
-		lv_heavyinfantry = 0	
-		lv_archers =  0	
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 0	
-		lv_cavalry = 2		
-		lv_guarcavalry = 1.5
-		lv_horsearchers = 2		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 2	
-		lv_warriors = 1.5
-		lv_raiders = 1.5
-		lv_atronach = 2
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 2
+		unit_heavychariots = 1
+		unit_archers = 1.5
+		unit_scirmishers = 1.5				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 0	
+		unit_rachnids = 0 
+		unit_camels = 0
 	}
 }
 
@@ -113,24 +98,19 @@ deception = {
 	hit_and_run_tactics = -0.1
 
 	effective_composition = {
-		lv_lightinfantry = 1	
-		lv_heavyinfantry = 0	
-		lv_archers =  1.5		
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 0	
-		lv_cavalry = 2		
-		lv_guarcavalry = 0	
-		lv_horsearchers = 2	
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 2	
-		lv_warriors = 1.5
-		lv_raiders = 1.5
-		lv_atronach = 0
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 2
+		unit_heavychariots = 1
+		unit_archers = 1.5
+		unit_scirmishers = 1.5				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 2	
+		unit_rachnids = 2 
+		unit_camels = 0
 	}
 }
 
@@ -145,24 +125,19 @@ bottleneck = {
 	cavalry_skirmish = -0.1
 
 	effective_composition = {
-		lv_lightinfantry = 0	
-		lv_heavyinfantry = 1.5	
-		lv_archers =  2		
-		lv_crossbowmen = 2	
-		lv_camels = 0
-		lv_mages = 2	
-		lv_cavalry = 0		
-		lv_guarcavalry = 0	
-		lv_horsearchers = 0		
-		lv_dremoras = 2	
-		lv_undead = 0	
-		lv_gryphons = 0	
-		lv_warriors = 0
-		lv_raiders = 0
-		lv_atronach = 2
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 0
+		unit_heavychariots = 0
+		unit_archers = 1.5
+		unit_scirmishers = 1				
+		unit_spearmen = 2	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 2
+		unit_infantry = 2
+		unit_mushusshu = 0	
+		unit_rachnids = 0 
+		unit_camels = 0
 	}
 }
 
@@ -181,24 +156,19 @@ greek_phalanx = { #Good vs Shock - Bad vs Envelopment
 	casualties = -0.1
 
 	effective_composition = { #
-		lv_lightinfantry = 1.5	
-		lv_heavyinfantry = 2	
-		lv_archers =  2	
-		lv_crossbowmen = 2	
-		lv_camels = 0
-		lv_mages = 2	
-		lv_cavalry = 0		
-		lv_guarcavalry = 0	
-		lv_horsearchers = 0		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 0	
-		lv_warriors = 1.5
-		lv_raiders = 0
-		lv_atronach = 0
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 0
+		unit_heavychariots = 0
+		unit_archers = 1
+		unit_scirmishers = 1				
+		unit_spearmen = 2	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 2
+		unit_infantry = 2
+		unit_mushusshu = 0	
+		unit_rachnids = 0 
+		unit_camels = 0
 	}
 }
 
@@ -214,24 +184,19 @@ triplex_acies = { #Good vs Envelopment - Bad vs Skirmishing
 	hit_and_run_tactics = -0.1
 	
 	effective_composition = { #
-		lv_lightinfantry = 2	
-		lv_heavyinfantry = 2	
-		lv_archers =  2	
-		lv_crossbowmen = 2	
-		lv_camels = 0
-		lv_mages = 0	
-		lv_cavalry = 2		
-		lv_guarcavalry = 0	
-		lv_horsearchers = 0		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 0	
-		lv_warriors = 0
-		lv_raiders = 0
-		lv_atronach = 0
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 1.5
+		unit_heavychariots = 0
+		unit_archers = 1.5
+		unit_scirmishers = 1.5				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 2
+		unit_mushusshu = 0	
+		unit_rachnids = 0 
+		unit_camels = 0
 	}
 }
 
@@ -249,24 +214,19 @@ cavalry_skirmish = {
 	casualties = -0.1
 
 	effective_composition = {
-		lv_lightinfantry = 0	
-		lv_heavyinfantry = 0	
-		lv_archers =  0	
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 0	
-		lv_cavalry = 2	
-		lv_guarcavalry = 2	
-		lv_horsearchers = 2		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 0	
-		lv_warriors = 0
-		lv_raiders = 0
-		lv_atronach = 0
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 2
+		unit_heavychariots = 1
+		unit_archers = 1
+		unit_scirmishers = 1.5				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 0	
+		unit_rachnids = 0 
+		unit_camels = 1
 	}
 }
 
@@ -284,24 +244,19 @@ padma_vyuha = {
 	casualties = -0.1
 
 	effective_composition = {
-		lv_lightinfantry = 0	
-		lv_heavyinfantry = 0	
-		lv_archers =  0	
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 0	
-		lv_cavalry = 0		
-		lv_guarcavalry = 0	
-		lv_horsearchers = 0		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 0	
-		lv_warriors = 0
-		lv_raiders = 0
-		lv_atronach = 0
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 0
+		unit_heavychariots = 0
+		unit_archers = 0
+		unit_scirmishers = 0				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 0	
+		unit_rachnids = 0 
+		unit_camels = 0
 	}
 }
 
@@ -320,23 +275,18 @@ hit_and_run_tactics = {
 	casualties = -0.1
 
 	effective_composition = {
-		lv_lightinfantry = 1	
-		lv_heavyinfantry = 0	
-		lv_archers =  1.5	
-		lv_crossbowmen = 0	
-		lv_camels = 0
-		lv_mages = 0	
-		lv_cavalry = 0		
-		lv_guarcavalry = 0	
-		lv_horsearchers = 2		
-		lv_dremoras = 0	
-		lv_undead = 0	
-		lv_gryphons = 2
-		lv_warriors = 1.5
-		lv_raiders = 1.5
-		lv_atronach = 0
-		lv_clanfear = 0
-		lv_bonelord = 0
-		lv_bonewalker = 0
+		unit_berserkers = 0
+		unit_chariots = 2
+		unit_heavychariots = 1
+		unit_archers = 1
+		unit_scirmishers = 1.5				
+		unit_spearmen = 0	
+		unit_axemen = 0	
+		unit_elephants = 0	
+		unit_hoplites = 0
+		unit_infantry = 0
+		unit_mushusshu = 2	
+		unit_rachnids = 2 
+		unit_camels = 1.5
 	}
 }
