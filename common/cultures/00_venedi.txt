@@ -1,8 +1,8 @@
 ﻿venedi = {
 
-	primary = lv_scirmishers
-	second = lv_lightinfantry
-	flank = lv_archers
+	primary = unit_spearmen
+	second = unit_axemen
+	flank = unit_scirmishers
 
 	primary_navy = tetrere
 	secondary_navy = octere

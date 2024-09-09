@@ -5,6 +5,10 @@
 	
 	levy_tier = basic	
 	
+	allow = {
+		trade_good_surplus = { target = iron value > 0 }
+	}
+	
 	maneuver = 1
 	movement_speed = 2.5
 	build_time = 30

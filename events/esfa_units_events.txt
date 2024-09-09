@@ -14,53 +14,12 @@ units_allowance_events.1 = {
 	
 	option = {
 		name = "OK"
-		allow_lv_lightinfantry = yes
-		allow_lv_archers = yes	
-		allow_lv_crossbowmen = yes
-		allow_lv_warriors = yes
-		allow_lv_raiders = yes
-		if = {
-			limit =  {
-				any_owned_province = {
-					OR = {
-						is_importing_trade_good = iron
-						trade_goods = iron
-					}					
-				}
-			}
-			allow_lv_heavyinfantry = yes
-		}
-		else = {
-			disallow_lv_heavyinfantry = yes
-		}
-		if = {
-			limit =  {
-				any_owned_province = {
-					OR = {
-						is_importing_trade_good = camel
-						trade_goods = camel
-					}					
-				}
-			}
-			allow_lv_camels = yes
-		}
-		else = {
-			disallow_lv_camels = yes
-		}
-		if = {
-			limit =  {
-				any_owned_province = {
-					OR = {
-						is_importing_trade_good = circle_of_mages
-						trade_goods = circle_of_mages
-					}					
-				}
-			}
-			allow_lv_mages = yes
-		}
-		else = {
-			disallow_lv_mages = yes
-		}
+		unit_berserkers = yes
+		unit_archers = yes
+		unit_scirmishers = yes			
+		unit_spearmen 	= yes
+		allow_supply_train = yes
+		allow_engineer_cohort = yes
 		if = {
 			limit =  {
 				any_owned_province = {
@@ -70,24 +29,10 @@ units_allowance_events.1 = {
 					}					
 				}
 			}
-			allow_lv_cavalry = yes
+			allow_unit_chariots = yes
 		}
 		else = {
-			disallow_lv_cavalry = yes
-		}	
-		if = {
-			limit =  {
-				any_owned_province = {
-					OR = {
-						is_importing_trade_good = guar
-						trade_goods = guar
-					}					
-				}
-			}
-			allow_lv_guarcavalry = yes
-		}
-		else = {
-			disallow_lv_guarcavalry = yes
+			disallow_unit_chariots = yes
 		}
 		if = {
 			limit =  {
@@ -98,90 +43,108 @@ units_allowance_events.1 = {
 					}					
 				}
 			}
-			allow_lv_horsearchers = yes
+			allow_unit_heavychariots = yes
 		}
 		else = {
-			disallow_lv_horsearchers = yes
-		}
-		if = {
-			limit =  {
-				OR = {
-					AND = {
-						any_owned_province = {
-							OR = {
-								is_importing_trade_good = cabal_of_witches
-								trade_goods = cabal_of_witches
-							}					
-						}
-						OR = {
-							AND = {
-								has_deity_in_pantheon = deity:omen_molagbal
-								deity:omen_molagbal = { has_holy_site = yes }
-							}
-							AND = {
-								has_deity_in_pantheon = deity:omen_mechrunesdagon
-								deity:omen_mechrunesdagon = { has_holy_site = yes }
-							}
-							AND = {
-								has_deity_in_pantheon = deity:omen_meridia
-								deity:omen_meridia = { has_holy_site = yes }
-							}
-						}
-					}
-					religion = deadric_pantheon
-				}
-			}
-			allow_lv_dremoras = yes
-			allow_lv_atronach = yes
-			allow_lv_clanfear = yes
-		}
-		else = {
-			disallow_lv_dremoras = yes
-			disallow_lv_atronach = yes
-			disallow_lv_clanfear = yes
-		}
-		if = {
-			limit =  {
-				OR = {
-					AND = {
-						any_owned_province = {
-							OR = {
-								is_importing_trade_good = necromancers
-								trade_goods = necromancers
-							}					
-						}
-						NAND = {
-							has_deity_in_pantheon = deity:omen_meridia
-							deity:omen_meridia = { has_holy_site = yes }
-						}
-					}
-					religion = idealmasters_pantheon
-				}
-			}
-			allow_lv_undead = yes
-			allow_lv_bonelord = yes
-			allow_lv_bonewalker = yes
-		}
-		else = {
-			disallow_lv_undead = yes
-			disallow_lv_bonelord = yes
-			disallow_lv_bonewalker = yes
+			disallow_unit_heavychariots = yes
 		}
 		if = {
 			limit =  {
 				any_owned_province = {
 					OR = {
-						is_importing_trade_good = griphons
-						trade_goods = griphons
+						is_importing_trade_good = elephants
+						trade_goods = elephants
 					}					
 				}
 			}
-			allow_lv_gryphons = yes
+			allow_unit_elephants = yes
 		}
 		else = {
-			disallow_lv_gryphons = yes
+			disallow_unit_elephants = yes
 		}
-		allow_supply_train = yes
-		allow_engineer_cohort = yes
+		if = {
+			limit =  {
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = iron
+						trade_goods = iron
+					}					
+				}
+			}
+			allow_unit_hoplites = yes
+		}
+		else = {
+			disallow_unit_hoplites = yes
+		}
+		if = {
+			limit =  {
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = iron
+						trade_goods = iron
+					}					
+				}
+			}
+			allow_unit_infantry = yes
+		}
+		else = {
+			disallow_unit_infantry = yes
+		}
+		if = {
+			limit =  {
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = camels
+						trade_goods = camels
+					}					
+				}
+			}
+			allow_unit_camels = yes
+		}
+		else = {
+			disallow_unit_camels = yes
+		}
+		if = {
+			limit =  {
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = iron
+						trade_goods = iron
+					}					
+				}
+			}
+			allow_unit_mushusshu = yes
+		}
+		else = {
+			disallow_unit_mushusshu = yes
+		}
+		if = {
+			limit =  {
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = iron
+						trade_goods = iron
+					}					
+				}
+			}
+			allow_unit_rachnids = yes
+		}
+		else = {
+			disallow_unit_rachnids = yes
+		}
+		if = {
+			limit =  {
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = iron
+						trade_goods = iron
+					}					
+				}
+			}
+			allow_unit_axemen = yes
+		}
+		else = {
+			disallow_unit_axemen = yes
+		}
 	}
 }

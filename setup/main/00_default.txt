@@ -58,7 +58,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = annuni
 			religion = slavic_pantheon
-			capital = 5054
+			capital = 184
 			
 			technology={
 				military_tech={ level=2 progress=0 }

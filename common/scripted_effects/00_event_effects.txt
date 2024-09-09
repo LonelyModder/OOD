@@ -2495,7 +2495,7 @@ add_relevant_loyal_subunit_effect = {
 		limit = {
 			exists = commander
 			commander = {
-				has_culture_group = altmer
+				has_culture_group = annunaki
 			}
 		}
 		commander = {
@@ -2507,29 +2507,29 @@ add_relevant_loyal_subunit_effect = {
 					commander.employer = {
 						any_owned_province = {
 							OR = {
-								is_importing_trade_good = circle_of_mages
-								trade_goods = circle_of_mages
+								is_importing_trade_good = iron
+								trade_goods = iron
 							}
 						}
 					}
 				}
-				add_loyal_subunit = lv_mages
+				add_loyal_subunit = unit_hoplites
 			}
 			25 = {
 				trigger = {
 					commander.employer = {
 						any_owned_province = {
 							OR = {
-								is_importing_trade_good = griphons
-								trade_goods = griphons
+								is_importing_trade_good = iron
+								trade_goods = iron
 							}
 						}
 					}
 				}
-				add_loyal_subunit = lv_gryphons
+				add_loyal_subunit = unit_infantry
 			}
 			25 = {
-				add_loyal_subunit = lv_lightinfantry
+				add_loyal_subunit = unit_spearmen
 			}
 		}
 	}
@@ -2545,7 +2545,7 @@ add_relevant_loyal_subunit_effect = {
 		}
 		random_list = {
 			25 = {
-				add_loyal_subunit = lv_heavyinfantry
+				add_loyal_subunit = unit_spearmen
 			}
 		}
 	}

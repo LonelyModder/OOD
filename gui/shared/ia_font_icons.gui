@@ -283,164 +283,131 @@ texticon = {
 #Units
 
 texticon = {
-    icon = lv_lightinfantry
+    icon = unit_berserkers
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_lightinfantry.dds"
+        texture = "gfx/interface/icons/subunits/unit_berserkers.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
 }
+
 texticon = {
-    icon = lv_heavyinfantry
+    icon = unit_chariots
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_heavyinfantry.dds"
+        texture = "gfx/interface/icons/subunits/unit_chariots.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
 }
+
 texticon = {
-    icon = lv_archers
+    icon = unit_heavychariots
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_archers.dds"
+        texture = "gfx/interface/icons/subunits/unit_heavychariots.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
 }
+
 texticon = {
-    icon = lv_crossbowmen
+    icon = unit_archers
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_crossbowmen.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}	
-texticon = {
-    icon = lv_camels
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_camels.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}	
-texticon = {
-    icon = lv_mages
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_mages.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}	
-texticon = {
-    icon = lv_cavalry
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_cavalry.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}	
-texticon = {
-    icon = lv_guarcavalry
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_guarcavalry.dds"
+        texture = "gfx/interface/icons/subunits/unit_archers.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
 }
+
 texticon = {
-    icon = lv_horsearchers
+    icon = unit_scirmishers
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_horsearchers.dds"
+        texture = "gfx/interface/icons/subunits/unit_scirmishers.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
 }
+
 texticon = {
-    icon = lv_dremoras
+    icon = unit_spearmen
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_dremoras.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}	
-texticon = {
-    icon = lv_undead
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_undead.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}	
-texticon = {
-    icon = lv_gryphons
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_gryphons.dds"
+        texture = "gfx/interface/icons/subunits/unit_spearmen.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
 }
+
 texticon = {
-    icon = lv_warriors
+    icon = unit_axemen
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_warriors.dds"
+        texture = "gfx/interface/icons/subunits/unit_axemen.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
-}	
+}
+
 texticon = {
-    icon = lv_raiders
+    icon = unit_elephants
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_raiders.dds"
+        texture = "gfx/interface/icons/subunits/unit_elephants.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
-} 
+}
+
 texticon = {
-    icon = lv_atronach
+    icon = unit_hoplites
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_atronach.dds"
+        texture = "gfx/interface/icons/subunits/unit_hoplites.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
-} 
+}
+
 texticon = {
-    icon = lv_clanfear
+    icon = unit_infantry
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_clanfear.dds"
+        texture = "gfx/interface/icons/subunits/unit_infantry.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
-} 
+}
+
 texticon = {
-    icon = lv_bonelord
+    icon = unit_mushusshu
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_bonelord.dds"
+        texture = "gfx/interface/icons/subunits/unit_mushusshu.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
-} 
+}
+
 texticon = {
-    icon = lv_bonewalker
+    icon = unit_rachnids
     iconsize = {
-        texture = "gfx/interface/icons/subunits/lv_bonewalker.dds"
+        texture = "gfx/interface/icons/subunits/unit_rachnids.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
     }
-} 
+}
+
+texticon = {
+    icon = unit_camels
+    iconsize = {
+        texture = "gfx/interface/icons/subunits/unit_camels.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
