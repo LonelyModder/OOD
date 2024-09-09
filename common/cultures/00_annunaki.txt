@@ -55,7 +55,7 @@
 		sumerian_barb
 	}
 	
-	graphical_culture = greek_gfx
+	graphical_culture = anunnaki_gfx
 	ethnicities = {
 		10 = akkadian
 	}
