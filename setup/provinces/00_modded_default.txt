@@ -2,8 +2,8 @@
 
 1={ #Ocean
 	terrain="impassable_terrain"
-	culture="goblinken"
-	religion="goblin_pantheon"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -12,8 +12,8 @@
 
 2={ #Lands
 	terrain="impassable_terrain"
-	culture="goblinken"
-	religion="goblin_pantheon"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -22,8 +22,8 @@
 
 3={ #Mountains
 	terrain="impassable_terrain"
-	culture="goblinken"
-	religion="goblin_pantheon"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 4={ #Mountains-Black?
 	terrain="impassable_terrain"
-	culture="goblinken"
-	religion="goblin_pantheon"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

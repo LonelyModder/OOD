@@ -1,19 +1,22 @@
 ﻿184={ 
-	terrain="hills"
+	terrain="farmland"
 	trade_goods="wood"
 	religion="slavic_pantheon"
-	culture="wvenedi"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 

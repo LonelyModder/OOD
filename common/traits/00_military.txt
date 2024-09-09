@@ -22,9 +22,9 @@ confident = { #
 	character_loyalty = -5
 	martial = 1
 	unit = {
-		lv_gryphons_discipline = 0.05
-		lv_cavalry_discipline = 0.05	
-		lv_guarcavalry_discipline = 0.05
+		unit_chariots_discipline = 0.05
+		unit_heavychariots_discipline = 0.05	
+		unit_camels_discipline = 0.05
 	}
 }
 tactician = { #
@@ -32,12 +32,12 @@ tactician = { #
 	
 	martial = 1
 	unit = {
-		lv_lightinfantry_discipline = 0.05
-		lv_archers_discipline = 0.05
-		lv_heavyinfantry_discipline = 0.05
-		lv_crossbowmen_discipline = 0.05
-		lv_gryphons_discipline = 0.05
-		lv_cavalry_discipline = 0.05
+		unit_spearmen_discipline = 0.05
+		unit_archers_discipline = 0.05
+		unit_hoplites_discipline = 0.05
+		unit_infantry_discipline = 0.05
+		unit_scirmishers_discipline = 0.05
+		unit_chariots_discipline = 0.05
 	}
 }
 disciplined = { #
@@ -55,8 +55,8 @@ steadfast = { #
 	character_loyalty = 5
 	
 	unit = {
-		lv_lightinfantry_discipline = 0.05
-		lv_heavyinfantry_discipline = 0.05
+		unit_spearmen_discipline = 0.05
+		unit_hoplites_discipline = 0.05
 	}
 }
 aggressive = { #
@@ -64,10 +64,10 @@ aggressive = { #
 	
 	martial = 1
 	unit = {
-		lv_gryphons_discipline = 0.05
-		lv_dremoras_discipline = 0.05
-		lv_cavalry_discipline = 0.05
-		lv_guarcavalry_discipline = 0.05
+		unit_mushusshu_discipline = 0.05
+		unit_elephants_discipline = 0.05
+		unit_chariots_discipline = 0.05
+		unit_heavychariots_discipline = 0.05
 	}
 }
 brave = {

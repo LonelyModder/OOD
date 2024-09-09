@@ -52,10 +52,10 @@ distinction_barbarian_killers = {
 		monthly_character_fam_prestige = 0.05
 	}
 	unit = {
-		lv_heavyinfantry_defensive = 0.1
-		lv_mages_defensive = 0.1
-		lv_archers_defensive = 0.1
-		lv_crossbowmen_defensive = 0.1
+		unit_infantry_defensive = 0.1
+		unit_hoplites_defensive = 0.1
+		unit_archers_defensive = 0.1
+		unit_scirmishers_defensive = 0.1
 		engineer_cohort_defensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
@@ -86,8 +86,8 @@ distinction_hetairoi = {
 	icon = "phalera_horse"
 	commander = { }
 	unit = {
-		lv_cavalry_morale = 0.1
-		lv_gryphons_morale = 0.1
+		unit_chariots_morale = 0.1
+		unit_mushusshu_morale = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
 }
@@ -131,9 +131,9 @@ distinction_barca = { #Hannibal
 	}
 	unit = {
 		army_weight_modifier = -0.1
-		lv_cavalry_offensive = 0.1
-		lv_gryphons_offensive = 0.1
-		lv_heavyinfantry_offensive = 0.1
+		unit_chariots_offensive = 0.1
+		unit_mushusshu_offensive = 0.1
+		unit_hoplites_offensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
 }
@@ -144,8 +144,8 @@ distinction_stalwart = { #Pyrrhus
 		martial = 2
 	}
 	unit = {
-		lv_cavalry_offensive = 0.1
-		lv_heavyinfantry_offensive = 0.1
+		unit_chariots_offensive = 0.1
+		unit_hoplites_offensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 		assault_ability = 0.15
 	}
@@ -165,9 +165,9 @@ distinction_argyraspides = {
 	icon = "phalera_sword_shield"
 	commander = { }
 	unit = {
-		lv_heavyinfantry_maintenance_cost = -0.1
-		lv_heavyinfantry_offensive = 0.1
-		lv_heavyinfantry_defensive = 0.1
+		unit_hoplites_maintenance_cost = -0.1
+		unit_infantry_offensive = 0.1
+		unit_hoplites_defensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
 }
@@ -200,8 +200,8 @@ distinction_ferrata = {
 	icon = "phalera_sword_shield"
 	commander = { }
 	unit = {
-		lv_heavyinfantry_discipline = 0.15
-		lv_heavyinfantry_morale = 0.1
+		unit_infantry_discipline = 0.15
+		unit_infantry_morale = 0.1
 	}
 }
 
@@ -209,8 +209,8 @@ distinction_fulminata = {
 	icon = "phalera_zeus"
 	commander = { }
 	unit = {
-		lv_heavyinfantry_defensive = 0.1
-		lv_archers_defensive = 0.1
+		unit_infantry_defensive = 0.1
+		unit_archers_defensive = 0.1
 	}
 }
 

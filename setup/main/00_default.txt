@@ -53,7 +53,24 @@ country = {
 		BAR = {
 			government = tribal_kingdom
 		}
-		#I update
+		#Dilmun
+		AAA = {          
+			government = despotic_monarchy
+			primary_culture = annuni
+			religion = slavic_pantheon
+			capital = 5054
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				184
+			}
+		}
 		
 	}
 }
