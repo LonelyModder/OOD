@@ -31,7 +31,9 @@ salt = { #177 territories
 
 iron = { #119 territories
 	category = 0
-	allow_unit_type = heavy_infantry
+	allow_unit_type = unit_infantry
+	allow_unit_type = unit_hoplites
+	allow_unit_type = unit_axemen
 	
 	gold = 0.3
 	
@@ -39,7 +41,7 @@ iron = { #119 territories
 		local_tax_modifier = 0.02
 	}
 	country = {
-		heavy_infantry_discipline = 0.1
+		unit_infantry_discipline = 0.1
 	}
 
 	color = hsv { 0.0 0.0 0.11 }
@@ -47,8 +49,7 @@ iron = { #119 territories
 
 horses = { #276 territories
 	category = 0
-	allow_unit_type = heavy_cavalry
-	allow_unit_type = light_cavalry
+	allow_unit_type = unit_chariots
 	
 	gold = 0.25
 	
@@ -56,7 +57,7 @@ horses = { #276 territories
 		local_output_modifier = 0.01
 	}
 	country = {
-		heavy_cavalry_discipline = 0.1
+		unit_chariots_discipline = 0.1
 	}
 
 	color = hsv { 0.05 0.9 0.5 }
@@ -159,7 +160,7 @@ spices = { #58 territories
 
 elephants = { #82 territories
 	category = 0
-	allow_unit_type = warelephant
+	allow_unit_type = unit_elephants
 	
 	gold = 0.3
 	
@@ -167,7 +168,7 @@ elephants = { #82 territories
 		local_output_modifier = 0.03
 	}
 	country = {
-		warelephant_discipline = 0.1
+		unit_elephants_discipline = 0.1
 	}
 	
 	color = hsv { 0.6 0.2 0.4 }	
@@ -235,7 +236,7 @@ precious_metals = { #107 territories
 
 steppe_horses = { #90 territories
 	category = 0
-	allow_unit_type = horse_archers
+	allow_unit_type = unit_heavychariots
 	
 	gold = 0.25
 	
@@ -243,7 +244,7 @@ steppe_horses = { #90 territories
 		local_output_modifier = 0.01
 	}
 	country = {
-		horse_archers_discipline = 0.1
+		unit_heavychariots_discipline = 0.1
 	}
 	
 	color = hsv { 0.1 0.5 0.8 }
@@ -460,7 +461,7 @@ gems = { #44 Territories
 }
 
 camel = { #63 territories
-	allow_unit_type = camels
+	allow_unit_type = unit_camels
 	category = 0
 	
 	gold = 0.25
@@ -469,7 +470,7 @@ camel = { #63 territories
 		state_commerce_modifier = 0.02
 	}
 	country = {
-		camels_discipline = 0.1
+		unit_camels_discipline = 0.1
 	}
 	
 	color = { 0.6 0.3 0.2 }
