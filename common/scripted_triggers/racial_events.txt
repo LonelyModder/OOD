@@ -1,20 +1,11 @@
 ﻿is_longlived_trigger = {
-	OR = {
-		has_trait = ayleid
-		has_trait = altmer
-		has_trait = falmer
-		has_trait = dwemer
-		has_trait = bosmer
-	}
+	#OR = {
+		has_trait = anunnaki
+	#}
 }
 
 is_immortal_trigger = {
-	OR = {
-		has_trait = halfauroran
-		has_trait = lower_vampire
-		has_trait = half_vampire
-		has_trait = full_vampire
-		has_trait = lesser_lich
-		has_trait = lich
-	}
+	#OR = {
+	#	has_trait = halfauroran
+	#}
 }

@@ -1,15 +1,15 @@
 ﻿ESFA_on_create_character_effect = {
 	if = {
 		limit = {
-			NOT = { has_trait = anunnaki }
+			NOT = { has_trait = annunaki }
 		}
 		if = {
 			limit = {
 				OR = {
-					has_culture_group = anunnaki
+					has_culture_group = annunaki
 				}
 			}
-			add_trait = anunnaki
+			add_trait = annunaki
 		}
 		#else_if = {
 		#	limit = {

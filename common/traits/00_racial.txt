@@ -1,10 +1,10 @@
-﻿anunnaki = {
+﻿annunaki = {
 	type = status
 	
 	fertility = -0.3
 	health = 5.0
 	charisma = 1
-	finesse = 3
-	zeal = 2
+	martial = 3
+	finesse = 2
 	
 }

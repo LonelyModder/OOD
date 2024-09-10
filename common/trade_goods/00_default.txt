@@ -29,13 +29,13 @@ salt = { #177 territories
 	color = { 0.6 0.4 0.6 }
 }
 
-iron = { #119 territories
+iron = { #Hidden Tin
 	category = 0
 	allow_unit_type = unit_infantry
 	allow_unit_type = unit_hoplites
 	allow_unit_type = unit_axemen
 	
-	gold = 0.3
+	gold = 0.8
 	
 	province = {
 		local_tax_modifier = 0.02
