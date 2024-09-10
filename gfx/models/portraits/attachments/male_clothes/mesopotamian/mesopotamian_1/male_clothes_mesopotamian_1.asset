@@ -16,5 +16,5 @@ pdxmesh = {
 entity = {
 	name = "male_clothes_mesopotamian_1_entity"
 	pdxmesh = "male_clothes_mesopotamian_1_mesh"
-    attach = { THE_RIG:root = "male_clothes_mesopotamian_1_secondary_entity" }		
+#pureon    attach = { root = "male_clothes_mesopotamian_1_secondary_entity" }
 }

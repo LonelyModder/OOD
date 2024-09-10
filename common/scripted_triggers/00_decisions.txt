@@ -1,33 +1,18 @@
 ﻿is_tier_1_formable_trigger = {
 	OR = {
-		tag = XAU #Auridon
-		tag = XCL #Colovia
-		tag = XNI #Nibenay
-		tag = XSO #Sommerset
-		tag = XCN #Cyro-Nordic
-		tag = XCR #Craglorn
-		tag = XAN #Anequina
-		tag = XPL #Pellitine
+		#tag = XAU #Auridon
 	}
 }
 
 is_tier_2_formable_trigger = {
 	OR = {
-		tag = XOR #Kingdom of Orsinium
-		tag = XAL #Kingdom of Alinor
-		tag = XCY #Kingdom of Cyrod
-		tag = VAA #Kingdom of Valenwood
-		tag = XHM #Kingdom of Deathlands
-		tag = XHR #Kingdom of High Rock
-		tag = XEL #Kingdom of Elsweyr
+		#tag = XOR #Kingdom of Orsinium
 	}
 }
 
 is_endgame_tag_trigger = {
 	OR = {
-		tag = XAD #Aldmeri Dominion
-		tag = XDC #Dagerfall Covenant
-		tag = XME #Moon Empire
+		#tag = XAD #Aldmeri Dominion
 	}
 }
 
@@ -88,7 +73,7 @@ has_minable_trade_good_trigger = {
 			trade_goods = precious_metals
 			trade_goods = base_metals
 			trade_goods = iron
-			trade_goods = tin
+			#trade_goods = tin
 		}
 	}
 }
@@ -100,7 +85,7 @@ has_unminable_trade_good_trigger = {
 		trade_goods = precious_metals
 		trade_goods = base_metals
 		trade_goods = iron
-		trade_goods = tin
+		#trade_goods = tin
 	}
 }
 
