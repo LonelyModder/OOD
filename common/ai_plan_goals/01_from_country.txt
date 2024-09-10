@@ -1,42 +1,42 @@
 ﻿#See 00_default.txt in same folder for description.
 
-is_agressive_culture_aimod = {
-	trigger = {
-		OR = {
-			primary_culture = nednibenese
-			tag = VAS
-		}
-		NOT = { is_tribal = yes }
-		manpower > 4
-	}
-	ae_ceiling = 30
-	aggressive = 420
-}
+#is_agressive_culture_aimod = {
+#	trigger = {
+#		OR = {
+#			primary_culture = nednibenese
+#			tag = VAS
+#		}
+#		NOT = { is_tribal = yes }
+#		manpower > 4
+#	}
+#	ae_ceiling = 30
+#	aggressive = 420
+#}
 
-is_lacking_levies_pseudo_trigger = {
-	trigger = {
-		military_experience > 80
-		military_experience < 85
-		OR = {
-			primary_culture = nednibenese
-			tag = VAS
-		}
-		NOT = { is_tribal = yes }
-	}
-	
-	aggressive = -500
-}
+#is_lacking_levies_pseudo_trigger = {
+#	trigger = {
+#		military_experience > 80
+#		military_experience < 85
+#		OR = {
+#			primary_culture = nednibenese
+#			tag = VAS
+#		}
+#		NOT = { is_tribal = yes }
+#	}
+#	
+#	aggressive = -500
+#}
 
-is_noninvader_trigger = {
-	trigger = {
-		OR = {
-			country_culture_group = imga
-			country_culture_group = khajiit
-			country_culture_group = bosmer
-		}
-	}
-	aggressive = -100
-}
+#is_noninvader_trigger = {
+#	trigger = {
+#		OR = {
+#			country_culture_group = imga
+#			country_culture_group = khajiit
+#			country_culture_group = bosmer
+#		}
+#	}
+#	aggressive = -100
+#}
 
 is_antagonist_aimod = {
 	trigger = {

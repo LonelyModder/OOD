@@ -1,5 +1,5 @@
 ﻿184={ 
-	terrain="farmland"
+	terrain="hills"
 	trade_goods="grain"
 	religion="slavic_pantheon"
 	culture="annuni"
