@@ -8723,7 +8723,7 @@ accessory_genes = {
 
 
 	eye_accessory = {
-		index = 100
+		index = 101
 		normal_eyes = {
 			index = 0
 			male = {	1 = "male_eyes_normal"		}
@@ -8766,6 +8766,52 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
+		#Modified eyes
+		black_pupils_eyes = {
+			index = 6
+			male = {	1 = male_eyes_black_pupils			}
+			female = {	1 = female_eyes_black_pupils			}
+			boy = male
+			girl = female
+		}
+		dunydurceg_eyes = {
+			index = 7
+			male = {	1 = male_eyes_dunydurceg			}
+			female = {	1 = female_eyes_dunydurceg			}
+			boy = male
+			girl = female
+		}
+		high_elf_eyes = {
+			index = 8
+			male = {	1 = male_head_eyes_high_elf			}
+			female = {	1 = female_head_eyes_high_elf			}
+			boy = male
+			girl = female
+		}	
+		arame_eyes = {
+			index = 9
+			male = {	1 = male_head_eyes_arame			}
+			female = {	1 = female_head_eyes_arame			}
+			boy = male
+			girl = female
+		}	
+		
+		jeddiah_red_eyes = {
+			index = 10
+			male = {	1 = male_head_eyes_jeddiah_red			}
+			female = {	1 = female_head_eyes_jeddiah_red			}
+			boy = male
+			girl = female
+		}
+
+        snake_eyes = {
+            index = 11
+            male = {    1 = male_head_eyes_snake            }
+            female = {  1 = female_head_eyes_snake          }
+            boy = male
+            girl = female
+        }
+		#Modified eyes
 	}
 
 	teeth_accessory = {
@@ -8795,6 +8841,52 @@ accessory_genes = {
 			girl = {	1 = "girl_bust"		}
 		}
 
+	}
+	
+	ears = {
+		index = 103
+		
+	    normal_ears = {
+			index = 0
+			male = {
+				100 = empty
+			}
+			female = {
+				100 = empty
+			}
+			boy = male
+			girl = female
+		}
+		
+	### ORC EARS ###
+			
+		orc_ears = {
+            index = 1
+			male = {
+				100 = orcish_ears
+           }
+            female = {
+               100 = orcish_ears
+            }
+            boy = {
+				100 = orcish_ears
+           }
+            girl = female
+        }
+		
+		elf_ears = {
+            index = 2
+			male = {
+				100 = elven_ears
+           }
+            female = {
+               100 = elven_ears_female
+            }
+            boy = {
+				100 = elven_ears
+           }
+            girl = female
+        }
 	}
 	
 	helmet_accessory = {
