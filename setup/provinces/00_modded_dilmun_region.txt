@@ -1,7 +1,7 @@
 ﻿184={ 
 	terrain="hills"
 	trade_goods="grain"
-	religion="slavic_pantheon"
+	religion="oldones_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0

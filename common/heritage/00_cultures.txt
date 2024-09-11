@@ -1,6 +1,6 @@
 ﻿#Culture Group heritages
 
-altmer_heritage = { 
+anunnaki_heritage = { 
 	modifier = {
 		#good
 		research_points_modifier = 0.1
@@ -11,15 +11,6 @@ altmer_heritage = {
 	}
 	
 	trigger = {
-		country_culture_group = altmer
-		NOT = { 
-			OR = {
-				primary_culture = heartlanderelves
-				primary_culture = besarabicelves
-				primary_culture = deathelves
-				primary_culture = northelves
-				primary_culture = colovianelves
-			} 
-		}
+		country_culture_group = anunnaki
 	}
 }

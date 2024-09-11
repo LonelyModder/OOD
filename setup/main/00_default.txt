@@ -59,7 +59,7 @@ country = {
 		AAA = {          
 			government = despotic_monarchy
 			primary_culture = annuni
-			religion = slavic_pantheon
+			religion = oldones_pantheon
 			capital = 184
 			
 			technology={
