@@ -1,6 +1,6 @@
 ﻿unit_rachnids = {
 	army = yes
-
+	is_flank = yes
 	levy_tier = advanced
 
 	allow = {

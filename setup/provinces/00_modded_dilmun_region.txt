@@ -1,6 +1,6 @@
 ﻿184={ 
 	terrain="hills"
-	trade_goods="grain"
+	trade_goods="dye"
 	religion="oldones_pantheon"
 	culture="annuni"
 	civilization_value=0
@@ -23,8 +23,8 @@
 192={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -42,8 +42,8 @@
 193={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -61,8 +61,8 @@
 194={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,8 +80,8 @@
 195={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -98,7 +98,7 @@
 
 196={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -118,8 +118,8 @@
 197={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -137,8 +137,8 @@
 198={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -156,8 +156,8 @@
 199={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -175,8 +175,8 @@
 200={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -193,20 +193,23 @@
 
 201={ 
 	terrain="farmland"
-	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="dye"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -232,8 +235,8 @@
 203={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -306,8 +309,8 @@
 }
 
 207={ 
-	terrain="farmland"
-	trade_goods="grain"
+	terrain="forest"
+	trade_goods="dye"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -344,21 +347,24 @@
 }
 
 209={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}
 	freemen={
-		amount=4
+		amount=6
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -574,8 +580,8 @@
 221={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -763,7 +769,7 @@
 
 231={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -801,7 +807,7 @@
 
 233={ 
 	terrain="mountain"
-	trade_goods="wood"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -820,7 +826,7 @@
 
 234={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -991,7 +997,7 @@
 
 243={ 
 	terrain="mountain"
-	trade_goods="wood"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1010,7 +1016,7 @@
 
 244={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1067,7 +1073,7 @@
 
 247={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1124,7 +1130,7 @@
 
 250={ 
 	terrain="mountain"
-	trade_goods="wood"
+	trade_goods="iron"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0
@@ -1238,7 +1244,7 @@
 
 256={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="slavic_pantheon"
 	culture="wvenedi"
 	civilization_value=0

@@ -71,7 +71,7 @@ entity = {
 	meshsettings = {
 		name = "mesh_eyesShape"
 		index = 0
-		texture_diffuse = "high_elf_head_eyes_diffuse.dds"
+		texture_diffuse = "annunaki_head_eyes_diffuse.dds"
 		texture_normal = "high_elf_head_eyes_normal.dds"		
 	}
 }

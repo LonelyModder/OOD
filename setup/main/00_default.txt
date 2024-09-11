@@ -29,10 +29,14 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	
 	#Buildings
-	184 = {
-		port_building = 2
+	184 = { port_building = 2 }
+	209 = { 
+		port_building = 1
 	}
-	
+	201 = { 
+		port_building = 2 
+		fortress_building = 1
+	}
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	243 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -46,7 +50,12 @@ provinces = { #Any entry must contain a comment with city name.
 }
 
 road_network = {
-	
+	184=193
+	193=195
+	209=198
+	197=198
+	197=199 
+	199=201
 }
 
 country = {
@@ -57,20 +66,21 @@ country = {
 		}
 		#Dilmun
 		AAA = {          
-			government = despotic_monarchy
+			government = theocratic_republic
 			primary_culture = annuni
 			religion = oldones_pantheon
 			capital = 184
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=4 progress=0 }
+				civic_tech={ level=4 progress=0 }
+				oratory_tech={ level=4 progress=0 }
+				religious_tech= { level=4 progress=0  }
 			}
 			
 			own_control_core = 	{ 
-				184
+				184 195 193 192 194 199 200 
+				221 209 198 197 203 201
 			}
 		}
 		
