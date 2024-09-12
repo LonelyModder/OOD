@@ -3,7 +3,7 @@
 
 	primary = unit_archers
 	second = unit_hoplites
-	flank = unit_chariots
+	flank = unit_mushusshu
  
 	primary_navy = tetrere
 	secondary_navy = octere
