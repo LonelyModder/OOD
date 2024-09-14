@@ -94,8 +94,8 @@ units_allowance_events.1 = {
 			limit =  {
 				any_owned_province = {
 					OR = {
-						is_importing_trade_good = camels
-						trade_goods = camels
+						is_importing_trade_good = camel
+						trade_goods = camel
 					}					
 				}
 			}

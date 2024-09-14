@@ -2735,7 +2735,7 @@ country_diplomacy.30 = {
 		name = "country_diplomacy.30.b"
 		trigger = {
 			any_owned_province = {
-				trade_goods = elephants_indian
+				trade_goods = elephants
 			}
 		}
 		add_treasury = -50
@@ -2859,7 +2859,7 @@ country_diplomacy.31 = {
 			has_variable = satrapy_overlord_gift_elephants
 		}
 		scope:overlord_army = {
-			add_subunit = elephant_indian
+			add_subunit = unit_elephants
 		}
 	}
 
@@ -2869,8 +2869,8 @@ country_diplomacy.31 = {
 			has_variable = satrapy_overlord_gift_camels
 		}
 		scope:overlord_army = {
-			add_subunit = cavalry_camels
-			add_subunit = cavalry_camels
+			add_subunit = unit_camels
+			add_subunit = unit_camels
 		}
 	}
 
@@ -2880,8 +2880,8 @@ country_diplomacy.31 = {
 			has_variable = satrapy_overlord_gift_horses
 		}
 		scope:overlord_army = {
-			add_subunit = cavalry_horse_archers
-			add_subunit = cavalry_horse_archers
+			add_subunit = unit_chariots
+			add_subunit = unit_chariots
 		}
 	}
 

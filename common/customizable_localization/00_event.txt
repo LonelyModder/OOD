@@ -4870,11 +4870,6 @@ get_food_trade_good_icon = {
 	}
 	
 	text = {
-		localization_key = get_elephants_icon
-		trigger = { trade_goods = elephants_indian }
-	}
-	
-	text = {
 		localization_key = get_papyrus_icon
 		trigger = { trade_goods = papyrus }
 	}

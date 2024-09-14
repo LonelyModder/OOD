@@ -8,7 +8,7 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 	
-	levy_template = levy_nedichoplites
+	levy_template = levy_default
 	
 	color = hsv { 0.14 0.52 1 }
 	
@@ -31,8 +31,8 @@
 	}
 	barbarian_names = { SITONES FENNI VENEDAE NAVARI VELTAE }
 	
-	graphical_culture = orcish_gfx
+	graphical_culture = anunnaki_gfx
 	ethnicities = {
-		10 = noldor
+		10 = akkadian
 	}
 }

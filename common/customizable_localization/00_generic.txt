@@ -404,12 +404,6 @@ get_trade_good_here = {
 		}
 	}
 	text = {
-		localization_key = elephants
-		trigger = {
-			trade_goods = elephants_indian
-		}
-	}
-	text = {
 		localization_key = spices
 		trigger = {
 			trade_goods = spices
