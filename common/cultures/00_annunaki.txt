@@ -52,7 +52,7 @@
 	}
 	
 	barbarian_names = { 
-		sumerian_barb
+		SITONES FENNI VENEDAE NAVARI VELTAE
 	}
 	
 	graphical_culture = anunnaki_gfx

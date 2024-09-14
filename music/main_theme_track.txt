@@ -1,5 +1,0 @@
-﻿main_theme_track = {
-	music = "file:/music/MT.wav"
-	can_be_interrupted = yes
-
-}
