@@ -216,8 +216,8 @@
 202={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -254,8 +254,8 @@
 204={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -273,8 +273,8 @@
 205={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -292,8 +292,8 @@
 206={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -311,19 +311,22 @@
 207={ 
 	terrain="forest"
 	trade_goods="dye"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=3
+	}
 	citizen={
-		amount=1
+		amount=12
 	}
 	freemen={
-		amount=4
+		amount=10
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
@@ -637,8 +640,8 @@
 224={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -656,8 +659,8 @@
 225={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -675,8 +678,8 @@
 226={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -694,8 +697,8 @@
 227={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -713,8 +716,8 @@
 228={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -732,8 +735,8 @@
 229={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -751,8 +754,8 @@
 230={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="oldones_pantheon"
+	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

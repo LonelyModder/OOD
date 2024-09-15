@@ -206,7 +206,7 @@
  PROV204:0 "Ealulbegel"
  PROV205:0 "Lashkud"
  PROV206:0 "Ipiutesh"
- PROV207:0 "Eamegukad"
+ PROV207:0 "Shedren"
  PROV208:0 "Larrat"
  PROV209:0 "Epentim"
  PROV210:0 "Jugiskel"
@@ -259,5 +259,6 @@
  PROV257:0 "Jukum"
  PROV258:0 "Shulgiungat"
  PROV259:0 "Nurrash"
+ PROV260:0 "?"
  #Changeble province names
  
