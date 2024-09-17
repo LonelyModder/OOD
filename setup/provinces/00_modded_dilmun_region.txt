@@ -1,7 +1,7 @@
 ﻿184={ 
 	terrain="hills"
 	trade_goods="dye"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -23,7 +23,7 @@
 192={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -42,7 +42,7 @@
 193={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -61,7 +61,7 @@
 194={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -80,7 +80,7 @@
 195={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -118,7 +118,7 @@
 197={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -137,7 +137,7 @@
 198={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -156,7 +156,7 @@
 199={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -175,7 +175,7 @@
 200={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -194,7 +194,7 @@
 201={ 
 	terrain="farmland"
 	trade_goods="dye"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -216,7 +216,7 @@
 202={ 
 	terrain="farmland"
 	trade_goods="grain"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -235,7 +235,7 @@
 203={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -254,7 +254,7 @@
 204={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -273,7 +273,7 @@
 205={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -292,7 +292,7 @@
 206={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -311,7 +311,7 @@
 207={ 
 	terrain="forest"
 	trade_goods="dye"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -352,7 +352,7 @@
 209={ 
 	terrain="farmland"
 	trade_goods="cloth"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -583,7 +583,7 @@
 221={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="annuni"
 	civilization_value=0
 	barbarian_power=0
@@ -640,7 +640,7 @@
 224={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -659,7 +659,7 @@
 225={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -678,7 +678,7 @@
 226={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -697,7 +697,7 @@
 227={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -716,7 +716,7 @@
 228={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -735,7 +735,7 @@
 229={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0
@@ -754,7 +754,7 @@
 230={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="oldones_pantheon"
+	religion="suncult_pantheon"
 	culture="shedren"
 	civilization_value=0
 	barbarian_power=0

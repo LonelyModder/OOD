@@ -71,7 +71,7 @@ country = {
 		AAA = {          
 			government = theocratic_republic
 			primary_culture = annuni
-			religion = oldones_pantheon
+			religion = suncult_pantheon
 			capital = 184
 			
 			technology={
@@ -90,7 +90,7 @@ country = {
 		AAB = {          
 			government = despotic_monarchy
 			primary_culture = shedren
-			religion = oldones_pantheon
+			religion = suncult_pantheon
 			capital = 207
 			
 			technology={
