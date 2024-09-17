@@ -2,6 +2,7 @@
  #Regions
  modded_tmp_region:0 "temporary"
  modded_dilmun_region:0 "Dilmun"
+ modded_kurgun_region:0 "Northern Kurgun"
  #Areas
  dilmun1_area:0 "Emhel"
  dilmun2_area:0 "Zuhuha"
