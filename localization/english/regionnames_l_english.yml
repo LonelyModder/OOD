@@ -3,7 +3,9 @@
  modded_tmp_region:0 "temporary"
  modded_dilmun_region:0 "Dilmun"
  modded_kurgun_region:0 "Northern Kurgun"
+ modded_skurgun_region:0 "Southern Kurgun"
  #Areas
+ tmp_area:0 "temporary"
  dilmun1_area:0 "Emhel"
  dilmun2_area:0 "Zuhuha"
  dilmun3_area:0 "Bisim"
