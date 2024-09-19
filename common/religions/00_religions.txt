@@ -21,7 +21,7 @@ slavic_pantheon = { # Heretic Faith
 	religion_category = pantheon
 }
 
-suncult_pantheon = { # Anunnaki Faith
+divineorder_pantheon = { # Anunnaki Faith
 	color = hsv { 0.13 0.98 0.95 }
 	modifier = { 
 		land_morale_modifier = 0.1
