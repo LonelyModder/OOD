@@ -1899,3 +1899,263 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+371={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+372={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+373={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+374={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+375={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+376={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+377={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+378={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+379={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+380={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+381={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+382={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+383={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+384={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+385={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+386={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+387={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+388={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+389={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+390={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+391={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+392={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+393={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+394={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+395={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+396={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}

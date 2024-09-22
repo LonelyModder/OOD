@@ -46,7 +46,9 @@ race_startup.2 = {
 				#	}
 				#	add_trait = breton
 				#}
-				
+				else = {
+					add_trait = human
+				}
 			}
 		}
 	}

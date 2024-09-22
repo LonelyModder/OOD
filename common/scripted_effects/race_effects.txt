@@ -17,5 +17,8 @@
 		#	}
 		#	add_trait = bosmer
 		#}
+		else = {
+			add_trait = human
+		}
 	}
 }

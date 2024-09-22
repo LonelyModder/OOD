@@ -6,5 +6,11 @@
 	charisma = 1
 	martial = 3
 	finesse = 2
+}
+
+human = {
+	type = status
 	
+	martial = 1
+	zeal = 1
 }
