@@ -374,8 +374,8 @@
 210={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -602,8 +602,8 @@
 222={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -621,8 +621,8 @@
 223={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -868,8 +868,8 @@
 236={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -887,8 +887,8 @@
 237={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -906,8 +906,8 @@
 238={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,8 +925,8 @@
 239={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -944,8 +944,8 @@
 240={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -963,8 +963,8 @@
 241={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -982,8 +982,8 @@
 242={ 
 	terrain="forest"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1001,8 +1001,8 @@
 243={ 
 	terrain="mountain"
 	trade_goods="iron"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1020,19 +1020,22 @@
 244={ 
 	terrain="hills"
 	trade_goods="dye"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -1058,8 +1061,8 @@
 246={ 
 	terrain="hills"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -30,9 +30,8 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	184 = { port_building = 2 }
-	209 = { 
-		port_building = 1
-	}
+	244 = { port_building = 2 }
+	209 = { port_building = 1 }
 	201 = { 
 		port_building = 2 
 		fortress_building = 1
@@ -82,8 +81,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				184 195 193 192 194 199 200 
-				221 209 198 197 203 201
+				184 195 193 192 194 199 200 221 209 198 197 203 201
 			}
 		}
 		
@@ -102,6 +100,24 @@ country = {
 			
 			own_control_core = 	{ 
 				207 206 205 202 227 226 224 230 229 228 204 225
+			}
+		}
+		
+		AAC = {          
+			government = despotic_monarchy
+			primary_culture = chekkash
+			religion = divineorder_pantheon
+			capital = 244
+			
+			technology={
+				military_tech={ level=4 progress=0 }
+				civic_tech={ level=4 progress=0 }
+				oratory_tech={ level=4 progress=0 }
+				religious_tech= { level=4 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				244 246 243 222 240 223 210 236 239 237 238 241 242
 			}
 		}
 		

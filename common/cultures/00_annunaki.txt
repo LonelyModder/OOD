@@ -49,6 +49,7 @@
 	culture = {
 		annuni = {}
 		shedren = {}
+		chekkash = {}
 		#new
 	}
 	

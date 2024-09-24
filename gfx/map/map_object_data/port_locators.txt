@@ -1,4 +1,4 @@
-﻿game_object_locator={
+game_object_locator={
 	name="port"
 	clamp_to_water_level=yes
 	render_under_water=no
@@ -585,6 +585,12 @@
 			id=369
 			position={ 2839.876953 0.000000 2057.797852 }
 			rotation={ -0.000000 -0.284586 -0.000000 0.958651 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=397
+			position={ 2769.000000 0.000000 2454.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
 	}
