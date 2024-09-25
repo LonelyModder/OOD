@@ -31,3 +31,4 @@ halfling_gfx = {}
 bryges_gfx = {}
 #Modified
 anunnaki_gfx={}
+mesopotamian_gfx={}

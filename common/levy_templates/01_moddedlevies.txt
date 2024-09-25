@@ -18,3 +18,15 @@ levy_annuna = { #anunaki militia
 	unit_archers = 0.2
 	unit_mushusshu = 0.1
 }
+
+#Kengiri
+
+levy_kengiri = { #anunaki militia
+	default = no
+
+	unit_spearmen = 0.5
+	unit_axemen = 0.1
+	unit_scirmishers = 0.2
+	unit_archers = 0.1
+	unit_heavychariots = 0.1
+}

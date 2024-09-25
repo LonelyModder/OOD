@@ -2516,19 +2516,6 @@ add_relevant_loyal_subunit_effect = {
 				add_loyal_subunit = unit_hoplites
 			}
 			25 = {
-				trigger = {
-					commander.employer = {
-						any_owned_province = {
-							OR = {
-								is_importing_trade_good = iron
-								trade_goods = iron
-							}
-						}
-					}
-				}
-				add_loyal_subunit = unit_infantry
-			}
-			25 = {
 				add_loyal_subunit = unit_spearmen
 			}
 		}
@@ -2537,7 +2524,7 @@ add_relevant_loyal_subunit_effect = {
 		limit = {
 			exists = commander
 			commander = {
-				has_culture_group = orcish
+				has_culture_group = kingiri
 			}
 		}
 		commander = {
