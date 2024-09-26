@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_kubad_region = {
+	areas = {
+		kubad1_area
+		kubad2_area
+		kubad3_area
+		kubad4_area
+		kubad5_area
+		kubad6_area
+		kubad7_area
+	}
+}
+
 modded_skurgun_region = {
 	areas = {
 		skurgun1_area
