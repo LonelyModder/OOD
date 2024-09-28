@@ -11,6 +11,16 @@ modded_tmp_region = {
 	}
 }
 
+modded_girigu_region = {
+	areas = {
+		girigu1_area #Here or in kubad Hills?
+		girigu2_area
+		girigu3_area
+		girigu4_area
+		girigu5_area
+	}
+}
+
 modded_kubad_region = {
 	areas = {
 		kubad1_area
@@ -20,6 +30,7 @@ modded_kubad_region = {
 		kubad5_area
 		kubad6_area
 		kubad7_area
+		
 	}
 }
 
