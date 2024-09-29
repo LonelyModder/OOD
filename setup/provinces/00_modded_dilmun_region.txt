@@ -849,8 +849,8 @@
 235={ 
 	terrain="hills"
 	trade_goods="wood"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="chekkash"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

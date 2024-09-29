@@ -13,7 +13,7 @@ climate = "climate.txt"
 sea_zones = RANGE { 5 183 }
 impassable_terrain = RANGE { 185 191 }  
 impassable_terrain = RANGE { 371 396 } 
-impassable_terrain = LIST { 568 }
+impassable_terrain = LIST { 568 649 650 }
 wasteland = LIST { 1 2 3 4 }
 lakes = LIST {  }
 

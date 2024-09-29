@@ -2169,3 +2169,23 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+649={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+650={ #Lands
+	terrain="impassable_terrain"
+	culture="wvenedi"
+	religion="slavic_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
