@@ -19,6 +19,7 @@ modded_barrim_region = {
 		barrim4_area
 		barrim5_area
 		barrim6_area
+		nub5_area
 	}
 }
 
@@ -28,7 +29,7 @@ modded_nub_region = {
 		nub2_area
 		nub3_area
 		nub4_area
-		nub5_area
+		nub6_area
 	}
 }
 
@@ -39,6 +40,8 @@ modded_girigu_region = {
 		girigu3_area
 		girigu4_area
 		girigu5_area
+		girigu6_area
+		girigu7_area
 	}
 }
 
