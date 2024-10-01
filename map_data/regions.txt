@@ -11,6 +11,17 @@ modded_tmp_region = {
 	}
 }
 
+modded_barrim_region = {
+	areas = {
+		barrim1_area
+		barrim2_area
+		barrim3_area
+		barrim4_area
+		barrim5_area
+		barrim6_area
+	}
+}
+
 modded_nub_region = {
 	areas = {
 		nub1_area
