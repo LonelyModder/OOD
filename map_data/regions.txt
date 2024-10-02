@@ -11,6 +11,18 @@ modded_tmp_region = {
 	}
 }
 
+modded_gangun_region = {
+	areas = {
+		gangun1_area
+		gangun2_area
+		gangun3_area
+		gangun4_area
+		gangun5_area
+		gangun6_area
+		gangun7_area
+	}
+}
+
 modded_barrim_region = {
 	areas = {
 		barrim1_area
@@ -19,7 +31,7 @@ modded_barrim_region = {
 		barrim4_area
 		barrim5_area
 		barrim6_area
-		nub5_area
+		barrim7_area
 	}
 }
 
@@ -29,7 +41,7 @@ modded_nub_region = {
 		nub2_area
 		nub3_area
 		nub4_area
-		nub6_area
+		nub5_area
 	}
 }
 
