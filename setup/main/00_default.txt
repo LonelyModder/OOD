@@ -121,6 +121,24 @@ country = {
 			}
 		}
 		
+		AAD = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 480
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				480
+			}
+		}
+		
 	}
 }
 

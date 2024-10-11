@@ -129,3 +129,87 @@ Mesopotamian = {
 		}
 	}
 }
+
+Egyptian = {
+	graphical_culture = "egyptian_gfx"
+	center_building_mesh = "african_center_mesh"
+	soundeffect = "event:/SFX/Ambience/3DMapEmitters/Urban/sfx_amb_3d_city_african"
+	tier = {
+		priority = 0
+		population_per_building = @buildings_per_pop_tier_0
+		population_ratio = 1.0
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"african_01_01_mesh"
+			"african_01_02_mesh"
+			"african_01_03_mesh"
+			"african_01_04_mesh"
+#			"egyptian_archaic_01_01"
+#			"egyptian_archaic_01_02"
+#			"egyptian_archaic_01_03"
+#			"egyptian_archaic_01_04"
+#			"egyptian_archaic_01_05"
+#			"egyptian_archaic_01_06"
+		}
+	}
+	tier = {
+		priority = 1
+		population_per_building = @buildings_per_pop_tier_1
+		population_ratio = 0.25
+		
+		rotation_steps = 8
+		rotation_variation = 0
+		meshes = {
+			"african_02_01_mesh"
+			"african_02_02_mesh"
+			"african_02_03_mesh"
+			"african_02_04_mesh"
+			"african_02_05_mesh"
+			"african_02_06_mesh"
+#			"egyptian_archaic_02_01"
+#			"egyptian_archaic_02_02"
+		}
+	}
+	tier = {
+		priority = 2
+		population_per_building = @buildings_per_pop_tier_2
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"african_03_01_mesh"
+			"african_03_02_mesh"
+			"african_03_03_mesh"
+			"african_03_04_mesh"
+			"african_03_05_mesh"
+			"african_03_06_mesh"
+#			"egyptian_archaic_03_01"
+#			"egyptian_archaic_03_02"
+#			"egyptian_archaic_03_03"
+		}
+	}
+	tier = {
+		priority = 3
+		population_per_building = @buildings_per_pop_tier_3
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"african_04_01_mesh"
+			"african_04_02_mesh"
+			"african_04_03_mesh"
+			"african_04_04_mesh"
+			"african_04_05_mesh"
+			"african_04_06_mesh"
+			"african_04_07_mesh"
+			"african_04_08_mesh"
+#			"egyptian_archaic_04_01"
+#			"egyptian_archaic_04_02"
+#			"egyptian_archaic_temple_02"
+		}
+	}
+}

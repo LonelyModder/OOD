@@ -1,0 +1,36 @@
+pdxmesh = {
+	name = "egyptian_fort_mesh"
+	file = "egyptian_fort.mesh"
+
+	meshsettings = {
+		name = "egyptian_fort_decalShape"
+		index = 0
+		texture_diffuse = "stone_tiles_diffuse.dds"
+		texture_normal = "stone_tiles_normal.dds"
+		texture_specular = "stone_tiles_material.dds"
+		texture = { file = "persian_fort_mask.dds" index = 3 }
+		shader = "decal_world"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "Decals"
+	}
+
+	meshsettings = {
+		name = "egyptian_fortShape"
+		index = 0
+		texture_diffuse = "egyptian_fort_diffuse.dds"
+		texture_normal = "indian_fort_normal.dds"
+		texture_specular = "indian_fort_properties.dds"
+		shader = "standard_snow"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "egyptian_gfx_fort_entity"
+	pdxmesh = "egyptian_fort_mesh"
+
+	state = {
+		name = default
+		start_event = { trigger_once = yes sound = { soundeffect = "event:/SFX/Ambience/3DMapEmitters/Military/sfx_amb_3d_military_fort_indian" } keep_sound = yes }
+	}
+}

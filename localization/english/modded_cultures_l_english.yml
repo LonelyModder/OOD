@@ -12,7 +12,11 @@
  kargali:0 "Kargalic"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- 
+ #Salgari
+ salgari:2 "Salgari"
+ menran:0 "Menran"
+ salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy
  venedi:2 "Aedric"
  wvenedi:0 "Heresy"

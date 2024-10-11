@@ -94,7 +94,7 @@
 }
 
 478={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -113,7 +113,7 @@
 }
 
 479={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -132,26 +132,29 @@
 }
 
 480={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city_metropolis"
+	nobles={
+		amount=5
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=20
+	}
+	freemen={
+		amount=15
 	}
 	slaves={
-		amount=1
+		amount=12
 	}
 }
 
 481={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -170,7 +173,7 @@
 }
 
 482={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -189,7 +192,7 @@
 }
 
 483={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -208,7 +211,7 @@
 }
 
 484={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -227,7 +230,7 @@
 }
 
 485={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -246,7 +249,7 @@
 }
 
 486={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -265,7 +268,7 @@
 }
 
 487={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -284,7 +287,7 @@
 }
 
 488={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -303,7 +306,7 @@
 }
 
 489={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -322,7 +325,7 @@
 }
 
 490={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -341,7 +344,7 @@
 }
 
 491={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -360,7 +363,7 @@
 }
 
 492={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -398,7 +401,7 @@
 }
 
 494={ 
-	terrain="plains"
+	terrain="farmland"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

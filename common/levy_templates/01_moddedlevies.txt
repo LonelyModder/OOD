@@ -26,7 +26,16 @@ levy_kengiri = { #anunaki militia
 
 	unit_spearmen = 0.5
 	unit_axemen = 0.1
-	unit_scirmishers = 0.2
-	unit_archers = 0.1
+	unit_scirmishers = 0.3
 	unit_heavychariots = 0.1
+}
+
+levy_salgari = { #anunaki militia
+	default = no
+
+	unit_spearmen = 0.4
+	unit_axemen = 0.1
+	unit_scirmishers = 0.2
+	unit_archers = 0.15
+	unit_heavychariots = 0.15
 }

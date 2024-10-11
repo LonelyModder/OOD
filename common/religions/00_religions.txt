@@ -30,3 +30,16 @@ divineorder_pantheon = { # Anunnaki Faith
 	}
 	religion_category = pantheon
 }
+
+atun_pantheon = { # Anunnaki Faith
+	color = hsv { 0.16  0.87  0.85 }
+	modifier = { 
+		land_morale_modifier = 0.1
+		global_slaves_output = 0.15
+		research_points_modifier = 0.05
+	}
+	religion_category = prophets
+	can_deify_ruler = no
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
