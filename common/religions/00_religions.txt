@@ -22,7 +22,7 @@ slavic_pantheon = { # Heretic Faith
 }
 
 divineorder_pantheon = { # Anunnaki Faith
-	color = hsv { 0.13 0.98 0.95 }
+	color = hsv { 0.66 0.93 0.67 }
 	modifier = { 
 		land_morale_modifier = 0.1
 		global_slaves_output = 0.15

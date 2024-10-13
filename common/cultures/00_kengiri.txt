@@ -1,5 +1,5 @@
 ﻿kengiri = {	
-	color = hsv { 0.66 0.93 0.67 }
+	color = hsv { 0.25 0.89 0.80 }
 
 	primary = unit_archers
 	second = unit_spearmen
@@ -47,7 +47,7 @@
 		Ishu-Inanna.Ishu-Inanna.Ishu-Inanna.Ishu-Inanna 
 	}
 	culture = {
-		kargali = {}
+		galkari = {}
 		#new
 	}
 	

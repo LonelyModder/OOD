@@ -1,4 +1,4 @@
-﻿akkadian = {
+﻿annunaki = {
     template = "ethnities_template"
     
     skin_color = {

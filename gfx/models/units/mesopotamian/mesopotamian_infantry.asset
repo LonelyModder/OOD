@@ -817,41 +817,60 @@ entity = {
 ##############
 
 entity = {
-	name = "mesopotamian_gfx_archers"
+	name = "mesopotamian_gfx_unit_berserkers"
 	clone = "mesopotamian_gfx_heavy_infantry"
 }
-
 entity = {
-	name = "mesopotamian_gfx_camels"
+	name = "mesopotamian_gfx_unit_chariots"
 	clone = "mesopotamian_gfx_heavy_infantry"
 }
-
 entity = {
-	name = "mesopotamian_gfx_chariots"
+	name = "mesopotamian_gfx_unit_heavychariots"
 	clone = "mesopotamian_gfx_heavy_infantry"
 }
-
 entity = {
-	name = "mesopotamian_gfx_heavy_cavalry"
+	name = "mesopotamian_gfx_unit_archers"
 	clone = "mesopotamian_gfx_heavy_infantry"
+	version = 10
 }
-
 entity = {
-	name = "mesopotamian_gfx_horse_archers"
+	name = "mesopotamian_gfx_unit_scirmishers"
 	clone = "mesopotamian_gfx_heavy_infantry"
 }
-
 entity = {
-	name = "mesopotamian_gfx_light_cavalry"
+	name = "mesopotamian_gfx_unit_spearmen"
 	clone = "mesopotamian_gfx_heavy_infantry"
-}
-
+}				
 entity = {
-	name = "mesopotamian_gfx_warelephant"
+	name = "mesopotamian_gfx_unit_axemen"
+	clone = "mesopotamian_gfx_heavy_infantry"
+}		
+entity = {
+	name = "mesopotamian_gfx_unit_elephants"
+	clone = "mesopotamian_gfx_heavy_infantry"
+}		
+entity = {
+	name = "mesopotamian_gfx_unit_hoplites"
+	clone = "mesopotamian_gfx_heavy_infantry"
+	version = 10
+}	
+entity = {
+	name = "mesopotamian_gfx_unit_infantry"
 	clone = "mesopotamian_gfx_heavy_infantry"
 }
-
-
+entity = {
+	name = "mesopotamian_gfx_unit_mushusshu"
+	clone = "mesopotamian_gfx_heavy_infantry"
+	version = 10
+}	
+entity = {
+	name = "mesopotamian_gfx_unit_rachnids"
+	clone = "mesopotamian_gfx_heavy_infantry"
+}		
+entity = {
+	name = "mesopotamian_gfx_unit_camels"
+	clone = "mesopotamian_gfx_heavy_infantry"
+}		 
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -869,113 +888,132 @@ entity = {
 	clone = "mesopotamian_gfx_heavy_infantry"
 }
 
-
-### Archers ----------------------------------------------------------------
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_archers"
+	name = "mesopotamian_gfx_levy_unit_berserkers"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_archers"
-	clone = "mesopotamian_gfx_legion"
-}
-
-### Camels ----------------------------------------------------------------
-entity ={
-	name = "mesopotamian_gfx_levy_camels"
-	clone = "mesopotamian_gfx_levy"
-}
-entity ={
-	name = "mesopotamian_gfx_legion_camels"
+	name = "mesopotamian_gfx_legion_unit_berserkers"
 	clone = "mesopotamian_gfx_legion"
 }
 
 ### Chariots ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_chariots"
+	name = "mesopotamian_gfx_levy_unit_chariots"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_chariots"
+	name = "mesopotamian_gfx_legion_unit_chariots"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Engineer Cohort ----------------------------------------------------------------
+### Heavy Chariots ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_engineer_cohort"
+	name = "mesopotamian_gfx_levy_unit_heavychariots"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_engineer_cohort"
+	name = "mesopotamian_gfx_legion_unit_heavychariots"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Heavy Cavalry ----------------------------------------------------------------
+### Archers ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_heavy_cavalry"
+	name = "mesopotamian_gfx_levy_unit_archers"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_heavy_cavalry"
+	name = "mesopotamian_gfx_legion_unit_archers"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Heavy Infantry ----------------------------------------------------------------
+### Scirmishers ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_heavy_infantry"
+	name = "mesopotamian_gfx_levy_unit_scirmishers"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_heavy_infantry"
+	name = "mesopotamian_gfx_legion_unit_scirmishers"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Horse Archers ----------------------------------------------------------------
+### Spearmen ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_horse_archers"
+	name = "mesopotamian_gfx_levy_unit_spearmen"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_horse_archers"
+	name = "mesopotamian_gfx_legion_unit_spearmen"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Light Cavalry ----------------------------------------------------------------
+### Axemen ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_light_cavalry"
+	name = "mesopotamian_gfx_levy_unit_axemen"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_light_cavalry"
+	name = "mesopotamian_gfx_legion_unit_axemen"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Light Infantry ----------------------------------------------------------------
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_light_infantry"
+	name = "mesopotamian_gfx_levy_unit_elephants"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_light_infantry"
+	name = "mesopotamian_gfx_legion_unit_elephants"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### Supply Train ----------------------------------------------------------------
+### Hoplites ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_supply_train"
+	name = "mesopotamian_gfx_levy_unit_hoplites"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_supply_train"
+	name = "mesopotamian_gfx_legion_unit_hoplites"
 	clone = "mesopotamian_gfx_legion"
 }
 
-### War Elephant ----------------------------------------------------------------
+### Infantry ----------------------------------------------------------------
 entity ={
-	name = "mesopotamian_gfx_levy_warelephant"
+	name = "mesopotamian_gfx_levy_unit_infantry"
 	clone = "mesopotamian_gfx_levy"
 }
 entity ={
-	name = "mesopotamian_gfx_legion_warelephant"
+	name = "mesopotamian_gfx_legion_unit_infantry"
+	clone = "mesopotamian_gfx_legion"
+}
+
+### Mushusshu ----------------------------------------------------------------
+entity ={
+	name = "mesopotamian_gfx_levy_unit_mushusshu"
+	clone = "mesopotamian_gfx_levy"
+}
+entity ={
+	name = "mesopotamian_gfx_legion_unit_mushusshu"
+	clone = "mesopotamian_gfx_legion"
+}
+
+### Rachnids ----------------------------------------------------------------
+entity ={
+	name = "mesopotamian_gfx_levy_unit_rachnids"
+	clone = "mesopotamian_gfx_levy"
+}
+entity ={
+	name = "mesopotamian_gfx_legion_unit_rachnids"
+	clone = "mesopotamian_gfx_legion"
+}
+
+### Camels ----------------------------------------------------------------
+entity ={
+	name = "mesopotamian_gfx_levy_unit_camels"
+	clone = "mesopotamian_gfx_levy"
+}
+entity ={
+	name = "mesopotamian_gfx_legion_unit_camels"
 	clone = "mesopotamian_gfx_legion"
 }

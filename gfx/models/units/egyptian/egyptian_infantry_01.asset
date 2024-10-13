@@ -498,33 +498,33 @@ entity = {
 	default_state = "idle"
 	state = {
 		name = "idle"
-    	animation = "idle_2_base_animation"
+    	animation = "idle_1_base_animation"
 		looping = no
 		chance = 5
 		next_state = "idle"
-		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" }
+		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = Left_hand_node_1 entity = "egyptian_legion_shield_01_entity" }
     }
 	state = {
 		name = "idle"
-    	animation = "idle_2_var_1_animation"
+    	animation = "idle_1_var_1_animation"
 		looping = no
 		chance = 1
 		next_state = "idle"
-		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" }
+		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = Left_hand_node_1 entity = "egyptian_legion_shield_01_entity" }
     }
     state = {
     	name = "move"
-    	animation = "moving_2_animation"
+    	animation = "moving_1_animation"
     	start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
-		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" }
+		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = Left_hand_node_1 entity = "egyptian_legion_shield_01_entity" }
     }
     state = {
     	name = "force_march"
-    	animation = "force_march_2_animation"
-		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" }
+    	animation = "force_march_1_animation"
+		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = back_node_1 entity = "egyptian_legion_shield_01_entity" }
 		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
     }
@@ -622,14 +622,14 @@ entity = {
     }
     state = {
     	name = "combat_ready"
-    	animation = "combat_ready_2"
-		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" }
+    	animation = "combat_ready_1"
+		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = Left_hand_node_1 entity = "egyptian_legion_shield_01_entity" }
     }
     state = {
     	name = "army_drill"
-    	animation = "army_drill_2_animation"
-		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" state = army_drill }
+    	animation = "army_drill_1_animation"
+		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" state = army_drill }
 		start_event = { node = Left_hand_node_1 entity = "egyptian_legion_shield_01_entity" }
 		start_event = { node = root entity = "carthaginian_drill_post_entity" state = attack }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_drill2"}}
