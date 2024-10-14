@@ -47,7 +47,7 @@ modded_nub_region = {
 
 modded_girigu_region = {
 	areas = {
-		girigu1_area #Here or in kubad Hills?
+		girigu1_area 
 		girigu2_area
 		girigu3_area
 		girigu4_area

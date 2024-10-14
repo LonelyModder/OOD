@@ -43,11 +43,31 @@ provinces = { #Any entry must contain a comment with city name.
 	243 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	245 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	250 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	399 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	406 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	409 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	412 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	411 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	423 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	426 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	431 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	433 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	435 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	439 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	440 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	442 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	522 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	528 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	########################################
 	# Barbarian Spawn Spots
 	########################################
 	185 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	188 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	395 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	389 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	384 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	380 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	375 = { modifier = { modifier = generic_barbarian_spawn_place } }
 }
 
 road_network = {
