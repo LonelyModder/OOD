@@ -3,12 +3,33 @@
 	
 	fertility = -0.3
 	health = 5.0
-	charisma = 1
-	martial = 3
-	finesse = 2
+	charisma = 2
+	martial = 1
+	finesse = 3
 }
 
 human = {
+	type = status
+	
+	martial = 1
+	zeal = 1
+}
+
+igigi = { #reptilians predecesors of humans
+	type = status
+	
+	martial = 1
+	zeal = 1
+}
+
+ekimmu = { #demonic dark elves
+	type = status
+	
+	martial = 1
+	zeal = 1
+}
+
+rabisu = { #vampiric orcs
 	type = status
 	
 	martial = 1

@@ -31,6 +31,10 @@ race_startup.2 = {
 			if = {
 				limit = {
 					NOT = { has_trait = annunaki }
+					NOT = { has_trait = igigi }
+					NOT = { has_trait = ekimmu }
+					NOT = { has_trait = rabisu }
+					NOT = { has_trait = human }
 				}
 				if = {
 					limit = {
@@ -38,14 +42,30 @@ race_startup.2 = {
 					}
 					add_trait = annunaki
 				}
-				#else_if = {
-				#	limit = {
-				#		OR = {
-				#			has_culture_group = breton
-				#		}
-				#	}
-				#	add_trait = breton
-				#}
+				else_if = {
+					limit = {
+						OR = {
+							has_culture_group = igigi
+						}
+					}
+					add_trait = igigi
+				}
+				else_if = {
+					limit = {
+						OR = {
+							has_culture_group = ekimmu
+						}
+					}
+					add_trait = ekimmu
+				}
+				else_if = {
+					limit = {
+						OR = {
+							has_culture_group = rabisu
+						}
+					}
+					add_trait = rabisu
+				}
 				else = {
 					add_trait = human
 				}

@@ -1,5 +1,5 @@
 ﻿kengiri = {	
-	color = hsv { 0.25 0.89 0.80 }
+	color = hsv { 0.0 0.03 0.38 }
 
 	primary = unit_archers
 	second = unit_spearmen

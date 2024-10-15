@@ -2,6 +2,10 @@
 	if = {
 		limit = {
 			NOT = { has_trait = annunaki }
+			NOT = { has_trait = igigi }
+			NOT = { has_trait = ekimmu }
+			NOT = { has_trait = rabisu }
+			NOT = { has_trait = human }
 		}
 		if = {
 			limit = {
@@ -11,12 +15,24 @@
 			}
 			add_trait = annunaki
 		}
-		#else_if = {
-		#	limit = {
-		#		has_culture_group = bosmer
-		#	}
-		#	add_trait = bosmer
-		#}
+		else_if = {
+			limit = {
+				has_culture_group = igigi
+			}
+			add_trait = igigi
+		}
+		else_if = {
+			limit = {
+				has_culture_group = ekimmu
+			}
+			add_trait = ekimmu
+		}
+		else_if = {
+			limit = {
+				has_culture_group = rabisu
+			}
+			add_trait = rabisu
+		}
 		else = {
 			add_trait = human
 		}

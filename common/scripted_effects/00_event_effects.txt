@@ -2536,6 +2536,22 @@ add_relevant_loyal_subunit_effect = {
 			}
 		}
 	}
+	else_if = {
+		limit = {
+			exists = commander
+			commander = {
+				has_culture_group = salgari
+			}
+		}
+		commander = {
+			add_gold = -20
+		}
+		random_list = {
+			25 = {
+				add_loyal_subunit = unit_spearmen
+			}
+		}
+	}
 }
 
 ip_mon_13_negative_trait_effect = {
