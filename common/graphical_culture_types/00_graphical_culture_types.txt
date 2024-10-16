@@ -1,7 +1,6 @@
 ﻿greek_gfx = {}
 roman_gfx = {}
 carthaginian_gfx = {}
-egyptian_gfx = {}
 german_gfx = {}
 persian_gfx = {}
 celtic_gfx = {}
@@ -10,7 +9,6 @@ iberian_gfx = {}
 north_indian_gfx = {}
 south_indian_gfx = {}
 arabian_gfx = {}
-nubian_gfx = {}
 bactrian_gfx = {}
 barbarian_gfx = {}
 numidian_gfx = {}
@@ -32,3 +30,5 @@ bryges_gfx = {}
 #Modified
 anunnaki_gfx={}
 mesopotamian_gfx={}
+nubian_gfx={}
+egyptian_gfx={}

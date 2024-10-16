@@ -182,6 +182,17 @@ country = {
 			}
 		}
 		
+		AAF = {          
+			government = despotic_monarchy
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 588
+			
+			own_control_core = 	{ 
+				588
+			}
+		}
+		
 	}
 }
 

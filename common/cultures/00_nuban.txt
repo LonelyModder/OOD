@@ -1,0 +1,179 @@
+﻿nuban = {
+	color = hsv { 0.07  0.96  0.5 }
+	primary = unit_archers
+	second = unit_spearmen
+	flank = unit_scirmishers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	levy_template = levy_nuban
+
+	male_names = {
+		Abewyetey Abrye Ademeqe Adeqenk Adeqetli Adeqtey Adihli Adilememe Axebixetey Axetkkid Axeytntke Axpeye Axedxetiwl Akinidd Amereye Ametel Amewil Amnixble Amnitnide Ansyi Apesilikr Apeteye Apile Apmle Aqemleye Aqykr Arereteli Arikxrer Aritenyesbehe Arkxtni Arlememe Brtrye Dbeti Ddekr Dewitr Dedewiye Dekeli Dekrer Derekid Dmkte Etretey Xbresible Xlem Xrmdeye Xrnxble Xwili Xwitrer Hleme Htpiye Kebekenye Kelehekeniwl Kelqeli Keseteye Lhleye Ltlememe Mdliye Menetel Meqelli Meqenli Mesnli Meslxble Meteyel Metbr Mhewitr Mhes Mhetkide Mhidd
+		# King Names
+		Alara Kashta Piye Shabaka Shebitku Taharqa Tantamani Altanersa Senkamanisken Anlamani Aspelta Aramatleqo Malonaqen Analmaye Anamanitakilebte Karkamani Amaniastabarqa Siaspiqa Nasakhma Malewiebamani Talakhamani Amanineteyerike Bashkakeren Harsiotef Akhraten Amanibakhi Nastasen Aktisanes Aryamani Kash Sabrakamani Arakamani  Amanislo Amantekha Arnekhamani Arqamani Adikhalamani Tanyidamani Naqyrinsan Aqrakamani Teriteqas Amanikhabale Natakamani Shorkaror Pisakar Amanitaraqide Amanitenmemide Teritnide Teqerideamani Tamelerdeamani Adeqatali Takideamani Tarekeniwal Amanikhalika Aritenyesbokhe Amanikhareqerem Teritedakhatey Aryesbokhe Yesbokheamani
+	}
+	female_names = {
+		# Name Lists
+		Aberetehte Abesye Abesnye Abettelite Abkye Adeliye Adere Ademeye Adeye Adexiye Axdes Axdeye Axeyeteliye Axmnkrer Ahpesli Akesye Akilible Akpye Ametelis Ameteye Ametsl Amnelixe Amnxedele Amnixlik Amnili Amnipiteke Amnirens Amnisxete Amniteres Amye Apetekdiyi Apetikde Apilye Apteye Aqeny Aqmks Arbrye Aredetni Arekdxete Arekete Arekikli Areqebr Aretnye Arkiye Btekenye Dbetelite Ddekey Delikrer Derepesi Dewekdil Dehtelite Deke Deketen Dekikdis Dimenetil Dlisye Dstkel Emehide Eritr Etenrer Xdekmli Xdxdiye Xmleye Xpeye Xr Xresye Xrimli Xrmlemks Xseteli Heleyi Hetide Hiyeteli Hlitrer Hmye Hpesli Hpeye Hrkebe Hrklbl Ibr Ilhmli Ilin Kdeyen Kdeyet Kdib Kdibye Kdil Kdimleye Kdimnli Kdimnle Kdipeleyi Kdiqebts Kdiskeli Kditede Kditrye Kdiyo Kelekele Kelhe Kepen Kesye Kidtelye Kpenke Ktpenye Lhidmni Lptenke Ltmks Mdeye Meqen Ntekdi Meteye 
+		# Queen Names
+		Shanakdakhete Kasaqa Pebatjma Tabiry Abar Khensa Peksater Qalhata Mesbat Tabekenamun Arty Takahatenamun Atakhebasken Naparye Piankharty Malaqaye Khaliset Malotaral Yeturow Peltasen Taba Nasalsa Amanimalel Mediken Henuttakhebit Asata Artaha Atmataka Piankhher Maletasen Amanitakaye Akheqa Tagtal Sakaaye Atasamale Batahaliye Pelkha Sakhmakh Kandake Alakhebasken Amanirenas Amanishakheto Nawidemak Amanitore Amanikhatashan Maleqorobar Lakhideamani Sekhmakh 
+	}
+	family = {				
+		Ametel-Amnixlik.Ametel-Amnixlik.Ametel-Amnixlik.Ametel-Amnixlik
+		Mhes-Ameteye.Mhes-Ameteye.Mhes-Ameteye.Mhes-Ameteye
+		Apile-Tabiry.Apile-Tabiry.Apile-Tabiry.Apile-Tabiry
+		Alara-Lhidmni.Alara-Lhidmni.Alara-Lhidmni.Alara-Lhidmni
+		Dewitr-Maletasen.Dewitr-Maletasen.Dewitr-Maletasen.Dewitr-Maletasen
+		Aspelta-Mesbat.Aspelta-Mesbat.Aspelta-Mesbat.Aspelta-Mesbat
+		Pisakar-Kditrye.Pisakar-Kditrye.Pisakar-Kditrye.Pisakar-Kditrye
+		Dekeli-Kasaqa.Dekeli-Kasaqa.Dekeli-Kasaqa.Dekeli-Kasaqa
+		Lhleye-Akheqa.Lhleye-Akheqa.Lhleye-Akheqa.Lhleye-Akheqa
+		Malewiebamani-Dekikdis.Malewiebamani-Dekikdis.Malewiebamani-Dekikdis.Malewiebamani-Dekikdis
+		Adeqetli-Hetide.Adeqetli-Hetide.Adeqetli-Hetide.Adeqetli-Hetide
+		Adilememe-Kdimleye.Adilememe-Kdimleye.Adilememe-Kdimleye.Adilememe-Kdimleye
+		Xwili-Kidtelye.Xwili-Kidtelye.Xwili-Kidtelye.Xwili-Kidtelye
+		Tarekeniwal-Kdeyet.Tarekeniwal-Kdeyet.Tarekeniwal-Kdeyet.Tarekeniwal-Kdeyet
+		Shabaka-Piankhher.Shabaka-Piankhher.Shabaka-Piankhher.Shabaka-Piankhher
+		Bashkakeren-Ametsl.Bashkakeren-Ametsl.Bashkakeren-Ametsl.Bashkakeren-Ametsl
+		Aryesbokhe-Maleqorobar.Aryesbokhe-Maleqorobar.Aryesbokhe-Maleqorobar.Aryesbokhe-Maleqorobar
+		Tamelerdeamani-Amnxedele.Tamelerdeamani-Amnxedele.Tamelerdeamani-Amnxedele.Tamelerdeamani-Amnxedele
+		Shebitku-Kesye.Shebitku-Kesye.Shebitku-Kesye.Shebitku-Kesye
+		Amaniastabarqa-Hpeye.Amaniastabarqa-Hpeye.Amaniastabarqa-Hpeye.Amaniastabarqa-Hpeye
+		Axpeye-Batahaliye.Axpeye-Batahaliye.Axpeye-Batahaliye.Axpeye-Batahaliye
+		Metbr-Khaliset.Metbr-Khaliset.Metbr-Khaliset.Metbr-Khaliset
+		Analmaye-Arekete.Analmaye-Arekete.Analmaye-Arekete.Analmaye-Arekete
+		Natakamani-Abesye.Natakamani-Abesye.Natakamani-Abesye.Natakamani-Abesye
+		Ansyi-Areqebr.Ansyi-Areqebr.Ansyi-Areqebr.Ansyi-Areqebr
+		Talakhamani-Arty.Talakhamani-Arty.Talakhamani-Arty.Talakhamani-Arty
+		Axeytntke-Xrmlemks.Axeytntke-Xrmlemks.Axeytntke-Xrmlemks.Axeytntke-Xrmlemks
+		Apmle-Kandake.Apmle-Kandake.Apmle-Kandake.Apmle-Kandake
+		Aritenyesbehe-Deke.Aritenyesbehe-Deke.Aritenyesbehe-Deke.Aritenyesbehe-Deke
+		Aqrakamani-Tabekenamun.Aqrakamani-Tabekenamun.Aqrakamani-Tabekenamun.Aqrakamani-Tabekenamun
+		Kash-Apetekdiyi.Kash-Apetekdiyi.Kash-Apetekdiyi.Kash-Apetekdiyi
+		Amanislo-Aretnye.Amanislo-Aretnye.Amanislo-Aretnye.Amanislo-Aretnye
+		Kebekenye-Malaqaye.Kebekenye-Malaqaye.Kebekenye-Malaqaye.Kebekenye-Malaqaye
+		Aritenyesbokhe-Apetikde.Aritenyesbokhe-Apetikde.Aritenyesbokhe-Apetikde.Aritenyesbokhe-Apetikde
+		Karkamani-Kdimnle.Karkamani-Kdimnle.Karkamani-Kdimnle.Karkamani-Kdimnle
+		Mdliye-Asata.Mdliye-Asata.Mdliye-Asata.Mdliye-Asata
+		Teritedakhatey-Yeturow.Teritedakhatey-Yeturow.Teritedakhatey-Yeturow.Teritedakhatey-Yeturow
+		Ltlememe-Pebatjma.Ltlememe-Pebatjma.Ltlememe-Pebatjma.Ltlememe-Pebatjma
+		Anamanitakilebte-Heleyi.Anamanitakilebte-Heleyi.Anamanitakilebte-Heleyi.Anamanitakilebte-Heleyi
+		Axetkkid-Dstkel.Axetkkid-Dstkel.Axetkkid-Dstkel.Axetkkid-Dstkel
+		Amanikhareqerem-Abkye.Amanikhareqerem-Abkye.Amanikhareqerem-Abkye.Amanikhareqerem-Abkye
+		Meteyel-Btekenye.Meteyel-Btekenye.Meteyel-Btekenye.Meteyel-Btekenye
+		Dmkte-Ntekdi.Dmkte-Ntekdi.Dmkte-Ntekdi.Dmkte-Ntekdi
+		Shorkaror-Amanirenas.Shorkaror-Amanirenas.Shorkaror-Amanirenas.Shorkaror-Amanirenas
+		Xrnxble-Qalhata.Xrnxble-Qalhata.Xrnxble-Qalhata.Xrnxble-Qalhata
+		Amantekha-Henuttakhebit.Amantekha-Henuttakhebit.Amantekha-Henuttakhebit.Amantekha-Henuttakhebit
+		Aqemleye-Amanitakaye.Aqemleye-Amanitakaye.Aqemleye-Amanitakaye.Aqemleye-Amanitakaye
+		Amanibakhi-Ktpenye.Amanibakhi-Ktpenye.Amanibakhi-Ktpenye.Amanibakhi-Ktpenye
+		Nasakhma-Delikrer.Nasakhma-Delikrer.Nasakhma-Delikrer.Nasakhma-Delikrer
+		Senkamanisken-Atmataka.Senkamanisken-Atmataka.Senkamanisken-Atmataka.Senkamanisken-Atmataka
+		Siaspiqa-Mdeye.Siaspiqa-Mdeye.Siaspiqa-Mdeye.Siaspiqa-Mdeye
+		Apeteye-Amanikhatashan.Apeteye-Amanikhatashan.Apeteye-Amanikhatashan.Apeteye-Amanikhatashan
+		Ddekr-Ilhmli.Ddekr-Ilhmli.Ddekr-Ilhmli.Ddekr-Ilhmli
+		Piye-Kdibye.Piye-Kdibye.Piye-Kdibye.Piye-Kdibye
+		Sabrakamani-Ahpesli.Sabrakamani-Ahpesli.Sabrakamani-Ahpesli.Sabrakamani-Ahpesli
+		Brtrye-Amnelixe.Brtrye-Amnelixe.Brtrye-Amnelixe.Brtrye-Amnelixe
+		Menetel-Ltmks.Menetel-Ltmks.Menetel-Ltmks.Menetel-Ltmks
+		Mhidd-Takahatenamun.Mhidd-Takahatenamun.Mhidd-Takahatenamun.Mhidd-Takahatenamun
+		Akhraten-Sakhmakh.Akhraten-Sakhmakh.Akhraten-Sakhmakh.Akhraten-Sakhmakh
+		Mhetkide-Sekhmakh.Mhetkide-Sekhmakh.Mhetkide-Sekhmakh.Mhetkide-Sekhmakh
+		Apesilikr-Kpenke.Apesilikr-Kpenke.Apesilikr-Kpenke.Apesilikr-Kpenke
+		Yesbokheamani-Xdekmli.Yesbokheamani-Xdekmli.Yesbokheamani-Xdekmli.Yesbokheamani-Xdekmli
+		Amnitnide-Amanishakheto.Amnitnide-Amanishakheto.Amnitnide-Amanishakheto.Amnitnide-Amanishakheto
+		Dekrer-Hpesli.Dekrer-Hpesli.Dekrer-Hpesli.Dekrer-Hpesli
+		Amanitenmemide-Khensa.Amanitenmemide-Khensa.Amanitenmemide-Khensa.Amanitenmemide-Khensa
+		Abrye-Arekdxete.Abrye-Arekdxete.Abrye-Arekdxete.Abrye-Arekdxete
+		Amewil-Kdil.Amewil-Kdil.Amewil-Kdil.Amewil-Kdil
+		Mesnli-Shanakdakhete.Mesnli-Shanakdakhete.Mesnli-Shanakdakhete.Mesnli-Shanakdakhete
+		Arlememe-Amanitore.Arlememe-Amanitore.Arlememe-Amanitore.Arlememe-Amanitore
+		Etretey-Lptenke.Etretey-Lptenke.Etretey-Lptenke.Etretey-Lptenke
+		Arakamani-Hlitrer.Arakamani-Hlitrer.Arakamani-Hlitrer.Arakamani-Hlitrer
+		Hleme-Amnili.Hleme-Amnili.Hleme-Amnili.Hleme-Amnili
+		Derekid-Amye.Derekid-Amye.Derekid-Amye.Derekid-Amye
+		Arikxrer-Mediken.Arikxrer-Mediken.Arikxrer-Mediken.Arikxrer-Mediken
+		Adeqtey-Eritr.Adeqtey-Eritr.Adeqtey-Eritr.Adeqtey-Eritr
+		Amanikhabale-Ametelis.Amanikhabale-Ametelis.Amanikhabale-Ametelis.Amanikhabale-Ametelis
+		Kashta-Adere.Kashta-Adere.Kashta-Adere.Kashta-Adere
+		Kelehekeniwl-Amniteres.Kelehekeniwl-Amniteres.Kelehekeniwl-Amniteres.Kelehekeniwl-Amniteres
+		Arereteli-Kditede.Arereteli-Kditede.Arereteli-Kditede.Arereteli-Kditede
+		Dedewiye-Axdes.Dedewiye-Axdes.Dedewiye-Axdes.Dedewiye-Axdes
+		Amereye-Deketen.Amereye-Deketen.Amereye-Deketen.Amereye-Deketen
+		Harsiotef-Taba.Harsiotef-Taba.Harsiotef-Taba.Harsiotef-Taba
+		Aryamani-Atakhebasken.Aryamani-Atakhebasken.Aryamani-Atakhebasken.Aryamani-Atakhebasken
+		Htpiye-Meqen.Htpiye-Meqen.Htpiye-Meqen.Htpiye-Meqen
+		Abewyetey-Amanimalel.Abewyetey-Amanimalel.Abewyetey-Amanimalel.Abewyetey-Amanimalel
+		Teriteqas-Emehide.Teriteqas-Emehide.Teriteqas-Emehide.Teriteqas-Emehide
+		Anlamani-Meteye.Anlamani-Meteye.Anlamani-Meteye.Anlamani-Meteye
+		Tantamani-Alakhebasken.Tantamani-Alakhebasken.Tantamani-Alakhebasken.Tantamani-Alakhebasken
+		Arkxtni-Peltasen.Arkxtni-Peltasen.Arkxtni-Peltasen.Arkxtni-Peltasen
+		Altanersa-Abar.Altanersa-Abar.Altanersa-Abar.Altanersa-Abar
+		Adihli-Lakhideamani.Adihli-Lakhideamani.Adihli-Lakhideamani.Adihli-Lakhideamani
+		Mhewitr-Axdeye.Mhewitr-Axdeye.Mhewitr-Axdeye.Mhewitr-Axdeye
+		Nastasen-Axmnkrer.Nastasen-Axmnkrer.Nastasen-Axmnkrer.Nastasen-Axmnkrer
+		Tanyidamani-Amnirens.Tanyidamani-Amnirens.Tanyidamani-Amnirens.Tanyidamani-Amnirens
+		Xbresible-Amnipiteke.Xbresible-Amnipiteke.Xbresible-Amnipiteke.Xbresible-Amnipiteke
+		Adeqenk-Artaha.Adeqenk-Artaha.Adeqenk-Artaha.Adeqenk-Artaha
+		Amanineteyerike-Derepesi.Amanineteyerike-Derepesi.Amanineteyerike-Derepesi.Amanineteyerike-Derepesi
+		Naqyrinsan-Kdeyen.Naqyrinsan-Kdeyen.Naqyrinsan-Kdeyen.Naqyrinsan-Kdeyen
+		Akinidd-Xmleye.Akinidd-Xmleye.Akinidd-Xmleye.Akinidd-Xmleye
+		Axedxetiwl-Xpeye.Axedxetiwl-Xpeye.Axedxetiwl-Xpeye.Axedxetiwl-Xpeye
+		Malonaqen-Dlisye.Malonaqen-Dlisye.Malonaqen-Dlisye.Malonaqen-Dlisye
+		Xwitrer-Kelekele.Xwitrer-Kelekele.Xwitrer-Kelekele.Xwitrer-Kelekele
+		Arqamani-Piankharty.Arqamani-Piankharty.Arqamani-Piankharty.Arqamani-Piankharty
+		Adeqatali-Aqmks.Adeqatali-Aqmks.Adeqatali-Aqmks.Adeqatali-Aqmks
+		Dbeti-Dehtelite.Dbeti-Dehtelite.Dbeti-Dehtelite.Dbeti-Dehtelite
+		Taharqa-Adexiye.Taharqa-Adexiye.Taharqa-Adexiye.Taharqa-Adexiye
+		Xrmdeye-Akilible.Xrmdeye-Akilible.Xrmdeye-Akilible.Xrmdeye-Akilible
+		Ademeqe-Hrklbl.Ademeqe-Hrklbl.Ademeqe-Hrklbl.Ademeqe-Hrklbl
+		Keseteye-Hiyeteli.Keseteye-Hiyeteli.Keseteye-Hiyeteli.Keseteye-Hiyeteli
+		Takideamani-Abettelite.Takideamani-Abettelite.Takideamani-Abettelite.Takideamani-Abettelite
+		Xlem-Kdiqebts.Xlem-Kdiqebts.Xlem-Kdiqebts.Xlem-Kdiqebts
+		Teqerideamani-Xresye.Teqerideamani-Xresye.Teqerideamani-Xresye.Teqerideamani-Xresye
+		Aramatleqo-Axeyeteliye.Aramatleqo-Axeyeteliye.Aramatleqo-Axeyeteliye.Aramatleqo-Axeyeteliye
+		Axebixetey-Pelkha.Axebixetey-Pelkha.Axebixetey-Pelkha.Axebixetey-Pelkha
+		Arnekhamani-Abesnye.Arnekhamani-Abesnye.Arnekhamani-Abesnye.Arnekhamani-Abesnye
+		Adikhalamani-Kdiskeli.Adikhalamani-Kdiskeli.Adikhalamani-Kdiskeli.Adikhalamani-Kdiskeli
+		Meqenli-Etenrer.Meqenli-Etenrer.Meqenli-Etenrer.Meqenli-Etenrer
+		Meqelli-Kepen.Meqelli-Kepen.Meqelli-Kepen.Meqelli-Kepen
+		Teritnide-Hrkebe.Teritnide-Hrkebe.Teritnide-Hrkebe.Teritnide-Hrkebe
+		Amnixble-Peksater.Amnixble-Peksater.Amnixble-Peksater.Amnixble-Peksater
+		Aktisanes-Ddekey.Aktisanes-Ddekey.Aktisanes-Ddekey.Aktisanes-Ddekey
+		Kelqeli-Nasalsa.Kelqeli-Nasalsa.Kelqeli-Nasalsa.Kelqeli-Nasalsa
+		Aqykr-Kdib.Aqykr-Kdib.Aqykr-Kdib.Aqykr-Kdib
+		Amanikhalika-Xr.Amanikhalika-Xr.Amanikhalika-Xr.Amanikhalika-Xr
+		Amanitaraqide-Adeliye.Amanitaraqide-Adeliye.Amanitaraqide-Adeliye.Amanitaraqide-Adeliye
+		Meslxble-Naparye.Meslxble-Naparye.Meslxble-Naparye.Meslxble-Naparye
+		Arekikli-Ilin.Arekikli-Ilin.Arekikli-Ilin.Arekikli-Ilin
+		Apilye-Kdimnli.Apilye-Kdimnli.Apilye-Kdimnli.Apilye-Kdimnli
+		Sakaaye-Ademeye.Sakaaye-Ademeye.Sakaaye-Ademeye.Sakaaye-Ademeye
+		Apteye-Arkiye.Apteye-Arkiye.Apteye-Arkiye.Apteye-Arkiye
+		Xseteli-Xdxdiye.Xseteli-Xdxdiye.Xseteli-Xdxdiye.Xseteli-Xdxdiye
+		Aqeny-Kdipeleyi.Aqeny-Kdipeleyi.Aqeny-Kdipeleyi.Aqeny-Kdipeleyi
+		Aredetni-Dimenetil.Aredetni-Dimenetil.Aredetni-Dimenetil.Aredetni-Dimenetil
+		Nawidemak-Amnisxete.Nawidemak-Amnisxete.Nawidemak-Amnisxete.Nawidemak-Amnisxete
+		Arbrye-Dbetelite.Arbrye-Dbetelite.Arbrye-Dbetelite.Arbrye-Dbetelite
+		Aberetehte-Akesye.Aberetehte-Akesye.Aberetehte-Akesye.Aberetehte-Akesye
+		Adeye-Hmye.Adeye-Hmye.Adeye-Hmye.Adeye-Hmye
+		Xrimli-Malotaral.Xrimli-Malotaral.Xrimli-Malotaral.Xrimli-Malotaral
+		Tagtal-Kdiyo.Tagtal-Kdiyo.Tagtal-Kdiyo.Tagtal-Kdiyo
+		Kelhe-Dewekdil.Kelhe-Dewekdil.Kelhe-Dewekdil.Kelhe-Dewekdil
+		Akpye-Ibr.Akpye-Ibr.Akpye-Ibr.Akpye-Ibr
+	}
+
+	culture = {
+		nubatan = {}
+	}
+	
+	barbarian_names = { kushitic_barb }
+	
+	graphical_culture = nubian_gfx
+	
+	ethnicities = {
+		10 = nubian
+	}
+}
