@@ -18,7 +18,7 @@ divineorder_pantheon = { # Anunnaki Faith
 	religion_category = pantheon
 }
 
-atun_pantheon = { # Anunnaki Faith
+atun_pantheon = { # Salgari Faith
 	color = hsv { 0.16  0.87  0.85 }
 	modifier = { 
 		land_morale_modifier = 0.1
@@ -31,7 +31,7 @@ atun_pantheon = { # Anunnaki Faith
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 
-ancestors_pantheon = { # Anunnaki Faith
+ancestors_pantheon = { # Nuban Faith
 	color = hsv { 0.07  0.96  0.5 }
 	modifier = { 
 		land_morale_modifier = 0.1
@@ -42,4 +42,14 @@ ancestors_pantheon = { # Anunnaki Faith
 	can_deify_ruler = no
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+
+khorism_pantheon = { # Gardan Faith
+	color = hsv { 0.53 0.85 0.5 }
+	modifier = { 
+		land_morale_modifier = 0.1
+		global_slaves_output = 0.15
+		research_points_modifier = 0.05
+	}
+	religion_category = pantheon
 }

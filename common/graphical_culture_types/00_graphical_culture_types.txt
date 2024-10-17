@@ -32,3 +32,4 @@ anunnaki_gfx={}
 mesopotamian_gfx={}
 nubian_gfx={}
 egyptian_gfx={}
+gardan_gfx={}

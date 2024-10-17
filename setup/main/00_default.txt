@@ -193,6 +193,17 @@ country = {
 			}
 		}
 		
+		AAG = {          
+			government = tribal_chiefdom
+			primary_culture = gangari
+			religion = khorism_pantheon
+			capital = 619
+			
+			own_control_core = 	{ 
+				619
+			}
+		}
+		
 	}
 }
 
