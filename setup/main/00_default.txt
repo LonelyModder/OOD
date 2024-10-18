@@ -34,6 +34,7 @@ provinces = { #Any entry must contain a comment with city name.
 	209 = { port_building = 1 }
 	480 = { port_building = 1 }
 	260 = { port_building = 1 }
+	565 = { port_building = 1 }
 	201 = { 
 		port_building = 2 
 		fortress_building = 1
@@ -201,6 +202,17 @@ country = {
 			
 			own_control_core = 	{ 
 				619
+			}
+		}
+		
+		AAH = {          
+			government = tribal_kingdom
+			primary_culture = maladhamn
+			religion = alilah_pantheon
+			capital = 565
+			
+			own_control_core = 	{ 
+				565
 			}
 		}
 		

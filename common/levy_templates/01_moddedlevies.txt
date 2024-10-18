@@ -65,3 +65,15 @@ levy_gardan = { #nomadic militia
 	unit_heavychariots = 0.2
 	unit_chariots = 0.2
 }
+
+#Sagentar - barrim folk
+
+levy_sagentar = { #beduin militia
+	default = no
+
+	unit_spearmen = 0.4
+	unit_scirmishers = 0.1
+	unit_archers = 0.1
+	unit_camels = 0.2
+	unit_heavychariots = 0.2
+}
