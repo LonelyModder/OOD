@@ -1,0 +1,42 @@
+﻿rabisu = {	
+	color = hsv { 0.01 0.94 0.85 }
+
+	primary = unit_berserkers
+	second = unit_axemen
+	flank = unit_rachnids
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	levy_template = levy_orcish
+
+	male_names = {
+		 Larahel Mogbul Orokzgob Masphumph Uriish Nashag Ulamkh Uzgnok Bughn Maknn
+		 Dumbra Khaglakh Largong Gruarz Grusburz Molag Agronamub Grusrzob Bakhbuk 
+		 Morbfish Mazglak Ugdub Barash Shatm Olfgra Larman Brarbash Borubul Uraggrol 
+		 Dumbna 
+	}
+	female_names = {
+		Burfim Urzokh Ghoak Lamut Lamronk Bashmpha Slooamph Lashdbak Mornuk Ghag Burugar 
+		Glurgash Yatua Oght Slol Gulfush Mazsh Glururz Muroba Rulz Shaph Gashurz Mazrza 
+		Gulhuk Borbgol Rulbug Borgat Urzom Murorak 
+	}
+	family = {
+		Agaduk Cobrak Aglafim Glurrat Bharbush Ulfmbak Khagduk Shadnag Golpdulg Mulgramph
+		Lurgham Lazhol Azorn Barodu Shubu Gulhnag Magabak Buzgrn Khagzor Ufthgash Shamash
+		Uzuat Gulfrbush Ugruush Lurngakh Garkh Yagahnar Bolagol Crohnar Mukak
+	}
+	culture = {
+		kubadi = {}
+	}
+	
+	barbarian_names = { 
+		ELYMAEI CHALDAEI RHAMBAIOI KARDUCHOI GARAMAIOI
+	}
+	
+	graphical_culture = rabisu_gfx
+	ethnicities = {
+		10 = rabisu
+	}
+}

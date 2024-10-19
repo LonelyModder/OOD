@@ -66,3 +66,14 @@ alilah_pantheon = { # Beduin Faith
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+
+ancient_pantheon = { # Rabisu Faith
+	color = hsv { 0.01 0.94 0.85 }
+	modifier = { 
+		land_morale_modifier = 0.1
+		global_slaves_output = 0.15
+		research_points_modifier = 0.05
+	}
+	religion_category = prophets
+	can_deify_ruler = no
+}

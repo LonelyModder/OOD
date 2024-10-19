@@ -1255,27 +1255,27 @@
 463={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="ancient_pantheon"
+	culture="kubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
 464={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="ancient_pantheon"
+	culture="kubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1293,8 +1293,8 @@
 465={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="ancient_pantheon"
+	culture="kubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

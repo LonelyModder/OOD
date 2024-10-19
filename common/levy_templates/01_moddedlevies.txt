@@ -77,3 +77,15 @@ levy_sagentar = { #beduin militia
 	unit_camels = 0.2
 	unit_heavychariots = 0.2
 }
+
+#Rabisu
+
+levy_orcish = { #rabisu militia
+	default = no
+
+	unit_axemen = 0.4
+	unit_scirmishers = 0.2
+	unit_archers = 0.1
+	unit_berserkers = 0.1
+	unit_rachnids = 0.2
+}

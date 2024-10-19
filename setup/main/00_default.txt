@@ -216,6 +216,17 @@ country = {
 			}
 		}
 		
+		AAI = {          
+			government = tribal_chiefdom
+			primary_culture = kubadi
+			religion = ancient_pantheon
+			capital = 463
+			
+			own_control_core = 	{ 
+				463 464 465
+			}
+		}
+		
 	}
 }
 

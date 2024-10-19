@@ -15,7 +15,7 @@ militarism_events.1 = {
 		if = {
 			limit = {
 				OR = {
-					country_culture_group = goblin
+					country_culture_group = rabisu
 				}				
 			}
 			add_country_modifier = {
@@ -26,10 +26,9 @@ militarism_events.1 = {
 		else_if = {
 			limit = {
 				OR = {
-					country_culture_group = orcish
-					country_culture_group = bosmer
-					country_culture_group = nordic
-					country_culture_group = khajiit
+					country_culture_group = gardu
+					country_culture_group = sagentar
+					country_culture_group = nuban
 				}				
 			}
 			add_country_modifier = {
@@ -40,7 +39,7 @@ militarism_events.1 = {
 		else_if = {
 			limit = {
 				OR = {
-					country_culture_group = imga				
+					country_culture_group = annunaki				
 				}				
 			}
 			add_country_modifier = {
