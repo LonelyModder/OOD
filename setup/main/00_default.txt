@@ -173,10 +173,10 @@ country = {
 			capital = 287
 			
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
 			}
 			
 			own_control_core = 	{ 
@@ -217,16 +217,6 @@ country = {
 			}
 		}
 		
-		AAI = {          
-			government = tribal_chiefdom
-			primary_culture = kubadi
-			religion = ancient_pantheon
-			capital = 463
-			
-			own_control_core = 	{ 
-				463 464 465
-			}
-		}
 		
 		AAJ = {          
 			government = tribal_kingdom
@@ -236,6 +226,24 @@ country = {
 			
 			own_control_core = 	{ 
 				265
+			}
+		}
+		
+		AAK = {          
+			government = despotic_monarchy
+			primary_culture = vallakite
+			religion = ancient_pantheon
+			capital = 457
+			
+			technology={
+				military_tech={ level=4 progress=0 }
+				civic_tech={ level=4 progress=0 }
+				oratory_tech={ level=4 progress=0 }
+				religious_tech= { level=4 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				457
 			}
 		}
 		

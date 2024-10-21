@@ -15,8 +15,8 @@
 						limit = { has_owner = yes }
 						owner = {
 							OR = {
-								primary_culture = sommersetic 
-								primary_culture = auridonic 
+								country_cultur_group = annunaki 
+								country_cultur_group = ekimmu 
 							}
 						} 
 					}

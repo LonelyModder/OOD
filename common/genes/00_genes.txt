@@ -6897,7 +6897,94 @@ expression = {
               }
           }
         }
-
+		orc_skin = {
+          index = 11
+          male = {
+              texture_override = {			  
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/male_orc_head_diffuse.dds"
+                  normal = "gfx/models/portraits/male_head/male_head_normal.dds"
+                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+              }
+          }
+          female = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/female_orc_head_diffuse.dds"
+                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
+                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
+              }
+          }
+          boy = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/male_head/male_head_child_diffuse.dds"
+                  normal = "gfx/models/portraits/male_head/male_head_child_normal.dds"
+                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+              }
+          }
+          girl = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/female_head/female_head_youth_diffuse.dds"
+                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
+                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
+              }
+              # decal = {   type = paint     atlas_pos = { 2 0 } }
+          }
+          infant = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/infant_orc_head_diffuse.dds"
+                  normal = "gfx/models/portraits/male_head/infant_head_normal.dds"
+                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+              }
+          }
+        }	
+        morrigon_1 = {
+          index = 12
+          male = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/male_morrigon_head_01_diffuse.dds"
+                  normal = "gfx/models/portraits/male_head/male_head_normal.dds"
+                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+              }
+          }
+          female = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/female_morrigon_head_01_diffuse.dds"
+                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
+                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
+              }
+          }
+          boy = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/infant_morrigon_head_diffuse.dds"
+                  normal = "gfx/models/portraits/male_head/male_head_child_normal.dds"
+                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+              }
+          }
+          girl = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/female_morrigon_head_01_diffuse.dds"
+                  normal = "gfx/models/portraits/female_head/female_head_normal.dds"
+                  specular = "gfx/models/portraits/female_head/female_head_properties.dds"
+              }
+              # decal = {   type = paint     atlas_pos = { 2 0 } }
+          }
+          infant = {
+              texture_override = {
+                  weight = 1  #if there are multiple texture_overrides in a character's dna one will be picked by weighted random
+                  diffuse = "gfx/models/portraits/morrigon_head/infant_morrigon_head_diffuse.dds"
+                  normal = "gfx/models/portraits/male_head/infant_head_normal.dds"
+                  specular = "gfx/models/portraits/male_head/male_head_properties.dds"
+              }
+          }
+        }
 		#test_1 = {
 		#	index = 0
 		#	male = {
@@ -7443,6 +7530,56 @@ accessory_genes = {
             girl = female
         }
 		
+		 orcish_hairstyles = {
+            index = 22
+            male = {
+				1 = male_hair_elven_1_v2
+                1 = male_hair_elven_1_v3
+				1 = male_hair_elven_1_v4
+                1 = male_hair_aegean_1
+                1 = male_hair_aegean_1_V2	
+			    1 = male_hair_germanic_2	
+			    1 = male_hair_persian_1	
+                1 = male_hair_aegean_1_V3	
+                1 = male_hair_aegean_1_diadems		
+                1 = male_hair_aegean_2_diadems				
+            }
+            female = {
+               1 = female_hair_arabian_2
+               1 = female_hair_arabian_2_color2
+               1 = female_hair_arabian_2_color3
+               1 = female_hair_arabian_2_color4
+               1 = female_hair_arabian_3
+               1 = female_hair_roman_1				   
+               1 = female_hair_rohenoa_3		   
+               1 = female_hair_celtic_1
+               1 = female_hair_celtic_2
+               1 = female_hair_celtic_3
+               1 = female_hair_greek_5
+               1 = female_hair_aegean_2
+			   1 = female_hair_aegean_1_diadems	
+			   
+            }
+            boy = {
+                2 = male_hair_roman_1
+                2 = male_hair_roman_1
+                # 3 = male_hair_roman_3
+                2 = male_hair_roman_4
+                2 = male_hair_roman_5
+                2 = male_hair_roman_6
+                2 = male_hair_roman_7
+                1 = male_hair_roman_5
+            }
+            girl = {
+                1 = female_hair_rohenoa_1
+                1 = female_hair_rohenoa_2
+                1 = female_hair_celtic_2
+				1 = female_hair_roman_4 
+                1 = female_hair_celtic_3				
+				1 = female_hair_greek_5					
+            }
+        }
+		
 	}
 
 	
@@ -7517,6 +7654,24 @@ accessory_genes = {
                 10 = girl_eyebrows_4
                 10 = girl_eyebrows_5
                 10 = girl_eyebrows_6
+            }
+            
+        }
+		
+		orcish_eyebrows = {
+            index = 2
+            male = {
+                10 = empty
+            }
+            female = {
+                10 = empty
+            }
+            boy = {
+                10 = empty
+            }
+
+            girl = {
+                10 = empty
             }
             
         }
@@ -8840,7 +8995,14 @@ accessory_genes = {
 			boy = {		1 = "boy_bust"		}
 			girl = {	1 = "girl_bust"		}
 		}
-
+		
+		orc_bust = {
+			index = 1
+			male = {	100 = "male_orc_bust"		}
+			female = {	100 = "female_orc_bust"	}
+			boy = {		100 = "boy_orc_bust"		}
+			girl = {	100 = "girl_orc_bust"		}
+		}
 	}
 	
 	ears = {
