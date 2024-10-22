@@ -622,8 +622,8 @@ entity = {
     }
     state = {
     	name = "combat_ready"
-    	animation = "combat_ready_1"
-		start_event = { node = Right_hand_node_1 entity = "egyptian_spear_01_entity" }
+    	animation = "combat_ready_2"
+		start_event = { node = Right_hand_node_1 entity = "egyptian_sword_01_entity" }
 		start_event = { node = Left_hand_node_1 entity = "egyptian_legion_shield_01_entity" }
     }
     state = {
