@@ -13,9 +13,10 @@ levy_default = {
 levy_annuna = { #anunaki militia
 	default = no
 
-	unit_spearmen = 0.5
+	unit_spearmen = 0.4
 	unit_hoplites = 0.2
-	unit_archers = 0.2
+	unit_archers = 0.1
+	unit_scirmishers = 0.2
 	unit_chariots = 0.1
 }
 

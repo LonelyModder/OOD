@@ -670,6 +670,6 @@ gene_bs_nose_tipLength = {
 	}
 	
 	eye_accessory = {
-		10 = { name = jeddiah_red_eyes	range = { 0.0 1.0 } }
+		10 = { name = black_pupils_eyes	range = { 0.0 1.0 } }
 	}
  }

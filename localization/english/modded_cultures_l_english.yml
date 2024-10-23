@@ -3,8 +3,6 @@
  #Annunaki
  annunaki:2 "Anunnaki"
  annuni:0 "Enukku"
- shedren:0 "Shedren"
- chekkash:0 "Chekkashi"
  annunaki_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  annunaki_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kengiri
