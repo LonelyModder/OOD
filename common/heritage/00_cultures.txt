@@ -14,3 +14,123 @@ anunnaki_heritage = {
 		country_culture_group = anunnaki
 	}
 }
+
+kengiri_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = kengiri
+	}
+}
+
+salgari_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = salgari
+	}
+}
+
+ekimmu_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = ekimmu
+	}
+}
+
+nuban_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = nuban
+	}
+}
+
+rabisu_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = rabisu
+	}
+}
+
+gardu_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = gardu
+	}
+}
+
+susigu_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = susigu
+	}
+}
+
+sagentar_heritage = { 
+	modifier = {
+		#good
+		research_points_modifier = 0.1
+		navy_maintenance_cost = -0.25
+		
+		#bad
+		diplomatic_relations = -1
+	}
+	
+	trigger = {
+		country_culture_group = sagentar
+	}
+}

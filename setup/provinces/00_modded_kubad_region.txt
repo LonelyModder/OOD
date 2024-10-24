@@ -1101,7 +1101,7 @@
 }
 
 455={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1120,7 +1120,7 @@
 }
 
 456={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1139,7 +1139,7 @@
 }
 
 457={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
 	culture="vallakite"
@@ -1161,7 +1161,7 @@
 }
 
 458={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1180,7 +1180,7 @@
 }
 
 459={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1199,7 +1199,7 @@
 }
 
 460={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1218,7 +1218,7 @@
 }
 
 461={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

@@ -1,5 +1,5 @@
 ﻿603={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -18,7 +18,7 @@
 }
 
 604={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -37,7 +37,7 @@
 }
 
 605={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -56,7 +56,7 @@
 }
 
 606={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -75,7 +75,7 @@
 }
 
 607={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -94,7 +94,7 @@
 }
 
 608={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -113,7 +113,7 @@
 }
 
 609={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -132,7 +132,7 @@
 }
 
 610={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -151,7 +151,7 @@
 }
 
 611={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -170,7 +170,7 @@
 }
 
 612={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -189,7 +189,7 @@
 }
 
 613={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -208,7 +208,7 @@
 }
 
 614={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -227,7 +227,7 @@
 }
 
 615={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -246,7 +246,7 @@
 }
 
 616={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -265,7 +265,7 @@
 }
 
 617={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -284,7 +284,7 @@
 }
 
 618={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -303,7 +303,7 @@
 }
 
 619={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
 	culture="gangari"
@@ -325,7 +325,7 @@
 }
 
 620={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -344,7 +344,7 @@
 }
 
 714={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -363,7 +363,7 @@
 }
 
 715={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -382,7 +382,7 @@
 }
 
 716={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -401,7 +401,7 @@
 }
 
 689={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -420,7 +420,7 @@
 }
 
 690={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -439,7 +439,7 @@
 }
 
 691={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -458,7 +458,7 @@
 }
 
 621={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -477,7 +477,7 @@
 }
 
 622={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -496,7 +496,7 @@
 }
 
 623={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -515,7 +515,7 @@
 }
 
 624={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -534,7 +534,7 @@
 }
 
 625={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -553,7 +553,7 @@
 }
 
 626={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -572,7 +572,7 @@
 }
 
 692={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -591,7 +591,7 @@
 }
 
 693={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -610,7 +610,7 @@
 }
 
 694={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -629,7 +629,7 @@
 }
 
 695={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -648,7 +648,7 @@
 }
 
 696={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -667,7 +667,7 @@
 }
 
 717={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -686,7 +686,7 @@
 }
 
 721={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -705,7 +705,7 @@
 }
 
 722={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -724,7 +724,7 @@
 }
 
 723={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -743,7 +743,7 @@
 }
 
 750={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -762,7 +762,7 @@
 }
 
 739={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -781,7 +781,7 @@
 }
 
 742={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -800,7 +800,7 @@
 }
 
 718={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -819,7 +819,7 @@
 }
 
 719={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -838,7 +838,7 @@
 }
 
 701={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -857,7 +857,7 @@
 }
 
 698={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -876,7 +876,7 @@
 }
 
 627={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -895,7 +895,7 @@
 }
 
 628={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -914,7 +914,7 @@
 }
 
 629={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -933,7 +933,7 @@
 }
 
 697={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -952,7 +952,7 @@
 }
 
 699={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -971,7 +971,7 @@
 }
 
 630={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -990,7 +990,7 @@
 }
 
 700={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1009,7 +1009,7 @@
 }
 
 702={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1028,7 +1028,7 @@
 }
 
 703={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1047,7 +1047,7 @@
 }
 
 631={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1066,7 +1066,7 @@
 }
 
 632={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1085,7 +1085,7 @@
 }
 
 633={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1104,7 +1104,7 @@
 }
 
 634={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1123,7 +1123,7 @@
 }
 
 635={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1142,7 +1142,7 @@
 }
 
 636={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1161,7 +1161,7 @@
 }
 
 637={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1180,7 +1180,7 @@
 }
 
 704={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1199,7 +1199,7 @@
 }
 
 705={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1218,7 +1218,7 @@
 }
 
 706={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1237,7 +1237,7 @@
 }
 
 707={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1256,7 +1256,7 @@
 }
 
 708={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1275,7 +1275,7 @@
 }
 
 709={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1294,7 +1294,7 @@
 }
 
 638={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1313,7 +1313,7 @@
 }
 
 639={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1332,7 +1332,7 @@
 }
 
 640={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1351,7 +1351,7 @@
 }
 
 641={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1370,7 +1370,7 @@
 }
 
 642={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1389,7 +1389,7 @@
 }
 
 643={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1408,7 +1408,7 @@
 }
 
 710={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1427,7 +1427,7 @@
 }
 
 711={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1446,7 +1446,7 @@
 }
 
 712={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1465,7 +1465,7 @@
 }
 
 713={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1484,7 +1484,7 @@
 }
 
 720={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

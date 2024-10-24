@@ -271,7 +271,7 @@
 }
 
 747={ 
-	terrain="desert"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -290,7 +290,7 @@
 }
 
 748={ 
-	terrain="desert"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -309,7 +309,7 @@
 }
 
 749={ 
-	terrain="desert"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

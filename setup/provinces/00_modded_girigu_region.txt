@@ -1142,7 +1142,7 @@
 }
 
 733={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1199,7 +1199,7 @@
 }
 
 736={ 
-	terrain="plains"
+	terrain="oasis"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
