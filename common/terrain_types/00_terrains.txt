@@ -47,10 +47,10 @@ desert = {
 	}
 }
 
-cave = {
+cave = { #Modified
 	combat_width = 4
 
-	color = { 0.62 0.86 0.55 }
+	color = hsv{ 0.62 0.86 0.55 }
 	modifier = {
 		movement_cost = 0.1
 		supply_limit_modifier = -0.5
@@ -60,10 +60,10 @@ cave = {
 	}
 }
 
-hall = {
+hall = { #Modified
 	combat_width = 8
 
-	color = { 0.62 0.53 0.56 }
+	color = hsv{ 0.62 0.53 0.56 }
 	modifier = {
 		movement_cost = 0.1
 		supply_limit_modifier = -0.5
@@ -72,10 +72,10 @@ hall = {
 	}
 }
 
-steppe = {
+steppe = { #Modified
 	combat_width = 28
 
-	color = { 0.12 0.97 0.70 }
+	color = hsv{ 0.12 0.98 0.67 }
 	modifier = {
 		local_population_capacity_modifier  = -0.15
 		local_monthly_food = 2.5
@@ -83,7 +83,7 @@ steppe = {
 	}
 }
 
-marsh = {
+marsh = { 
 	combat_width = 18
 	defender = 1
 
@@ -97,7 +97,7 @@ marsh = {
 	}
 }
 
-oasis = {
+oasis = { #Modified
 	color = {0.16 0.88 0.46 }
 	combat_width = 20
 

@@ -42,7 +42,7 @@
  susigu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Ekimmu
  ekimmu:2 "Ekimmu"
- skurgunic:0 "Kurgunic"
+ vallakite:0 "Gardai"
  ekimmu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  ekimmu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy

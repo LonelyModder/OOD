@@ -21,3 +21,10 @@
  aristocratic_monarchy_ruler_female_salgari:0 "Pharoh"
  theocratic_republic_ruler_salgari:0 "High Priest"
  theocratic_republic_ruler_female_salgari:0 "High Priestess"
+ #Ekimmu
+ despotic_monarchy_ruler_ekimmu:0 "Leasrí" #governor
+ despotic_monarchy_ruler_female_ekimmu:0 "Leasrí"
+ aristocratic_monarchy_ruler_ekimmu:0 "Ri" #king
+ aristocratic_monarchy_ruler_female_ekimmu:0 "Ri"
+ theocratic_monarchy_ruler_ekimmu:0 "Dorcha" #dark one
+ theocratic_monarchy_ruler_female_ekimmu:0 "Dorcha"

@@ -892,7 +892,7 @@
 }
 
 444={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -911,7 +911,7 @@
 }
 
 445={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -930,7 +930,7 @@
 }
 
 446={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -949,7 +949,7 @@
 }
 
 447={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -968,7 +968,7 @@
 }
 
 448={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -987,7 +987,7 @@
 }
 
 449={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1006,7 +1006,7 @@
 }
 
 450={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1237,7 +1237,7 @@
 }
 
 462={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1256,7 +1256,7 @@
 }
 
 463={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
 	culture="kubadi"
@@ -1275,7 +1275,7 @@
 }
 
 464={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
 	culture="kubadi"
@@ -1294,7 +1294,7 @@
 }
 
 465={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
 	culture="kubadi"
@@ -1313,7 +1313,7 @@
 }
 
 466={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1332,7 +1332,7 @@
 }
 
 467={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1351,7 +1351,7 @@
 }
 
 468={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1370,7 +1370,7 @@
 }
 
 469={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1389,7 +1389,7 @@
 }
 
 470={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1408,7 +1408,7 @@
 }
 
 471={ 
-	terrain="mountain"
+	terrain="cave"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1427,7 +1427,7 @@
 }
 
 472={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
