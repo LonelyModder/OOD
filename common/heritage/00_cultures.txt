@@ -3,11 +3,11 @@
 anunnaki_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
+		global_monthly_civilization = 0.05
 		navy_maintenance_cost = -0.25
 		
 		#bad
-		diplomatic_relations = -1
+		happiness_for_wrong_culture_group_modifier = -0.05
 	}
 	
 	trigger = {
@@ -18,11 +18,11 @@ anunnaki_heritage = {
 kengiri_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		land_morale_modifier = 0.1
+		monthly_military_experience_modifier = 0.08
 		
 		#bad
-		diplomatic_relations = -1
+		stability_cost_modifier = 0.15
 	}
 	
 	trigger = {
@@ -33,11 +33,11 @@ kengiri_heritage = {
 salgari_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		discipline = 0.05
+		build_cost = -0.1
 		
 		#bad
-		diplomatic_relations = -1
+		global_manpower_modifier = -0.05
 	}
 	
 	trigger = {
@@ -49,7 +49,7 @@ ekimmu_heritage = {
 	modifier = {
 		#good
 		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		war_exhaustion = -0.025
 		
 		#bad
 		diplomatic_relations = -1
@@ -63,11 +63,11 @@ ekimmu_heritage = {
 nuban_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		global_commerce_modifier = 0.15
+		global_population_growth = 0.04
 		
 		#bad
-		diplomatic_relations = -1
+		war_score_cost = 0.05
 	}
 	
 	trigger = {
@@ -78,11 +78,11 @@ nuban_heritage = {
 rabisu_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		agressive_expansion_impact = -0.1
+		global_manpower_modifier = 0.2
 		
 		#bad
-		diplomatic_relations = -1
+		discipline = -0.05
 	}
 	
 	trigger = {
@@ -93,11 +93,11 @@ rabisu_heritage = {
 gardu_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		land_morale_modifier = 0.1
+		war_score_cost = -0.1
 		
 		#bad
-		diplomatic_relations = -1
+		global_tax_modifier = -0.1
 	}
 	
 	trigger = {
@@ -108,11 +108,11 @@ gardu_heritage = {
 susigu_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
-		navy_maintenance_cost = -0.25
+		discipline = 0.05
+		army_maintenance_cost = -0.1
 		
 		#bad
-		diplomatic_relations = -1
+		global_slaves_output = -0.1
 	}
 	
 	trigger = {
@@ -123,11 +123,11 @@ susigu_heritage = {
 sagentar_heritage = { 
 	modifier = {
 		#good
-		research_points_modifier = 0.1
+		global_capital_trade_routes = 2
 		navy_maintenance_cost = -0.25
 		
 		#bad
-		diplomatic_relations = -1
+		monthly_wage_modifier = 0.05
 	}
 	
 	trigger = {

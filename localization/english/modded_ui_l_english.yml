@@ -9,7 +9,7 @@
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n The wars Anunnaki and Ekimmu fought all over the Continent were devastating. They changed the world, and ended the domination of the self proclaimed gods. And than they simply left leaving everything behind them and since that date age of man began.\n\n#TF That is not dead which can eternal lie, and with strange aeons, even death may die. - Ekimmu Prayer#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since founding of Valenwood."
  THE_WORLD:1 "[GetDateString]#T  FA"
- THE_WORLD_TOOLTIP:1 "#T Current Date#!\n FA stands for First Age. Humans count time since the ekimmu managed to put a nail to the coffin of the anunnaki empire in the Dutugu continent. "
+ THE_WORLD_TOOLTIP:1 "#T Current Date#!\n FA stands for First Age. Humans count time since the ekimmu managed to put a nail to the coffin of the anunnaki empire in the east. "
  
  DilmunINTRO:0 "#T Dilmun#!\nDifficulty: #Y Medium#!\n\n TMP"
  Dilmun:0 "Dilmun"

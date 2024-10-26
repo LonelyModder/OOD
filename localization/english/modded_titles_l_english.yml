@@ -28,3 +28,21 @@
  aristocratic_monarchy_ruler_female_ekimmu:0 "Ri"
  theocratic_monarchy_ruler_ekimmu:0 "Dorcha" #dark one
  theocratic_monarchy_ruler_female_ekimmu:0 "Dorcha"
+ #Gardu
+ tribal_kingdom_ruler_gardu:0 "Khan" 
+ tribal_kingdom_ruler_female_gardu:0 "Khan"
+ despotic_monarchy_ruler_gardu:0 "Khagan" 
+ despotic_monarchy_ruler_female_gardu:0 "Khagan"
+ aristocratic_monarchy_ruler_gardu:0 "Great Khan" 
+ aristocratic_monarchy_ruler_female_gardu:0 "Great Khan"
+ theocratic_monarchy_ruler_gardu:0 "Sky Priest" 
+ theocratic_monarchy_ruler_female_gardu:0 "Sky Priest"
+ #Sagentar
+ tribal_kingdom_ruler_sagentar:0 "Sheikh" 
+ tribal_kingdom_ruler_female_sagentar:0 "Sheikh"
+ despotic_monarchy_ruler_sagentar:0 "Amir" 
+ despotic_monarchy_ruler_female_sagentar:0 "Amir"
+ aristocratic_monarchy_ruler_sagentar:0 "Sultan" 
+ aristocratic_monarchy_ruler_female_sagentar:0 "Sultan"
+ theocratic_monarchy_ruler_sagentar:0 "Imam" 
+ theocratic_monarchy_ruler_female_sagentar:0 "Imam"
