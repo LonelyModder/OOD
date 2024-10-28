@@ -8,20 +8,13 @@
 	maneuver = 1
 	movement_speed = 2.5
 	build_time = 30
-
-	unit_berserkers = 0.7																			
+																			
 	unit_chariots = 0.7
-	unit_heavychariots = 0.7
 	unit_archers = 0.7
 	unit_scirmishers = 0.9			
 	unit_spearmen = 1
 	unit_axemen = 0.7
-	unit_elephants = 0.7	
-	unit_hoplites = 0.7
-	unit_infantry = 0.7	
-	unit_mushusshu = 0.5	
-	unit_rachnids = 0.5	
-	unit_camels = 1.1
+	unit_mushusshu = 0.5
 	supply_train = 2.0
 	
 	attrition_weight = 0.5

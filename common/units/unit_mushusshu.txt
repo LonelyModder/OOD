@@ -11,21 +11,14 @@
 
 	movement_speed = 2.5
 	build_time = 365
+	legions = no	
 	
-	legions = no
-	unit_berserkers = 1.5																														
-	unit_chariots = 1.3
-	unit_heavychariots = 1.5	
+	unit_chariots = 1.3	
 	unit_archers = 1.3
 	unit_scirmishers = 1.5	 				
 	unit_spearmen = 1.5
-	unit_axemen = 1.5					
-	unit_elephants = 1.3
-	unit_hoplites = 1.5
-	unit_infantry = 1.5		
-	unit_mushusshu = 1		
-	unit_rachnids = 1.3	
-	unit_camels = 1.5	
+	unit_axemen = 1.5		
+	unit_mushusshu = 1	
 	supply_train = 2.0
 
 

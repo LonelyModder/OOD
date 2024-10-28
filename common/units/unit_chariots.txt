@@ -13,19 +13,12 @@
 	build_time = 60
 	#legions = no
 	
-	unit_berserkers = 1.3
 	unit_chariots = 1
-	unit_heavychariots = 1.3
 	unit_archers = 1.1
 	unit_scirmishers = 1.5				
 	unit_spearmen = 1.3	
 	unit_axemen = 1.3	
-	unit_elephants = 1.3	
-	unit_hoplites = 1.1
-	unit_infantry = 1.1	
-	unit_mushusshu = 0.7	
-	unit_rachnids = 0.7 
-	unit_camels = 1.3
+	unit_mushusshu = 0.7
 	supply_train = 2.0
 	
 	attrition_weight = 1.5
