@@ -19,6 +19,14 @@
 	unit_spearmen = 1.5
 	unit_axemen = 1.5		
 	unit_mushusshu = 1	
+	unit_saighdiuir = 1.3		 			
+	unit_magaidh = 1.5
+	unit_laochra = 1.5
+	unit_saighdeoir = 1.3
+	unit_sealgair = 1.5	
+	unit_gudu = 1.1	
+	unit_pana = 0.9
+	unit_urudu = 1.1
 	supply_train = 2.0
 
 

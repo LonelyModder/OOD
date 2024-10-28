@@ -52,8 +52,6 @@ distinction_barbarian_killers = {
 		monthly_character_fam_prestige = 0.05
 	}
 	unit = {
-		unit_infantry_defensive = 0.1
-		unit_hoplites_defensive = 0.1
 		unit_archers_defensive = 0.1
 		unit_scirmishers_defensive = 0.1
 		engineer_cohort_defensive = 0.1
@@ -133,7 +131,6 @@ distinction_barca = { #Hannibal
 		army_weight_modifier = -0.1
 		unit_chariots_offensive = 0.1
 		unit_mushusshu_offensive = 0.1
-		unit_hoplites_offensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
 }
@@ -145,7 +142,6 @@ distinction_stalwart = { #Pyrrhus
 	}
 	unit = {
 		unit_chariots_offensive = 0.1
-		unit_hoplites_offensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 		assault_ability = 0.15
 	}

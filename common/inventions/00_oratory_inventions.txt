@@ -532,8 +532,7 @@
 
     ## Indian Specific - Level 1
     indian_toe_stirrup_inv = {
-        modifier = { unit_chariots_discipline = 0.05
-        			 unit_heavychariots_discipline = 0.05 }
+        modifier = { unit_chariots_discipline = 0.05 }
         requires = { indian_wootz_steel_inv }
         allow = {
 			OR = {

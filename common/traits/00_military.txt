@@ -23,8 +23,6 @@ confident = { #
 	martial = 1
 	unit = {
 		unit_chariots_discipline = 0.05
-		unit_heavychariots_discipline = 0.05	
-		unit_camels_discipline = 0.05
 	}
 }
 tactician = { #
@@ -34,8 +32,6 @@ tactician = { #
 	unit = {
 		unit_spearmen_discipline = 0.05
 		unit_archers_discipline = 0.05
-		unit_hoplites_discipline = 0.05
-		unit_infantry_discipline = 0.05
 		unit_scirmishers_discipline = 0.05
 		unit_chariots_discipline = 0.05
 	}
@@ -56,7 +52,6 @@ steadfast = { #
 	
 	unit = {
 		unit_spearmen_discipline = 0.05
-		unit_hoplites_discipline = 0.05
 	}
 }
 aggressive = { #
@@ -65,9 +60,7 @@ aggressive = { #
 	martial = 1
 	unit = {
 		unit_mushusshu_discipline = 0.05
-		unit_elephants_discipline = 0.05
 		unit_chariots_discipline = 0.05
-		unit_heavychariots_discipline = 0.05
 	}
 }
 brave = {

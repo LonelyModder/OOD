@@ -2859,7 +2859,7 @@ country_diplomacy.31 = {
 			has_variable = satrapy_overlord_gift_elephants
 		}
 		scope:overlord_army = {
-			add_subunit = unit_elephants
+			add_subunit = unit_chariots
 		}
 	}
 
@@ -2869,8 +2869,8 @@ country_diplomacy.31 = {
 			has_variable = satrapy_overlord_gift_camels
 		}
 		scope:overlord_army = {
-			add_subunit = unit_camels
-			add_subunit = unit_camels
+			add_subunit = unit_chariots
+			add_subunit = unit_chariots
 		}
 	}
 

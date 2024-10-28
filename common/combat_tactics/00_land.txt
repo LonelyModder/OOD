@@ -15,19 +15,20 @@ shock_action = {
 	casualties = 0.1
 
 	effective_composition = {
-		unit_berserkers = 2
 		unit_chariots = 2
-		unit_heavychariots = 1
-		unit_archers = 1.5
-		unit_scirmishers = 1				
+		unit_archers = 0
+		unit_scirmishers = 0				
 		unit_spearmen = 0	
-		unit_axemen = 1.5
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 2	
-		unit_rachnids = 2
-		unit_camels = 1
+		unit_axemen = 1
+		unit_mushusshu = 2
+		unit_saighdiuir = 0	
+		unit_magaidh = 1.5
+		unit_laochra = 1.5	
+		unit_saighdeoir = 1
+		unit_sealgair = 1
+		unit_gudu = 0
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -42,19 +43,20 @@ envelopment = {
 	padma_vyuha = -0.1
 	
 	effective_composition = {
-		unit_berserkers = 0
 		unit_chariots = 2
-		unit_heavychariots = 1
-		unit_archers = 1.5
+		unit_archers = 0
 		unit_scirmishers = 1				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 1	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 2	
-		unit_rachnids = 2 
-		unit_camels = 1
+		unit_axemen = 0
+		unit_mushusshu = 2
+		unit_saighdiuir = 0	
+		unit_magaidh = 0
+		unit_laochra = 0	
+		unit_saighdeoir = 0
+		unit_sealgair = 1
+		unit_gudu = 0
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -71,19 +73,20 @@ skirmishing = {
 	casualties = -0.25
 
 	effective_composition = {
-		unit_berserkers = 0
-		unit_chariots = 2
-		unit_heavychariots = 1
-		unit_archers = 1.5
+		unit_chariots = 0
+		unit_archers = 0
 		unit_scirmishers = 1.5				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 0	
-		unit_rachnids = 0 
-		unit_camels = 0
+		unit_axemen = 0
+		unit_mushusshu = 0
+		unit_saighdiuir = 0	
+		unit_magaidh = 1
+		unit_laochra = 0	
+		unit_saighdeoir = 1.5
+		unit_sealgair = 0
+		unit_gudu = 0
+		unit_pana = 2
+		unit_urudu = 0
 	}
 }
 
@@ -98,19 +101,20 @@ deception = {
 	hit_and_run_tactics = -0.1
 
 	effective_composition = {
-		unit_berserkers = 0
-		unit_chariots = 2
-		unit_heavychariots = 1
-		unit_archers = 1.5
+		unit_chariots = 0
+		unit_archers = 0
 		unit_scirmishers = 1.5				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 2	
-		unit_rachnids = 2 
-		unit_camels = 0
+		unit_axemen = 0
+		unit_mushusshu = 0
+		unit_saighdiuir = 0	
+		unit_magaidh = 0
+		unit_laochra = 2	
+		unit_saighdeoir = 2
+		unit_sealgair = 2
+		unit_gudu = 0
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -125,19 +129,20 @@ bottleneck = {
 	cavalry_skirmish = -0.1
 
 	effective_composition = {
-		unit_berserkers = 0
 		unit_chariots = 0
-		unit_heavychariots = 0
-		unit_archers = 1.5
-		unit_scirmishers = 1				
-		unit_spearmen = 2	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 2
-		unit_infantry = 2
-		unit_mushusshu = 0	
-		unit_rachnids = 0 
-		unit_camels = 0
+		unit_archers = 0
+		unit_scirmishers = 0				
+		unit_spearmen = 1	
+		unit_axemen = 0
+		unit_mushusshu = 0
+		unit_saighdiuir = 2	
+		unit_magaidh = 0
+		unit_laochra = 0	
+		unit_saighdeoir = 0
+		unit_sealgair = 0
+		unit_gudu = 2
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -156,19 +161,20 @@ greek_phalanx = { #Good vs Shock - Bad vs Envelopment
 	casualties = -0.1
 
 	effective_composition = { #
-		unit_berserkers = 0
 		unit_chariots = 0
-		unit_heavychariots = 0
-		unit_archers = 1
-		unit_scirmishers = 1				
-		unit_spearmen = 2	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 2
-		unit_infantry = 2
-		unit_mushusshu = 0	
-		unit_rachnids = 0 
-		unit_camels = 0
+		unit_archers = 0
+		unit_scirmishers = 0				
+		unit_spearmen = 0	
+		unit_axemen = 0
+		unit_mushusshu = 0
+		unit_saighdiuir = 2	
+		unit_magaidh = 0
+		unit_laochra = 0	
+		unit_saighdeoir = 0
+		unit_sealgair = 0
+		unit_gudu = 2
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -184,19 +190,20 @@ triplex_acies = { #Good vs Envelopment - Bad vs Skirmishing
 	hit_and_run_tactics = -0.1
 	
 	effective_composition = { #
-		unit_berserkers = 0
-		unit_chariots = 1.5
-		unit_heavychariots = 0
-		unit_archers = 1.5
-		unit_scirmishers = 1.5				
+		unit_chariots = 0
+		unit_archers = 0
+		unit_scirmishers = 0				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 2
-		unit_mushusshu = 0	
-		unit_rachnids = 0 
-		unit_camels = 0
+		unit_axemen = 0
+		unit_mushusshu = 0
+		unit_saighdiuir = 2	
+		unit_magaidh = 1.5
+		unit_laochra = 0	
+		unit_saighdeoir = 0
+		unit_sealgair = 0
+		unit_gudu = 2
+		unit_pana = 1.5
+		unit_urudu = 1.5
 	}
 }
 
@@ -214,19 +221,20 @@ cavalry_skirmish = {
 	casualties = -0.1
 
 	effective_composition = {
-		unit_berserkers = 0
 		unit_chariots = 2
-		unit_heavychariots = 1
-		unit_archers = 1
-		unit_scirmishers = 1.5				
+		unit_archers = 0
+		unit_scirmishers = 0				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 0	
-		unit_rachnids = 0 
-		unit_camels = 1
+		unit_axemen = 0
+		unit_mushusshu = 2
+		unit_saighdiuir = 0	
+		unit_magaidh = 0
+		unit_laochra = 0	
+		unit_saighdeoir = 0
+		unit_sealgair = 0
+		unit_gudu = 0
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -244,19 +252,20 @@ padma_vyuha = {
 	casualties = -0.1
 
 	effective_composition = {
-		unit_berserkers = 0
 		unit_chariots = 0
-		unit_heavychariots = 0
 		unit_archers = 0
 		unit_scirmishers = 0				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 0	
-		unit_rachnids = 0 
-		unit_camels = 0
+		unit_axemen = 0
+		unit_mushusshu = 0
+		unit_saighdiuir = 0	
+		unit_magaidh = 0
+		unit_laochra = 0	
+		unit_saighdeoir = 0
+		unit_sealgair = 0
+		unit_gudu = 0
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }
 
@@ -275,18 +284,19 @@ hit_and_run_tactics = {
 	casualties = -0.1
 
 	effective_composition = {
-		unit_berserkers = 0
 		unit_chariots = 2
-		unit_heavychariots = 1
 		unit_archers = 1
 		unit_scirmishers = 1.5				
 		unit_spearmen = 0	
-		unit_axemen = 0	
-		unit_elephants = 0	
-		unit_hoplites = 0
-		unit_infantry = 0
-		unit_mushusshu = 2	
-		unit_rachnids = 2 
-		unit_camels = 1.5
+		unit_axemen = 0
+		unit_mushusshu = 2
+		unit_saighdiuir = 0	
+		unit_magaidh = 0
+		unit_laochra = 1.5	
+		unit_saighdeoir = 1.5
+		unit_sealgair = 1.5
+		unit_gudu = 0
+		unit_pana = 0
+		unit_urudu = 0
 	}
 }

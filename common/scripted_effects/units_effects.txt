@@ -51,185 +51,201 @@
 		name = au13
 		value = flag:na
 	}
-}
-allow_unit_berserkers = {
 	set_variable = {
-		name = au01
-		value = flag:unit_berserkers
-	}
-}
-disallow_unit_berserkers = {
-	set_variable = {
-		name = au01
+		name = au14
 		value = flag:na
 	}
 }
 allow_unit_chariots = {
 	set_variable = {
-		name = au02
+		name = au01
 		value = flag:unit_chariots
 	}
 }
 disallow_unit_chariots = {
 	set_variable = {
-		name = au02
-		value = flag:na
-	}
-}
-allow_unit_heavychariots = {
-	set_variable = {
-		name = au03
-		value = flag:unit_heavychariots
-	}
-}
-disallow_unit_heavychariots = {
-	set_variable = {
-		name = au03
+		name = au01
 		value = flag:na
 	}
 }
 allow_unit_archers = {
 	set_variable = {
-		name = au04
+		name = au02
 		value = flag:unit_archers
 	}
 }
 disallow_unit_archers = {
 	set_variable = {
-		name = au04
+		name = au02
 		value = flag:na
 	}
 }
 allow_unit_scirmishers = {
 	set_variable = {
-		name = au05
+		name = au03
 		value = flag:unit_scirmishers
 	}
 }
 disallow_unit_scirmishers = {
 	set_variable = {
-		name = au05
+		name = au03
 		value = flag:na
 	}
 }
 allow_unit_spearmen = {
 	set_variable = {
-		name = au06
+		name = au04
 		value = flag:unit_spearmen
 	}
 }
 disallow_unit_spearmen = {
 	set_variable = {
-		name = au06
+		name = au04
 		value = flag:na
 	}
 }
 allow_unit_axemen = {
 	set_variable = {
-		name = au07
+		name = au05
 		value = flag:unit_axemen
 	}
 }
 disallow_unit_axemen = {
 	set_variable = {
-		name = au07
-		value = flag:na
-	}
-}
-allow_unit_elephants = {
-	set_variable = {
-		name = au08
-		value = flag:unit_elephants
-	}
-}
-disallow_unit_elephants = {
-	set_variable = {
-		name = au08
-		value = flag:na
-	}
-}
-allow_unit_hoplites = {
-	set_variable = {
-		name = au09
-		value = flag:unit_hoplites
-	}
-}
-disallow_unit_hoplites = {
-	set_variable = {
-		name = au09
-		value = flag:na
-	}
-}
-allow_unit_infantry = {
-	set_variable = {
-		name = au10
-		value = flag:unit_infantry
-	}
-}
-disallow_unit_infantry = {
-	set_variable = {
-		name = au10
+		name = au05
 		value = flag:na
 	}
 }
 allow_unit_mushusshu = {
 	set_variable = {
-		name = au11
+		name = au6
 		value = flag:unit_mushusshu
 	}
 }
 disallow_unit_mushusshu = {
 	set_variable = {
+		name = au6
+		value = flag:na
+	}
+}
+allow_unit_saighdiuir = {
+	set_variable = {
+		name = au7
+		value = flag:unit_saighdiuir
+	}
+}
+disallow_unit_saighdiuir = {
+	set_variable = {
+		name = au7
+		value = flag:na
+	}
+}
+allow_unit_magaidh = {
+	set_variable = {
+		name = au8
+		value = flag:unit_magaidh
+	}
+}
+disallow_unit_magaidh = {
+	set_variable = {
+		name = au8
+		value = flag:na
+	}
+}
+allow_unit_laochra = {
+	set_variable = {
+		name = au9
+		value = flag:unit_laochra
+	}
+}
+disallow_unit_laochra = {
+	set_variable = {
+		name = au9
+		value = flag:na
+	}
+}
+allow_unit_saighdeoir = {
+	set_variable = {
+		name = au10
+		value = flag:unit_saighdeoir
+	}
+}
+disallow_unit_saighdeoir = {
+	set_variable = {
+		name = au10
+		value = flag:na
+	}
+}
+allow_unit_sealgair = {
+	set_variable = {
+		name = au11
+		value = flag:unit_sealgair
+	}
+}
+disallow_unit_sealgair = {
+	set_variable = {
 		name = au11
 		value = flag:na
 	}
 }
-allow_unit_rachnids = {
+allow_unit_gudu = {
 	set_variable = {
 		name = au12
-		value = flag:unit_rachnids
+		value = flag:unit_gudu
 	}
 }
-disallow_unit_rachnids = {
+disallow_unit_gudu = {
 	set_variable = {
 		name = au12
 		value = flag:na
 	}
 }
-allow_unit_camels = {
+allow_unit_pana = {
 	set_variable = {
 		name = au13
-		value = flag:unit_camels
+		value = flag:unit_pana
 	}
 }
-disallow_unit_camels = {
+disallow_unit_pana = {
 	set_variable = {
 		name = au13
+		value = flag:na
+	}
+}
+allow_unit_urudu = {
+	set_variable = {
+		name = au14
+		value = flag:unit_urudu
+	}
+}
+disallow_unit_urudu = {
+	set_variable = {
+		name = au14
 		value = flag:na
 	}
 }
 
 allow_supply_train = {
 	set_variable = {
-		name = au14
+		name = au15
 		value = flag:supply_train
 	}
 }
 disallow_supply_train = {
 	set_variable = {
-		name = au14
+		name = au15
 		value = flag:na
 	}
 }
 allow_engineer_cohort = {
 	set_variable = {
-		name = au15
+		name = au16
 		value = flag:engineer_cohort
 	}
 }
 disallow_engineer_cohort = {
 	set_variable = {
-		name = au15
+		name = au16
 		value = flag:na
 	}
 }
