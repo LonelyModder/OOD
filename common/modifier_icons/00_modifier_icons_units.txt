@@ -1,34 +1,4 @@
-﻿#Berserkers
-
-unit_berserkers_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-unit_berserkers_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-unit_berserkers_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-unit_berserkers_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-unit_berserkers_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-unit_berserkers_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-unit_berserkers_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_berserkers.dds"
-}
-
-#Chariots
+﻿#Chariots
 
 unit_chariots_discipline = {
     positive = "gfx/interface/icons/font_icons/font_icon_unit_chariots.dds"
@@ -56,36 +26,6 @@ unit_chariots_maintenance_cost = {
 
 unit_chariots_movement_speed = {
     positive = "gfx/interface/icons/font_icons/font_icon_unit_chariots.dds"
-}
-
-#Heavy Chariots
-
-unit_heavychariots_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
-}
-
-unit_heavychariots_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
-}
-
-unit_heavychariots_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
-}
-
-unit_heavychariots_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
-}
-
-unit_heavychariots_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
-}
-
-unit_heavychariots_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
-}
-
-unit_heavychariots_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_heavychariots.dds"
 }
 
 #Archers
@@ -208,96 +148,6 @@ unit_axemen_movement_speed = {
     positive = "gfx/interface/icons/font_icons/font_icon_unit_axemen.dds"
 }
 
-#Elephants
-
-unit_elephants_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-unit_elephants_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-unit_elephants_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-unit_elephants_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-unit_elephants_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-unit_elephants_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-unit_elephants_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_elephants.dds"
-}
-
-#Hoplites
-
-unit_hoplites_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-unit_hoplites_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-unit_hoplites_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-unit_hoplites_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-unit_hoplites_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-unit_hoplites_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-unit_hoplites_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_hoplites.dds"
-}
-
-#Infantry
-
-unit_infantry_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
-unit_infantry_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
-unit_infantry_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
-unit_infantry_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
-unit_infantry_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
-unit_infantry_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
-unit_infantry_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_infantry.dds"
-}
-
 #Mushusshu
 
 unit_mushusshu_discipline = {
@@ -328,62 +178,242 @@ unit_mushusshu_movement_speed = {
     positive = "gfx/interface/icons/font_icons/font_icon_unit_mushusshu.dds"
 }
 
-#Rachnids
+#Saighdiuir
 
-unit_rachnids_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-unit_rachnids_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-unit_rachnids_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-unit_rachnids_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-unit_rachnids_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-unit_rachnids_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-unit_rachnids_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_rachnids.dds"
+unit_saighdiuir_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdiuir.dds"
 }
 
-#Camels
+#Magaidh
 
-unit_camels_discipline = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
 }
 
-unit_camels_morale = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
 }
 
-unit_camels_offensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
 }
 
-unit_camels_defensive = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
 }
 
-unit_camels_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
 }
 
-unit_camels_maintenance_cost = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
 }
 
-unit_camels_movement_speed = {
-    positive = "gfx/interface/icons/font_icons/font_icon_unit_camels.dds"
+unit_magaidh_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_magaidh.dds"
+}
+
+#Laochra
+
+unit_laochra_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+unit_laochra_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+unit_laochra_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+unit_laochra_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+unit_laochra_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+unit_laochra_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+unit_laochra_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_laochra.dds"
+}
+
+#Saighdeoir
+
+unit_saighdeoir_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+unit_saighdeoir_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+unit_saighdeoir_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+unit_saighdeoir_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+unit_saighdeoir_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+unit_saighdeoir_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+unit_saighdeoir_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_saighdeoir.dds"
+}
+
+#Sealgair
+
+unit_sealgair_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+unit_sealgair_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+unit_sealgair_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+unit_sealgair_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+unit_sealgair_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+unit_sealgair_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+unit_sealgair_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_sealgair.dds"
+}
+
+#Gudu
+
+unit_gudu_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+unit_gudu_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+unit_gudu_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+unit_gudu_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+unit_gudu_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+unit_gudu_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+unit_gudu_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_gudu.dds"
+}
+
+#Pana
+
+unit_pana_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+unit_pana_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+unit_pana_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+unit_pana_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+unit_pana_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+unit_pana_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+unit_pana_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_pana.dds"
+}
+
+#Urudu
+
+unit_urudu_discipline = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
+}
+
+unit_urudu_morale = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
+}
+
+unit_urudu_offensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
+}
+
+unit_urudu_defensive = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
+}
+
+unit_urudu_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
+}
+
+unit_urudu_maintenance_cost = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
+}
+
+unit_urudu_movement_speed = {
+    positive = "gfx/interface/icons/font_icons/font_icon_unit_urudu.dds"
 }

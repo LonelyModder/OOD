@@ -14,17 +14,53 @@ units_allowance_events.1 = {
 	
 	option = {
 		name = "OK"
-		unit_berserkers = yes
-		unit_archers = yes
-		unit_scirmishers = yes			
-		unit_spearmen 	= yes
+		if = {
+			limit =  {
+				NOR = {
+					country_culture_group = ekimmu
+					country_culture_group = rabisu
+				}
+			}
+			allow_unit_archers = yes
+		}
+		else = {
+			disallow_unit_archers = yes
+		}
+		if = {
+			limit =  {
+				NOR = {
+					country_culture_group = ekimmu
+					country_culture_group = rabisu
+				}
+			}
+			allow_unit_scirmishers = yes
+		}
+		else = {
+			disallow_unit_scirmishers = yes
+		}		
+		if = {
+			limit =  {
+				NOR = {
+					country_culture_group = ekimmu
+					country_culture_group = rabisu
+				}
+			}
+			allow_unit_spearmen = yes
+		}
+		else = {
+			disallow_unit_spearmen = yes
+		}
 		if = {
 			limit =  {
 				any_owned_province = {
 					OR = {
 						is_importing_trade_good = horses
 						trade_goods = horses
-					}					
+					}
+					NOR = {
+						country_culture_group = ekimmu
+						country_culture_group = rabisu
+					}
 				}
 			}
 			allow_unit_chariots = yes
@@ -52,13 +88,101 @@ units_allowance_events.1 = {
 					OR = {
 						is_importing_trade_good = iron
 						trade_goods = iron
-					}					
+					}
+					NOR = {
+						country_culture_group = ekimmu
+						country_culture_group = rabisu
+					}
 				}
 			}
 			allow_unit_axemen = yes
 		}
 		else = {
 			disallow_unit_axemen = yes
+		}
+		#Ekimmu
+		if = {
+			limit =  {
+				country_culture_group = ekimmu
+			}
+			allow_unit_saighdiuir = yes
+		}
+		else = {
+			disallow_unit_saighdiuir = yes
+		}
+		if = {
+			limit =  {
+				country_culture_group = ekimmu
+			}
+			allow_unit_magaidh = yes
+		}
+		else = {
+			disallow_unit_magaidh = yes
+		}
+		#Rabisu
+		if = {
+			limit =  {
+				OR = {
+					country_culture_group = rabisu
+					country_culture_group = ekimmu
+				}
+			}
+			allow_unit_laochra = yes
+		}
+		else = {
+			disallow_unit_laochra = yes
+		}
+		if = {
+			limit =  {
+				OR = {
+					country_culture_group = rabisu
+					country_culture_group = ekimmu
+				}
+			}
+			allow_unit_saighdeoir = yes
+		}
+		else = {
+			disallow_unit_saighdeoir = yes
+		}
+		if = {
+			limit =  {
+				OR = {
+					country_culture_group = rabisu
+					country_culture_group = ekimmu
+				}
+			}
+			allow_unit_sealgair = yes
+		}
+		else = {
+			disallow_unit_sealgair = yes
+		}
+		#Annunaki
+		if = {
+			limit =  {
+				country_culture_group = annunaki
+			}
+			allow_unit_gudu = yes
+		}
+		else = {
+			disallow_unit_gudu = yes
+		}
+		if = {
+			limit =  {
+				country_culture_group = annunaki
+			}
+			allow_unit_pana = yes
+		}
+		else = {
+			disallow_unit_pana = yes
+		}
+		if = {
+			limit =  {
+				country_culture_group = annunaki
+			}
+			allow_unit_urudu = yes
+		}
+		else = {
+			disallow_unit_urudu = yes
 		}
 		allow_supply_train = yes
 		allow_engineer_cohort = yes

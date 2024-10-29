@@ -1199,19 +1199,11 @@ pdxmesh = {
 }
 
 ##############
-### Anunnaki Clones ### ----------------------------------------------------------------
+### Clones ### ----------------------------------------------------------------
 ##############
 
 entity = {
-	name = "anunnaki_gfx_unit_berserkers"
-	clone = "greek_gfx_heavy_infantry"
-}
-entity = {
 	name = "anunnaki_gfx_unit_chariots"
-	clone = "greek_gfx_heavy_infantry"
-}
-entity = {
-	name = "anunnaki_gfx_unit_heavychariots"
 	clone = "greek_gfx_heavy_infantry"
 }
 entity = {
@@ -1230,19 +1222,6 @@ entity = {
 entity = {
 	name = "anunnaki_gfx_unit_axemen"
 	clone = "greek_gfx_heavy_infantry"
-}		
-entity = {
-	name = "anunnaki_gfx_unit_elephants"
-	clone = "greek_gfx_heavy_infantry"
-}		
-entity = {
-	name = "anunnaki_gfx_unit_hoplites"
-	clone = "greek_gfx_heavy_infantry"
-	version = 10
-}	
-entity = {
-	name = "anunnaki_gfx_unit_infantry"
-	clone = "greek_gfx_heavy_infantry"
 }
 entity = {
 	name = "anunnaki_gfx_unit_mushusshu"
@@ -1250,29 +1229,43 @@ entity = {
 	version = 10
 }	
 entity = {
-	name = "anunnaki_gfx_unit_rachnids"
+	name = "anunnaki_gfx_unit_saighdiuir"
 	clone = "greek_gfx_heavy_infantry"
-}		
+}
 entity = {
-	name = "anunnaki_gfx_unit_camels"
+	name = "anunnaki_gfx_unit_magaidh"
 	clone = "greek_gfx_heavy_infantry"
-}		 
+}	
+entity = {
+	name = "anunnaki_gfx_unit_laochra"
+	clone = "greek_gfx_heavy_infantry"
+} 
+entity = {
+	name = "anunnaki_gfx_unit_saighdeoir"
+	clone = "greek_gfx_heavy_infantry"
+}
+entity = {
+	name = "anunnaki_gfx_unit_sealgair"
+	clone = "greek_gfx_heavy_infantry"
+}
+entity = {
+	name = "anunnaki_gfx_unit_gudu"
+	clone = "greek_gfx_heavy_infantry"
+}
+entity = {
+	name = "anunnaki_gfx_unit_pana"
+	clone = "greek_gfx_heavy_infantry"
+}
+entity = {
+	name = "anunnaki_gfx_unit_urudu"
+	clone = "greek_gfx_heavy_infantry"
+}
 
 ##############
 #### Levy #### ----------------------------------------------------------------
 ### Legion ### ----------------------------------------------------------------
 ##############
 # Do one for each unit type
-
-### Berserkers ----------------------------------------------------------------
-entity ={
-	name = "anunnaki_gfx_levy_unit_berserkers"
-	clone = "bactrian_levies_infantry"
-}
-entity ={
-	name = "anunnaki_gfx_legion_unit_berserkers"
-	clone = "greek_gfx_heavy_infantry"
-}
 
 ### Chariots ----------------------------------------------------------------
 entity ={
@@ -1281,16 +1274,6 @@ entity ={
 }
 entity ={
 	name = "anunnaki_gfx_legion_unit_chariots"
-	clone = "greek_gfx_heavy_infantry"
-}
-
-### Heavy Chariots ----------------------------------------------------------------
-entity ={
-	name = "anunnaki_gfx_levy_unit_heavychariots"
-	clone = "bactrian_levies_infantry"
-}
-entity ={
-	name = "anunnaki_gfx_legion_unit_heavychariots"
 	clone = "greek_gfx_heavy_infantry"
 }
 
@@ -1334,36 +1317,6 @@ entity ={
 	clone = "greek_gfx_heavy_infantry"
 }
 
-### Elephants ----------------------------------------------------------------
-entity ={
-	name = "anunnaki_gfx_levy_unit_elephants"
-	clone = "bactrian_levies_infantry"
-}
-entity ={
-	name = "anunnaki_gfx_legion_unit_elephants"
-	clone = "greek_gfx_heavy_infantry"
-}
-
-### Hoplites ----------------------------------------------------------------
-entity ={
-	name = "anunnaki_gfx_levy_unit_hoplites"
-	clone = "bactrian_levies_infantry"
-}
-entity ={
-	name = "anunnaki_gfx_legion_unit_hoplites"
-	clone = "greek_gfx_heavy_infantry"
-}
-
-### Infantry ----------------------------------------------------------------
-entity ={
-	name = "anunnaki_gfx_levy_unit_infantry"
-	clone = "bactrian_levies_infantry"
-}
-entity ={
-	name = "anunnaki_gfx_legion_unit_infantry"
-	clone = "greek_gfx_heavy_infantry"
-}
-
 ### Mushusshu ----------------------------------------------------------------
 entity ={
 	name = "anunnaki_gfx_levy_unit_mushusshu"
@@ -1373,23 +1326,75 @@ entity ={
 	name = "anunnaki_gfx_legion_unit_mushusshu"
 	clone = "greek_gfx_heavy_infantry"
 }
-
-### Rachnids ----------------------------------------------------------------
+### Hall Guards ----------------------------------------------------------------
 entity ={
-	name = "anunnaki_gfx_levy_unit_rachnids"
+	name = "anunnaki_gfx_levy_unit_saighdiuir"
 	clone = "bactrian_levies_infantry"
 }
 entity ={
-	name = "anunnaki_gfx_legion_unit_rachnids"
+	name = "anunnaki_gfx_legion_unit_saighdiuir"
 	clone = "greek_gfx_heavy_infantry"
 }
-
-### Camels ----------------------------------------------------------------
+### Shamans ----------------------------------------------------------------
 entity ={
-	name = "anunnaki_gfx_levy_unit_camels"
+	name = "anunnaki_gfx_levy_unit_magaidh"
 	clone = "bactrian_levies_infantry"
 }
 entity ={
-	name = "anunnaki_gfx_legion_unit_camels"
+	name = "anunnaki_gfx_legion_unit_magaidh"
+	clone = "greek_gfx_heavy_infantry"
+}
+### Warriors ----------------------------------------------------------------
+entity ={
+	name = "anunnaki_gfx_levy_unit_laochra"
+	clone = "bactrian_levies_infantry"
+}
+entity ={
+	name = "anunnaki_gfx_legion_unit_laochra"
+	clone = "greek_gfx_heavy_infantry"
+}
+### Raiders ----------------------------------------------------------------
+entity ={
+	name = "anunnaki_gfx_levy_unit_saighdeoir"
+	clone = "bactrian_levies_infantry"
+}
+entity ={
+	name = "anunnaki_gfx_legion_unit_saighdeoir"
+	clone = "greek_gfx_heavy_infantry"
+}
+### Hunters ----------------------------------------------------------------
+entity ={
+	name = "anunnaki_gfx_levy_unit_sealgair"
+	clone = "bactrian_levies_infantry"
+}
+entity ={
+	name = "anunnaki_gfx_legion_unit_sealgair"
+	clone = "greek_gfx_heavy_infantry"
+}
+### Protectors ----------------------------------------------------------------
+entity ={
+	name = "anunnaki_gfx_levy_unit_gudu"
+	clone = "bactrian_levies_infantry"
+}
+entity ={
+	name = "anunnaki_gfx_legion_unit_gudu"
+	clone = "greek_gfx_heavy_infantry"
+}
+### Marines ----------------------------------------------------------------
+entity ={
+	name = "anunnaki_gfx_levy_unit_pana"
+	clone = "bactrian_levies_infantry"
+}
+entity ={
+	name = "anunnaki_gfx_legion_unit_pana"
+	clone = "greek_gfx_heavy_infantry"
+}
+### Spears ----------------------------------------------------------------
+entity ={
+	name = "anunnaki_gfx_levy_unit_urudu"
+	clone = "bactrian_levies_infantry"
+}
+entity ={
+	name = "anunnaki_gfx_legion_unit_urudu"
 	clone = "greek_gfx_heavy_infantry"
 }

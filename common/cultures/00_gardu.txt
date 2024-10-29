@@ -1,7 +1,7 @@
 ﻿gardu = {	
 	color = hsv { 0.53 0.85 0.5 }
 
-	primary = unit_heavychariots
+	primary = unit_spearmen
 	second = unit_spearmen
 	flank = unit_chariot
 

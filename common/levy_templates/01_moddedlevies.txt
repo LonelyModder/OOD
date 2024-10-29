@@ -14,21 +14,18 @@ levy_annuna = { #anunaki militia
 	default = no
 
 	unit_spearmen = 0.4
-	unit_hoplites = 0.2
+	unit_axemen = 0.2
 	unit_archers = 0.1
-	unit_scirmishers = 0.2
-	unit_chariots = 0.1
+	unit_pana = 0.1
+	unit_urudu = 0.2
 }
 
 #Kengiri
 
-levy_kengiri = { #anunaki militia
+levy_kengiri = { #kengiri militia
 	default = no
 
-	unit_spearmen = 0.5
-	unit_axemen = 0.1
-	unit_scirmishers = 0.3
-	unit_heavychariots = 0.1
+	unit_spearmen = 1
 }
 
 #Salgaran
@@ -36,11 +33,7 @@ levy_kengiri = { #anunaki militia
 levy_salgari = { #salgaran militia
 	default = no
 
-	unit_spearmen = 0.4
-	unit_axemen = 0.1
-	unit_scirmishers = 0.2
-	unit_archers = 0.15
-	unit_heavychariots = 0.15
+	unit_spearmen = 1
 }
 
 #Nuban
@@ -48,11 +41,7 @@ levy_salgari = { #salgaran militia
 levy_nuban = { #nuban militia
 	default = no
 
-	unit_spearmen = 0.4
-	unit_axemen = 0.1
-	unit_scirmishers = 0.1
-	unit_archers = 0.3
-	unit_elephants = 0.1
+	unit_spearmen = 1
 }
 
 #Gardu - nomads
@@ -60,11 +49,7 @@ levy_nuban = { #nuban militia
 levy_gardan = { #nomadic militia
 	default = no
 
-	unit_spearmen = 0.3
-	unit_scirmishers = 0.2
-	unit_archers = 0.1
-	unit_heavychariots = 0.2
-	unit_chariots = 0.2
+	unit_spearmen = 1
 }
 
 #Sagentar - barrim folk
@@ -72,11 +57,7 @@ levy_gardan = { #nomadic militia
 levy_sagentar = { #beduin militia
 	default = no
 
-	unit_spearmen = 0.4
-	unit_scirmishers = 0.1
-	unit_archers = 0.1
-	unit_camels = 0.2
-	unit_heavychariots = 0.2
+	unit_spearmen = 1
 }
 
 #Rabisu
@@ -84,11 +65,7 @@ levy_sagentar = { #beduin militia
 levy_orcish = { #rabisu militia
 	default = no
 
-	unit_axemen = 0.4
-	unit_scirmishers = 0.2
-	unit_archers = 0.1
-	unit_berserkers = 0.1
-	unit_rachnids = 0.2
+	unit_spearmen = 1
 }
 
 #Susigu - europeish sth
@@ -96,11 +73,7 @@ levy_orcish = { #rabisu militia
 levy_druidic = { #druidic militia
 	default = no
 
-	unit_spearmen = 0.5
-	unit_axemen = 0.1
-	unit_scirmishers = 0.2
-	unit_archers = 0.1
-	unit_heavychariots = 0.1
+	unit_spearmen = 1
 }
 
 #Ekimmu - dark dwarfish-elven ctulhu enjoyers
@@ -108,9 +81,5 @@ levy_druidic = { #druidic militia
 levy_ekimmu = { #ekimmu militia
 	default = no
 
-	unit_hoplites = 0.4
-	unit_spearmen = 0.2
-	unit_infantry = 0.2
-	unit_archers = 0.1
-	unit_mushusshu = 0.1
+	unit_spearmen = 1
 }

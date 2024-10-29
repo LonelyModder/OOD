@@ -1,9 +1,9 @@
 ﻿annunaki = {	
 	color = hsv { 0.66 0.93 0.67 }
 
-	primary = unit_archers
-	second = unit_hoplites
-	flank = unit_chariots
+	primary = unit_pana
+	second = unit_gudu
+	flank = unit_urudu
  
 	primary_navy = tetrere
 	secondary_navy = octere
