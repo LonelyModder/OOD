@@ -824,15 +824,7 @@ entity = {
 ##############
 
 entity = {
-	name = "bryges_gfx_unit_berserkers"
-	clone = "bryges_gfx_heavy_infantry"
-}
-entity = {
 	name = "bryges_gfx_unit_chariots"
-	clone = "bryges_gfx_heavy_infantry"
-}
-entity = {
-	name = "bryges_gfx_unit_heavychariots"
 	clone = "bryges_gfx_heavy_infantry"
 }
 entity = {
@@ -851,33 +843,44 @@ entity = {
 entity = {
 	name = "bryges_gfx_unit_axemen"
 	clone = "bryges_gfx_heavy_infantry"
-}		
-entity = {
-	name = "bryges_gfx_unit_elephants"
-	clone = "bryges_gfx_heavy_infantry"
-}		
-entity = {
-	name = "bryges_gfx_unit_hoplites"
-	clone = "bryges_gfx_heavy_infantry"
-	version = 10
-}	
-entity = {
-	name = "bryges_gfx_unit_infantry"
-	clone = "bryges_gfx_heavy_infantry"
 }
 entity = {
 	name = "bryges_gfx_unit_mushusshu"
 	clone = "bryges_gfx_heavy_infantry"
 	version = 10
+}				
+entity = {
+	name = "bryges_gfx_unit_saighdiuir"
+	clone = "bryges_gfx_heavy_infantry"
+}
+entity = {
+	name = "bryges_gfx_unit_magaidh"
+	clone = "bryges_gfx_heavy_infantry"
 }	
 entity = {
-	name = "bryges_gfx_unit_rachnids"
+	name = "bryges_gfx_unit_laochra"
 	clone = "bryges_gfx_heavy_infantry"
-}		
+} 
 entity = {
-	name = "bryges_gfx_unit_camels"
+	name = "bryges_gfx_unit_saighdeoir"
 	clone = "bryges_gfx_heavy_infantry"
-}		 
+}
+entity = {
+	name = "bryges_gfx_unit_sealgair"
+	clone = "bryges_gfx_heavy_infantry"
+}
+entity = {
+	name = "bryges_gfx_unit_gudu"
+	clone = "bryges_gfx_heavy_infantry"
+}
+entity = {
+	name = "bryges_gfx_unit_pana"
+	clone = "bryges_gfx_heavy_infantry"
+}
+entity = {
+	name = "bryges_gfx_unit_urudu"
+	clone = "bryges_gfx_heavy_infantry"
+} 	 
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -895,16 +898,6 @@ entity = {
 	clone = "bryges_gfx_heavy_infantry"
 }
 
-### Berserkers ----------------------------------------------------------------
-entity ={
-	name = "bryges_gfx_levy_unit_berserkers"
-	clone = "bryges_gfx_levy"
-}
-entity ={
-	name = "bryges_gfx_legion_unit_berserkers"
-	clone = "bryges_gfx_legion"
-}
-
 ### Chariots ----------------------------------------------------------------
 entity ={
 	name = "bryges_gfx_levy_unit_chariots"
@@ -914,17 +907,6 @@ entity ={
 	name = "bryges_gfx_legion_unit_chariots"
 	clone = "bryges_gfx_legion"
 }
-
-### Heavy Chariots ----------------------------------------------------------------
-entity ={
-	name = "bryges_gfx_levy_unit_heavychariots"
-	clone = "bryges_gfx_levy"
-}
-entity ={
-	name = "bryges_gfx_legion_unit_heavychariots"
-	clone = "bryges_gfx_legion"
-}
-
 ### Archers ----------------------------------------------------------------
 entity ={
 	name = "bryges_gfx_levy_unit_archers"
@@ -964,37 +946,6 @@ entity ={
 	name = "bryges_gfx_legion_unit_axemen"
 	clone = "bryges_gfx_legion"
 }
-
-### Elephants ----------------------------------------------------------------
-entity ={
-	name = "bryges_gfx_levy_unit_elephants"
-	clone = "bryges_gfx_levy"
-}
-entity ={
-	name = "bryges_gfx_legion_unit_elephants"
-	clone = "bryges_gfx_legion"
-}
-
-### Hoplites ----------------------------------------------------------------
-entity ={
-	name = "bryges_gfx_levy_unit_hoplites"
-	clone = "bryges_gfx_levy"
-}
-entity ={
-	name = "bryges_gfx_legion_unit_hoplites"
-	clone = "bryges_gfx_legion"
-}
-
-### Infantry ----------------------------------------------------------------
-entity ={
-	name = "bryges_gfx_levy_unit_infantry"
-	clone = "bryges_gfx_levy"
-}
-entity ={
-	name = "bryges_gfx_legion_unit_infantry"
-	clone = "bryges_gfx_legion"
-}
-
 ### Mushusshu ----------------------------------------------------------------
 entity ={
 	name = "bryges_gfx_levy_unit_mushusshu"
@@ -1005,22 +956,75 @@ entity ={
 	clone = "bryges_gfx_legion"
 }
 
-### Rachnids ----------------------------------------------------------------
+### Hall Guards ----------------------------------------------------------------
 entity ={
-	name = "bryges_gfx_levy_unit_rachnids"
+	name = "bryges_gfx_levy_unit_saighdiuir"
 	clone = "bryges_gfx_levy"
 }
 entity ={
-	name = "bryges_gfx_legion_unit_rachnids"
+	name = "bryges_gfx_legion_unit_saighdiuir"
 	clone = "bryges_gfx_legion"
 }
-
-### Camels ----------------------------------------------------------------
+### Shamans ----------------------------------------------------------------
 entity ={
-	name = "bryges_gfx_levy_unit_camels"
+	name = "bryges_gfx_levy_unit_magaidh"
 	clone = "bryges_gfx_levy"
 }
 entity ={
-	name = "bryges_gfx_legion_unit_camels"
+	name = "bryges_gfx_legion_unit_magaidh"
+	clone = "bryges_gfx_legion"
+}
+### Warriors ----------------------------------------------------------------
+entity ={
+	name = "bryges_gfx_levy_unit_laochra"
+	clone = "bryges_gfx_levy"
+}
+entity ={
+	name = "bryges_gfx_legion_unit_laochra"
+	clone = "bryges_gfx_legion"
+}
+### Raiders ----------------------------------------------------------------
+entity ={
+	name = "bryges_gfx_levy_unit_saighdeoir"
+	clone = "bryges_gfx_levy"
+}
+entity ={
+	name = "bryges_gfx_legion_unit_saighdeoir"
+	clone = "bryges_gfx_legion"
+}
+### Hunters ----------------------------------------------------------------
+entity ={
+	name = "bryges_gfx_levy_unit_sealgair"
+	clone = "bryges_gfx_levy"
+}
+entity ={
+	name = "bryges_gfx_legion_unit_sealgair"
+	clone = "bryges_gfx_legion"
+}
+### Protectors ----------------------------------------------------------------
+entity ={
+	name = "bryges_gfx_levy_unit_gudu"
+	clone = "bryges_gfx_levy"
+}
+entity ={
+	name = "bryges_gfx_legion_unit_gudu"
+	clone = "bryges_gfx_legion"
+}
+### Marines ----------------------------------------------------------------
+entity ={
+	name = "bryges_gfx_levy_unit_pana"
+	clone = "bryges_gfx_levy"
+}
+entity ={
+	name = "bryges_gfx_legion_unit_pana"
+	clone = "bryges_gfx_legion"
+}
+### Spears ----------------------------------------------------------------
+entity ={
+	name = "bryges_gfx_levy_unit_urudu"
+	clone = "bryges_gfx_levy"
+}
+entity ={
+	name = "bryges_gfx_legion_unit_urudu"
 	clone = "bryges_gfx_legion"
 }

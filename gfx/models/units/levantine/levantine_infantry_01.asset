@@ -877,15 +877,7 @@ entity = {
 ##############
 
 entity = {
-	name = "levantine_gfx_unit_berserkers"
-	clone = "levantine_gfx_heavy_infantry"
-}
-entity = {
 	name = "levantine_gfx_unit_chariots"
-	clone = "levantine_gfx_heavy_infantry"
-}
-entity = {
-	name = "levantine_gfx_unit_heavychariots"
 	clone = "levantine_gfx_heavy_infantry"
 }
 entity = {
@@ -904,31 +896,42 @@ entity = {
 entity = {
 	name = "levantine_gfx_unit_axemen"
 	clone = "levantine_gfx_heavy_infantry"
-}		
-entity = {
-	name = "levantine_gfx_unit_elephants"
-	clone = "levantine_gfx_heavy_infantry"
-}		
-entity = {
-	name = "levantine_gfx_unit_hoplites"
-	clone = "levantine_gfx_heavy_infantry"
-	version = 10
-}	
-entity = {
-	name = "levantine_gfx_unit_infantry"
-	clone = "levantine_gfx_heavy_infantry"
 }
 entity = {
 	name = "levantine_gfx_unit_mushusshu"
 	clone = "levantine_gfx_heavy_infantry"
 	version = 10
-}	
-entity = {
-	name = "levantine_gfx_unit_rachnids"
-	clone = "levantine_gfx_heavy_infantry"
 }		
 entity = {
-	name = "levantine_gfx_unit_camels"
+	name = "levantine_gfx_unit_saighdiuir"
+	clone = "levantine_gfx_heavy_infantry"
+}
+entity = {
+	name = "levantine_gfx_unit_magaidh"
+	clone = "levantine_gfx_heavy_infantry"
+}	
+entity = {
+	name = "levantine_gfx_unit_laochra"
+	clone = "levantine_gfx_heavy_infantry"
+} 
+entity = {
+	name = "levantine_gfx_unit_saighdeoir"
+	clone = "levantine_gfx_heavy_infantry"
+}
+entity = {
+	name = "levantine_gfx_unit_sealgair"
+	clone = "levantine_gfx_heavy_infantry"
+}
+entity = {
+	name = "levantine_gfx_unit_gudu"
+	clone = "levantine_gfx_heavy_infantry"
+}
+entity = {
+	name = "levantine_gfx_unit_pana"
+	clone = "levantine_gfx_heavy_infantry"
+}
+entity = {
+	name = "levantine_gfx_unit_urudu"
 	clone = "levantine_gfx_heavy_infantry"
 }		 
 
@@ -948,16 +951,6 @@ entity = {
 	clone = "levantine_gfx_heavy_infantry"
 }
 
-### Berserkers ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_berserkers"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_berserkers"
-	clone = "levantine_gfx_legion"
-}
-
 ### Chariots ----------------------------------------------------------------
 entity ={
 	name = "levantine_gfx_levy_unit_chariots"
@@ -967,17 +960,6 @@ entity ={
 	name = "levantine_gfx_legion_unit_chariots"
 	clone = "levantine_gfx_legion"
 }
-
-### Heavy Chariots ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_heavychariots"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_heavychariots"
-	clone = "levantine_gfx_legion"
-}
-
 ### Archers ----------------------------------------------------------------
 entity ={
 	name = "levantine_gfx_levy_unit_archers"
@@ -1018,36 +1000,6 @@ entity ={
 	clone = "levantine_gfx_legion"
 }
 
-### Elephants ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_elephants"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_elephants"
-	clone = "levantine_gfx_legion"
-}
-
-### Hoplites ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_hoplites"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_hoplites"
-	clone = "levantine_gfx_legion"
-}
-
-### Infantry ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_infantry"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_infantry"
-	clone = "levantine_gfx_legion"
-}
-
 ### Mushusshu ----------------------------------------------------------------
 entity ={
 	name = "levantine_gfx_levy_unit_mushusshu"
@@ -1058,22 +1010,75 @@ entity ={
 	clone = "levantine_gfx_legion"
 }
 
-### Rachnids ----------------------------------------------------------------
+### Hall Guards ----------------------------------------------------------------
 entity ={
-	name = "levantine_gfx_levy_unit_rachnids"
+	name = "levantine_gfx_levy_unit_saighdiuir"
 	clone = "levantine_gfx_levy"
 }
 entity ={
-	name = "levantine_gfx_legion_unit_rachnids"
+	name = "levantine_gfx_legion_unit_saighdiuir"
 	clone = "levantine_gfx_legion"
 }
-
-### Camels ----------------------------------------------------------------
+### Shamans ----------------------------------------------------------------
 entity ={
-	name = "levantine_gfx_levy_unit_camels"
+	name = "levantine_gfx_levy_unit_magaidh"
 	clone = "levantine_gfx_levy"
 }
 entity ={
-	name = "levantine_gfx_legion_unit_camels"
+	name = "levantine_gfx_legion_unit_magaidh"
+	clone = "levantine_gfx_legion"
+}
+### Warriors ----------------------------------------------------------------
+entity ={
+	name = "levantine_gfx_levy_unit_laochra"
+	clone = "levantine_gfx_levy"
+}
+entity ={
+	name = "levantine_gfx_legion_unit_laochra"
+	clone = "levantine_gfx_legion"
+}
+### Raiders ----------------------------------------------------------------
+entity ={
+	name = "levantine_gfx_levy_unit_saighdeoir"
+	clone = "levantine_gfx_levy"
+}
+entity ={
+	name = "levantine_gfx_legion_unit_saighdeoir"
+	clone = "levantine_gfx_legion"
+}
+### Hunters ----------------------------------------------------------------
+entity ={
+	name = "levantine_gfx_levy_unit_sealgair"
+	clone = "levantine_gfx_levy"
+}
+entity ={
+	name = "levantine_gfx_legion_unit_sealgair"
+	clone = "levantine_gfx_legion"
+}
+### Protectors ----------------------------------------------------------------
+entity ={
+	name = "levantine_gfx_levy_unit_gudu"
+	clone = "levantine_gfx_levy"
+}
+entity ={
+	name = "levantine_gfx_legion_unit_gudu"
+	clone = "levantine_gfx_legion"
+}
+### Marines ----------------------------------------------------------------
+entity ={
+	name = "levantine_gfx_levy_unit_pana"
+	clone = "levantine_gfx_levy"
+}
+entity ={
+	name = "levantine_gfx_legion_unit_pana"
+	clone = "levantine_gfx_legion"
+}
+### Spears ----------------------------------------------------------------
+entity ={
+	name = "levantine_gfx_levy_unit_urudu"
+	clone = "levantine_gfx_levy"
+}
+entity ={
+	name = "levantine_gfx_legion_unit_urudu"
 	clone = "levantine_gfx_legion"
 }

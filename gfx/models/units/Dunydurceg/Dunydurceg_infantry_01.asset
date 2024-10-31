@@ -1635,15 +1635,7 @@ entity = {
 ##############
 
 entity = {
-	name = "ekimmu_gfx_unit_berserkers"
-	clone = "dunydurceg_gfx_heavy_cavalry"
-}
-entity = {
 	name = "ekimmu_gfx_unit_chariots"
-	clone = "dunydurceg_gfx_heavy_cavalry"
-}
-entity = {
-	name = "ekimmu_gfx_unit_heavychariots"
 	clone = "dunydurceg_gfx_heavy_cavalry"
 }
 entity = {
@@ -1664,31 +1656,42 @@ entity = {
 	clone = "dunydurceg_gfx_heavy_cavalry"
 }		
 entity = {
-	name = "ekimmu_gfx_unit_elephants"
-	clone = "dunydurceg_gfx_heavy_cavalry"
-}		
-entity = {
-	name = "ekimmu_gfx_unit_hoplites"
-	clone = "dunydurceg_gfx_heavy_cavalry"
-	version = 10
-}	
-entity = {
-	name = "ekimmu_gfx_unit_infantry"
-	clone = "dunydurceg_gfx_heavy_cavalry"
-}
-entity = {
 	name = "ekimmu_gfx_unit_mushusshu"
 	clone = "dunydurceg_gfx_heavy_cavalry"
 	version = 10
+}			
+entity = {
+	name = "ekimmu_gfx_unit_saighdiuir"
+	clone = "dunydurceg_gfx_heavy_cavalry"
+}
+entity = {
+	name = "ekimmu_gfx_unit_magaidh"
+	clone = "dunydurceg_gfx_heavy_cavalry"
 }	
 entity = {
-	name = "ekimmu_gfx_unit_rachnids"
+	name = "ekimmu_gfx_unit_laochra"
 	clone = "dunydurceg_gfx_heavy_cavalry"
-}		
+} 
 entity = {
-	name = "ekimmu_gfx_unit_camels"
+	name = "ekimmu_gfx_unit_saighdeoir"
 	clone = "dunydurceg_gfx_heavy_cavalry"
-}		 
+}
+entity = {
+	name = "ekimmu_gfx_unit_sealgair"
+	clone = "dunydurceg_gfx_heavy_cavalry"
+}
+entity = {
+	name = "ekimmu_gfx_unit_gudu"
+	clone = "dunydurceg_gfx_heavy_cavalry"
+}
+entity = {
+	name = "ekimmu_gfx_unit_pana"
+	clone = "dunydurceg_gfx_heavy_cavalry"
+}
+entity = {
+	name = "ekimmu_gfx_unit_urudu"
+	clone = "dunydurceg_gfx_heavy_cavalry"
+} 
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -1706,16 +1709,6 @@ entity = {
 	clone = "dunydurceg_gfx_heavy_cavalry"
 }
 
-### Berserkers ----------------------------------------------------------------
-entity ={
-	name = "ekimmu_gfx_levy_unit_berserkers"
-	clone = "ekimmu_gfx_levy"
-}
-entity ={
-	name = "ekimmu_gfx_legion_unit_berserkers"
-	clone = "ekimmu_gfx_legion"
-}
-
 ### Chariots ----------------------------------------------------------------
 entity ={
 	name = "ekimmu_gfx_levy_unit_chariots"
@@ -1723,16 +1716,6 @@ entity ={
 }
 entity ={
 	name = "ekimmu_gfx_legion_unit_chariots"
-	clone = "ekimmu_gfx_legion"
-}
-
-### Heavy Chariots ----------------------------------------------------------------
-entity ={
-	name = "ekimmu_gfx_levy_unit_heavychariots"
-	clone = "ekimmu_gfx_levy"
-}
-entity ={
-	name = "ekimmu_gfx_legion_unit_heavychariots"
 	clone = "ekimmu_gfx_legion"
 }
 
@@ -1775,37 +1758,6 @@ entity ={
 	name = "ekimmu_gfx_legion_unit_axemen"
 	clone = "ekimmu_gfx_legion"
 }
-
-### Elephants ----------------------------------------------------------------
-entity ={
-	name = "ekimmu_gfx_levy_unit_elephants"
-	clone = "ekimmu_gfx_levy"
-}
-entity ={
-	name = "ekimmu_gfx_legion_unit_elephants"
-	clone = "ekimmu_gfx_legion"
-}
-
-### Hoplites ----------------------------------------------------------------
-entity ={
-	name = "ekimmu_gfx_levy_unit_hoplites"
-	clone = "ekimmu_gfx_levy"
-}
-entity ={
-	name = "ekimmu_gfx_legion_unit_hoplites"
-	clone = "ekimmu_gfx_legion"
-}
-
-### Infantry ----------------------------------------------------------------
-entity ={
-	name = "ekimmu_gfx_levy_unit_infantry"
-	clone = "ekimmu_gfx_levy"
-}
-entity ={
-	name = "ekimmu_gfx_legion_unit_infantry"
-	clone = "ekimmu_gfx_legion"
-}
-
 ### Mushusshu ----------------------------------------------------------------
 entity ={
 	name = "ekimmu_gfx_levy_unit_mushusshu"
@@ -1816,22 +1768,75 @@ entity ={
 	clone = "ekimmu_gfx_legion"
 }
 
-### Rachnids ----------------------------------------------------------------
+### Hall Guards ----------------------------------------------------------------
 entity ={
-	name = "ekimmu_gfx_levy_unit_rachnids"
+	name = "ekimmu_gfx_levy_unit_saighdiuir"
 	clone = "ekimmu_gfx_levy"
 }
 entity ={
-	name = "ekimmu_gfx_legion_unit_rachnids"
+	name = "ekimmu_gfx_legion_unit_saighdiuir"
 	clone = "ekimmu_gfx_legion"
 }
-
-### Camels ----------------------------------------------------------------
+### Shamans ----------------------------------------------------------------
 entity ={
-	name = "ekimmu_gfx_levy_unit_camels"
+	name = "ekimmu_gfx_levy_unit_magaidh"
 	clone = "ekimmu_gfx_levy"
 }
 entity ={
-	name = "ekimmu_gfx_legion_unit_camels"
+	name = "ekimmu_gfx_legion_unit_magaidh"
+	clone = "ekimmu_gfx_legion"
+}
+### Warriors ----------------------------------------------------------------
+entity ={
+	name = "ekimmu_gfx_levy_unit_laochra"
+	clone = "ekimmu_gfx_levy"
+}
+entity ={
+	name = "ekimmu_gfx_legion_unit_laochra"
+	clone = "ekimmu_gfx_legion"
+}
+### Raiders ----------------------------------------------------------------
+entity ={
+	name = "ekimmu_gfx_levy_unit_saighdeoir"
+	clone = "ekimmu_gfx_levy"
+}
+entity ={
+	name = "ekimmu_gfx_legion_unit_saighdeoir"
+	clone = "ekimmu_gfx_legion"
+}
+### Hunters ----------------------------------------------------------------
+entity ={
+	name = "ekimmu_gfx_levy_unit_sealgair"
+	clone = "ekimmu_gfx_levy"
+}
+entity ={
+	name = "ekimmu_gfx_legion_unit_sealgair"
+	clone = "ekimmu_gfx_legion"
+}
+### Protectors ----------------------------------------------------------------
+entity ={
+	name = "ekimmu_gfx_levy_unit_gudu"
+	clone = "ekimmu_gfx_levy"
+}
+entity ={
+	name = "ekimmu_gfx_legion_unit_gudu"
+	clone = "ekimmu_gfx_legion"
+}
+### Marines ----------------------------------------------------------------
+entity ={
+	name = "ekimmu_gfx_levy_unit_pana"
+	clone = "ekimmu_gfx_levy"
+}
+entity ={
+	name = "ekimmu_gfx_legion_unit_pana"
+	clone = "ekimmu_gfx_legion"
+}
+### Spears ----------------------------------------------------------------
+entity ={
+	name = "ekimmu_gfx_levy_unit_urudu"
+	clone = "ekimmu_gfx_levy"
+}
+entity ={
+	name = "ekimmu_gfx_legion_unit_urudu"
 	clone = "ekimmu_gfx_legion"
 }
