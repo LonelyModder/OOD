@@ -235,15 +235,15 @@ precious_metals = { #107 territories
 
 steppe_horses = { #90 territories
 	category = 0
-	allow_unit_type = unit_heavychariots
+	allow_unit_type = unit_mushusshu
 	
-	gold = 0.25
+	gold = 0.5
 	
 	province = {
-		local_output_modifier = 0.01
+		local_citizen_happyness = happiness_small_svalue
 	}
 	country = {
-		unit_heavychariots_discipline = 0.1
+		unit_mushusshu_discipline = 0.1
 	}
 	
 	color = hsv { 0.1 0.5 0.8 }

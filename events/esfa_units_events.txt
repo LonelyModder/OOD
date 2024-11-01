@@ -72,8 +72,8 @@ units_allowance_events.1 = {
 			limit =  {
 				any_owned_province = {
 					OR = {
-						is_importing_trade_good = iron
-						trade_goods = iron
+						is_importing_trade_good = steppe_horses
+						trade_goods = steppe_horses
 					}					
 				}
 			}

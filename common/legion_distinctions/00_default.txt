@@ -54,6 +54,11 @@ distinction_barbarian_killers = {
 	unit = {
 		unit_archers_defensive = 0.1
 		unit_scirmishers_defensive = 0.1
+		unit_gudu_defensive = 0.1
+		unit_pana_defensive = 0.1
+		unit_urudu_defensive = 0.1
+		unit_saighdiuir_defensive = 0.1						
+		unit_magaidh_defensive = 0.1
 		engineer_cohort_defensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
@@ -153,6 +158,7 @@ distinction_elephant_lords = {
 		martial = 1
 	}
 	unit = {
+		unit_mushusshu_morale = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
 }
@@ -161,9 +167,18 @@ distinction_argyraspides = {
 	icon = "phalera_sword_shield"
 	commander = { }
 	unit = {
-		unit_hoplites_maintenance_cost = -0.1
-		unit_infantry_offensive = 0.1
-		unit_hoplites_defensive = 0.1
+		unit_gudu_maintenance_cost = -0.1
+		unit_urudu_maintenance_cost = -0.1
+		unit_spearmen_maintenance_cost = -0.1
+		unit_saighdiuir_maintenance_cost = -0.1
+		unit_gudu_offensive = 0.1
+		unit_gudu_defensive = 0.1
+		unit_urudu_offensive = 0.1
+		unit_urudu_defensive = 0.1
+		unit_spearmen_offensive = 0.1
+		unit_spearmen_defensive = 0.1 
+		unit_saighdiuir_offensive = 0.1
+		unit_saighdiuir_defensive = 0.1
 		loyalty_gain_chance_modifier = 0.05
 	}
 }
@@ -196,8 +211,12 @@ distinction_ferrata = {
 	icon = "phalera_sword_shield"
 	commander = { }
 	unit = {
-		unit_infantry_discipline = 0.15
-		unit_infantry_morale = 0.1
+		unit_saighdiuir_discipline = 0.15
+		unit_saighdiuir_morale = 0.1
+		unit_gudu_discipline = 0.15
+		unit_gudu_morale = 0.1
+		unit_axemen_discipline = 0.15
+		unit_axemen_morale = 0.1
 	}
 }
 
@@ -205,8 +224,9 @@ distinction_fulminata = {
 	icon = "phalera_zeus"
 	commander = { }
 	unit = {
-		unit_infantry_defensive = 0.1
-		unit_archers_defensive = 0.1
+		unit_saighdiuir_defensive = 0.1
+		unit_gudu_defensive = 0.1
+		unit_axemen_defensive = 0.1
 	}
 }
 

@@ -4,7 +4,7 @@
 	levy_tier = advanced
 
 	allow = {
-		trade_good_surplus = { target = elephants value > 0 }
+		trade_good_surplus = { target = steppe_horses value > 0 }
 	}
 
 	maneuver = 0
