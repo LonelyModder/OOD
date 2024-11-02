@@ -8,7 +8,7 @@
 	religion_category = pantheon
 }
 
-divineorder_pantheon = { # Anunnaki Faith
+divineorder_pantheon = { # Western Faith
 	color = hsv { 0.66 0.93 0.67 }
 	modifier = { 
 		land_morale_modifier = 0.1
@@ -18,30 +18,24 @@ divineorder_pantheon = { # Anunnaki Faith
 	religion_category = pantheon
 }
 
-atun_pantheon = { # Salgari Faith
+atun_pantheon = { # Sahargali Faith
 	color = hsv { 0.16  0.87  0.85 }
 	modifier = { 
 		land_morale_modifier = 0.1
 		global_slaves_output = 0.15
 		research_points_modifier = 0.05
 	}
-	religion_category = prophets
-	can_deify_ruler = no
-	sacrifice_icon = sacrifice_incense
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+	religion_category = pantheon
 }
 
-ancestors_pantheon = { # Nuban Faith
+ancestors_pantheon = { # Totemism
 	color = hsv { 0.07  0.96  0.5 }
 	modifier = { 
 		land_morale_modifier = 0.1
 		global_slaves_output = 0.15
 		research_points_modifier = 0.05
 	}
-	religion_category = prophets
-	can_deify_ruler = no
-	sacrifice_icon = sacrifice_incense
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+	religion_category = pantheon
 }
 
 khorism_pantheon = { # Gardan Faith
@@ -52,19 +46,6 @@ khorism_pantheon = { # Gardan Faith
 		research_points_modifier = 0.05
 	}
 	religion_category = pantheon
-}
-
-alilah_pantheon = { # Beduin Faith
-	color = hsv { 0.43 0.1 0.55 }
-	modifier = { 
-		land_morale_modifier = 0.1
-		global_slaves_output = 0.15
-		research_points_modifier = 0.05
-	}
-	religion_category = prophets
-	can_deify_ruler = no
-	sacrifice_icon = sacrifice_incense
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 
 ancient_pantheon = { # Rabisu Faith
