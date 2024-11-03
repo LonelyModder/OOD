@@ -4,6 +4,26 @@ deity_manager = {
 			key = omen_usu
 			deity = deity_usu
 		}
+		10002 = {
+			key = omen_galzu
+			deity = deity_galzu
+		}
+		10003 = {
+			key = omen_lumma
+			deity = deity_lumma
+		}
+		10004 = {
+			key = omen_anu
+			deity = deity_anu
+		}
+		10005 = {
+			key = omen_nam
+			deity = deity_nam
+		}
+		10006 = {
+			key = omen_taltal
+			deity = deity_taltal
+		}
 	}
 }
 
