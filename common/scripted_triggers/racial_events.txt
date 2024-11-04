@@ -1,12 +1,9 @@
 ﻿is_longlived_trigger = {
-	OR = {
-		has_trait = anunnaki
-		has_trait = rabisu
-	}
+	has_trait = anunnaki
 }
 
 is_immortal_trigger = {
 	#OR = {
-	#	has_trait = halfauroran
+	has_trait = ekimmu
 	#}
 }

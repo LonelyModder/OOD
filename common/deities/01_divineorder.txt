@@ -28,8 +28,6 @@ deity_usu = {
 	}
 }
 
-
-
 deity_galzu = { 
 	trigger = {
 		polytheistic_check_religion_trigger = yes

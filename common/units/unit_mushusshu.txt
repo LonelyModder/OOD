@@ -1,5 +1,6 @@
 ﻿unit_mushusshu = {
 	army = yes
+	assault = yes
 	is_flank = yes
 	levy_tier = advanced
 
