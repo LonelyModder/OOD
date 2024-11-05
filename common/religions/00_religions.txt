@@ -11,9 +11,9 @@
 divineorder_pantheon = { # Western Faith
 	color = hsv { 0.66 0.93 0.67 }
 	modifier = { 
-		land_morale_modifier = 0.1
-		global_slaves_output = 0.15
-		research_points_modifier = 0.05
+		stability_monthly_change = 0.04
+		monthly_corruption = -0.06
+		global_manpower_modifier = -0.1
 	}
 	religion_category = pantheon
 }
@@ -23,7 +23,7 @@ atun_pantheon = { # Sahargali Faith
 	modifier = { 
 		land_morale_modifier = 0.1
 		global_slaves_output = 0.15
-		research_points_modifier = 0.05
+		stability_cost_modifier = 0.1
 	}
 	religion_category = pantheon
 }
@@ -31,9 +31,9 @@ atun_pantheon = { # Sahargali Faith
 ancestors_pantheon = { # Totemism
 	color = hsv { 0.07  0.96  0.5 }
 	modifier = { 
-		land_morale_modifier = 0.1
-		global_slaves_output = 0.15
-		research_points_modifier = 0.05
+		stability_cost_modifier = -0.1
+		tribesmen_output = 0.1
+		global_slaves_happiness = -0.05
 	}
 	religion_category = pantheon
 }
@@ -41,9 +41,9 @@ ancestors_pantheon = { # Totemism
 khorism_pantheon = { # Gardan Faith
 	color = hsv { 0.53 0.85 0.5 }
 	modifier = { 
-		land_morale_modifier = 0.1
-		global_slaves_output = 0.15
-		research_points_modifier = 0.05
+		discipline = 0.05
+		agressive_expansion_monthly_change = -0.05
+		research_points_modifier = -0.05
 	}
 	religion_category = pantheon
 }
@@ -51,9 +51,9 @@ khorism_pantheon = { # Gardan Faith
 ancient_pantheon = { # Rabisu Faith
 	color = hsv { 0.01 0.94 0.85 }
 	modifier = { 
-		land_morale_modifier = 0.1
 		global_slaves_output = 0.15
-		research_points_modifier = 0.05
+		research_points_modifier = 0.1
+		happiness_for_wrong_culture_group_modifier = -0.05
 	}
 	religion_category = prophets
 	can_deify_ruler = no
