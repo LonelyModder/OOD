@@ -26,6 +26,7 @@ atun_pantheon = { # Sahargali Faith
 		stability_cost_modifier = 0.1
 	}
 	religion_category = pantheon
+	can_deify_ruler = no
 }
 
 ancestors_pantheon = { # Totemism
