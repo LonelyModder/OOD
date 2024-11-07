@@ -1,0 +1,14 @@
+﻿l_english:
+ ## Default ##
+ deity_sunswrath:0 "$omen_sunswrath$"
+ omen_sunswrath:1 "Invincible Sun"
+ omen_sunswrath_desc:4 "For the worshippers of Aten the ruler is also the high priest and every act of treason is not only punishable by death but the traitor is also cursed in the afterlife. His body is burned which prevents his soul from reching afterlife and his name is deleted from official records wich condemns his soul to slow decay."
+ deity_sunsblessing:0 "$omen_sunsblessing$"
+ omen_sunsblessing:1 "Blessed Sun"
+ omen_sunsblessing_desc:4 "Atenites traditionally bring the offerings to the temple where on the so called sun altar it is burned so it will be able to be sent to their diety. Usually the offering consists of plants, animals but in rare cases prisoners may be sacrificed by a blow to the head with a mace."
+ deity_lifegiver:0 "$omen_lifegiver$"
+ omen_lifegiver:1 "Source of Life"
+ omen_lifegiver_desc:4 "Acording to the priests Aten is the only god able to give the gift of life and is responsible for creating humans and nonhumans. Because of that atenism is very inclusive religion and member of every race are welcomed in the eyes of the sun god."
+ deity_rulerofall:0 "$omen_rulerofall$"
+ omen_rulerofall:1 "Etarnal Sun"
+ omen_rulerofall_desc:4 "Pharoh is the only person that can communicate with the diety directly. The right to rule comes from an agreement between Athens and the pharaoh. According to this, power is inherited by blood law, so if the pharaoh has no son, a daughter can become ruler."

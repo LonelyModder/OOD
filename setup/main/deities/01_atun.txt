@@ -1,0 +1,21 @@
+deity_manager = {
+	deities_database = { ### KEYS 10021-10040 ###
+		10021 = {
+			key = omen_sunswrath
+			deity = deity_sunswrath
+		}
+		10022 = {
+			key = omen_sunsblessing
+			deity = deity_sunsblessing
+		}
+		10023 = {
+			key = omen_lifegiver
+			deity = deity_lifegiver
+		}
+		10024 = {
+			key = omen_rulerofall
+			deity = deity_rulerofall
+		}
+	}
+}
+
