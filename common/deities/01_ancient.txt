@@ -1,0 +1,107 @@
+﻿### General Deity Checks ###
+
+### Exclusive Deity Checks ###
+
+deity_thuulu = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancient_pantheon
+			}
+			deity:omen_thuulu = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_thuulu
+	passive_modifier = { unit_magaidh_offensive = 0.1 }
+	omen = { discipline = discipline_svalue } #Bonus from Omen
+	religion = ancient_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+
+deity_khastor = { 
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancient_pantheon
+			}
+			deity:omen_khastor = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_khastor
+	passive_modifier = { global_nobles_output = global_nobles_output_svalue }
+	omen = { monthly_wage_modifier = omen_monthly_wage_modifier_svalue } #Bonus from Omen
+	religion = ancient_pantheon
+	deity_category = economy #This Deity uses a economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+
+deity_lumma = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancient_pantheon
+			}
+			deity:omen_lumma = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_lumma
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
+	religion = ancient_pantheon
+	deity_category = fertility #This Deity uses a fertility slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+
+deity_azath = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancient_pantheon
+			}
+			deity:omen_azath = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_azath
+	passive_modifier = { global_pop_conversion_speed_modifier = global_pop_conversion_speed_modifier_svalue }
+	omen = { global_pop_assimilation_speed_modifier = global_pop_assimilation_speed_modifier_svalue } #Bonus from Omen
+	religion = ancient_pantheon
+	deity_category = culture #This Deity uses a culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}

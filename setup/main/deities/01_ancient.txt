@@ -1,0 +1,17 @@
+deity_manager = {
+	deities_database = { ### KEYS 10041-10060 ###
+		10041 = {
+			key = omen_azath
+			deity = deity_azath
+		}
+		10042 = {
+			key = omen_thuulu
+			deity = deity_thuulu
+		}
+		10043 = {
+			key = omen_khastor
+			deity = deity_khastor
+		}
+	}
+}
+

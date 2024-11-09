@@ -1,0 +1,11 @@
+﻿l_english:
+ ## Default ##
+ deity_azath:0 "$omen_azath$"
+ omen_azath:1 "Azath"
+ omen_azath_desc:4 ""
+ deity_thuulu:0 "$omen_thuulu$"
+ omen_thuulu:1 "Thuulu"
+ omen_thuulu_desc:4 ""
+ deity_khastor:0 "$omen_khastor$"
+ omen_khastor:1 "Khastor"
+ omen_khastor_desc:4 ""
