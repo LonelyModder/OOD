@@ -56,6 +56,6 @@ ancient_pantheon = { # Rabisu Faith
 		research_points_modifier = 0.1
 		happiness_for_wrong_culture_group_modifier = -0.05
 	}
-	religion_category = prophets
+	religion_category = pantheon
 	can_deify_ruler = no
 }
