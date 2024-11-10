@@ -1,0 +1,15 @@
+﻿l_english:
+ ## Default ##
+ deity_burkhanswill:0 "$omen_burkhanswill$"
+ omen_burkhanswill:1 "Burkhan's Will"
+ omen_burkhanswill_desc:4 "When the first Shaman received a vision from Burkhan he saw all nations of the earth as the sky god saw them. He saw their pathetic conflicts, seas of bloodshed and lack of compassion. Then he understood that with the grace of heaven his brothers had received a special mission. Ending the quarrels between nations, because with one ruler and one chief deity all could finally experience heavenly harmony. "
+ deity_oathkeeper:0 "$omen_oathkeeper$"
+ omen_oathkeeper:1 "Oath Keeper"
+ omen_oathkeeper_desc:4 "There is little trust between the nomadic clans fighting for the title of the great khan, so if two chieftains wanted to make an agreement, they always reported to the shamans and made a blood oath. This oath is sacred to all believers and breaking it threatens death and destruction for the water and the clan that committed it. The ritual takes place at night with a full moon when the god of the sky is called as a witness and the hand is cut, placing it on the hand of the person with whom we make a pact, who does the same. If there is no such person, we make a pact with a shaman who will be a witness to the oath."
+ deity_rightsofhospitality:0 "$omen_rightsofhospitality$"
+ omen_rightsofhospitality:1 "Skies Hospitality"
+ omen_rightsofhospitality_desc:4 "An important custom is the so-called hospitality. If a nomad treated you to his food in the camp, he became responsible for you as you were for him and from that moment until you left the clan's lands, you were not allowed to do anything more than harm to each other. The person who committed treason usually died soon afterwards in mysterious circumstances."
+ deity_skiesembrace:0 "$omen_skiesembrace$"
+ omen_skiesembrace:1 "Skies Embrace"
+ omen_skiesembrace_desc:4 "The followers of the sky god consider attacking foreign priests an act of cowardice. As long as the followers of a foreign religion do not question the authority of the khan, they are free to practice their beliefs. They were given the status of a subject and, despite minor restrictions, could even occupy high positions in the hierarchy of the khanate."
+ 

@@ -1,0 +1,21 @@
+deity_manager = {
+	deities_database = { ### KEYS 10061-10080 ###
+		10061 = {
+			key = omen_burkhanswill
+			deity = deity_burkhanswill
+		}
+		10062 = {
+			key = omen_oathkeeper
+			deity = deity_oathkeeper
+		}
+		10063 = {
+			key = omen_rightsofhospitality
+			deity = deity_rightsofhospitality
+		}
+		10064 = {
+			key = omen_skiesembrace
+			deity = deity_skiesembrace
+		}
+	}
+}
+

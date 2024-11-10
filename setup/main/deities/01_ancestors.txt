@@ -1,0 +1,21 @@
+deity_manager = {
+	deities_database = { ### KEYS 10081-10100 ###
+		10081 = {
+			key = omen_nikinaka
+			deity = deity_nikinaka
+		}
+		10082 = {
+			key = omen_gidim
+			deity = deity_gidim
+		}
+		10083 = {
+			key = omen_mukusa
+			deity = deity_mukusa
+		}
+		10084 = {
+			key = omen_mawuli
+			deity = deity_mawuli
+		}
+	}
+}
+

@@ -2,106 +2,122 @@
 
 ### Exclusive Deity Checks ###
 
-deity_thuulu = {
+deity_burkhanswill = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
-		OR = {
-			common_deity_trigger = {
-				RELIGION = ancient_pantheon
-			}
-			deity:omen_thuulu = {
-				holy_site_deity_check_trigger = yes
-			}
-		}
+		religion = khorism_pantheon
 	}
-	icon = deity_thuulu
-	passive_modifier = { unit_magaidh_offensive = 0.1 }
-	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
-	religion = ancient_pantheon
+	icon = deity_burkhanswill
+	passive_modifier = { war_score_cost = deity_war_score_cost_svalue }
+	omen = { agressive_expansion_monthly_change = omen_agressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = khorism_pantheon
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
 	on_activate = {
-		military_apotheosis_defensive_effect = yes
+		if = {
+			limit = { manpower_percentage < 0.8 }
+			add_manpower = 1.5
+		}
+		else = {
+			add_military_experience = 2
+		}
 	}
 }
 
-deity_khastor = { 
+deity_oathkeeper = { 
 	trigger = {
-		polytheistic_check_religion_trigger = yes
-		OR = {
-			common_deity_trigger = {
-				RELIGION = ancient_pantheon
-			}
-			deity:omen_khastor = {
-				holy_site_deity_check_trigger = yes
-			}
-		}
+		religion = khorism_pantheon
 	}
-	icon = deity_khastor
-	passive_modifier = { global_nobles_output = deity_global_nobles_output_svalue }
-	omen = { monthly_wage_modifier = omen_monthly_wage_modifier_svalue } #Bonus from Omen
-	religion = ancient_pantheon
+	icon = deity_oathkeeper
+	passive_modifier = { diplomatic_reputation = deity_diplomatic_reputation_svalue }
+	omen = { global_commerce_modifier = omen_global_commerce_modifier_svalue } #Bonus from Omen
+	religion = khorism_pantheon
 	deity_category = economy #This Deity uses a economy slot.
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
 	on_activate = {
-		economy_apotheosis_province_improvement_effect = yes
+		capital_scope = {
+			create_2_citizens_effect = yes
+		}
 	}
 }
 
-deity_yathis = {
+deity_rightsofhospitality = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
-		OR = {
-			common_deity_trigger = {
-				RELIGION = ancient_pantheon
-			}
-			deity:omen_yathis = {
-				holy_site_deity_check_trigger = yes
-			}
-		}
+		religion = khorism_pantheon
 	}
-	icon = deity_yathis
-	passive_modifier = { happyness_for_wrong_culture_group_modifier = deity_happiness_for_wrong_culture_group_modifier_svalue }
+	icon = deity_rightsofhospitality
+	passive_modifier = { tribesmen_happiness = global_tribesmen_happiness_svalue }
 	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
-	religion = ancient_pantheon
+	religion = khorism_pantheon
 	deity_category = fertility #This Deity uses a fertility slot.
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
 	on_activate = {
-		fertility_apotheosis_capital_effect = yes
-	}
-}
-
-deity_azath = {
-	trigger = {
-		polytheistic_check_religion_trigger = yes
-		OR = {
-			common_deity_trigger = {
-				RELIGION = ancient_pantheon
+		if = {
+			limit = {
+				exists = scope:deified_ruler
+				any_owned_province = {
+					any_pops_in_province = {
+						NOT = {
+							pop_religion = scope:deified_ruler.religion 
+						}
+					}
+				}
 			}
-			deity:omen_azath = {
-				holy_site_deity_check_trigger = yes
+			custom_tooltip = convert_pops_omen
+		}
+		hidden_effect = {
+			while = {
+				count = 5
+				limit = {
+					exists = scope:deified_ruler
+					any_owned_province = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = scope:deified_ruler.religion 
+							}
+						}
+					}
+				}
+				random_owned_province = {
+					limit = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = scope:deified_ruler.religion 
+							}
+						}
+					}
+					random_pops_in_province = {
+						limit = {
+							NOT = {
+								pop_religion = scope:deified_ruler.religion 
+							}
+						}
+						set_pop_religion = scope:deified_ruler.religion
+					}
+				}
 			}
 		}
 	}
-	icon = deity_azath
-	passive_modifier = { global_pop_conversion_speed_modifier = deity_global_pop_conversion_speed_modifier_svalue }
-	omen = { global_pop_assimilation_speed_modifier = omen_global_pop_assimilation_speed_modifier_svalue } #Bonus from Omen
-	religion = ancient_pantheon
+}
+
+deity_skiesembrace = {
+	trigger = {
+		religion = khorism_pantheon
+	}
+	icon = deity_skiesembrace
+	passive_modifier = { happiness_for_wrong_culture_group_modifier = deity_happiness_for_wrong_culture_group_modifier_svalue }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
+	religion = khorism_pantheon
 	deity_category = culture #This Deity uses a culture slot.
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
 	on_activate = {
-		culture_apotheosis_capital_effect = yes
+		add_1_free_province_investments = yes
 	}
 }

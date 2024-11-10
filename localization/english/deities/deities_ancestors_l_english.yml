@@ -1,0 +1,14 @@
+﻿l_english:
+ ## Default ##
+ deity_nikinaka:0 "$omen_nikinaka$"
+ omen_nikinaka:1 "Nikatar"
+ omen_nikinaka_desc:4 ""
+ deity_gidim:0 "$omen_gidim$"
+ omen_gidim:1 "Gidim"
+ omen_gidim_desc:4 ""
+ deity_mukusa:0 "$omen_mukusa$"
+ omen_mukusa:1 "Mukusa"
+ omen_mukusa_desc:4 ""
+ deity_mawuli:0 "$omen_mawuli$"
+ omen_mawuli:1 "Mawuli"
+ omen_mawuli_desc:4 ""

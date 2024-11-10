@@ -1,0 +1,107 @@
+﻿### General Deity Checks ###
+
+### Exclusive Deity Checks ###
+
+deity_nikinaka = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancestors_pantheon
+			}
+			deity:omen_nikinaka = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_nikinaka
+	passive_modifier = { global_cohort_start_experience = deity_global_cohort_start_experience_svalue }
+	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = ancestors_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+
+deity_gidim = { 
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancestors_pantheon
+			}
+			deity:omen_gidim = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_gidim
+	passive_modifier = { civic_tech_investment = deity_civic_tech_investment_svalue }
+	omen = { monthly_corruption = omen_monthly_corruption } #Bonus from Omen
+	religion = ancestors_pantheon
+	deity_category = economy #This Deity uses a economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+
+deity_mukusa = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancestors_pantheon
+			}
+			deity:omen_mukusa = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_mukusa
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = ancestors_pantheon
+	deity_category = fertility #This Deity uses a fertility slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+
+deity_mawuli = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ancestors_pantheon
+			}
+			deity:omen_mawuli = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_mawuli
+	passive_modifier = { monthly_tyranny = deity_monthly_tyranny_svalue }
+	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
+	religion = ancestors_pantheon
+	deity_category = culture #This Deity uses a culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
