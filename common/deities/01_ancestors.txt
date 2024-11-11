@@ -94,7 +94,7 @@ deity_mawuli = {
 	}
 	icon = deity_mawuli
 	passive_modifier = { monthly_tyranny = deity_monthly_tyranny_svalue }
-	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
 	religion = ancestors_pantheon
 	deity_category = culture #This Deity uses a culture slot.
 	deification_trigger = {
