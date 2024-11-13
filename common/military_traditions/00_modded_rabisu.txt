@@ -1,0 +1,76 @@
+﻿enukku_philosophy = { 
+	color = hsv { 1.1 1 0.5 }
+	image = rabisu_philosophy
+	
+	allow = {
+		trigger_if = {
+			limit = { 
+					country_culture_group = rabisu
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = rabisu
+		}
+		trigger_else_if = {
+			limit = {
+				AND = {
+					OR = {
+						has_military_bonus = argonian_states_path_end_bonus
+						has_military_bonus = orcish_states_path_end_bonus
+					}
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:rabisu
+					}
+				}
+			}
+			
+			AND = {
+				OR = {
+					has_military_bonus = argonian_states_path_end_bonus
+					has_military_bonus = orcish_states_path_end_bonus
+				}
+				any_country_culture = {
+					custom_tooltip = {
+						text = tradition_unlock_requirement_short
+						is_integrated = yes
+						this.culture.culture_group = culture_group:rabisu
+					}
+				}
+			}
+		}
+		trigger_else = {
+			AND = {
+				OR = {
+					has_military_bonus = argonian_states_path_end_bonus
+					has_military_bonus = orcish_states_path_end_bonus
+				}
+				custom_tooltip = {
+					text = "tradition_unlock_requirement_rabisu"
+					any_country_culture = {
+						is_integrated = yes
+						this.culture.culture_group = culture_group:rabisu
+					}
+				}
+			}
+		}
+	}
+	
+	rabisu_path_1 = { ###altmer path
+		modifier = { 
+			unit_laochra_offensive = 0.1
+		}
+		enable_tactic = greek_phalanx
+		icon = rabisu_mini_trad
+		requires = {}
+	}
+	#rabisu_states_path_end_bonus = {
+	#	modifier = { 
+	#		lv_raiders_offensive = 0.15
+	#		ocean_combat_bonus = 0.2
+	#	}
+	#	requires = { rabisu_path_6a rabisu_path_4b } 
+	#	icon = moarmer_mini_trad 
+	#}
+}

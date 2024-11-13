@@ -4,8 +4,25 @@
  ######
  enukku_philosophy:1 "Annunaki Traditions"
  enukku_philosophydesc:3 ""
- tradition_unlock_requirement_enukku:0 "You don't have enough of enukku to unlock the tradition or they are not integrated culture. "
+ tradition_unlock_requirement_enukku:0 "You don't have enough of Annunaki to unlock the tradition or they are not integrated culture. "
  #Traditions
  enukku_path_1:0 "TMP"
  enukku_path_1_desc:0 "TMP"
- 
+ ######
+ #####Ekimmu
+ ######
+ ekimmu_philosophy:1 "Ekimmu Traditions"
+ ekimmu_philosophydesc:3 ""
+ tradition_unlock_requirement_ekimmu:0 "You don't have enough of Ekimmu to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ ekimmu_path_1:0 "TMP"
+ ekimmu_path_1_desc:0 "TMP"
+ ######
+ #####Rabisu
+ ######
+ rabisu_philosophy:1 "Rabisu Traditions"
+ rabisu_philosophydesc:3 ""
+ tradition_unlock_requirement_rabisu:0 "You don't have enough of Rabisu to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ rabisu_path_1:0 "TMP"
+ rabisu_path_1_desc:0 "TMP"
