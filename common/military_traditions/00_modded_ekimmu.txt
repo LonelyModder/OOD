@@ -66,12 +66,11 @@
 		requires = {}
 	}
 	
-	#ekimmu_states_path_end_bonus = {
-	#	modifier = { 
-	#		lv_raiders_offensive = 0.15
-	#		ocean_combat_bonus = 0.2
-	#	}
-	#	requires = { ekimmu_path_6a ekimmu_path_4b } 
-	#	icon = moarmer_mini_trad 
-	#}
+	ekimmu_states_path_end_bonus = {
+		modifier = { 
+			lv_saighdiuir_offensive = 0.1
+		}
+		requires = { ekimmu_path_1 } 
+		icon = moarmer_mini_trad 
+	}
 }

@@ -1,4 +1,4 @@
-﻿enukku_philosophy = { 
+﻿rabisu_philosophy = { 
 	color = hsv { 1.1 1 0.5 }
 	image = rabisu_philosophy
 	
@@ -65,12 +65,11 @@
 		icon = rabisu_mini_trad
 		requires = {}
 	}
-	#rabisu_states_path_end_bonus = {
-	#	modifier = { 
-	#		lv_raiders_offensive = 0.15
-	#		ocean_combat_bonus = 0.2
-	#	}
-	#	requires = { rabisu_path_6a rabisu_path_4b } 
-	#	icon = moarmer_mini_trad 
-	#}
+	rabisu_states_path_end_bonus = {
+		modifier = { 
+			unit_laochra_offensive = 0.15
+		}
+		requires = { rabisu_path_1 } 
+		icon = moarmer_mini_trad 
+	}
 }

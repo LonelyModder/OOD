@@ -176,7 +176,7 @@
 			lv_pana_offensive = 0.15
 			ocean_combat_bonus = 0.2
 		}
-		requires = { annunaki_path_4a annunaki_path_6b } 
-		icon = moarmer_mini_trad 
+		requires = { enukku_path_4a enukku_path_6b } 
+		icon = enukku_mini_trad 
 	}
 }
