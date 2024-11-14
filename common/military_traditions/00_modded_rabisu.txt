@@ -5,7 +5,7 @@
 	allow = {
 		trigger_if = {
 			limit = { 
-					country_culture_group = rabisu
+				country_culture_group = rabisu
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"

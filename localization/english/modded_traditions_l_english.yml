@@ -2,12 +2,30 @@
  ######
  #####Annunaki
  ######
- enukku_philosophy:1 "Annunaki Traditions"
- enukku_philosophydesc:3 ""
+ enukku_philosophy:1 "Enukku Traditions"
+ enukku_philosophydesc:3 "Since the fall of their empire children of Anu changed their strategy to better protect their new island home relying more on sea power than land armies."
  tradition_unlock_requirement_enukku:0 "You don't have enough of Annunaki to unlock the tradition or they are not integrated culture. "
  #Traditions
- enukku_path_1:0 "TMP"
- enukku_path_1_desc:0 "TMP"
+ enukku_path_1:0 "Guards"
+ enukku_path_1_desc:0 "Equiped in spears, short swords and large round shields heavily armed warriors moving in tight formation look scary enaugh but when you realize that they are taller than you and way stronger the psychological effect is usually enaugh to make enemy run for his life."
+ enukku_path_2:0 "Gift of Nature"
+ enukku_path_2_desc:0 "The isle of Dilmun is the biggest source of tin in the entire Tilasar. Free access to ore has made the Annunaki highly advanced in metallurgy. Their weapons and armor are unmatched in the known world. The secrets of if creation are one of the most closely guarded secrets of the island."
+ enukku_path_3:0 "Sight of the Gods"
+ enukku_path_3_desc:0 "The golden glowing eyes of enukku are not only their recognizable feature but also have very useful functions. Among other things, they allow you to see in the dark and much further than human eyes. Archers from Dilmun are trained from childhood, and since enukku live longer than humans, they have more experience than them."
+ enukku_path_3a:0 "Spearwall"
+ enukku_path_3a_desc:0 "Urudu or Spearmen as they are commonly known are usually the most experienced warriors in the Dilmunite forces. They make sure the enemy will not be able to outflank them. They take position behind and in the flanks of the formation and from the lack of horses on the isle they fight on foot with spearmen in the front and archers in the back. "
+ enukku_path_4a:0 "Knowledge of the Ages"
+ enukku_path_4a_desc:0 "Every Enukku chooses a craft he perfects throuthout his life. Some of them dedicate their lives to perfect the machines of war. When on the continent the primitive siege tower is the best thing they can come up with enukku use catapults and dragonfire. Special substance that burns even when poured with water."
+ enukku_path_3b:0 "Dilmun"
+ enukku_path_3b_desc:0 "Dilmun is the largest known isle and a home to the most annunaki in Tilasar. Because of that most of enukku lives in close proximity to the sea and has at least basic experience with navigating a boat. They were the first to use stars to navigate the seas and the magnet to keep their course even when stars are covered with clouds."
+ enukku_path_4b:0 "Rebelious Subjects"
+ enukku_path_4b_desc:0 "Thou enukku have been expelled from the eastern continent which cause their distrust towards humans they still need labour force. People perform all trivial or laborious occupations, from farming to palace service. Annunaki sent yearly raiding parties to bring new slaves to the isle. "
+ enukku_path_5b:0 "Fire Ships"
+ enukku_path_5b_desc:0 "Annunaki are known for placing various siege weapons on board their ships. They even managed to invent a catapult able to shoot with flamable substances without burning the ship."
+ enukku_path_6b:0 "Deep Seas"
+ enukku_path_6b_desc:0 "To sail on high seas you need bigger vassels than simple galleys. Thats why annunaki ships have special wooden accessory in the shape of a sword mounted under the ship that stabilizes it in high waves."
+ enukku_states_path_end_bonus:0 "Masters of the Five Seas"
+ enukku_states_path_end_bonus_desc:0 "Since the arrival the sea was the real home of the enukku. It fed them and in the time of e=need protected them. It also gave them strength to face their enemies. Who controls the seas controls Tilasar."
  ######
  #####Ekimmu
  ######

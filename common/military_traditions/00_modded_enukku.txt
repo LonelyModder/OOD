@@ -5,7 +5,7 @@
 	allow = {
 		trigger_if = {
 			limit = { 
-					country_culture_group = annunaki
+				country_culture_group = annunaki
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
@@ -16,8 +16,8 @@
 			limit = {
 				AND = {
 					OR = {
-						has_military_bonus = argonian_states_path_end_bonus
-						has_military_bonus = orcish_states_path_end_bonus
+						has_military_bonus = ekimmu_states_path_end_bonus
+						has_military_bonus = rabisu_states_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -28,8 +28,8 @@
 			
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = rabisu_states_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
@@ -43,8 +43,8 @@
 		trigger_else = {
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = rabisu_states_path_end_bonus
 				}
 				custom_tooltip = {
 					text = "tradition_unlock_requirement_enukku"
@@ -60,6 +60,7 @@
 	enukku_path_1 = { ###altmer path
 		modifier = { 
 			unit_gudu_discipline = 0.1
+			unit_gudu_offensive = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = enukku_mini_trad
@@ -68,27 +69,114 @@
 	
 	enukku_path_2 = { ###altmer path
 		modifier = { 
-			unit_pana_discipline = 0.1
-			unit_pana_offensive = 0.1
+			unit_gudu_defensive = 0.1
+			unit_pana_defensive = 0.1
+			unit_urudu_defensive = 0.1
 		}
 		icon = enukku_mini_trad
 		requires = {enukku_path_1}
 	}
 	
-	enukku_path_2a = { ###altmer path
+	enukku_path_3 = { ###altmer path
 		modifier = { 
-			unit_urudu_discipline = 0.1
+			unit_pana_discipline = 0.1
+			unit_pana_offensive = 0.1
+			unit_pana_cost = -0.1
 		}
 		icon = enukku_mini_trad
 		requires = {enukku_path_2}
 	}
 	
-	#annunaki_states_path_end_bonus = {
-	#	modifier = { 
-	#		lv_raiders_offensive = 0.15
-	#		ocean_combat_bonus = 0.2
-	#	}
-	#	requires = { annunaki_path_6a annunaki_path_4b } 
-	#	icon = moarmer_mini_trad 
-	#}
+	enukku_path_3a = { ###altmer path
+		modifier = { 
+			unit_urudu_discipline = 0.1
+			unit_urudu_offensive = 0.1
+		}
+		icon = enukku_mini_trad
+		requires = {enukku_path_3}
+	}
+	
+	enukku_path_4a = { ###altmer path
+		modifier = { 
+			siege_ability = 0.1
+			supply_train_cost = -0.15
+			engineer_cohort_cost = -0.15
+		}
+		icon = enukku_mini_trad
+		requires = {enukku_path_3a}
+	}
+	
+	enukku_path_3b = { ###altmer path
+		modifier = { 
+			ocean_combat_bonus = 0.2
+			global_ship_recruit_speed = 0.15 
+		}
+		icon = enukku_mini_trad
+		requires = {enukku_path_3}
+	}
+	
+	enukku_path_4b = { ###altmer path
+		modifier = { 
+			enslavement_efficiency = 0.1
+		}
+		enable_ability = naval_raiding
+		icon = enukku_mini_trad
+		requires = {enukku_path_3b}
+	}
+	
+	enukku_path_5b = { ###altmer path
+		modifier = { 
+			naval_damage_done = 0.1
+		}
+		allow_unit_type = octere
+		on_activate = {
+			random_owned_province = {
+				limit = {
+					num_of_port_building > 0 
+				}
+				owner = {
+					create_unit = {
+						navy = yes
+						location = prev.prev
+						add_subunit = octere
+						add_subunit = octere
+					}
+				}
+			}
+		}
+		icon = enukku_mini_trad
+		requires = {enukku_path_4b}
+	}
+	
+	enukku_path_6b = { ###altmer path
+		modifier = { 
+			ocean_combat_bonus = 0.2
+		}
+		allow_unit_type = mega_galley
+		on_activate = {
+			random_owned_province = {
+				limit = {
+					num_of_port_building > 0 
+				}
+				owner = {
+					create_unit = {
+						navy = yes
+						location = prev.prev
+						add_subunit = mega_galley
+					}
+				}
+			}
+		}
+		icon = enukku_mini_trad
+		requires = {enukku_path_5b}
+	}
+	
+	enukku_states_path_end_bonus = {
+		modifier = { 
+			lv_pana_offensive = 0.15
+			ocean_combat_bonus = 0.2
+		}
+		requires = { annunaki_path_4a annunaki_path_6b } 
+		icon = moarmer_mini_trad 
+	}
 }
