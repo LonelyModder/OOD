@@ -59,16 +59,62 @@
 	
 	ekimmu_path_1 = { ###altmer path
 		modifier = { 
-			unit_saighdiuir_defensive = 0.1
+			unit_saighdiuir_offensive = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = ekimmu_mini_trad
 		requires = {}
 	}
 	
+	ekimmu_path_2 = { ###altmer path
+		modifier = { 
+			unit_magaidh_offensive = 0.1
+			siege_ability = 0.1
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_1}
+	}
+	
+	ekimmu_path_2a = { ###altmer path
+		modifier = { 
+			unit_mushusshu_offensive = 0.2
+			siege_ability = 0.1
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_2}
+	}
+	
+	ekimmu_path_3a = { ###altmer path
+		modifier = { 
+			unit_laochra_offensive = 0.2
+			unit_saighdeoir_offensive = 0.2
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_2a}
+	}
+	
+	ekimmu_path_2b = { ###altmer path
+		modifier = { 
+			siege_engineers = 1
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_2}
+		on_activate = {
+			add_innovation = 3
+		}
+	}
+	
+	ekimmu_path_3b = { ###altmer path
+		modifier = { 
+			
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_2b}
+	}
+	
 	ekimmu_states_path_end_bonus = {
 		modifier = { 
-			lv_saighdiuir_offensive = 0.1
+			unit_magaidh_offensive = 0.1
 		}
 		requires = { ekimmu_path_1 } 
 		icon = moarmer_mini_trad 
