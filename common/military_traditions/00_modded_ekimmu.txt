@@ -60,16 +60,15 @@
 	ekimmu_path_1 = { ###altmer path
 		modifier = { 
 			unit_saighdiuir_offensive = 0.1
+			unit_saighdiuir_discipline = 0.1
 		}
-		enable_tactic = greek_phalanx
 		icon = ekimmu_mini_trad
 		requires = {}
 	}
 	
 	ekimmu_path_2 = { ###altmer path
 		modifier = { 
-			unit_magaidh_offensive = 0.1
-			siege_ability = 0.1
+			unit_magaidh_offensive = 0.2
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_1}
@@ -77,8 +76,7 @@
 	
 	ekimmu_path_2a = { ###altmer path
 		modifier = { 
-			unit_mushusshu_offensive = 0.2
-			siege_ability = 0.1
+			unit_mushusshu_discipline = 0.1
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_2}
@@ -86,8 +84,28 @@
 	
 	ekimmu_path_3a = { ###altmer path
 		modifier = { 
-			unit_laochra_offensive = 0.2
-			unit_saighdeoir_offensive = 0.2
+			discipline = 0.1
+		}
+		enable_tactic = triplex_acies
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_2a}
+	}
+	
+	ekimmu_path_4a = { ###altmer path
+		modifier = { 
+			unit_mushusshu_offensive = 0.1
+			unit_magaidh_offensive = 0.1
+			siege_ability = 0.1
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_3a}
+	}
+	
+	ekimmu_path_2c = { ###altmer path
+		modifier = { 
+			unit_laochra_discipline = 0.1
+			unit_laochra_offensive = 0.1
+			unit_saighdeoir_offensive = 0.1
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_2a}
@@ -95,28 +113,45 @@
 	
 	ekimmu_path_2b = { ###altmer path
 		modifier = { 
-			siege_engineers = 1
+			fort_limit = 1
+		}
+		on_activate = {
+			capital_scope = {
+				add_building_level = fortress_building
+			}
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_2}
-		on_activate = {
-			add_innovation = 3
-		}
 	}
 	
 	ekimmu_path_3b = { ###altmer path
-		modifier = { 
-			
+		modifier = {
+			siege_engineers = 1
+			cave_combat_bonus = 0.1
+		}
+		on_activate = {
+			add_innovation = 3
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_2b}
 	}
 	
+	ekimmu_path_4b = { ###altmer path
+		modifier = {
+			siege_ability = 0.1
+			engineer_cohort_cost = -0.15
+			hall_combat_bonus = 0.1
+		}
+		icon = ekimmu_mini_trad
+		requires = {ekimmu_path_3b}
+	}
+	
 	ekimmu_states_path_end_bonus = {
 		modifier = { 
-			unit_magaidh_offensive = 0.1
+			unit_magaidh_offensive = 0.2
+			hall_combat_bonus = 0.1
 		}
-		requires = { ekimmu_path_1 } 
+		requires = { ekimmu_path_4a ekimmu_path_4b ekimmu_path_2c} 
 		icon = moarmer_mini_trad 
 	}
 }
