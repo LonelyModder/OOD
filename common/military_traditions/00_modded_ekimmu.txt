@@ -152,6 +152,6 @@
 			hall_combat_bonus = 0.1
 		}
 		requires = { ekimmu_path_4a ekimmu_path_4b ekimmu_path_2c} 
-		icon = moarmer_mini_trad 
+		icon = ekimmu_mini_trad 
 	}
 }

@@ -1,16 +1,16 @@
-﻿rabisu_philosophy = { 
+﻿kurgunese_philosophy = { 
 	color = hsv { 1.1 1 0.5 }
-	image = rabisu_philosophy
+	image = kengiri_philosophy
 	
 	allow = {
 		trigger_if = {
 			limit = { 
-				country_culture_group = rabisu
+				country_culture_group = kengiri
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = rabisu
+			country_culture_group = kengiri
 		}
 		trigger_else_if = {
 			limit = {
@@ -21,7 +21,7 @@
 					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:rabisu
+						this.culture.culture_group = culture_group:kengiri
 					}
 				}
 			}
@@ -35,7 +35,7 @@
 					custom_tooltip = {
 						text = tradition_unlock_requirement_short
 						is_integrated = yes
-						this.culture.culture_group = culture_group:rabisu
+						this.culture.culture_group = culture_group:kengiri
 					}
 				}
 			}
@@ -47,48 +47,30 @@
 					has_military_bonus = orcish_states_path_end_bonus
 				}
 				custom_tooltip = {
-					text = "tradition_unlock_requirement_rabisu"
+					text = "tradition_unlock_requirement_kengiri"
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:rabisu
+						this.culture.culture_group = culture_group:kengiri
 					}
 				}
 			}
 		}
 	}
 	
-	rabisu_path_1 = { ###altmer path
+	kurgunese_path_1 = { ###altmer path
 		modifier = { 
 			unit_laochra_offensive = 0.1
 		}
-		icon = rabisu_mini_trad
+		icon = kurgunese_mini_trad
 		requires = {}
 	}
 	
-	rabisu_path_2 = { ###altmer path
-		modifier = { 
-			unit_sealgair_offensive = 0.1
-			enslavement_efficiency = 0.05
-		}
-		icon = rabisu_mini_trad
-		requires = {rabisu_path_1}
-	}
-	
-	rabisu_path_3 = { ###altmer path
-		modifier = { 
-			cave_combat_bonus = 0.1
-			mountain_combat_bonus = 0.1
-		}
-		icon = rabisu_mini_trad
-		requires = {rabisu_path_2}
-	}
-	
-	rabisu_states_path_end_bonus = {
+	kurgunese_states_path_end_bonus = {
 		modifier = { 
 			unit_laochra_offensive = 0.15
 			cave_combat_bonus = 0.2
 		}
-		requires = { rabisu_path_1 } 
-		icon = rabisu_mini_trad 
+		requires = { kurgunese_path_1 } 
+		icon = kurgunese_mini_trad 
 	}
 }
