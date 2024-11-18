@@ -16,8 +16,12 @@
 			limit = {
 				AND = {
 					OR = {
-						has_military_bonus = argonian_states_path_end_bonus
-						has_military_bonus = orcish_states_path_end_bonus
+						has_military_bonus = enukku_states_path_end_bonus
+						has_military_bonus = ekimmu_states_path_end_bonus
+						has_military_bonus = rabisu_states_path_end_bonus
+						has_military_bonus = sahargali_states_path_end_bonus
+						has_military_bonus = kurgunese_states_path_end_bonus
+						has_military_bonus = gardan_states_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -28,8 +32,12 @@
 			
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = enukku_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = rabisu_states_path_end_bonus
+					has_military_bonus = sahargali_states_path_end_bonus
+					has_military_bonus = kurgunese_states_path_end_bonus
+					has_military_bonus = gardan_states_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
@@ -43,8 +51,12 @@
 		trigger_else = {
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = enukku_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = rabisu_states_path_end_bonus
+					has_military_bonus = sahargali_states_path_end_bonus
+					has_military_bonus = kurgunese_states_path_end_bonus
+					has_military_bonus = gardan_states_path_end_bonus
 				}
 				custom_tooltip = {
 					text = "tradition_unlock_requirement_nuban"

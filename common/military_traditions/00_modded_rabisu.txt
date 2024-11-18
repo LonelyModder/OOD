@@ -16,8 +16,12 @@
 			limit = {
 				AND = {
 					OR = {
-						has_military_bonus = argonian_states_path_end_bonus
-						has_military_bonus = orcish_states_path_end_bonus
+						has_military_bonus = enukku_states_path_end_bonus
+						has_military_bonus = ekimmu_states_path_end_bonus
+						has_military_bonus = sahargali_states_path_end_bonus
+						has_military_bonus = kurgunese_states_path_end_bonus
+						has_military_bonus = gardan_states_path_end_bonus
+						has_military_bonus = nuban_states_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -28,8 +32,12 @@
 			
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = enukku_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = sahargali_states_path_end_bonus
+					has_military_bonus = kurgunese_states_path_end_bonus
+					has_military_bonus = gardan_states_path_end_bonus
+					has_military_bonus = nuban_states_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
@@ -43,8 +51,12 @@
 		trigger_else = {
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = enukku_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = sahargali_states_path_end_bonus
+					has_military_bonus = kurgunese_states_path_end_bonus
+					has_military_bonus = gardan_states_path_end_bonus
+					has_military_bonus = nuban_states_path_end_bonus
 				}
 				custom_tooltip = {
 					text = "tradition_unlock_requirement_rabisu"
@@ -70,6 +82,7 @@
 			unit_sealgair_offensive = 0.1
 			enslavement_efficiency = 0.05
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = rabisu_mini_trad
 		requires = {rabisu_path_1}
 	}
@@ -81,6 +94,45 @@
 		}
 		icon = rabisu_mini_trad
 		requires = {rabisu_path_2}
+	}
+	
+	rabisu_path_3a = { ###altmer path
+		modifier = { 
+			army_movement_speed = 0.2
+			movement_speed_if_no_road = 0.2
+		}
+		icon = rabisu_mini_trad
+		requires = {rabisu_path_3}
+	}
+	
+	rabisu_path_4a = { ###altmer path
+		modifier = { 
+			unit_saighdeoir_morale = 0.1
+			unit_saighdeoir_offensive = 0.1
+		}
+		icon = rabisu_mini_trad
+		requires = {rabisu_path_3a}
+	}
+	
+	rabisu_path_5a = { ###altmer path
+		modifier = { 
+			land_morale_modifier = 0.1
+		}
+		icon = rabisu_mini_trad
+		requires = {rabisu_path_4a}
+	}
+	
+	rabisu_path_3b = { ###altmer path
+		modifier = { 
+			fort_limit = 1
+		}
+		on_activate = {
+			capital_scope = {
+				add_building_level = fortress_building
+			}
+		}
+		icon = rabisu_mini_trad
+		requires = {rabisu_path_3}
 	}
 	
 	rabisu_states_path_end_bonus = {

@@ -5,37 +5,57 @@
 	allow = {
 		trigger_if = {
 			limit = { 
-				country_culture_group = kengiri
+				OR = {
+					country_culture_group = kengiri
+					country_culture_group = susigu
+				}
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = kengiri
+			OR = {
+				country_culture_group = kengiri
+				country_culture_group = susigu
+			}
 		}
 		trigger_else_if = {
 			limit = {
 				AND = {
 					OR = {
-						has_military_bonus = argonian_states_path_end_bonus
-						has_military_bonus = orcish_states_path_end_bonus
+						has_military_bonus = enukku_states_path_end_bonus
+						has_military_bonus = ekimmu_states_path_end_bonus
+						has_military_bonus = rabisu_states_path_end_bonus
+						has_military_bonus = sahargali_states_path_end_bonus
+						has_military_bonus = gardan_states_path_end_bonus
+						has_military_bonus = nuban_states_path_end_bonus
 					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:kengiri
+						OR = {
+							this.culture.culture_group = culture_group:kengiri
+							this.culture.culture_group = culture_group:susigu
+						}	
 					}
 				}
 			}
 			
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = enukku_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = rabisu_states_path_end_bonus
+					has_military_bonus = sahargali_states_path_end_bonus
+					has_military_bonus = gardan_states_path_end_bonus
+					has_military_bonus = nuban_states_path_end_bonus
 				}
 				any_country_culture = {
 					custom_tooltip = {
 						text = tradition_unlock_requirement_short
 						is_integrated = yes
-						this.culture.culture_group = culture_group:kengiri
+						OR = {
+							this.culture.culture_group = culture_group:kengiri
+							this.culture.culture_group = culture_group:susigu
+						}
 					}
 				}
 			}
@@ -43,14 +63,21 @@
 		trigger_else = {
 			AND = {
 				OR = {
-					has_military_bonus = argonian_states_path_end_bonus
-					has_military_bonus = orcish_states_path_end_bonus
+					has_military_bonus = enukku_states_path_end_bonus
+					has_military_bonus = ekimmu_states_path_end_bonus
+					has_military_bonus = rabisu_states_path_end_bonus
+					has_military_bonus = sahargali_states_path_end_bonus
+					has_military_bonus = gardan_states_path_end_bonus
+					has_military_bonus = nuban_states_path_end_bonus
 				}
 				custom_tooltip = {
 					text = "tradition_unlock_requirement_kengiri"
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:kengiri
+						OR = {
+							this.culture.culture_group = culture_group:kengiri
+							this.culture.culture_group = culture_group:susigu
+						}
 					}
 				}
 			}

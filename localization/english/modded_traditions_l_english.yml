@@ -57,8 +57,53 @@
  #####Rabisu
  ######
  rabisu_philosophy:1 "Rabisu Traditions"
- rabisu_philosophydesc:3 ""
+ rabisu_philosophydesc:3 "Monsters, demons, barbarians, living killing machines created by the ekimmu for one purpose To destroy Annunaki and their human subjects. Their bodies themselves are created for combat. They know no mercy because they will not receive it. They are ultimate nightmare of Nibiru."
  tradition_unlock_requirement_rabisu:0 "You don't have enough of Rabisu to unlock the tradition or they are not integrated culture. "
  #Traditions
  rabisu_path_1:0 "TMP"
  rabisu_path_1_desc:0 "TMP"
+ ######
+ #####Sahargali
+ ######
+ sahargali_philosophy:1 "Rabisu Traditions"
+ sahargali_philosophydesc:3 ""
+ tradition_unlock_requirement_sahargali:0 "You don't have enough of Salgarans or Meded to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ sahargali_path_1:0 "TMP"
+ sahargali_path_1_desc:0 "TMP"
+ ######
+ #####Kurgunese
+ ######
+ kurgunese_philosophy:1 "Kurgunese Traditions"
+ kurgunese_philosophydesc:3 ""
+ tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Susigu to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ kurgunese_path_1:0 "TMP"
+ kurgunese_path_1_desc:0 "TMP"
+ ######
+ #####Kurgunese
+ ######
+ kurgunese_philosophy:1 "Kurgunese Traditions"
+ kurgunese_philosophydesc:3 ""
+ tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Susigu to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ kurgunese_path_1:0 "TMP"
+ kurgunese_path_1_desc:0 "TMP"
+ ######
+ #####Gardani
+ ######
+ gardan_philosophy:1 "Gardan Traditions"
+ gardan_philosophydesc:3 ""
+ tradition_unlock_requirement_kurgunese:0 "You don't have enough of Gardanians to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ gardan_path_1:0 "TMP"
+ gardan_path_1_desc:0 "TMP"
+ ######
+ #####Nuban
+ ######
+ nuban_philosophy:1 "Nuban Traditions"
+ nuban_philosophydesc:3 ""
+ tradition_unlock_requirement_kurgunese:0 "You don't have enough of Nubans to unlock the tradition or they are not integrated culture. "
+ #Traditions
+ nuban_path_1:0 "TMP"
+ nuban_path_1_desc:0 "TMP"
