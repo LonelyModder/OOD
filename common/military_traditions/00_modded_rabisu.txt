@@ -72,6 +72,7 @@
 	rabisu_path_1 = { ###altmer path
 		modifier = { 
 			unit_laochra_offensive = 0.1
+			cave_combat_bonus = 0.1
 		}
 		icon = rabisu_mini_trad
 		requires = {}
@@ -89,7 +90,7 @@
 	
 	rabisu_path_3 = { ###altmer path
 		modifier = { 
-			cave_combat_bonus = 0.1
+			unit_laochra_discipline = 0.1
 			mountain_combat_bonus = 0.1
 		}
 		icon = rabisu_mini_trad
@@ -133,6 +134,23 @@
 		}
 		icon = rabisu_mini_trad
 		requires = {rabisu_path_3}
+	}
+	
+	rabisu_path_4b = { ###altmer path
+		modifier = { 
+			global_cohort_start_experience = 5
+			experience_decay = -0.005
+		}
+		icon = rabisu_mini_trad
+		requires = {rabisu_path_3b}
+	}
+	
+	rabisu_path_5b = { ###altmer path
+		modifier = { 
+			siege_ability = 0.1
+		}
+		icon = rabisu_mini_trad
+		requires = {rabisu_path_4b}
 	}
 	
 	rabisu_states_path_end_bonus = {

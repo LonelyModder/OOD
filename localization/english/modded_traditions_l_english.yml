@@ -60,12 +60,30 @@
  rabisu_philosophydesc:3 "Monsters, demons, barbarians, living killing machines created by the ekimmu for one purpose To destroy Annunaki and their human subjects. Their bodies themselves are created for combat. They know no mercy because they will not receive it. They are ultimate nightmare of Nibiru."
  tradition_unlock_requirement_rabisu:0 "You don't have enough of Rabisu to unlock the tradition or they are not integrated culture. "
  #Traditions
- rabisu_path_1:0 "TMP"
- rabisu_path_1_desc:0 "TMP"
+ rabisu_path_1:0 "Dread from Below"
+ rabisu_path_1_desc:0 "Arm Beo as they former masters called them thou the name taken from the monster tales for children is also fitting. They do not have horns but like to wear them to battle for psychological effect. Rabisu are stronger than other races and wounds that could have killed a human are mearly a scratch for them. They also share the distaste for the daylight with their Ekimmu creators."
+ rabisu_path_2:0 "Green Menace"
+ rabisu_path_2_desc:0 "Especially in the visinity of mountain ranges the Rabisu attacks are to be expected. The raiders will take everything that is not nailed to a wall including captives. Sometimes there are even traces of canibalism so at least some tribes practice it."
+ rabisu_path_3:0 "Battle Discipline"
+ rabisu_path_3_desc:0 "Usually the Rabisu warband looks more like undisciplined mob than an army but the look can be deceiving. When in battle rabisu warriors can even stop mid charge which is hard to pull off of even for most experience warriors. In difficult mountaineous terrain when the battle formations can be easily broken discipline is the key factor in battles."
+ rabisu_path_3a:0 "Stamina"
+ rabisu_path_3a_desc:0 "Rabisu are well known for the speed with which they march. They do not tire as quickly as other races and can march all day long without a break in full gear. They can only be captured if they are leading prisoners."
+ rabisu_path_4a:0 "Poisoned Arrows"
+ rabisu_path_4a_desc:0 "Why kill the enemy when you can wound him? The wounded warrior will take away his brother from the fight. This is the way most battles with rabisu starts. Their archers use strong poisons from the plants growing in the underground enviroment. Poisons usually kill target after a long period of enormous pain."
+ rabisu_path_5a:0 "Battle Rage"
+ rabisu_path_5a_desc:0 "Some of the Rabisu clans are known from making the psychoactive mushroom potions that could be a deadly for a human but help to throw a warrior into an uncontrolled battle frenzy. The drugged warriors often go in the front row to break the enemy formation."
+ rabisu_path_3b:0 "Stone Nest"
+ rabisu_path_3b_desc:0 "The clans fortresses are usually in caves or hilltops and are well protected against outsiders. Most of the times the entrance is bristling with all kinds of traps. And even after reaching the walls there will be still the matter of defenders. "
+ rabisu_path_4b:0 "Experienced Warriors"
+ rabisu_path_4b_desc:0 "In most cultures being a soldier is a seasonal task. Rabisu is trained for battle from the day he can weild a spear. Teenagers are often left in a wild after short training to better prepare them to face the hard conditions. After that they are taken under the wings of more experience warriors. Youngling in not ready for battle until he will kill his first enemy."
+ rabisu_path_5b:0 "Patience"
+ rabisu_path_5b_desc:0 "Rabisu are not experts on siege warfare but their natural resistance protects them from most deseases. They use that ability to spread the plagues into the besieged cities. What will not kill them will surely kill the weaklings behind the stone walls."
+ rabisu_states_path_end_bonus:0 "Necessary Evil"
+ rabisu_states_path_end_bonus_desc:0 "From the psychoactive concoctions to biological warfare there are no wepons that rabisu will not use to protect the clan. It seems evil for outsiders but since no one likes them anyway they have no real reason to care. After all they often get the same treatment from their enemies so why not?"
  ######
  #####Sahargali
  ######
- sahargali_philosophy:1 "Rabisu Traditions"
+ sahargali_philosophy:1 "Sahargali Traditions"
  sahargali_philosophydesc:3 ""
  tradition_unlock_requirement_sahargali:0 "You don't have enough of Salgarans or Meded to unlock the tradition or they are not integrated culture. "
  #Traditions
