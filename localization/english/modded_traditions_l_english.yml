@@ -84,11 +84,15 @@
  #####Sahargali
  ######
  sahargali_philosophy:1 "Sahargali Traditions"
- sahargali_philosophydesc:3 ""
+ sahargali_philosophydesc:3 "Great Sands are merciless place, the only source of life here are the Nissimu river and the oasis scattered across the desert. For the inhabitants this place is the wepon in itself. Any invading army would have to follow the heavily fortified river or die in sands. Most of them did."
  tradition_unlock_requirement_sahargali:0 "You don't have enough of Salgarans or Meded to unlock the tradition or they are not integrated culture. "
  #Traditions
- sahargali_path_1:0 "TMP"
- sahargali_path_1_desc:0 "TMP"
+ sahargali_path_1:0 "Sahargal"
+ sahargali_path_1_desc:0 "The desert is the wepon in itself. Without the necessary knowledge and equipment it is impossible to cross it. A lot of armies got simply swollowed without a trace including the annunaki. Sometimes when the desert is mercifull it will uncover the corpses of the unlucky ones that died in it."
+ sahargali_path_2:0 "Meded"
+ sahargali_path_2_desc:0 "The name Meded has many meanings but is usually connected with the people of the desert. Nomarchs use the meded as scouts and special police force all in one. They use specially trained hounds and are good with throwing sticks."
+ sahargali_path_2a:0 "Meded"
+ sahargali_path_2a_desc:0 ""
  ######
  #####Kurgunese
  ######
