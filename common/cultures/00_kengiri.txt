@@ -2,7 +2,7 @@
 	color = hsv { 0.0 0.03 0.38 }
 
 	primary = unit_archers
-	second = unit_spearmen
+	second = unit_axemen
 	flank = unit_chariots
  
 	primary_navy = tetrere

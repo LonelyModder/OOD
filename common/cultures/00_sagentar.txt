@@ -3,7 +3,7 @@
 
 	primary = unit_archers
 	second = unit_spearmen
-	flank = unit_spearmen
+	flank = unit_chariots
  
 	primary_navy = tetrere
 	secondary_navy = octere

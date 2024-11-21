@@ -91,25 +91,30 @@
  sahargali_path_1_desc:0 "The desert is the wepon in itself. Without the necessary knowledge and equipment it is impossible to cross it. A lot of armies got simply swollowed without a trace including the annunaki. Sometimes when the desert is mercifull it will uncover the corpses of the unlucky ones that died in it."
  sahargali_path_2:0 "Meded"
  sahargali_path_2_desc:0 "The name Meded has many meanings but is usually connected with the people of the desert. Nomarchs use the meded as scouts and special police force all in one. They use specially trained hounds and are good with throwing sticks."
- sahargali_path_2a:0 "Meded"
- sahargali_path_2a_desc:0 ""
+ sahargali_path_2a:0 "Pharoh's Infantry"
+ sahargali_path_2a_desc:0 "Even though most of them come from conscription, salgarans are known to posess the most disciplined infantry in the region. Normal conscripts when surrounded simply run away from the battlefield but not salgarans. They are tought that a running man is simply a bigger target so they form squares and will only yeld when ordered to."
+ sahargali_path_3a:0 "Light Chariot."
+ sahargali_path_3a_desc:0 "The chariots used by the Salgari and their Meded allies are lighter than that of their western neighbours and look more like the ones used by the Gardu from the north. They need to be carried to battle in pieces and assembled before they can be used. This may be viewed as disadvantage but experienced crew do that in minutes and then chariot is ready. Eastern chariots are often used as mobile pletforms for archers."
+ sahargali_path_4a:0 "Sandstone Forts"
+ sahargali_path_4a_desc:0 "Since the revolt that overthrew the Shemsu-Hor as Salgari called the Annunaki the Pharoh used the network of fortresses to control the river from the delta to the sources. Most od the costruction was built in no time using the mudbrick. Even after the thousends of years the forts are still able to hold the enemies of the kingdom at bay."
+ sahargali_path_5a:0 "Devine Heritage"
+ sahargali_path_5a_desc:0 "Pharoh weilds the secular and religious power over his subjects. His very presence on the battlefield raises the morale of soldiers and usually means that the current campaignis important for the kingdoms survival. His orders are treated as if they came from Aten himself."
+ sahargali_path_2b:0 "Life in the Desert"
+ sahargali_path_2b_desc:0 "The only way to cross the desert is to hop for one oasis to the next so it should beexpected that they are well defended in times of conflict. The defending army usually positions itself between the oasis and attacker. Then the only thing to do is to wait. In most cases the enemy warriors will be weakened by the desert heat and perish or they will surrender."
+ sahargali_path_3b:0 "Camels"
+ sahargali_path_3b_desc:0 "They are the newest addition to the Pharohs arsenal. They can collect water in the hump on their backs and carry heavier loads than donkeys. Typically a couple of them carries spare arrows so the enemy will have unwelcome surprise when he will find out that the ammunition will not end as quickly as he hoped."
+ sahargali_path_4b:0 "Experienced Officers"
+ sahargali_path_4b_desc:0 "Most of the kingdoms forces may consist of levies but Pharoh always kept a contingent of veterans so he could react quickly when the needed. The realms borders are long and the desert cannot keep all the kingdoms enemies at bay so where the desert is too weak the experienced soldiers are needed."
+ sahargali_states_path_end_bonus:0 "Desert Warriors"
+ sahargali_states_path_end_bonus_desc:0 "Thou lightly armoured and consisting of conscripts the armies of Sahargal are not as weak as some may claim. They know the terrain they fight in and they know how to use it to their advantage. The enemy may come but the desert will the desert will swallow him as many others before and after him."
  ######
  #####Kurgunese
  ######
  kurgunese_philosophy:1 "Kurgunese Traditions"
- kurgunese_philosophydesc:3 ""
+ kurgunese_philosophydesc:3 "The Kurgunese are well known from their military prowess. The constant battle for domination between city states forced them to develop many new inventions and strategies to defeat their oponents. After all the only way to become the King of Kings is over the corpses of your enemies."
  tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Susigu to unlock the tradition or they are not integrated culture. "
  #Traditions
- kurgunese_path_1:0 "TMP"
- kurgunese_path_1_desc:0 "TMP"
- ######
- #####Kurgunese
- ######
- kurgunese_philosophy:1 "Kurgunese Traditions"
- kurgunese_philosophydesc:3 ""
- tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Susigu to unlock the tradition or they are not integrated culture. "
- #Traditions
- kurgunese_path_1:0 "TMP"
+ kurgunese_path_1:0 "Warlords from Fangs"
  kurgunese_path_1_desc:0 "TMP"
  ######
  #####Gardani

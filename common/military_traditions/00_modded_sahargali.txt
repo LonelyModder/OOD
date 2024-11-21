@@ -95,6 +95,7 @@
 	sahargali_path_2 = { ###altmer path
 		modifier = { 
 			unit_scirmishers_offensive = 0.1
+			unit_archers_offensive = 0.1
 		}
 		enable_tactic = hit_and_run_tactics
 		icon = sahargali_mini_trad
@@ -113,7 +114,7 @@
 	
 	sahargali_path_3a = { ###altmer path
 		modifier = { 
-			unit_chariots_offensive = 0.1
+			unit_chariots_offensive = 0.2
 		}
 		icon = sahargali_mini_trad
 		requires = {sahargali_path_2a}
@@ -163,8 +164,8 @@
 	
 	sahargali_path_3b = { ###altmer path
 		modifier = { 
-			army_movement_speed = 0.2
 			movement_speed_if_no_road = 0.2
+			unit_chariots_offensive = 0.1
 		}
 		icon = sahargali_mini_trad
 		requires = {sahargali_path_2b}
@@ -181,7 +182,7 @@
 	
 	sahargali_states_path_end_bonus = {
 		modifier = { 
-			unit_laochra_offensive = 0.15
+			unit_spearmen_offensive = 0.1
 			desert_combat_bonus = 0.2
 		}
 		requires = { sahargali_path_5a sahargali_path_4b } 

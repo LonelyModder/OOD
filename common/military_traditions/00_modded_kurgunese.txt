@@ -86,16 +86,91 @@
 	
 	kurgunese_path_1 = { ###altmer path
 		modifier = { 
-			unit_laochra_offensive = 0.1
+			unit_axemen_defensive = 0.1
+			unit_spearmen_defensive = 0.1
 		}
 		icon = kurgunese_mini_trad
 		requires = {}
 	}
 	
+	kurgunese_path_2 = { ###altmer path
+		modifier = { 
+			unit_charitos_offensive = 0.1
+			unit_charitos_discipline = 0.1
+		}
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_1}
+	}
+	
+	kurgunese_path_2a = { ###altmer path
+		modifier = { 
+			unit_spearmen_discipline = 0.1
+			unit_archers_offensive = 0.1
+		}
+		enable_tactic = greek_phalanx
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_2}
+	}
+	
+	kurgunese_path_3a = { ###altmer path
+		modifier = { 
+			discipline = 0.1
+		}
+		enable_tactic = triplex_acies
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_2a}
+	}
+	
+	kurgunese_path_2b = { ###altmer path
+		modifier = {
+			forest_combat_bonus = 0.1
+			unit_spearmen_offensive = 0.1
+		}
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_2}
+	}
+	
+	kurgunese_path_3b = { ###altmer path
+		modifier = {
+			unit_scirmishers_offensive = 0.1
+			enslavement_efficiency = 0.05
+		}
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_2b}
+	}
+	
+	kurgunese_path_2c = { ###altmer path
+		modifier = {
+			engineer_cohort_cost = -0.15
+		}
+		enable_ability = road_building
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_2}
+	}
+	
+	kurgunese_path_3c = { ###altmer path
+		modifier = {
+			siege_ability = 0.1
+			supply_train_cost = -0.15
+			siege_engineers = 1
+		}
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_2c}
+	}
+	
+	kurgunese_path_4c = { ###altmer path
+		modifier = {
+			fort_maintenance_cost = -0.15
+		}
+		enable_ability = border_forts
+		icon = kurgunese_mini_trad
+		requires = {kurgunese_path_3c}
+	}
+	
 	kurgunese_states_path_end_bonus = {
 		modifier = { 
-			unit_laochra_offensive = 0.15
-			cave_combat_bonus = 0.2
+			discipline = 0.1
+			plains_combat_bonus = 0.1
 		}
 		requires = { kurgunese_path_1 } 
 		icon = kurgunese_mini_trad 

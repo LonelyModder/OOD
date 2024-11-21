@@ -1,9 +1,9 @@
 ﻿susigu = {
 	color = hsv { 0.3 0.7 0.4 }
 	
-	primary = archers
-	second = chariots
-	flank = unit_spearmen
+	primary = unit_archers
+	second = unit_spearmen
+	flank = unit_scirmishers
 	
 	primary_navy = tetrere
 	secondary_navy = hexere
