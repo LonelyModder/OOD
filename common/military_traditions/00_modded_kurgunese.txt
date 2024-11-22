@@ -106,6 +106,7 @@
 		modifier = { 
 			unit_spearmen_discipline = 0.1
 			unit_archers_offensive = 0.1
+			siege_ability = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = kurgunese_mini_trad
@@ -115,6 +116,7 @@
 	kurgunese_path_3a = { ###altmer path
 		modifier = { 
 			discipline = 0.1
+			land_morale_modifier = 0.1
 		}
 		enable_tactic = triplex_acies
 		icon = kurgunese_mini_trad
@@ -135,6 +137,7 @@
 			unit_scirmishers_offensive = 0.1
 			enslavement_efficiency = 0.05
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = kurgunese_mini_trad
 		requires = {kurgunese_path_2b}
 	}

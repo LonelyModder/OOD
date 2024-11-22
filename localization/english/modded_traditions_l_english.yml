@@ -112,10 +112,28 @@
  ######
  kurgunese_philosophy:1 "Kurgunese Traditions"
  kurgunese_philosophydesc:3 "The Kurgunese are well known from their military prowess. The constant battle for domination between city states forced them to develop many new inventions and strategies to defeat their oponents. After all the only way to become the King of Kings is over the corpses of your enemies."
- tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Susigu to unlock the tradition or they are not integrated culture. "
+ tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Saelgairi to unlock the tradition or they are not integrated culture. "
  #Traditions
- kurgunese_path_1:0 "Warlords from Fangs"
- kurgunese_path_1_desc:0 "TMP"
+ kurgunese_path_1:0 "Dilmunite Tin"
+ kurgunese_path_1_desc:0 "The only safe method of producing Bronze is to mix copper with tin. And the only large quantities of that metal in the region are on the isle of Dilmun which is ruled by the Annunaki. Kengiri manage to gain independence by peacefull means and managed to keep the faith in Anu. Thats why they have free access to the Dilmunite tin which raises the quality of their wepons and armour."
+ kurgunese_path_2:0 "Heavy Chariot"
+ kurgunese_path_2_desc:0 "Kengiri managed to adapt the Gardan chariot to better suit their needs. Instead of focusing on speed and lightness, they focused on shields and penetration. They gave the horses leather armor and reinforced the chariot with bronze joints so that it did not have to be transported and could accompany the army on the march."
+ kurgunese_path_2a:0 "Western Phalanx"
+ kurgunese_path_2a_desc:0 "By uniting the Enukku tactics with human shield wall kengiri created the new variant of phalanx. The new version of this formation consists of mixed lines of spearmen and archers. Expanding the number of archers in formation helped in dealing with more mobile units. Also new larger shields served as mobile defenses behind which archers could hide during sieges."
+ kurgunese_path_3a:0 "National Army"
+ kurgunese_path_3a_desc:0 "With the potential enemies on all sides like ekimmu and rabisu mountain strongholds there was a need for more permanent military forces. Now some soldiers stayed in service after the campaign season was over instead of returning to their farms."
+ kurgunese_path_2b:0 "Saelgairi"
+ kurgunese_path_2b_desc:0 "In the recent years the tribesmen frim the north began migrating south fleeing the famine that hit their homeland. Due to their harsh upbringing their warriors became a common sight in the Kingiri armies. They are talled and stronger than an avarage inhabitant of Kurgun."
+ kurgunese_path_3b:0 "Slave Based Economy"
+ kurgunese_path_3b_desc:0 "Saelgairi were not only used as a source of capable recruits. They became also a valuable broker in the slave trade with the barbarians to the north. Sometimes they were raiding in the search of slaves themselves but most often they were buying them from the northern warlords for bronze tools and other southern trade goods."
+ kurgunese_path_2c:0 "Kings Roads"
+ kurgunese_path_2c_desc:0 "Kengiri lived under the rule of Annunaki the longest of all human realms. Mostly because of their piecefull wthdrawal most of the technological achivements managed to survive. Probably the most important of them all is the road network. One of the most important taks set before a Kingiri ruler is maintaining the road network and protecting the traders."
+ kurgunese_path_3c:0 "Enukku War Machines"
+ kurgunese_path_3c_desc:0 "Enukku engineers accompanying armies are a common sight. Every local ensi wants at least one in his service. They help build and maintain enukkian siege engines. Their mere presence is evidence of their employer big pockets. Also the enukku rarely serve the king they do not respect."
+ kurgunese_path_4c:0 "Border Forts"
+ kurgunese_path_4c_desc:0 "The White Wall Mountains are long and difficult to defend thats why a series of border fortifications was erected to better protect the Kurgun from constant attacks from Rabisu. Sometimes enemies will find some old tunnel or unknown mountain pass so there is need to built new fortifications. Thats why their construction is rater simple after all they are meant to protect from raids not invasions."
+ kurgunese_states_path_end_bonus:0 "Between East and West"
+ kurgunese_states_path_end_bonus_desc:0 "Kurgun connects the West, East and the North together and benefits from their influence. The Kurgunese armies hire brutal barbarians, Annunaki engineers and ride eastern chariots to war. The trade brought them here and made this land strong. And only strongest can rule."
  ######
  #####Gardani
  ######

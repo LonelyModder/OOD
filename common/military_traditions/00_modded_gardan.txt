@@ -71,16 +71,43 @@
 	
 	gardan_path_1 = { ###altmer path
 		modifier = { 
-			unit_laochra_offensive = 0.1
+			unit_chariots_offensive = 0.2
 		}
 		icon = gardan_mini_trad
 		requires = {}
 	}
 	
+	gardan_path_2 = { ###altmer path
+		modifier = { 
+			unit_archers_offensive = 0.1
+			unit_spearmen_offensive = 0.1
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_1}
+	}
+	
+	gardan_path_2a = { ###altmer path
+		modifier = { 
+			army_movement_speed = 0.5
+			movement_speed_if_no_road = 0.5
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_2}
+	}
+	
+	gardan_path_3a = { ###altmer path
+		modifier = {
+			land_morale_modifier = 0.1
+			siege_ability = 0.1
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_2a}
+	}
+	
 	gardan_states_path_end_bonus = {
 		modifier = { 
-			unit_laochra_offensive = 0.15
-			cave_combat_bonus = 0.2
+			unit_chariots_offensive = 0.15
+			steppe_combat_bonus = 0.2
 		}
 		requires = { gardan_path_1 } 
 		icon = gardan_mini_trad 
