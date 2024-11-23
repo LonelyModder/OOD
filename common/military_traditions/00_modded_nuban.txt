@@ -71,18 +71,104 @@
 	
 	nuban_path_1 = { ###altmer path
 		modifier = { 
-			unit_laochra_offensive = 0.1
+			unit_archers_offensive = 0.2
 		}
 		icon = nuban_mini_trad
 		requires = {}
 	}
 	
+	nuban_path_1a = { ###altmer path
+		modifier = { 
+			desert_combat_bonus = 0.1
+			land_unit_attrition = -0.15
+		}
+		icon = nuban_mini_trad
+		requires = {nuban_path_1}
+	}
+	
+	nuban_path_2a = { ###altmer path
+		modifier = { 
+			unit_chariots_offensive = 0.1
+			unit_chariots_discipline = 0.1
+		}
+		icon = nuban_mini_trad
+		requires = {nuban_path_1a}
+	}
+	
+	nuban_path_3a = { ###altmer path
+		modifier = { 
+			tribute_income_modifier = 0.1
+			subject_loyalty = 10
+		}
+		on_activate = {
+			every_subject = {
+				add_opinion = {
+					target = ROOT
+					modifier = opinion_appreciate_protection
+				}
+			}
+		}
+		icon = nuban_mini_trad
+		requires = {nuban_path_2a}
+	}
+	
+	nuban_path_1b = { ###altmer path
+		modifier = { 
+			global_tribesmen_output = output_large_svalue
+			global_tribesmen_happyness = happiness_large_svalue
+		}
+		on_activate = {
+			add_4_free_province_investments = yes
+		}
+		icon = nuban_mini_trad
+		requires = {nuban_path_1}
+	}
+	
+	nuban_path_2b = { ###altmer path
+		modifier = { 
+			supply_train_cost = 0.1
+			army_movement_speed = 0.2
+			movement_speed_if_no_road = 0.2
+		}
+		icon = nuban_mini_trad
+		requires = {nuban_path_1b}
+	}
+	
+	nuban_path_3b = { ###altmer path
+		modifier = { 
+			unit_scirmishers_offensive = 0.1
+			unit_scirmishers_defensive = 0.1
+		}
+		enable_tactic = hit_and_run_tactics
+		icon = nuban_mini_trad
+		requires = {nuban_path_2b}
+	}
+	
+	nuban_path_1c = { ###altmer path
+		modifier = { 
+			riverine_terrain_combat_bonus = 0.1
+			naval_damage_done = 0.1
+		}
+		enable_ability = naval_raiding
+		icon = nuban_mini_trad
+		requires = {nuban_path_1}
+	}
+	
+	nuban_path_2c = { ###altmer path
+		modifier = { 
+			enslavement_efficiency = 0.1
+			coastal_terrain_combat_bonus = 0.1
+		}
+		icon = nuban_mini_trad
+		requires = {nuban_path_1}
+	}
+	
 	nuban_states_path_end_bonus = {
 		modifier = { 
-			unit_laochra_offensive = 0.15
-			cave_combat_bonus = 0.2
+			unit_archers_offensive = 0.15
+			jungle_combat_bonus = 0.2
 		}
-		requires = { nuban_path_1 } 
+		requires = { nuban_path_3a nuban_path_3b nuban_path_2c } 
 		icon = moarmer_mini_trad 
 	}
 }

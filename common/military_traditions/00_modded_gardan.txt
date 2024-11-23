@@ -72,6 +72,7 @@
 	gardan_path_1 = { ###altmer path
 		modifier = { 
 			unit_chariots_offensive = 0.2
+			steppe_combat_bonus = 0.1
 		}
 		icon = gardan_mini_trad
 		requires = {}
@@ -90,18 +91,63 @@
 		modifier = { 
 			army_movement_speed = 0.5
 			movement_speed_if_no_road = 0.5
+			enslavement_efficiency = 0.05
 		}
+		enable_tactic = hit_and_run_tactics
 		icon = gardan_mini_trad
 		requires = {gardan_path_2}
 	}
 	
 	gardan_path_3a = { ###altmer path
 		modifier = {
+			discipline = 0.1
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_2a}
+	}
+	
+	gardan_path_4a = { ###altmer path
+		modifier = {
+			land_morale_modifier = 0.2
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_3a}
+	}
+	
+	gardan_path_2b = { ###altmer path
+		modifier = {
 			land_morale_modifier = 0.1
 			siege_ability = 0.1
 		}
 		icon = gardan_mini_trad
-		requires = {gardan_path_2a}
+		requires = {gardan_path_2}
+	}
+	
+	gardan_path_3b = { ###altmer path
+		modifier = {
+			global_cohort_start_experience = 10
+			war_exhaustion = -0.01
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_2b}
+	}
+	
+	gardan_path_2c = { ###altmer path
+		modifier = {
+			siege_ability = 0.2
+			engineer_cohort_cost = -0.15
+		}
+		icon = gardan_mini_trad
+		requires = {gardan_path_2}
+	}
+	
+	gardan_path_3c = { ###altmer path
+		modifier = {
+			global_capital_trade_routes = 2
+		}
+		enable_ability = road_building
+		icon = gardan_mini_trad
+		requires = {gardan_path_2c}
 	}
 	
 	gardan_states_path_end_bonus = {
@@ -109,7 +155,7 @@
 			unit_chariots_offensive = 0.15
 			steppe_combat_bonus = 0.2
 		}
-		requires = { gardan_path_1 } 
+		requires = { gardan_path_4a gardan_path_3b gardan_path_3c } 
 		icon = gardan_mini_trad 
 	}
 }

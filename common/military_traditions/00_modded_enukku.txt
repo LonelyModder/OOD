@@ -114,6 +114,7 @@
 			supply_train_cost = -0.15
 			engineer_cohort_cost = -0.15
 		}
+		enable_ability = road_building
 		icon = enukku_mini_trad
 		requires = {enukku_path_3a}
 	}
