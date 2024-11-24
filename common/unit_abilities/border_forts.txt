@@ -23,12 +23,8 @@
 		#hidden:unit_owner = { can_pay_price = build_border_fort }
 		unit_owner = { 
 			trigger_if = {
-				limit = { is_tradition_tree_allowed = italian_philosophy }
-				has_military_bonus = italian_path_6b
-			}
-			trigger_if = {
-				limit = { is_tradition_tree_allowed = caucasian_philosophy }
-				has_military_bonus = caucasian_path_5a
+				limit = { is_tradition_tree_allowed = kurgunese_philosophy }
+				has_military_bonus = kurgunese_path_4c
 			}
 		}
 		has_commander = yes

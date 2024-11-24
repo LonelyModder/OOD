@@ -19,9 +19,9 @@
 	allow = {
 		unit_owner = { 
 			OR = {
-				has_military_bonus = iranian_path_6a
-				has_military_bonus = italian_path_5bs
-				has_military_bonus = assyrian_path_5b
+				has_military_bonus = gardan_path_3c
+				has_military_bonus = enukku_path_4a
+				has_military_bonus = kurgunese_path_2c
 			}
 		}
 		trigger_if = {

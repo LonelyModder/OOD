@@ -112,7 +112,7 @@
  ######
  kurgunese_philosophy:1 "Kurgunese Traditions"
  kurgunese_philosophydesc:3 "The Kurgunese are well known from their military prowess. The constant battle for domination between city states forced them to develop many new inventions and strategies to defeat their oponents. After all the only way to become the King of Kings is over the corpses of your enemies."
- tradition_unlock_requirement_kurgunese:0 "You don't have enough of Kengiri or Saelgairi to unlock the tradition or they are not integrated culture. "
+ tradition_unlock_requirement_kengiri:0 "You don't have enough of Kengiri or Saelgairi to unlock the tradition or they are not integrated culture. "
  #Traditions
  kurgunese_path_1:0 "Dilmunite Tin"
  kurgunese_path_1_desc:0 "The only safe method of producing Bronze is to mix copper with tin. And the only large quantities of that metal in the region are on the isle of Dilmun which is ruled by the Annunaki. Kengiri manage to gain independence by peacefull means and managed to keep the faith in Anu. Thats why they have free access to the Dilmunite tin which raises the quality of their wepons and armour."
@@ -139,7 +139,7 @@
  ######
  gardan_philosophy:1 "Gardan Traditions"
  gardan_philosophydesc:3 "Gardu live in the Central planes around the Sagiba lake. They were the first to invent the chariot and utilize it to dominate the heart of the continent. Every settled civilization fears their nomadic hordes."
- tradition_unlock_requirement_kurgunese:0 "You don't have enough of Gardanians to unlock the tradition or they are not integrated culture. "
+ tradition_unlock_requirement_gardu:0 "You don't have enough of Gardanians to unlock the tradition or they are not integrated culture. "
  #Traditions
  gardan_path_1:0 "Nomadic chariots"
  gardan_path_1_desc:0 "Steppe is and open terrain where the fastest way to trabel is by using a horse-drawn carriage. The first chariots looked just like that carriages with two axis and two horses pulling the vehicle. Then they started to experiment by reducing the axis to one with only one horse pulling the chariot. "
@@ -166,7 +166,7 @@
  ######
  nuban_philosophy:1 "Nuban Traditions"
  nuban_philosophydesc:3 "Nubans name comes from their gold mines. Yet despite their riches they always were a devided tribal society on the outskirts of more developed empires. Nubans themselves do not peacefully agree with their backwater status and from time to time a powerfull warlord attempts to invade the northern lands."
- tradition_unlock_requirement_kurgunese:0 "You don't have enough of Nubans to unlock the tradition or they are not integrated culture. "
+ tradition_unlock_requirement_nuban:0 "You don't have enough of Nubans to unlock the tradition or they are not integrated culture. "
  #Traditions
  nuban_path_1:0 "Long Bows"
  nuban_path_1_desc:0 "By use of the special tropical tree growing in the south the Nubans managed to strengthen their bows and extend their range significantly. Beside this new development the southerners are share the title of the best archers with Annunaki. They volley fire tactic has proven to be very effective even against chariots. "

@@ -9,7 +9,7 @@
 			OR = {
 				num_of_cities < 1
 				NOR = {
-					is_tradition_tree_allowed = grekoid_philosophy
+					is_tradition_tree_allowed = nuban_philosophy
 					heritage = illyric_heritage
 					heritage = dravidic_heritage
 					heritage = veddic_heritage
@@ -22,8 +22,12 @@
 	allow = {
 		unit_owner = {
 			trigger_if = {
-				limit = { is_tradition_tree_allowed = grekoid_philosophy }
-				has_military_bonus = grekoid_path_4b
+				limit = { is_tradition_tree_allowed = nuban_philosophy }
+				has_military_bonus = nuban_path_1c
+			}
+			trigger_if = {
+				limit = { is_tradition_tree_allowed = enukku_philosophy }
+				has_military_bonus = enukku_path_4b
 			}
 			trigger_else_if = {
 				limit = {

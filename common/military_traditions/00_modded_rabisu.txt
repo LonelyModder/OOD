@@ -158,7 +158,7 @@
 			unit_laochra_offensive = 0.15
 			cave_combat_bonus = 0.2
 		}
-		requires = { rabisu_path_1 } 
+		requires = { rabisu_path_5a rabisu_path_5b } 
 		icon = rabisu_mini_trad 
 	}
 }

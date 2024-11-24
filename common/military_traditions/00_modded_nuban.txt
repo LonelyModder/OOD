@@ -160,7 +160,7 @@
 			coastal_terrain_combat_bonus = 0.1
 		}
 		icon = nuban_mini_trad
-		requires = {nuban_path_1}
+		requires = {nuban_path_1c}
 	}
 	
 	nuban_states_path_end_bonus = {
@@ -169,6 +169,6 @@
 			jungle_combat_bonus = 0.2
 		}
 		requires = { nuban_path_3a nuban_path_3b nuban_path_2c } 
-		icon = moarmer_mini_trad 
+		icon = nuban_mini_trad 
 	}
 }
