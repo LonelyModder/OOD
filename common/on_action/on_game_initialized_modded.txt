@@ -52,7 +52,15 @@ on_game_initialized = {
 		units_allowance_events.1
 		race_startup.1 
 		#Startup info
-		#esfa_startup.1
+		nbw_startup.1
+		nbw_startup.2
+		nbw_startup.3
+		nbw_startup.4
+		nbw_startup.5
+		nbw_startup.6
+		nbw_startup.7
+		nbw_startup.8
+		nbw_startup.9
 		#Bloodlines
 		#bloodlines_startup.1  #Aranas
 		#Militarism level mechanic

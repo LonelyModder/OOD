@@ -1,24 +1,4 @@
-﻿alessian_revolution = {
-	theme = Honor
-	picture = "gfx/interface/event_window/alessian_revolution.dds"
-}
-
-corelanya_clan = {
-	theme = Honor
-	picture = "gfx/interface/event_window/corelanya_clan.dds"
-}
-
-devine_conversion = {
-	theme = Honor
-	picture = "gfx/interface/event_window/devines_temple.dds"
-}
-
-vampirism_spread = {
-	theme = Honor
-	picture = "gfx/interface/event_window/vampirism_spread.dds"
-}
-
-welcoming_window_1 = {
+﻿welcoming_window_1 = {
 	theme = Honor
 	picture = "gfx/interface/event_window/welcoming_window_1.dds"
 }
@@ -61,31 +41,6 @@ welcoming_window_8 = {
 welcoming_window_9 = {
 	theme = Honor
 	picture = "gfx/interface/event_window/welcoming_window_9.dds"
-}
-
-welcoming_window_11 = {
-	theme = Honor
-	picture = "gfx/interface/event_window/welcoming_window_11.dds"
-}
-
-welcoming_window_12 = {
-	theme = Honor
-	picture = "gfx/interface/event_window/welcoming_window_12.dds"
-}
-
-welcoming_window_13 = {
-	theme = Honor
-	picture = "gfx/interface/event_window/welcoming_window_13.dds"
-}
-
-welcoming_window_14 = {
-	theme = Honor
-	picture = "gfx/interface/event_window/welcoming_window_14.dds"
-}
-
-welcoming_window_15 = {
-	theme = Honor
-	picture = "gfx/interface/event_window/welcoming_window_15.dds"
 }
 
 elephant_battle = {

@@ -15,7 +15,7 @@
  menran:0 "Menran"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
- #Salgari
+ #Nubans
  nuban:2 "Nuban"
  nubatan:0 "Nubatan"
  nuban_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
