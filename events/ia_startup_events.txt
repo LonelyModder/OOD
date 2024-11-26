@@ -49,7 +49,7 @@ nbw_startup.4 = { #Kengiri
     type = country_event
     title = nbw_startup.4.t
     desc = nbw_startup.4.desc
-    picture = welcoming_window_3
+    picture = welcoming_window_4
 	
     trigger = {
 		country_culture_group = kengiri
@@ -64,7 +64,7 @@ nbw_startup.5 = { #Salgari
     type = country_event
     title = nbw_startup.5.t
     desc = nbw_startup.5.desc
-    picture = welcoming_window_3
+    picture = welcoming_window_5
 	
     trigger = {
 		country_culture_group = salgari
@@ -79,7 +79,7 @@ nbw_startup.6 = { #Nubans
     type = country_event
     title = nbw_startup.6.t
     desc = nbw_startup.6.desc
-    picture = welcoming_window_3
+    picture = welcoming_window_6
 	
     trigger = {
 		country_culture_group = nuban
@@ -94,7 +94,7 @@ nbw_startup.7 = { #Gardan
     type = country_event
     title = nbw_startup.7.t
     desc = nbw_startup.7.desc
-    picture = welcoming_window_3
+    picture = welcoming_window_7
 	
     trigger = {
 		country_culture_group = gardu
@@ -109,7 +109,7 @@ nbw_startup.8 = { #Meded
     type = country_event
     title = nbw_startup.8.t
     desc = nbw_startup.8.desc
-    picture = welcoming_window_3
+    picture = welcoming_window_8
 	
     trigger = {
 		country_culture_group = sagentar
@@ -124,7 +124,7 @@ nbw_startup.9 = { #Saelgairi
     type = country_event
     title = nbw_startup.9.t
     desc = nbw_startup.9.desc
-    picture = welcoming_window_3
+    picture = welcoming_window_9
 	
     trigger = {
 		country_culture_group = susigu

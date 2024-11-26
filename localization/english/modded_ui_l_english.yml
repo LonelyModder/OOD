@@ -6,10 +6,10 @@
  ia_colonize_button_confirm_t:0 "Colonization"
  ia_colonize_button_confirm_desc:0 "Are you sure you want to colonize the territory?"
 
- CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n The wars Anunnaki and Ekimmu fought all over the Continent were devastating. They changed the world, and ended the domination of the self proclaimed gods. And than they simply left leaving everything behind them and since that date age of man began.\n\n#TF That is not dead which can eternal lie, and with strange aeons, even death may die. - Ekimmu Prayer#!"
- DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since founding of Valenwood."
- THE_WORLD:1 "[GetDateString]#T  FA"
- THE_WORLD_TOOLTIP:1 "#T Current Date#!\n FA stands for First Age. Humans count time since the ekimmu managed to put a nail to the coffin of the anunnaki empire in the east. "
+ CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n The wars Anunnaki and Ekimmu fought all over the Continent were devastating. They changed the world, and ended the domination of the self proclaimed gods. The Kengiran Callendar that is used today starts when the falling star brought the worshippers of the Void on Nibiru.\n\n#TF That is not dead which can eternal lie, and with strange aeons, even death may die. - Ekimmu Prayer#!"
+ DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since the falling star brought the Ekimmu to Nibiru."
+ THE_WORLD:1 "[GetDateString]#T  BA"
+ THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BA stands for Bronze Age. Nibirans count time since the arrival of Ekimmu who changed the balance of power in the relm of mortals and ended the undisputed rule uf Annunaki. "
  
  DilmunINTRO:0 "#T Dilmun#!\nDifficulty: #Y Medium#!\n\n TMP"
  Dilmun:0 "Dilmun"
