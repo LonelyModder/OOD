@@ -120,7 +120,7 @@ nbw_startup.8 = { #Meded
     }
 }
 
-nbw_startup.9 = { #Saelgairi
+nbw_startup.9 = { #Urten
     type = country_event
     title = nbw_startup.9.t
     desc = nbw_startup.9.desc
