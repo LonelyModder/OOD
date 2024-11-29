@@ -31,11 +31,9 @@ provinces = { #Any entry must contain a comment with city name.
 	#Buildings
 	184 = { port_building = 2 }
 	256 = { port_building = 2 }
-	244 = { 
-			port_building = 2
-			fortress_building = 1
-		  }
-	207 = { fortress_building = 1 }
+	207 = { port_building = 2 }
+	251 = { port_building = 2 }
+	244 = { port_building = 2 }
 	234 = { port_building = 2 }
 	209 = { port_building = 1 }
 	480 = { port_building = 1 }
@@ -125,7 +123,7 @@ country = {
 		}
 		#Dilmun
 		AAA = {          
-			government = theocratic_republic
+			government = theocratic_monarchy
 			primary_culture = annuni
 			religion = divineorder_pantheon
 			capital = 184
@@ -138,16 +136,46 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				243 244 246 247 245 248 250 249 255 256 242 240
-				235 234 233 232 231 228 225 238 237 241 236 239
-				206 207 230 205 227 229 226 202 204 224
-				184 192 193 194 195 198 197 199 200 196 203 201
-				210 223 222 219 220 218 217 216 213 215 209 221
-				214 208 211 212 251 252 253 254 257 258 259
+				184 192 193 194 195 198 197 199 
+				200 196 203 201 195 209 221
 			}
 		}
 		
-		# AAB; AAC
+		AAB = {          
+			government = despotic_monarchy
+			primary_culture = shedrenite
+			religion = divineorder_pantheon
+			capital = 207
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				206 207 230 205 227 229 226 202 204 224 231 232
+			}
+		}
+		
+		AAC = {          
+			government = despotic_monarchy
+			primary_culture = chekkan
+			religion = divineorder_pantheon
+			capital = 244
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				244 241 240 243 222 220 219 246 242
+			}
+		}
 		
 		AAD = {          
 			government = despotic_monarchy
@@ -255,6 +283,62 @@ country = {
 			
 			own_control_core = 	{ 
 				457
+			}
+		}
+		
+		#AAL
+		
+		AAM = {          
+			government = despotic_monarchy
+			primary_culture = ishan
+			religion = divineorder_pantheon
+			capital = 236
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				236 238 237 239 223 210 235 234 233 228 225
+			}
+		}
+		
+		AAN = {          
+			government = despotic_monarchy
+			primary_culture = amaran
+			religion = divineorder_pantheon
+			capital = 256
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				256 249 248 247 245 250 255 257 259 258
+			}
+		}
+		
+		AAO = {          
+			government = despotic_monarchy
+			primary_culture = iltanite
+			religion = divineorder_pantheon
+			capital = 251
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				251 218 217 216 215 213 214 211 212 208 254 252 253
 			}
 		}
 		

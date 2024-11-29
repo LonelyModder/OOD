@@ -1,8 +1,13 @@
 ﻿l_english:
  #Modded Cultures
  #Annunaki
- annunaki:2 "Anunnaki"
- annuni:0 "Enukku"
+ annunaki:2 "Enukku"
+ annuni:0 "Nisaban"
+ shedrenite:0 "Shedrenite"
+ chekkan:0 "Chekkan"
+ ishan:0 "Ishan"
+ amaran:0 "Amaran"
+ iltanite:0 "Iltanite"
  annunaki_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  annunaki_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kengiri

@@ -217,7 +217,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -255,7 +255,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -274,7 +274,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -293,7 +293,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -312,7 +312,7 @@
 	terrain="forest"
 	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -334,7 +334,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -375,7 +375,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -394,7 +394,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -413,7 +413,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -432,7 +432,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -451,7 +451,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -489,7 +489,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -508,7 +508,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -527,7 +527,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -546,7 +546,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -565,7 +565,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -603,7 +603,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -622,7 +622,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -641,7 +641,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -660,7 +660,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -679,7 +679,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -698,7 +698,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -736,7 +736,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -755,7 +755,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -774,7 +774,7 @@
 	terrain="hills"
 	trade_goods="fish"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -793,7 +793,7 @@
 	terrain="hills"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="shedrenite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -812,7 +812,7 @@
 	terrain="mountain"
 	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -831,7 +831,7 @@
 	terrain="hills"
 	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -853,7 +853,7 @@
 	terrain="hills"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -872,7 +872,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -894,7 +894,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,7 +913,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,7 +932,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="ishan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,7 +951,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -970,7 +970,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -989,7 +989,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,7 +1008,7 @@
 	terrain="mountain"
 	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1027,7 +1027,7 @@
 	terrain="hills"
 	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1049,7 +1049,7 @@
 	terrain="mountain"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1068,7 +1068,7 @@
 	terrain="hills"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="chekkan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1087,7 +1087,7 @@
 	terrain="hills"
 	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1106,7 +1106,7 @@
 	terrain="hills"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1125,7 +1125,7 @@
 	terrain="hills"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1144,7 +1144,7 @@
 	terrain="mountain"
 	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1163,7 +1163,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1185,7 +1185,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1204,7 +1204,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1223,7 +1223,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="iltanite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1242,7 +1242,7 @@
 	terrain="mountain"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1261,7 +1261,7 @@
 	terrain="hills"
 	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1283,7 +1283,7 @@
 	terrain="hills"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1302,7 +1302,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1321,7 +1321,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="amaran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
