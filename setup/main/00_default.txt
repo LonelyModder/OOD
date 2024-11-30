@@ -31,6 +31,7 @@ provinces = { #Any entry must contain a comment with city name.
 	#Buildings
 	184 = { port_building = 2 }
 	256 = { port_building = 2 }
+	275 = { port_building = 2 }
 	207 = { port_building = 2 }
 	251 = { port_building = 2 }
 	244 = { port_building = 2 }
@@ -238,7 +239,7 @@ country = {
 		AAH = {          
 			government = tribal_kingdom
 			primary_culture = maladhamn
-			religion = ancestors_pantheon
+			religion = atun_pantheon
 			capital = 565
 			
 			own_control_core = 	{ 
@@ -264,7 +265,7 @@ country = {
 			capital = 265
 			
 			own_control_core = 	{ 
-				265
+				265 266 268 267 264 263 262 261
 			}
 		}
 		
@@ -286,7 +287,16 @@ country = {
 			}
 		}
 		
-		#AAL
+		AAL = {          
+			government = tribal_kingdom
+			primary_culture = zaranite
+			religion = divineorder_pantheon
+			capital = 270
+			
+			own_control_core = 	{ 
+				270 269
+			}
+		}
 		
 		AAM = {          
 			government = despotic_monarchy
@@ -339,6 +349,17 @@ country = {
 			
 			own_control_core = 	{ 
 				251 218 217 216 215 213 214 211 212 208 254 252 253
+			}
+		}
+		
+		AAP = {          
+			government = tribal_kingdom
+			primary_culture = nqusulite
+			religion = divineorder_pantheon
+			capital = 275
+			
+			own_control_core = 	{ 
+				275
 			}
 		}
 		

@@ -23,8 +23,8 @@
 261={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -42,8 +42,8 @@
 262={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -61,8 +61,8 @@
 263={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,8 +80,8 @@
 264={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -121,8 +121,8 @@
 266={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -140,8 +140,8 @@
 267={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -159,8 +159,8 @@
 268={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="skurgunic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -178,8 +178,8 @@
 269={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="zaranite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,19 +197,22 @@
 270={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="zaranite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
+	tribesmen={
+		amount=12
+	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 

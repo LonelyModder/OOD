@@ -59,7 +59,9 @@
 		Galanus.Galana.Galanii.Galanid
 	}
 	culture = {
-		skurgunic = {  }
+		skurgunic = {}
+		zaranite = {}
+		nqusulite = {}
 	}
 	
 	barbarian_names = { INSUBRES LINGONES TAURINI ALLOBROGES CADURCI BITURIGES LEUCI LEXOVII NAMNETES NITIOBROGES OSISMII RAURACI SALLUVII TRIBOCI }

@@ -1,7 +1,7 @@
 ﻿473={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 474={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -39,7 +39,7 @@
 475={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -58,7 +58,7 @@
 476={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -77,7 +77,7 @@
 477={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -96,7 +96,7 @@
 478={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -115,7 +115,7 @@
 479={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -156,7 +156,7 @@
 481={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -175,7 +175,7 @@
 482={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -194,7 +194,7 @@
 483={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -213,7 +213,7 @@
 484={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -232,7 +232,7 @@
 485={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -251,7 +251,7 @@
 486={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -270,7 +270,7 @@
 487={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -289,7 +289,7 @@
 488={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -308,7 +308,7 @@
 489={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -327,7 +327,7 @@
 490={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -346,7 +346,7 @@
 491={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -365,7 +365,7 @@
 492={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -384,7 +384,7 @@
 493={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -403,7 +403,7 @@
 494={ 
 	terrain="farmland"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -422,7 +422,7 @@
 495={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -441,7 +441,7 @@
 496={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -460,7 +460,7 @@
 497={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -479,7 +479,7 @@
 498={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -498,7 +498,7 @@
 499={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -517,7 +517,7 @@
 500={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -536,7 +536,7 @@
 501={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -555,7 +555,7 @@
 502={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -574,7 +574,7 @@
 503={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -593,7 +593,7 @@
 504={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -612,7 +612,7 @@
 505={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -631,7 +631,7 @@
 506={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -650,7 +650,7 @@
 507={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -669,7 +669,7 @@
 508={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -688,7 +688,7 @@
 509={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -707,7 +707,7 @@
 510={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -726,7 +726,7 @@
 511={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -745,7 +745,7 @@
 512={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -764,7 +764,7 @@
 513={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -783,7 +783,7 @@
 514={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -802,7 +802,7 @@
 515={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -821,7 +821,7 @@
 516={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -840,7 +840,7 @@
 517={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -859,7 +859,7 @@
 518={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -878,7 +878,7 @@
 542={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -897,7 +897,7 @@
 543={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -916,7 +916,7 @@
 544={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -935,7 +935,7 @@
 545={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -954,7 +954,7 @@
 546={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -973,7 +973,7 @@
 589={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -992,7 +992,7 @@
 602={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1011,7 +1011,7 @@
 651={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1030,7 +1030,7 @@
 652={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1049,7 +1049,7 @@
 653={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1068,7 +1068,7 @@
 661={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1087,7 +1087,7 @@
 662={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 731={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1125,7 +1125,7 @@
 732={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1144,7 +1144,7 @@
 733={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1163,7 +1163,7 @@
 734={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1182,7 +1182,7 @@
 735={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1201,7 +1201,7 @@
 736={ 
 	terrain="oasis"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1220,7 +1220,7 @@
 737={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1239,7 +1239,7 @@
 738={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1258,7 +1258,7 @@
 745={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="atun_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
