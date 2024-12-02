@@ -41,7 +41,13 @@ provinces = { #Any entry must contain a comment with city name.
 	260 = { port_building = 1 }
 	565 = { port_building = 1 }
 	265 = { port_building = 1 }
+	284 = { port_building = 2 }
 	201 = { port_building = 2 }
+	294 = { fortress_building = 1 }
+	331 = { 
+			port_building = 2
+			fortress_building = 1 
+		  }
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	243 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -143,7 +149,7 @@ country = {
 		}
 		
 		AAB = {          
-			government = despotic_monarchy
+			government = theocratic_monarchy
 			primary_culture = shedrenite
 			religion = divineorder_pantheon
 			capital = 207
@@ -161,7 +167,7 @@ country = {
 		}
 		
 		AAC = {          
-			government = despotic_monarchy
+			government = theocratic_monarchy
 			primary_culture = chekkan
 			religion = divineorder_pantheon
 			capital = 244
@@ -210,7 +216,9 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				287 260
+				287 260 291 290 289 288 286 284 
+				285 293 294 333 332 331 338 334
+				335 304 292
 			}
 		}
 		
@@ -239,7 +247,7 @@ country = {
 		AAH = {          
 			government = tribal_kingdom
 			primary_culture = maladhamn
-			religion = atun_pantheon
+			religion = divineorder_pantheon
 			capital = 565
 			
 			own_control_core = 	{ 
@@ -299,7 +307,7 @@ country = {
 		}
 		
 		AAM = {          
-			government = despotic_monarchy
+			government = theocratic_monarchy
 			primary_culture = ishan
 			religion = divineorder_pantheon
 			capital = 236
@@ -317,7 +325,7 @@ country = {
 		}
 		
 		AAN = {          
-			government = despotic_monarchy
+			government = theocratic_monarchy
 			primary_culture = amaran
 			religion = divineorder_pantheon
 			capital = 256
@@ -335,7 +343,7 @@ country = {
 		}
 		
 		AAO = {          
-			government = despotic_monarchy
+			government = theocratic_monarchy
 			primary_culture = iltanite
 			religion = divineorder_pantheon
 			capital = 251
@@ -359,7 +367,25 @@ country = {
 			capital = 275
 			
 			own_control_core = 	{ 
-				275
+				275 274 273 276 271
+			}
+		}
+		
+		AAR = {          
+			government = despotic_monarchy
+			primary_culture = irkallic
+			religion = divineorder_pantheon
+			capital = 278
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				278
 			}
 		}
 		

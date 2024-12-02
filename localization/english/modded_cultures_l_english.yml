@@ -13,7 +13,8 @@
  #Kengiri
  kengiri:2 "Kengir"
  galkari:0 "Galkari"
- kqusulic:0 "TMP"
+ kqusulic:0 "Qusalian"
+ irkallic:0 "Irkallite"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Salgari

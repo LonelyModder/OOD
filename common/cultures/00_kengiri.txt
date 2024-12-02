@@ -49,6 +49,7 @@
 	culture = {
 		galkari = {}
 		kqusulic = {}
+		irkallic = {}
 		#new
 	}
 	

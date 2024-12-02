@@ -41,7 +41,7 @@
 
 193={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
 	culture="annuni"
 	civilization_value=0
@@ -174,7 +174,7 @@
 
 200={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="annuni"
 	civilization_value=0
@@ -563,7 +563,7 @@
 
 220={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="divineorder_pantheon"
 	culture="chekkan"
 	civilization_value=0
@@ -677,7 +677,7 @@
 
 226={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="shedrenite"
 	civilization_value=0
@@ -911,7 +911,7 @@
 
 238={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
@@ -930,7 +930,7 @@
 
 239={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
@@ -1047,7 +1047,7 @@
 
 245={ 
 	terrain="mountain"
-	trade_goods="wood"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="amaran"
 	civilization_value=0
@@ -1066,7 +1066,7 @@
 
 246={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="chekkan"
 	civilization_value=0
@@ -1240,7 +1240,7 @@
 
 255={ 
 	terrain="mountain"
-	trade_goods="wood"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="amaran"
 	civilization_value=0

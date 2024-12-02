@@ -77,7 +77,7 @@
 565={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="atun_pantheon"
+	religion="divineorder_pantheon"
 	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
