@@ -219,7 +219,7 @@
 271={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
 	barbarian_power=0
@@ -235,26 +235,23 @@
 272={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 273={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
 	barbarian_power=0
@@ -270,7 +267,7 @@
 274={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
 	barbarian_power=0
@@ -286,7 +283,7 @@
 275={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
 	barbarian_power=0
@@ -317,7 +314,7 @@
 276={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
 	barbarian_power=0
@@ -333,133 +330,118 @@
 277={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 278={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 279={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 280={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 281={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 282={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 283={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -645,7 +627,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="galkari"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -660,171 +642,150 @@
 295={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 296={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 297={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 298={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 299={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 300={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 301={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 302={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 303={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -847,303 +808,255 @@
 305={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 306={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 307={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="azite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 308={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 309={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 310={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 311={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 312={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 313={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 314={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 315={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 316={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 317={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 318={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 319={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 320={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }

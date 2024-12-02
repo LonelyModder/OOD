@@ -50,6 +50,9 @@
 		galkari = {}
 		kqusulic = {}
 		irkallic = {}
+		azite = {}
+		siduri = {}
+		bibiric = {}
 		#new
 	}
 	

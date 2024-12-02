@@ -155,7 +155,7 @@
 
 199={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="annuni"
 	civilization_value=0
@@ -193,7 +193,7 @@
 
 201={ 
 	terrain="farmland"
-	trade_goods="dye"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
 	culture="annuni"
 	civilization_value=0
@@ -332,7 +332,7 @@
 
 208={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="iltanite"
 	civilization_value=0
@@ -468,7 +468,7 @@
 
 215={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="iltanite"
 	civilization_value=0
@@ -930,7 +930,7 @@
 
 239={ 
 	terrain="forest"
-	trade_goods="leather"
+	trade_goods="honey"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
@@ -1281,7 +1281,7 @@
 
 257={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="amaran"
 	civilization_value=0

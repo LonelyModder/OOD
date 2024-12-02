@@ -1,5 +1,5 @@
 ﻿susigu = {
-	color = hsv { 0.3 0.7 0.4 }
+	color = hsv { 0.81 0.96 0.59 }
 	
 	primary = unit_archers
 	second = unit_spearmen

@@ -362,6 +362,7 @@
 
 	culture = {
 		menran = {}
+		shurkun = {}
 	}
 	
 	barbarian_names = { kemetic_barb }

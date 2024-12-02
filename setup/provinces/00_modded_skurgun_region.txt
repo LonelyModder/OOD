@@ -1,190 +1,160 @@
 ﻿321={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 322={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 323={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 324={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 325={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 326={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 327={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 328={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 329={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 330={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -283,38 +253,32 @@
 336={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 337={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -337,607 +301,529 @@
 339={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 340={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 341={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 342={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 343={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 344={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 345={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 346={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 347={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 348={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 349={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 350={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 351={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 352={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 353={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 354={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 355={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 356={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 357={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 358={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 359={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="divineorder_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 360={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 361={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 362={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 363={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 364={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="bibiric"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 365={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="bibiric"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 }
 
 366={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="bibiric"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 367={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="bibiric"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 368={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="bibiric"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 369={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="atun_pantheon"
+	culture="shurkun"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 370={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="atun_pantheon"
+	culture="shurkun"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }

@@ -15,11 +15,15 @@
  galkari:0 "Galkari"
  kqusulic:0 "Qusalian"
  irkallic:0 "Irkallite"
+ azite:0 "Azite"
+ siduri:0 "Siduran"
+ bibiric:0 "Bibirite"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Salgari
  salgari:2 "Salgari"
  menran:0 "Menran"
+ shurkun:0 "Shurkan"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubans

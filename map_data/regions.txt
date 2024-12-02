@@ -46,8 +46,7 @@ modded_nub_region = {
 }
 
 modded_girigu_region = {
-	areas = {
-		girigu1_area 
+	areas = { 
 		girigu2_area
 		girigu3_area
 		girigu4_area
@@ -77,6 +76,7 @@ modded_skurgun_region = {
 		skurgun3_area
 		skurgun4_area
 		skurgun5_area
+		girigu1_area
 	}
 }
 

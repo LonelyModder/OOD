@@ -1,7 +1,7 @@
 ﻿603={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 604={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -39,7 +39,7 @@
 605={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -58,7 +58,7 @@
 606={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -77,7 +77,7 @@
 607={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -96,7 +96,7 @@
 608={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -115,7 +115,7 @@
 609={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -134,7 +134,7 @@
 610={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -153,7 +153,7 @@
 611={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -172,7 +172,7 @@
 612={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -191,7 +191,7 @@
 613={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -210,7 +210,7 @@
 614={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -229,7 +229,7 @@
 615={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -248,7 +248,7 @@
 616={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -267,7 +267,7 @@
 617={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -286,7 +286,7 @@
 618={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -327,7 +327,7 @@
 620={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -346,7 +346,7 @@
 714={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -365,7 +365,7 @@
 715={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -384,7 +384,7 @@
 716={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -403,7 +403,7 @@
 689={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -422,7 +422,7 @@
 690={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -441,7 +441,7 @@
 691={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -460,7 +460,7 @@
 621={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -479,7 +479,7 @@
 622={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -498,7 +498,7 @@
 623={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -517,7 +517,7 @@
 624={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -536,7 +536,7 @@
 625={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -555,7 +555,7 @@
 626={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -574,7 +574,7 @@
 692={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -593,7 +593,7 @@
 693={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -612,7 +612,7 @@
 694={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -631,7 +631,7 @@
 695={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -650,7 +650,7 @@
 696={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -669,7 +669,7 @@
 717={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -688,7 +688,7 @@
 721={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -707,7 +707,7 @@
 722={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -726,7 +726,7 @@
 723={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -745,7 +745,7 @@
 750={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -764,7 +764,7 @@
 739={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -783,7 +783,7 @@
 742={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -802,7 +802,7 @@
 718={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -821,7 +821,7 @@
 719={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -840,7 +840,7 @@
 701={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -859,7 +859,7 @@
 698={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -878,7 +878,7 @@
 627={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -897,7 +897,7 @@
 628={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -916,7 +916,7 @@
 629={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -935,7 +935,7 @@
 697={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -954,7 +954,7 @@
 699={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -973,7 +973,7 @@
 630={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -992,7 +992,7 @@
 700={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1011,7 +1011,7 @@
 702={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1030,7 +1030,7 @@
 703={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1049,7 +1049,7 @@
 631={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1068,7 +1068,7 @@
 632={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1087,7 +1087,7 @@
 633={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 634={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1125,7 +1125,7 @@
 635={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1144,7 +1144,7 @@
 636={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1163,7 +1163,7 @@
 637={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1182,7 +1182,7 @@
 704={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1201,7 +1201,7 @@
 705={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1220,7 +1220,7 @@
 706={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1239,7 +1239,7 @@
 707={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1258,7 +1258,7 @@
 708={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1277,7 +1277,7 @@
 709={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1296,7 +1296,7 @@
 638={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1315,7 +1315,7 @@
 639={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1334,7 +1334,7 @@
 640={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1353,7 +1353,7 @@
 641={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1372,7 +1372,7 @@
 642={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1391,7 +1391,7 @@
 643={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1410,7 +1410,7 @@
 710={ 
 	terrain="steppe"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1429,7 +1429,7 @@
 711={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1448,7 +1448,7 @@
 712={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1467,7 +1467,7 @@
 713={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1486,7 +1486,7 @@
 720={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="khorism_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0

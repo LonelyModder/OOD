@@ -1,7 +1,7 @@
 ﻿397={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -20,7 +20,7 @@
 398={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -39,7 +39,7 @@
 399={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -58,7 +58,7 @@
 400={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -77,7 +77,7 @@
 401={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -96,7 +96,7 @@
 402={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -115,7 +115,7 @@
 403={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -134,7 +134,7 @@
 404={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -153,7 +153,7 @@
 405={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -172,7 +172,7 @@
 406={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -191,7 +191,7 @@
 407={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -210,7 +210,7 @@
 408={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -229,7 +229,7 @@
 409={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -248,7 +248,7 @@
 410={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -267,7 +267,7 @@
 411={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -286,7 +286,7 @@
 412={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -305,7 +305,7 @@
 413={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -324,7 +324,7 @@
 414={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -343,7 +343,7 @@
 415={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -362,7 +362,7 @@
 416={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -381,7 +381,7 @@
 417={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -400,7 +400,7 @@
 418={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -419,7 +419,7 @@
 419={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -438,7 +438,7 @@
 420={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -457,7 +457,7 @@
 421={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -476,7 +476,7 @@
 422={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -495,7 +495,7 @@
 423={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -514,7 +514,7 @@
 424={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -533,7 +533,7 @@
 425={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -552,7 +552,7 @@
 426={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -571,7 +571,7 @@
 427={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -590,7 +590,7 @@
 428={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -609,7 +609,7 @@
 429={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -628,7 +628,7 @@
 430={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -647,7 +647,7 @@
 431={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -666,7 +666,7 @@
 432={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -685,7 +685,7 @@
 433={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -704,7 +704,7 @@
 434={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -723,7 +723,7 @@
 435={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -742,7 +742,7 @@
 436={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -761,7 +761,7 @@
 437={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -780,7 +780,7 @@
 438={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -799,7 +799,7 @@
 439={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -818,7 +818,7 @@
 440={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -837,7 +837,7 @@
 441={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -856,7 +856,7 @@
 442={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -875,7 +875,7 @@
 443={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -894,7 +894,7 @@
 444={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -913,7 +913,7 @@
 445={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -932,7 +932,7 @@
 446={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -951,7 +951,7 @@
 447={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -970,7 +970,7 @@
 448={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -989,7 +989,7 @@
 449={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1008,7 +1008,7 @@
 450={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1027,7 +1027,7 @@
 451={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1046,7 +1046,7 @@
 452={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1065,7 +1065,7 @@
 453={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1084,7 +1084,7 @@
 454={ 
 	terrain="mountain"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1103,7 +1103,7 @@
 455={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1122,7 +1122,7 @@
 456={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1163,7 +1163,7 @@
 458={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1182,7 +1182,7 @@
 459={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1201,7 +1201,7 @@
 460={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1220,7 +1220,7 @@
 461={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1239,7 +1239,7 @@
 462={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1315,7 +1315,7 @@
 466={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1334,7 +1334,7 @@
 467={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1353,7 +1353,7 @@
 468={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1372,7 +1372,7 @@
 469={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1391,7 +1391,7 @@
 470={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1410,7 +1410,7 @@
 471={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0
@@ -1429,7 +1429,7 @@
 472={ 
 	terrain="hall"
 	trade_goods="spices"
-	religion="slavic_pantheon"
+	religion="ancient_pantheon"
 	culture="wvenedi"
 	civilization_value=0
 	barbarian_power=0

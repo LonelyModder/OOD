@@ -40,10 +40,14 @@ provinces = { #Any entry must contain a comment with city name.
 	480 = { port_building = 1 }
 	260 = { port_building = 1 }
 	565 = { port_building = 1 }
+	351 = { port_building = 1 }
+	278 = { port_building = 1 }
+	369 = { port_building = 1 }
 	265 = { port_building = 1 }
 	284 = { port_building = 2 }
 	201 = { port_building = 2 }
-	294 = { fortress_building = 1 }
+	292 = { fortress_building = 1 }
+	284 = { fortress_building = 1 }
 	331 = { 
 			port_building = 2
 			fortress_building = 1 
@@ -120,6 +124,13 @@ road_network = {
 	203=201
 	#Kurgun
 	287=260
+	260=291
+	291=292
+	287=286
+	286=284
+	335=333
+	333=332
+	332=331
 }
 
 country = {
@@ -206,7 +217,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = galkari
 			religion = divineorder_pantheon
-			capital = 287
+			capital = 260
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -217,8 +228,8 @@ country = {
 			
 			own_control_core = 	{ 
 				287 260 291 290 289 288 286 284 
-				285 293 294 333 332 331 338 334
-				335 304 292
+				285 293 333 332 331 338 334 344
+				335 304 292 303 323 322 306 310 330 324
 			}
 		}
 		
@@ -385,10 +396,81 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				278
+				278 277 279 280 281
 			}
 		}
 		
+		AAS = {          
+			government = despotic_monarchy
+			primary_culture = shurkun
+			religion = atun_pantheon
+			capital = 369
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				369 370 473 474 475 476
+			}
+		}
+		
+		AAT = {          
+			government = despotic_monarchy
+			primary_culture = azite
+			religion = divineorder_pantheon
+			capital = 300
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				300 305 282 283 299 302 307 272 298 294
+			}
+		}
+		
+		AAU = {          
+			government = despotic_monarchy
+			primary_culture = siduri
+			religion = divineorder_pantheon
+			capital = 351
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				351 336 352 337 356 343 355 362 363 361 360
+			}
+		}
+		
+		AAW = {          
+			government = despotic_monarchy
+			primary_culture = bibiric
+			religion = divineorder_pantheon
+			capital = 365
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				365 364 368 366 367
+			}
+		}
 	}
 }
 

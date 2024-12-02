@@ -2,18 +2,15 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="shurkun"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -21,18 +18,15 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="shurkun"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -40,18 +34,15 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="shurkun"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -59,18 +50,15 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="shurkun"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
