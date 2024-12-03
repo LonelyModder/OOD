@@ -42,6 +42,7 @@ provinces = { #Any entry must contain a comment with city name.
 	565 = { port_building = 1 }
 	351 = { port_building = 1 }
 	278 = { port_building = 1 }
+	345 = { port_building = 1 }
 	369 = { port_building = 1 }
 	265 = { port_building = 1 }
 	284 = { port_building = 2 }
@@ -75,8 +76,6 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	# Barbarian Spawn Spots
 	########################################
-	185 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	188 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	395 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	389 = { modifier = { modifier = generic_barbarian_spawn_place } }
 	384 = { modifier = { modifier = generic_barbarian_spawn_place } }
@@ -377,6 +376,13 @@ country = {
 			religion = divineorder_pantheon
 			capital = 275
 			
+			poptype_rights = {
+				{
+					culture = kqusulic 
+					type = citizen
+				}
+			}
+			
 			own_control_core = 	{ 
 				275 274 273 276 271
 			}
@@ -469,6 +475,42 @@ country = {
 			
 			own_control_core = 	{ 
 				365 364 368 366 367
+			}
+		}
+		
+		AAY = {          
+			government = despotic_monarchy
+			primary_culture = tazari
+			religion = divineorder_pantheon
+			capital = 358
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				358 359 357
+			}
+		}
+		
+		AAZ = {          
+			government = despotic_monarchy
+			primary_culture = beylite
+			religion = divineorder_pantheon
+			capital = 345
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				345 349 350 354 353 
 			}
 		}
 	}

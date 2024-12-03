@@ -53,6 +53,8 @@
 		azite = {}
 		siduri = {}
 		bibiric = {}
+		tazari = {}
+		beylite = {}
 		#new
 	}
 	

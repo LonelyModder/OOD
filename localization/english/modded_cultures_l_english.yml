@@ -18,6 +18,8 @@
  azite:0 "Azite"
  siduri:0 "Siduran"
  bibiric:0 "Bibirite"
+ tazari:0 "Tazari"
+ beylite:0 "Beylite"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Salgari

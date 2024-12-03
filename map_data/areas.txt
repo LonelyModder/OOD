@@ -74,7 +74,11 @@ barrim5_area = {
 }
 
 barrim6_area = { 
-    provinces = { 676 675 673 672 674 656 658 657 671 655 }
+    provinces = { 676 675 673 672 674 656 658 657 655 }
+}
+
+barrim7_area = { 
+    provinces = { 659 663 664 665 666 667 668 669 670 671 }
 }
 
 nub1_area = { 
@@ -86,15 +90,11 @@ nub2_area = {
 }
 
 nub3_area = { 
-    provinces = { 548 549 570 574 571 575 572 573 576 519 }
+    provinces = { 548 549 570 574 571 575 572 573 576 519 660 }
 }
 
 nub4_area = { 
     provinces = { 582 587 583 588 584 589 585 590 644 581 586 }
-}
-
-barrim7_area = { 
-    provinces = { 659 660 663 664 665 666 667 668 669 670 746 }
 }
 
 girigu1_area = { 
@@ -114,7 +114,7 @@ girigu4_area = {
 }
 
 girigu5_area = { 
-    provinces = { 509 508 510 511 513 512 514 517 515 518 516 }
+    provinces = { 509 508 510 511 513 512 514 517 515 518 516 746 }
 }
 
 kubad1_area = { 
