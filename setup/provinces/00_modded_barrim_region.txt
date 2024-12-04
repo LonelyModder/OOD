@@ -1201,25 +1201,6 @@
 	}
 }
 
-660={ 
-	terrain="desert"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
 663={ 
 	terrain="desert"
 	trade_goods="spices"
@@ -1354,25 +1335,6 @@
 }
 
 670={ 
-	terrain="desert"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-746={ 
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"

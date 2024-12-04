@@ -20,6 +20,8 @@
  bibiric:0 "Bibirite"
  tazari:0 "Tazari"
  beylite:0 "Beylite"
+ gulani:0 "Gulani"
+ ashyamite:0 "Ashyamite"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Salgari

@@ -239,12 +239,18 @@
 	culture="azite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 

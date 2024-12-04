@@ -55,6 +55,8 @@
 		bibiric = {}
 		tazari = {}
 		beylite = {}
+		gulani = {}
+		ashyamite = {}
 		#new
 	}
 	

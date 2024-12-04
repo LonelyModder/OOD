@@ -37,12 +37,18 @@
 	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 
@@ -302,15 +308,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 
@@ -318,7 +330,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -334,15 +346,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ashyamite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 
@@ -350,7 +368,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ashyamite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,7 +438,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -436,7 +454,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -452,7 +470,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ashyamite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -831,6 +849,70 @@
 }
 
 370={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="atun_pantheon"
+	culture="shurkun"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+473={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="atun_pantheon"
+	culture="shurkun"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+474={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="atun_pantheon"
+	culture="shurkun"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+475={ 
+	terrain="plains"
+	trade_goods="spices"
+	religion="atun_pantheon"
+	culture="shurkun"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+}
+
+476={ 
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"

@@ -1,68 +1,4 @@
-﻿473={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="shurkun"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
-	}
-}
-
-474={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="shurkun"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
-	}
-}
-
-475={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="shurkun"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
-	}
-}
-
-476={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="shurkun"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
-	}
-}
-
-477={ 
+﻿477={ 
 	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
@@ -1245,6 +1181,26 @@
 
 745={ 
 	terrain="plains"
+	trade_goods="spices"
+	religion="atun_pantheon"
+	culture="wvenedi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+
+746={ 
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"

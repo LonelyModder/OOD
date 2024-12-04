@@ -338,7 +338,7 @@
  PROV336:0 "Sagunda"
  PROV337:0 "Masayit"
  PROV338:0 "Meghravir"
- PROV339:0 "Onek"
+ PROV339:0 "Urgula"
  PROV340:0 "Sderera"
  PROV341:0 "Ashyam"
  PROV342:0 "Jia"
@@ -750,5 +750,6 @@
  PROV748:0 "Ollse Asari"
  PROV749:0 "Ifse Lenora"
  PROV750:0 "Bourtia"
+ PROV751:0 ""
  #Changeble province names
  
