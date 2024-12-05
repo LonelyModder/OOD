@@ -57,6 +57,10 @@
 		beylite = {}
 		gulani = {}
 		ashyamite = {}
+		akiyan = {}
+		ninbanda = {}
+		lehsiri = {}
+		zugushan = {}
 		#new
 	}
 	

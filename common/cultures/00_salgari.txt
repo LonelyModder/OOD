@@ -362,6 +362,7 @@
 
 	culture = {
 		menran = {}
+		tjebite = {}
 		shurkun = {}
 	}
 	

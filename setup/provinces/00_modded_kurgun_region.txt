@@ -649,7 +649,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zugushan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zugushan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -681,15 +681,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zugushan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 
@@ -751,7 +757,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -863,7 +869,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -879,7 +885,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -911,7 +917,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -927,7 +933,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -943,15 +949,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 
@@ -959,7 +971,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ninbanda"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -975,7 +987,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -991,7 +1003,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ninbanda"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1007,7 +1019,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1023,7 +1035,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ninbanda"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1039,15 +1051,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ninbanda"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=2
+		amount=5
 	}
 }
 
@@ -1055,7 +1073,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="ninbanda"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -2,18 +2,15 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -21,37 +18,37 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
 479={ 
-	terrain="farmland"
+	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -81,18 +78,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -100,18 +94,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -119,18 +110,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -138,18 +132,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -157,18 +148,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -176,18 +164,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -195,18 +186,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -214,18 +208,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -233,18 +224,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -252,18 +246,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -271,18 +262,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -290,18 +278,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -309,18 +300,15 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -328,18 +316,15 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -347,18 +332,15 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="tjebite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -371,13 +353,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -390,13 +369,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -409,13 +385,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -428,13 +401,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -447,13 +417,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -466,13 +433,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -485,13 +449,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -504,13 +465,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -523,13 +481,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -542,13 +497,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -561,13 +513,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -580,13 +529,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -599,13 +545,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -618,13 +561,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -637,13 +577,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -656,13 +593,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -675,13 +609,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -694,13 +625,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -713,13 +641,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -732,13 +657,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -751,13 +673,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -770,13 +689,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -789,18 +705,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 542={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -819,10 +732,10 @@
 }
 
 543={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -838,7 +751,7 @@
 }
 
 544={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -857,7 +770,7 @@
 }
 
 545={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -876,7 +789,7 @@
 }
 
 546={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -903,18 +816,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 602={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -933,7 +843,7 @@
 }
 
 651={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -952,7 +862,7 @@
 }
 
 652={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -971,7 +881,7 @@
 }
 
 653={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -990,7 +900,7 @@
 }
 
 661={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1009,7 +919,7 @@
 }
 
 662={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1028,7 +938,7 @@
 }
 
 731={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1047,7 +957,7 @@
 }
 
 732={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1085,7 +995,7 @@
 }
 
 734={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1104,7 +1014,7 @@
 }
 
 735={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1142,7 +1052,7 @@
 }
 
 737={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1161,7 +1071,7 @@
 }
 
 738={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -1180,7 +1090,7 @@
 }
 
 745={ 
-	terrain="plains"
+	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"

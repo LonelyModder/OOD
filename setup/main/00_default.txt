@@ -39,6 +39,12 @@ provinces = { #Any entry must contain a comment with city name.
 	209 = { port_building = 1 }
 	480 = { port_building = 1 }
 	260 = { port_building = 1 }
+	270 = { port_building = 1 }
+	319 = { port_building = 1 }
+	327 = { port_building = 1 }
+	492 = { port_building = 1 }
+	487 = { port_building = 1 }
+	489 = { port_building = 1 }
 	565 = { port_building = 1 }
 	351 = { port_building = 1 }
 	278 = { port_building = 1 }
@@ -50,6 +56,7 @@ provinces = { #Any entry must contain a comment with city name.
 	201 = { port_building = 2 }
 	292 = { fortress_building = 1 }
 	284 = { fortress_building = 1 }
+	483 = { fortress_building = 1 }
 	331 = { 
 			port_building = 2
 			fortress_building = 1 
@@ -209,12 +216,12 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				480
+				480 482 483 477 478 479 481 484 487 488 489 543
 			}
 		}
 		
 		AAE = {          
-			government = despotic_monarchy
+			government = aristocratic_monarchy
 			primary_culture = galkari
 			religion = divineorder_pantheon
 			capital = 260
@@ -228,7 +235,7 @@ country = {
 			
 			own_control_core = 	{ 
 				287 260 291 290 289 288 286 284 
-				285 293 333 332 331 338 334 344
+				285 293 333 332 331 338 334 344 321
 				335 304 292 303 323 322 306 310 330 324
 			}
 		}
@@ -548,6 +555,96 @@ country = {
 			
 			own_control_core = 	{ 
 				341 348 342
+			}
+		}
+		
+		ABC = {          
+			government = despotic_monarchy
+			primary_culture = akiyan
+			religion = divineorder_pantheon
+			capital = 327
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				327 329 325 328 326
+			}
+		}
+		
+		ABD = {          
+			government = despotic_monarchy
+			primary_culture = ninbanda
+			religion = divineorder_pantheon
+			capital = 319
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				319 320 318 316 314
+			}
+		}
+		
+		ABE = {          
+			government = despotic_monarchy
+			primary_culture = lehsiri
+			religion = divineorder_pantheon
+			capital = 313
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				313 311 312 317 315 309 308 301
+			}
+		}
+		
+		ABF = {          
+			government = despotic_monarchy
+			primary_culture = zugushan
+			religion = divineorder_pantheon
+			capital = 297
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				297 296 295
+			}
+		}
+		
+		ABG = {          
+			government = despotic_monarchy
+			primary_culture = tjebite
+			religion = atun_pantheon
+			capital = 486
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				486 485 490 491 492 493 494 495
 			}
 		}
 	}
