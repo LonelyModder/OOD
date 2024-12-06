@@ -33,6 +33,7 @@
  menran:0 "Menran"
  shurkun:0 "Shurkan"
  tjebite:0 "Tjebite"
+ acbite:0 "Acbite"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubans

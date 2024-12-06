@@ -36,3 +36,4 @@ egyptian_gfx={}
 gardan_gfx={}
 levantine_gfx={}
 rabisu_gfx={}
+luwian_gfx = {}

@@ -364,6 +364,7 @@
 		menran = {}
 		tjebite = {}
 		shurkun = {}
+		acbite = {}
 	}
 	
 	barbarian_names = { kemetic_barb }

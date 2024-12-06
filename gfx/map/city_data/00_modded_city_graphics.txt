@@ -213,3 +213,67 @@ Egyptian = {
 		}
 	}
 }
+
+Luwian = {
+	graphical_culture = "luwian_gfx"
+	center_building_mesh = "hattusa_palace_mesh"
+	soundeffect = "event:/SFX/Ambience/3DMapEmitters/Urban/sfx_amb_3d_city_persian"
+	tier = {
+		priority = 0
+		population_per_building = @buildings_per_pop_tier_0
+		population_ratio = 1.0
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"hattusa_01_01_mesh"
+			"hattusa_01_02_mesh"
+			"hattusa_01_03_mesh"
+			"hattusa_01_04_mesh"
+			"hattusa_01_05_mesh"
+		}
+	}
+	tier = {
+		priority = 1
+		population_per_building = @buildings_per_pop_tier_1
+		population_ratio = 0.25
+		
+		rotation_steps = 8
+		rotation_variation = 0
+		meshes = {
+			"hattusa_02_01_mesh"
+			"hattusa_02_02_mesh"
+			"hattusa_02_03_mesh"
+#			"hattusa_temple_01_mesh"
+		}
+	}
+	tier = {
+		priority = 2
+		population_per_building = @buildings_per_pop_tier_2
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"hattusa_03_01_mesh"
+			"hattusa_03_02_mesh"
+			"hattusa_03_03_mesh"
+			"hattusa_03_04_mesh"
+			"hattusa_03_05_mesh"
+		}
+	}
+	tier = {
+		priority = 3
+		population_per_building = @buildings_per_pop_tier_3
+		population_ratio = 0.25
+		
+		rotation_steps = 4
+		rotation_variation = 0
+		meshes = {
+			"hattusa_04_01_mesh"
+			"hattusa_04_02_mesh"
+			"hattusa_04_03_mesh"
+#			"hattusa_temple_02_mesh"
+		}
+	}
+}

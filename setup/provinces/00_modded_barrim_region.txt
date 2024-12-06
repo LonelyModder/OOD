@@ -138,7 +138,7 @@
 }
 
 521={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -233,7 +233,7 @@
 }
 
 529={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -347,7 +347,7 @@
 }
 
 530={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"
@@ -556,7 +556,7 @@
 }
 
 531={ 
-	terrain="plains"
+	terrain="hills"
 	trade_goods="spices"
 	religion="atun_pantheon"
 	culture="wvenedi"

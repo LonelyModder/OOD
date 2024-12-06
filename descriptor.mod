@@ -8,4 +8,4 @@ tags={
 	"Unit Types"
 }
 name="Out of Darkness"
-supported_version="2.0.4"
+supported_version="2.0.*"
