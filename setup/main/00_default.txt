@@ -50,9 +50,11 @@ provinces = { #Any entry must contain a comment with city name.
 	278 = { port_building = 1 }
 	497 = { port_building = 1 }
 	561 = { port_building = 1 }
+	558 = { port_building = 1 }
 	345 = { port_building = 1 }
 	369 = { port_building = 1 }
 	363 = { port_building = 1 }
+	550 = { port_building = 1 }
 	265 = { port_building = 1 }
 	284 = { port_building = 2 }
 	201 = { port_building = 2 }
@@ -63,6 +65,10 @@ provinces = { #Any entry must contain a comment with city name.
 			port_building = 2
 			fortress_building = 1 
 		  }
+	506 = { 
+			port_building = 1
+			fortress_building = 1 
+	 	  }
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	243 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -311,7 +317,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				457
+				457 456
 			}
 		}
 		
@@ -665,6 +671,84 @@ country = {
 			
 			own_control_core = 	{ 
 				496 498 497 499 501 500
+			}
+		}
+		
+		ABI = {          
+			government = despotic_monarchy
+			primary_culture = amsouran
+			religion = atun_pantheon
+			capital = 506
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				506 502 503 504 507 505 661 662
+			}
+		}
+		
+		ABJ = {          
+			government = despotic_monarchy
+			primary_culture = absite
+			religion = atun_pantheon
+			capital = 508
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				508 511 509 510
+			}
+		}
+		
+		ABK = {          
+			government = despotic_monarchy
+			primary_culture = fanite
+			religion = atun_pantheon
+			capital = 515
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				515 513 514 516 518 512 517
+			}
+		}
+		
+		ABL = {          
+			government = tribal_kingdom
+			primary_culture = radahite
+			religion = atun_pantheon
+			capital = 558
+			
+			
+			own_control_core = 	{ 
+				558 559 557 556
+			}
+		}
+		
+		ABM = {          
+			government = tribal_kingdom
+			primary_culture = adiri
+			religion = atun_pantheon
+			capital = 550
+			
+			
+			own_control_core = 	{ 
+				550 540 553 551 552
 			}
 		}
 	}

@@ -1123,18 +1123,15 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="vallakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 

@@ -365,6 +365,10 @@
 		tjebite = {}
 		shurkun = {}
 		acbite = {}
+		amsouran = {}
+		absite = {}
+		fanite = {}
+		adiri = {}
 	}
 	
 	barbarian_names = { kemetic_barb }

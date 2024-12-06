@@ -34,6 +34,9 @@
  shurkun:0 "Shurkan"
  tjebite:0 "Tjebite"
  acbite:0 "Acbite"
+ amsouran:0 "Amsouran"
+ absite:0 "Absite"
+ fanite:0 "Fanite"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubans
@@ -49,6 +52,8 @@
  #Sagentari
  sagentar:2 "Meded"
  maladhamn:0 "Maladhani"
+ radahite:0 "Radahite"
+ adiri:0 "Adiri"
  sagentar_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  sagentar_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Rabisu
