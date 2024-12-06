@@ -48,6 +48,8 @@ provinces = { #Any entry must contain a comment with city name.
 	565 = { port_building = 1 }
 	351 = { port_building = 1 }
 	278 = { port_building = 1 }
+	497 = { port_building = 1 }
+	561 = { port_building = 1 }
 	345 = { port_building = 1 }
 	369 = { port_building = 1 }
 	363 = { port_building = 1 }
@@ -263,13 +265,13 @@ country = {
 		}
 		
 		AAH = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = maladhamn
 			religion = divineorder_pantheon
 			capital = 565
 			
 			own_control_core = 	{ 
-				565
+				565 567 566 564 563 562 561
 			}
 		}
 		
@@ -379,7 +381,7 @@ country = {
 		}
 		
 		AAP = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = nqusulite
 			religion = divineorder_pantheon
 			capital = 275

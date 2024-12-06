@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "messapian_helmet_mesh"
+	file = "messapian_helmet.mesh"
+	
+	meshsettings = {
+		name = "messapian_helmet"
+		index = 0
+		texture_diffuse = "messapian_helmet_diffuse.dds"
+		texture_normal = "messapian_helmet_normal.dds"
+		texture_specular = "messapian_helmet_properties.dds"
+		shader = "standard_usercolor"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "messapian_helmet_entity"
+	pdxmesh = "messapian_helmet_mesh"
+}

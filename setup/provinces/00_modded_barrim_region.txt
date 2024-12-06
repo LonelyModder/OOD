@@ -1,27 +1,30 @@
 ﻿561={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=8
 	}
 	tribesmen={
-		amount=4
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 562={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,8 +42,8 @@
 563={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -58,8 +61,8 @@
 564={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -102,8 +105,8 @@
 566={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -121,8 +124,8 @@
 567={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="maladhamn"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
