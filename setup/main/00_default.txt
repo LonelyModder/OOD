@@ -47,11 +47,17 @@ provinces = { #Any entry must contain a comment with city name.
 	489 = { port_building = 1 }
 	565 = { port_building = 1 }
 	351 = { port_building = 1 }
+	534 = { port_building = 1 }
+	555 = { port_building = 1 }
+	581 = { port_building = 1 }
 	278 = { port_building = 1 }
 	497 = { port_building = 1 }
 	561 = { port_building = 1 }
 	558 = { port_building = 1 }
 	345 = { port_building = 1 }
+	508 = { port_building = 1 }
+	515 = { port_building = 1 }
+	560 = { port_building = 1 }
 	369 = { port_building = 1 }
 	363 = { port_building = 1 }
 	550 = { port_building = 1 }
@@ -224,7 +230,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				480 482 483 477 478 479 481 484 487 488 489 543
+				480 482 483 477 478 479 481 484 487 488 489 543 542
 			}
 		}
 		
@@ -249,13 +255,25 @@ country = {
 		}
 		
 		AAF = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = nubatan
 			religion = ancestors_pantheon
-			capital = 588
+			capital = 581
+			
+			poptype_rights = {
+				{
+					culture = khasu 
+					type = citizen
+				}
+				{
+					culture = gesairi 
+					type = citizen
+				}
+			}
 			
 			own_control_core = 	{ 
-				588
+				548 549 570 574 571 575 572 573 576 660
+				582 587 583 588 584 589 585 590 644 581 586
 			}
 		}
 		
@@ -640,7 +658,7 @@ country = {
 		
 		ABG = {          
 			government = despotic_monarchy
-			primary_culture = tjebite
+			primary_culture = menran
 			religion = atun_pantheon
 			capital = 486
 			
@@ -658,7 +676,7 @@ country = {
 		
 		ABH = {          
 			government = despotic_monarchy
-			primary_culture = acbite
+			primary_culture = amsouran
 			religion = atun_pantheon
 			capital = 496
 			
@@ -694,7 +712,7 @@ country = {
 		
 		ABJ = {          
 			government = despotic_monarchy
-			primary_culture = absite
+			primary_culture = amsouran
 			religion = atun_pantheon
 			capital = 508
 			
@@ -712,7 +730,7 @@ country = {
 		
 		ABK = {          
 			government = despotic_monarchy
-			primary_culture = fanite
+			primary_culture = amsouran
 			religion = atun_pantheon
 			capital = 515
 			
@@ -734,9 +752,8 @@ country = {
 			religion = atun_pantheon
 			capital = 558
 			
-			
 			own_control_core = 	{ 
-				558 559 557 556
+				558 559 557 556 555 554
 			}
 		}
 		
@@ -746,9 +763,74 @@ country = {
 			religion = atun_pantheon
 			capital = 550
 			
-			
 			own_control_core = 	{ 
 				550 540 553 551 552
+			}
+		}
+		
+		ABN = {          
+			government = tribal_kingdom
+			primary_culture = dohali
+			religion = atun_pantheon
+			capital = 534
+			
+			own_control_core = 	{ 
+				534 533 532 535 536
+			}
+		}
+		
+		ABO = {          
+			government = tribal_kingdom
+			primary_culture = ziluhi
+			religion = atun_pantheon
+			capital = 537
+			
+			own_control_core = 	{ 
+				537 538 539
+			}
+		}
+		
+		ABP = {          
+			government = despotic_monarchy
+			primary_culture = nephtite
+			religion = atun_pantheon
+			capital = 560
+			
+			own_control_core = 	{ 
+				560 541 578 577 520 519
+			}
+		}
+		
+		ABR = {          
+			government = tribal_kingdom
+			primary_culture = fasanu
+			religion = atun_pantheon
+			capital = 591
+			
+			own_control_core = 	{ 
+				591 579 580 597 592 596
+			}
+		}
+		
+		ABS = {          
+			government = tribal_kingdom
+			primary_culture = wabutu
+			religion = atun_pantheon
+			capital = 594
+			
+			own_control_core = 	{ 
+				594 593 598 599 595 600 601
+			}
+		}
+		
+		ABT = {          
+			government = tribal_kingdom
+			primary_culture = khasi
+			religion = atun_pantheon
+			capital = 645
+			
+			own_control_core = 	{ 
+				645 646 
 			}
 		}
 	}

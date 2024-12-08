@@ -154,7 +154,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -170,7 +170,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -252,7 +252,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -268,7 +268,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -284,7 +284,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -306,7 +306,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -322,7 +322,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -338,7 +338,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="tjebite"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -354,7 +354,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="acbite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -376,7 +376,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="acbite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -398,7 +398,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="acbite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -414,7 +414,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="acbite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -430,7 +430,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="acbite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -446,7 +446,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="acbite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -570,7 +570,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="absite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -592,7 +592,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="absite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -608,7 +608,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="absite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -624,7 +624,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="absite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -640,7 +640,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -656,7 +656,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -678,7 +678,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -694,7 +694,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -716,7 +716,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -732,7 +732,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -748,7 +748,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="fanite"
+	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -764,7 +764,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -852,22 +852,6 @@
 	}
 	slaves={
 		amount=1
-	}
-}
-
-589={ 
-	terrain="plains"
-	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=2
 	}
 }
 

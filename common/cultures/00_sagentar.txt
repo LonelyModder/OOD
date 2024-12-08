@@ -41,6 +41,9 @@
 	culture = {
 		maladhamn = {}
 		radahite = {}
+		adiri = {}
+		dohali = {}
+		ziluhi = {}
 	}
 	
 	barbarian_names = { 

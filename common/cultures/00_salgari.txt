@@ -362,13 +362,16 @@
 
 	culture = {
 		menran = {}
-		tjebite = {}
 		shurkun = {}
-		acbite = {}
 		amsouran = {}
-		absite = {}
-		fanite = {}
-		adiri = {}
+		nephtite = {}
+		kissoru = {}
+		khasu = {}
+		gesairi = {}
+		menzunu = {}
+		fasanu = {}
+		wabutu = {}
+		khasi = {}
 	}
 	
 	barbarian_names = { kemetic_barb }
