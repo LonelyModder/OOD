@@ -152,6 +152,20 @@ road_network = {
 	335=333
 	333=332
 	332=331
+	335=336
+	351=362
+	362=363
+	364=365
+	363=364
+	365=366
+	364=365
+	366=359
+	359=369
+	284=280
+	280=279
+	279=278
+	278=277
+	277=275
 }
 
 country = {
@@ -230,7 +244,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				480 482 483 477 478 479 481 484 487 488 489 543 542
+				480 482 483 477 478 479 481 484 487 488 489
 			}
 		}
 		
@@ -831,6 +845,57 @@ country = {
 			
 			own_control_core = 	{ 
 				645 646 
+			}
+		}
+		
+		ABU = {          
+			government = tribal_chiefdom
+			primary_culture = jabari
+			religion = atun_pantheon
+			capital = 676
+			
+			own_control_core = 	{ 
+				676 675
+			}
+		}
+		
+		ABW = {          
+			government = tribal_chiefdom
+			primary_culture = karza
+			religion = atun_pantheon
+			capital = 665
+			
+			own_control_core = 	{ 
+				665 666
+			}
+		}
+		
+		ABY = {          
+			government = tribal_chiefdom
+			primary_culture = thyleni
+			religion = atun_pantheon
+			capital = 747
+			
+			own_control_core = 	{ 
+				747 748 749
+			}
+		}
+		
+		ABZ = {          
+			government = despotic_monarchy
+			primary_culture = senori
+			religion = atun_pantheon
+			capital = 733
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				733 732 731
 			}
 		}
 	}

@@ -277,10 +277,13 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="thyleni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -296,7 +299,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="thyleni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -315,7 +318,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="thyleni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1080,7 +1083,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="jabari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1099,10 +1102,13 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="jabari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1270,10 +1276,13 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="karza"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1289,7 +1298,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="karza"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -372,6 +372,7 @@
 		fasanu = {}
 		wabutu = {}
 		khasi = {}
+		senori = {}
 	}
 	
 	barbarian_names = { kemetic_barb }

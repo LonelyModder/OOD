@@ -1263,11 +1263,14 @@
 	citizen={
 		amount=1
 	}
+	freemen={
+		amount=1
+	}
 	tribesmen={
-		amount=12
+		amount=4
 	}
 	slaves={
-		amount=6
+		amount=1
 	}
 }
 

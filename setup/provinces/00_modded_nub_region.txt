@@ -760,7 +760,7 @@
 588={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="ancestors_pantheon"
+	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
 	barbarian_power=0

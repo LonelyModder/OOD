@@ -44,6 +44,9 @@
 		adiri = {}
 		dohali = {}
 		ziluhi = {}
+		jabari = {}
+		karza = {}
+		thyleni = {}
 	}
 	
 	barbarian_names = { 

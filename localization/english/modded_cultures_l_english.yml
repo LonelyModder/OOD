@@ -41,6 +41,7 @@
  fasanu:0 "Fasanu"
  wabutu:0 "Wabutu"
  khasi:0 "Khasi"
+ senori:0 "Deshreti"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubans
@@ -60,6 +61,9 @@
  adiri:0 "Adiri"
  dohali:0 "Dohali"
  ziluhi:0 "Ziluhi"
+ jabari:0 "Jabari"
+ karza:0 "Karza"
+ thyleni:0 "Thyleni"
  sagentar_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  sagentar_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Rabisu
