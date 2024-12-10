@@ -53,6 +53,7 @@ provinces = { #Any entry must contain a comment with city name.
 	278 = { port_building = 1 }
 	497 = { port_building = 1 }
 	561 = { port_building = 1 }
+	530 = { port_building = 1 }
 	558 = { port_building = 1 }
 	345 = { port_building = 1 }
 	508 = { port_building = 1 }
@@ -456,7 +457,7 @@ country = {
 		
 		AAS = {          
 			government = despotic_monarchy
-			primary_culture = shurkun
+			primary_culture = menran
 			religion = atun_pantheon
 			capital = 369
 			
@@ -896,6 +897,28 @@ country = {
 			
 			own_control_core = 	{ 
 				733 732 731
+			}
+		}
+		
+		ACA = {          
+			government = tribal_chiefdom
+			primary_culture = sekhenu
+			religion = atun_pantheon
+			capital = 728
+			
+			own_control_core = 	{ 
+				728 730
+			}
+		}
+		
+		ACB = {          
+			government = tribal_kingdom
+			primary_culture = adranu
+			religion = atun_pantheon
+			capital = 530
+			
+			own_control_core = 	{ 
+				530 531
 			}
 		}
 	}

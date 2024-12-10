@@ -31,8 +31,8 @@
  #Salgari
  salgari:2 "Salgari"
  menran:0 "Lower Salgari"
- shurkun:0 "Shurkan"
  amsouran:0 "Upper Salgari"
+ senori:0 "Deshreti"
  nephtite:0 "Nephtite"
  kissoru:0 "Kissoru"
  khasu:0 "Khasu"
@@ -41,7 +41,7 @@
  fasanu:0 "Fasanu"
  wabutu:0 "Wabutu"
  khasi:0 "Khasi"
- senori:0 "Deshreti"
+ sekhenu:0 "Sekhenu"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubans
@@ -63,7 +63,8 @@
  ziluhi:0 "Ziluhi"
  jabari:0 "Jabari"
  karza:0 "Karza"
- thyleni:0 "Thyleni"
+ thyleni:0 "Hajari"
+ adranu:0 "Adranu"
  sagentar_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  sagentar_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Rabisu

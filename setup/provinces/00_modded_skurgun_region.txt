@@ -836,7 +836,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="shurkun"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -858,7 +858,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="shurkun"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -874,7 +874,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="shurkun"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -890,7 +890,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="shurkun"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -906,7 +906,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="shurkun"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -922,7 +922,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="shurkun"
+	culture="menran"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

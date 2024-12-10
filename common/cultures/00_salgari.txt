@@ -362,7 +362,6 @@
 
 	culture = {
 		menran = {}
-		shurkun = {}
 		amsouran = {}
 		nephtite = {}
 		kissoru = {}
@@ -373,6 +372,7 @@
 		wabutu = {}
 		khasi = {}
 		senori = {}
+		sekhenu = {}
 	}
 	
 	barbarian_names = { kemetic_barb }

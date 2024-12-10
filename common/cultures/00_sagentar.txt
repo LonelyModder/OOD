@@ -47,6 +47,7 @@
 		jabari = {}
 		karza = {}
 		thyleni = {}
+		adranu = {}
 	}
 	
 	barbarian_names = { 
