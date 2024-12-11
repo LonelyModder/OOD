@@ -1,5 +1,5 @@
 ﻿397={ 
-	terrain="hills"
+	terrain="forest"
 	trade_goods="spices"
 	religion="ancient_pantheon"
 	culture="wvenedi"

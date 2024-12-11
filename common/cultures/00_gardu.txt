@@ -432,6 +432,7 @@
 	}
 	culture = {
 		gangari = {}
+		khatsu = {}
 	}
 	
 	barbarian_names = { 
