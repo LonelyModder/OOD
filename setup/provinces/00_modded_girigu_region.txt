@@ -411,8 +411,8 @@
 }
 
 499={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -459,8 +459,8 @@
 }
 
 502={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -551,8 +551,8 @@
 }
 
 507={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -691,8 +691,8 @@
 }
 
 515={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -1072,14 +1072,17 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=1
+		amount=2
 	}
 	tribesmen={
-		amount=4
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 

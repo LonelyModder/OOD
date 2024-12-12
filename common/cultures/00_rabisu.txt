@@ -28,7 +28,15 @@
 		Uzuat Gulfrbush Ugruush Lurngakh Garkh Yagahnar Bolagol Crohnar Mukak
 	}
 	culture = {
-		kubadi = {}
+		clanless = {}
+		bashari = {}
+		zuthu = {}
+		labashi = {}
+		hunzu = {}
+		tattannu = {}
+		gemeti = {}
+		zakiri = {}
+		amatu = {}
 	}
 	
 	barbarian_names = { 

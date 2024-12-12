@@ -2,7 +2,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,7 +21,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,7 +40,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -59,7 +59,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -78,7 +78,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,7 +97,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -116,7 +116,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -135,7 +135,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -154,7 +154,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,7 +173,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,7 +192,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -211,7 +211,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,7 +230,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -268,7 +268,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -287,7 +287,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -306,7 +306,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -325,7 +325,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -344,7 +344,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -363,7 +363,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -382,7 +382,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -401,7 +401,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -420,7 +420,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -439,7 +439,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -458,7 +458,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -477,7 +477,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -515,7 +515,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -534,7 +534,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -553,7 +553,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -572,7 +572,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -591,7 +591,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -610,7 +610,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -629,7 +629,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +648,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -705,7 +705,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -724,7 +724,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -762,7 +762,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -781,7 +781,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -800,7 +800,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -819,7 +819,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -838,7 +838,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -857,7 +857,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -876,7 +876,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -895,7 +895,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="zakiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -914,10 +914,13 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="zakiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -933,7 +936,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -952,7 +955,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="zuthu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -971,10 +974,13 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="zuthu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -990,7 +996,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1009,7 +1015,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1028,7 +1034,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1047,10 +1053,13 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="labashi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1066,7 +1075,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="labashi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1085,7 +1094,7 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1104,7 +1113,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1161,10 +1170,13 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="tattannu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1180,7 +1192,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1199,7 +1211,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="tattannu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1218,7 +1230,7 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1237,7 +1249,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1256,7 +1268,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="kubadi"
+	culture="bashari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1278,7 +1290,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="kubadi"
+	culture="bashari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1297,7 +1309,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="kubadi"
+	culture="bashari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1316,10 +1328,13 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="hunzu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1335,7 +1350,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1354,7 +1369,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="hunzu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1373,7 +1388,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="gemeti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1392,7 +1407,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="clanless"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1411,7 +1426,7 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="gemeti"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1430,17 +1445,20 @@
 	terrain="hall"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="wvenedi"
+	culture="amatu"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
+	province_rank="city"
+	citizen={
 		amount=4
 	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=8
+	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }

@@ -2,7 +2,8 @@
     template = "ethnities_template"
     
     skin_color = {
-        10 = { 0.5 0.54 0.75 0.59 }
+        #10 = { 0.5 0.54 0.75 0.59 }
+		98 = { 0.0 0.0 0.0001 0.0001 }
     }
     eye_color = {
         #Blue

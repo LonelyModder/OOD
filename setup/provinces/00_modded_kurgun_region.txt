@@ -1,6 +1,6 @@
 ﻿260={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -217,8 +217,8 @@
 }
 
 271={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
@@ -233,8 +233,8 @@
 }
 
 272={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="azite"
 	civilization_value=0
@@ -271,8 +271,8 @@
 }
 
 274={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
@@ -287,8 +287,8 @@
 }
 
 275={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="kqusulic"
 	civilization_value=0
@@ -334,8 +334,8 @@
 }
 
 277={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="irkallic"
 	civilization_value=0
@@ -452,8 +452,8 @@
 }
 
 284={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -474,8 +474,8 @@
 }
 
 285={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -560,8 +560,8 @@
 }
 
 290={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -576,8 +576,8 @@
 }
 
 291={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -592,8 +592,8 @@
 }
 
 292={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -786,8 +786,8 @@
 }
 
 303={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0

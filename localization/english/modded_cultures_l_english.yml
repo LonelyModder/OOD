@@ -55,7 +55,6 @@
  bgardu:0 "Black Gardu"
  blgardu:0 "Blue Gardu"
  rgardu:0 "Red Gardu"
- khatsu:0 "Khatsu"
  gardu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  gardu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Sagentari
@@ -73,7 +72,15 @@
  sagentar_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Rabisu
  rabisu:2 "Rabisu"
- kubadi:0 "Kubadi"
+ clanless:0 "Clanless"
+ bashari:0 "Bashari"
+ zuthu:0 "Zuthu"
+ labashi:0 "Labashi" 
+ hunzu:0 "Hunzu"
+ tattannu:0 "Tattannu"
+ gemeti:0 "Gemeti"
+ zakiri:0 "Zakiri"
+ amatu:0 "Amatu"
  rabisu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  rabisu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Urten
@@ -85,7 +92,7 @@
  susigu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Ekimmu
  ekimmu:2 "Ekimmu"
- vallakite:0 "Gardai"
+ vallakite:0 "Sleannan"
  ekimmu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  ekimmu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Heresy

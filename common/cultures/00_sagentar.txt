@@ -1,5 +1,5 @@
 ﻿sagentar = {	
-	color = hsv { 0.43 0.1 0.55 }
+	color = hsv { 0.08 0.91 0.82 }
 
 	primary = unit_archers
 	second = unit_spearmen

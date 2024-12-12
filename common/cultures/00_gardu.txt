@@ -435,7 +435,6 @@
 		bgardu = {}
 		blgardu = {}
 		rgardu = {}
-		khatsu = {}
 		
 	}
 	

@@ -2,7 +2,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -21,7 +21,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,7 +40,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -59,7 +59,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -78,7 +78,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -97,7 +97,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -116,7 +116,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -135,10 +135,13 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -154,7 +157,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,7 +176,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,7 +195,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -211,7 +214,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,7 +233,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +252,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -268,7 +271,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -287,7 +290,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -310,9 +313,6 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
@@ -328,10 +328,13 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -347,7 +350,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +369,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -385,7 +388,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -404,7 +407,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -423,7 +426,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -442,7 +445,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -461,7 +464,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -480,7 +483,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -499,7 +502,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -518,7 +521,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -537,10 +540,13 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -556,7 +562,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -575,7 +581,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -594,7 +600,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +619,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -632,7 +638,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -651,7 +657,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -670,7 +676,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -689,7 +695,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -708,10 +714,13 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -727,7 +736,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -746,7 +755,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -765,7 +774,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -784,7 +793,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -803,7 +812,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -822,7 +831,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -841,7 +850,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +869,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -879,7 +888,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -898,7 +907,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -917,7 +926,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -936,7 +945,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -955,7 +964,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -974,7 +983,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -993,7 +1002,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="bgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1012,7 +1021,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1031,7 +1040,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1050,7 +1059,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1069,10 +1078,13 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1088,7 +1100,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1107,7 +1119,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1126,7 +1138,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1145,7 +1157,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1164,7 +1176,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1183,7 +1195,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1202,7 +1214,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1221,7 +1233,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1240,7 +1252,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1259,7 +1271,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1278,7 +1290,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1297,7 +1309,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1316,7 +1328,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1335,7 +1347,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1354,7 +1366,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1373,7 +1385,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1392,7 +1404,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1411,7 +1423,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1430,7 +1442,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1449,7 +1461,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1468,7 +1480,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1487,7 +1499,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="wvenedi"
+	culture="blgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

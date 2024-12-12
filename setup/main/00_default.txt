@@ -63,6 +63,7 @@ provinces = { #Any entry must contain a comment with city name.
 	201 = { port_building = 2 }
 	292 = { fortress_building = 1 }
 	284 = { fortress_building = 1 }
+	736 = { fortress_building = 1 }
 	483 = { fortress_building = 1 }
 	331 = { 
 			port_building = 2
@@ -292,10 +293,10 @@ country = {
 			government = tribal_chiefdom
 			primary_culture = wgardu
 			religion = khorism_pantheon
-			capital = 619
+			capital = 610
 			
 			own_control_core = 	{ 
-				619
+				610 611 609
 			}
 		}
 		
@@ -312,7 +313,7 @@ country = {
 		
 		AAI = {          
 			government = tribal_chiefdom
-			primary_culture = kubadi
+			primary_culture = bashari
 			religion = ancient_pantheon
 			capital = 463
 			
@@ -892,7 +893,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				733 
+				733 736
 			}
 		}
 		
@@ -919,13 +920,123 @@ country = {
 		}
 		
 		ACC = {          
-			government = tribal_kingdom
-			primary_culture = khatsu
+			government = tribal_chiefdom
+			primary_culture = rgardu
 			religion = khorism_pantheon
 			capital = 722
 			
 			own_control_core = 	{ 
 				722 723
+			}
+		}
+		
+		ACD = {          
+			government = tribal_chiefdom
+			primary_culture = wgardu
+			religion = khorism_pantheon
+			capital = 620
+			
+			own_control_core = 	{ 
+				620 690 621
+			}
+		}
+		
+		ACE = {          
+			government = tribal_chiefdom
+			primary_culture = bgardu
+			religion = khorism_pantheon
+			capital = 625
+			
+			own_control_core = 	{ 
+				625 696 624
+			}
+		}
+		
+		ACF = {          
+			government = tribal_chiefdom
+			primary_culture = blgardu
+			religion = khorism_pantheon
+			capital = 632
+			
+			own_control_core = 	{ 
+				632 633 631
+			}
+		}
+		
+		ACG = {          
+			government = tribal_chiefdom
+			primary_culture = zuthu
+			religion = ancient_pantheon
+			capital = 448
+			
+			own_control_core = 	{ 
+				448 447
+			}
+		}
+		
+		ACH = {          
+			government = tribal_chiefdom
+			primary_culture = labashi
+			religion = ancient_pantheon
+			capital = 452
+			
+			own_control_core = 	{ 
+				452 453
+			}
+		}
+		
+		ACI = {          
+			government = tribal_chiefdom
+			primary_culture = hunzu
+			religion = ancient_pantheon
+			capital = 466
+			
+			own_control_core = 	{ 
+				466 468
+			}
+		}
+		
+		ACJ = {          
+			government = tribal_chiefdom
+			primary_culture = tattannu
+			religion = ancient_pantheon
+			capital = 458
+			
+			own_control_core = 	{ 
+				458 460
+			}
+		}
+		
+		ACK = {          
+			government = tribal_chiefdom
+			primary_culture = gemeti
+			religion = ancient_pantheon
+			capital = 469
+			
+			own_control_core = 	{ 
+				469 471
+			}
+		}
+		
+		ACL = {          
+			government = tribal_chiefdom
+			primary_culture = zakiri
+			religion = ancient_pantheon
+			capital = 445
+			
+			own_control_core = 	{ 
+				445 444
+			}
+		}
+		
+		ACM = {          
+			government = tribal_kingdom
+			primary_culture = amatu
+			religion = ancient_pantheon
+			capital = 472
+			
+			own_control_core = 	{ 
+				472
 			}
 		}
 	}

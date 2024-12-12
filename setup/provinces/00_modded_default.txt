@@ -2,8 +2,8 @@
 
 1={ #Ocean
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -12,8 +12,8 @@
 
 2={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -22,8 +22,8 @@
 
 3={ #Mountains
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -32,8 +32,8 @@
 
 4={ #Mountains-Black?
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1832,8 +1832,8 @@
 
 185={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1842,8 +1842,8 @@
 
 186={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1852,8 +1852,8 @@
 
 187={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1862,8 +1862,8 @@
 
 188={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1872,8 +1872,8 @@
 
 189={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1882,8 +1882,8 @@
 
 190={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1892,8 +1892,8 @@
 
 191={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1902,8 +1902,8 @@
 
 371={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1912,8 +1912,8 @@
 
 372={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1922,8 +1922,8 @@
 
 373={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1932,8 +1932,8 @@
 
 374={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1942,8 +1942,8 @@
 
 375={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1952,8 +1952,8 @@
 
 376={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1962,8 +1962,8 @@
 
 377={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1972,8 +1972,8 @@
 
 378={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1982,8 +1982,8 @@
 
 379={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1992,8 +1992,8 @@
 
 380={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2002,8 +2002,8 @@
 
 381={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2012,8 +2012,8 @@
 
 382={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2022,8 +2022,8 @@
 
 383={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2032,8 +2032,8 @@
 
 384={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2042,8 +2042,8 @@
 
 385={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2052,8 +2052,8 @@
 
 386={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2062,8 +2062,8 @@
 
 387={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2072,8 +2072,8 @@
 
 388={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2082,8 +2082,8 @@
 
 389={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2092,8 +2092,8 @@
 
 390={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2102,8 +2102,8 @@
 
 391={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2112,8 +2112,8 @@
 
 392={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2122,8 +2122,8 @@
 
 393={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2132,8 +2132,8 @@
 
 394={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2142,8 +2142,8 @@
 
 395={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2152,8 +2152,8 @@
 
 396={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2162,8 +2162,8 @@
 
 568={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2172,8 +2172,8 @@
 
 649={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2182,8 +2182,8 @@
 
 650={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2192,8 +2192,8 @@
 
 686={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2202,8 +2202,8 @@
 
 687={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2212,8 +2212,8 @@
 
 688={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2222,8 +2222,8 @@
 
 743={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2232,8 +2232,8 @@
 
 744={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2242,8 +2242,8 @@
 
 751={ #Lands
 	terrain="impassable_terrain"
-	culture="wvenedi"
-	religion="slavic_pantheon"
+	culture="clanless"
+	religion="ancient_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
