@@ -70,7 +70,7 @@
 
 325={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="akiyan"
 	civilization_value=0
@@ -86,7 +86,7 @@
 
 326={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="akiyan"
 	civilization_value=0
@@ -102,7 +102,7 @@
 
 327={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="akiyan"
 	civilization_value=0
@@ -124,7 +124,7 @@
 
 328={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="akiyan"
 	civilization_value=0
@@ -172,7 +172,7 @@
 
 331={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -242,7 +242,7 @@
 
 335={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -296,7 +296,7 @@
 
 338={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -388,7 +388,7 @@
 
 343={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
 	culture="siduri"
 	civilization_value=0
@@ -404,7 +404,7 @@
 
 344={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -420,7 +420,7 @@
 
 345={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="beylite"
 	civilization_value=0
@@ -522,7 +522,7 @@
 
 351={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
 	culture="siduri"
 	civilization_value=0
@@ -544,7 +544,7 @@
 
 352={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
 	culture="siduri"
 	civilization_value=0
@@ -560,7 +560,7 @@
 
 353={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="beylite"
 	civilization_value=0
@@ -576,7 +576,7 @@
 
 354={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="beylite"
 	civilization_value=0
@@ -624,7 +624,7 @@
 
 357={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="tazari"
 	civilization_value=0
@@ -640,7 +640,7 @@
 
 358={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="tazari"
 	civilization_value=0
@@ -694,7 +694,7 @@
 
 361={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="siduri"
 	civilization_value=0
@@ -710,7 +710,7 @@
 
 362={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="siduri"
 	civilization_value=0
@@ -748,7 +748,7 @@
 
 364={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="divineorder_pantheon"
 	culture="bibiric"
 	civilization_value=0
@@ -786,7 +786,7 @@
 
 366={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="bibiric"
 	civilization_value=0
@@ -872,7 +872,7 @@
 
 473={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="amber"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -904,7 +904,7 @@
 
 475={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0

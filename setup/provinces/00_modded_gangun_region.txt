@@ -19,7 +19,7 @@
 
 604={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 606={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 610={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -155,7 +155,7 @@
 
 611={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -326,7 +326,7 @@
 
 620={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -443,7 +443,7 @@
 
 691={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -481,7 +481,7 @@
 
 622={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -519,7 +519,7 @@
 
 624={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -538,7 +538,7 @@
 
 625={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -560,7 +560,7 @@
 
 626={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -617,7 +617,7 @@
 
 694={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -1076,7 +1076,7 @@
 
 632={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1117,7 +1117,7 @@
 
 634={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1174,7 +1174,7 @@
 
 637={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1383,7 +1383,7 @@
 
 642={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0

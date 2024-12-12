@@ -38,7 +38,7 @@
 
 560={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0

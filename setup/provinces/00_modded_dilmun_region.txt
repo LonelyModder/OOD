@@ -291,7 +291,7 @@
 
 206={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="shedrenite"
 	civilization_value=0
@@ -373,7 +373,7 @@
 
 210={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="woad"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
@@ -411,7 +411,7 @@
 
 212={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="woad"
 	religion="divineorder_pantheon"
 	culture="iltanite"
 	civilization_value=0
@@ -449,7 +449,7 @@
 
 214={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="iltanite"
 	civilization_value=0
@@ -487,7 +487,7 @@
 
 216={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="iltanite"
 	civilization_value=0
@@ -639,7 +639,7 @@
 
 224={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="shedrenite"
 	civilization_value=0
@@ -734,7 +734,7 @@
 
 229={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="woad"
 	religion="divineorder_pantheon"
 	culture="shedrenite"
 	civilization_value=0
@@ -870,7 +870,7 @@
 
 236={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
@@ -987,7 +987,7 @@
 
 242={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="salt"
 	religion="divineorder_pantheon"
 	culture="chekkan"
 	civilization_value=0

@@ -1,6 +1,6 @@
 ﻿561={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="maladhamn"
 	civilization_value=0
@@ -41,7 +41,7 @@
 
 563={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="maladhamn"
 	civilization_value=0
@@ -60,7 +60,7 @@
 
 564={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="maladhamn"
 	civilization_value=0
@@ -104,7 +104,7 @@
 
 566={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="divineorder_pantheon"
 	culture="maladhamn"
 	civilization_value=0
@@ -161,7 +161,7 @@
 
 522={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -199,7 +199,7 @@
 
 524={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -297,7 +297,7 @@
 
 748={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 530={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="adranu"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 534={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="dohali"
 	civilization_value=0
@@ -444,7 +444,7 @@
 
 535={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="dohali"
 	civilization_value=0
@@ -482,7 +482,7 @@
 
 537={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="ziluhi"
 	civilization_value=0
@@ -697,7 +697,7 @@
 
 555={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="atun_pantheon"
 	culture="radahite"
 	civilization_value=0
@@ -738,7 +738,7 @@
 
 557={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="radahite"
 	civilization_value=0
@@ -757,7 +757,7 @@
 
 558={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="atun_pantheon"
 	culture="radahite"
 	civilization_value=0
@@ -790,7 +790,7 @@
 
 559={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="atun_pantheon"
 	culture="radahite"
 	civilization_value=0
@@ -828,7 +828,7 @@
 
 540={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="adiri"
 	civilization_value=0
@@ -961,7 +961,7 @@
 
 677={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="jabari"
 	civilization_value=0
@@ -1113,7 +1113,7 @@
 
 676={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="jabari"
 	civilization_value=0
@@ -1268,7 +1268,7 @@
 
 664={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0
@@ -1287,7 +1287,7 @@
 
 665={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0

@@ -19,7 +19,7 @@
 
 398={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -38,7 +38,7 @@
 
 399={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -171,7 +171,7 @@
 
 406={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -209,7 +209,7 @@
 
 408={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -361,7 +361,7 @@
 
 416={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -418,7 +418,7 @@
 
 419={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -589,7 +589,7 @@
 
 428={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -665,7 +665,7 @@
 
 432={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -836,7 +836,7 @@
 
 441={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -893,7 +893,7 @@
 
 444={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="ancient_pantheon"
 	culture="zakiri"
 	civilization_value=0
@@ -912,7 +912,7 @@
 
 445={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="ancient_pantheon"
 	culture="zakiri"
 	civilization_value=0
@@ -1051,7 +1051,7 @@
 
 452={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="ancient_pantheon"
 	culture="labashi"
 	civilization_value=0
@@ -1111,7 +1111,7 @@
 
 455={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -1190,7 +1190,7 @@
 
 459={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -1288,7 +1288,7 @@
 
 464={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="ancient_pantheon"
 	culture="bashari"
 	civilization_value=0
@@ -1405,7 +1405,7 @@
 
 470={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="salt"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0

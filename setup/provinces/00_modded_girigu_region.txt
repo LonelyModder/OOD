@@ -54,7 +54,7 @@
 
 480={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 481={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -98,7 +98,7 @@
 
 482={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -168,7 +168,7 @@
 
 486={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="cloth"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -190,7 +190,7 @@
 
 487={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -282,7 +282,7 @@
 
 492={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -352,7 +352,7 @@
 
 496={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -374,7 +374,7 @@
 
 497={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cloth"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -476,7 +476,7 @@
 
 503={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -568,7 +568,7 @@
 
 508={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -654,7 +654,7 @@
 
 513={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -984,7 +984,7 @@
 
 732={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0
@@ -1003,7 +1003,7 @@
 
 733={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0
@@ -1066,7 +1066,7 @@
 
 736={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0

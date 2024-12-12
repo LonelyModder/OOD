@@ -814,7 +814,7 @@ country = {
 		}
 		
 		ABR = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = fasanu
 			religion = atun_pantheon
 			capital = 591
@@ -825,7 +825,7 @@ country = {
 		}
 		
 		ABS = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = wabutu
 			religion = atun_pantheon
 			capital = 594
@@ -836,7 +836,7 @@ country = {
 		}
 		
 		ABT = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = khasi
 			religion = atun_pantheon
 			capital = 645
@@ -898,7 +898,7 @@ country = {
 		}
 		
 		ACA = {          
-			government = tribal_chiefdom
+			government = despotic_monarchy
 			primary_culture = sekhenu
 			religion = atun_pantheon
 			capital = 728

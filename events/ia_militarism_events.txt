@@ -30,6 +30,7 @@ militarism_events.1 = {
 					country_culture_group = gardu
 					country_culture_group = sagentar
 					country_culture_group = nuban
+					country_culture_group = kengiri
 				}				
 			}
 			add_country_modifier = {
@@ -40,7 +41,8 @@ militarism_events.1 = {
 		else_if = {
 			limit = {
 				OR = {
-					country_culture_group = annunaki				
+					country_culture_group = annunaki	
+					country_culture_group = salgari
 				}				
 			}
 			add_country_modifier = {
