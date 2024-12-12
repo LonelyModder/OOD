@@ -306,7 +306,7 @@
 	terrain="steppe"
 	trade_goods="spices"
 	religion="khorism_pantheon"
-	culture="gangari"
+	culture="wgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

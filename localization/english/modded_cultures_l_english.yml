@@ -51,7 +51,10 @@
  nuban_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Gardu
  gardu:2 "Gardu"
- gangari:0 "Gangaran"
+ wgardu:0 "White Gardu"
+ bgardu:0 "Black Gardu"
+ blgardu:0 "Blue Gardu"
+ rgardu:0 "Red Gardu"
  khatsu:0 "Khatsu"
  gardu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  gardu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

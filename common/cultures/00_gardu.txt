@@ -431,8 +431,12 @@
 		Nama-zzani-Nubadig.Nama-zzani-Nubadig.Nama-zzani-Nubadig.Nama-zzani-Nubadig
 	}
 	culture = {
-		gangari = {}
+		wgardu = {}
+		bgardu = {}
+		blgardu = {}
+		rgardu = {}
 		khatsu = {}
+		
 	}
 	
 	barbarian_names = { 

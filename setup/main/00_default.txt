@@ -290,7 +290,7 @@ country = {
 		
 		AAG = {          
 			government = tribal_chiefdom
-			primary_culture = gangari
+			primary_culture = wgardu
 			religion = khorism_pantheon
 			capital = 619
 			
