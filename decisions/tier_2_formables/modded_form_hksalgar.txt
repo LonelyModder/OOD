@@ -1,0 +1,102 @@
+﻿country_decisions = {
+	
+	# Form High Kingdom of Salgar
+	form_hksalgar = {
+		
+		potential = {
+			OR = {
+				country_culture_group = salgari
+				country_culture_group = sagentar
+			}
+			#is_tribal = yes
+			NOT = {
+				tag = XSG
+			}
+			NOR = {
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 506
+					province_id = 496
+					province_id = 486
+					province_id = 480
+					province_id = 508
+					province_id = 515
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = hksalgar_must_not_exist
+				NOT = {
+					any_country = {
+						tag = XSG
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 506
+			owns_or_subject_owns = 496
+			owns_or_subject_owns = 486
+			owns_or_subject_owns = 480
+			owns_or_subject_owns = 508
+			owns_or_subject_owns = 515
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "HKSalgar_name"
+			change_country_flag = Eye_of_Ra
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = aristocratic_monarchy
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = "HKSalgar_adj"
+				change_country_color =  "HKSalgar_color"
+				change_country_tag = XSG
+			}
+			if = {
+				limit = {
+					NOT = {
+						capital_scope = {
+							province_id = 506
+						}
+					}
+				}
+				set_capital = 506
+				hidden_effect = {
+					p:506.state = {
+						set_state_capital = 506
+					}
+				}
+			}
+			p:506 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+			hidden_effect = {
+				region:modded_girigu_region = { formable_region_province_effect = yes }
+				region:modded_nub_region = { formable_region_province_effect = yes }
+				region:modded_barrim_region = { formable_region_province_effect = yes }
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}

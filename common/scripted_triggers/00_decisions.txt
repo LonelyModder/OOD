@@ -7,6 +7,7 @@
 is_tier_2_formable_trigger = {
 	OR = {
 		#tag = XOR #Kingdom of Orsinium
+		tag = XSG
 	}
 }
 

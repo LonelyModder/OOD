@@ -832,7 +832,7 @@
 
 728={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -984,7 +984,7 @@
 
 726={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0

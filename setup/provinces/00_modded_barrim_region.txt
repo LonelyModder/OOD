@@ -256,7 +256,7 @@
 
 683={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -316,7 +316,7 @@
 
 749={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -659,7 +659,7 @@
 
 553={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="adiri"
 	civilization_value=0
@@ -719,7 +719,7 @@
 
 556={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="radahite"
 	civilization_value=0
@@ -1056,7 +1056,7 @@
 
 673={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0
@@ -1328,7 +1328,7 @@
 
 667={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0

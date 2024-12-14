@@ -133,7 +133,7 @@
 
 404={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="steppe_horses"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -285,7 +285,7 @@
 
 412={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="steppe_horses"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -513,7 +513,7 @@
 
 424={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="steppe_horses"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -1092,7 +1092,7 @@
 
 454={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -1209,7 +1209,7 @@
 
 460={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="ancient_pantheon"
 	culture="tattannu"
 	civilization_value=0
@@ -1228,7 +1228,7 @@
 
 461={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="ancient_pantheon"
 	culture="clanless"
 	civilization_value=0
@@ -1424,7 +1424,7 @@
 
 471={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="ancient_pantheon"
 	culture="gemeti"
 	civilization_value=0

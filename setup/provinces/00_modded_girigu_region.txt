@@ -857,7 +857,7 @@
 
 602={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0
@@ -933,7 +933,7 @@
 
 661={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -1107,7 +1107,7 @@
 
 738={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0

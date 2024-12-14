@@ -940,8 +940,8 @@
  ACM:0 "Amatu"
  ACM_ADJ:0 "Amatite"
  #Modded Formables
- HKAlinor_name:0 "Kingdom of Alinor"
- HKAlinor_adj:0 "Alinoric"
+ HKSalgar_name:0 "Kingdom of Salgar"
+ HKSalgar_adj:0 "Salgari"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

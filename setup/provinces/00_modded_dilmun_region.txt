@@ -1,6 +1,6 @@
 ﻿184={ 
 	terrain="hills"
-	trade_goods="dye"
+	trade_goods="glass"
 	religion="divineorder_pantheon"
 	culture="annuni"
 	civilization_value=0
@@ -829,7 +829,7 @@
 
 234={ 
 	terrain="hills"
-	trade_goods="dye"
+	trade_goods="glass"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
