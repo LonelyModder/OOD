@@ -2,5 +2,7 @@
  #Formable Nations
  hksalgar_must_not_exist:0 "Kingdom of Salgar must not exist."
  form_hksalgar:0 "Form the Kingdom of Salgar"
- form_hksalgar_desc:0 ""
- 
+ form_hksalgar_desc:0 "Founded millenia ago by the legendary king Scorpion who defeated the Enukku with the army of Salgari tribesmen from the upper Nissimu and the desert tribes of Meded. His descendants ruled the country for nearly two millenia but today the direct line was broken and the regional governors called nomarchs fight for control over the kingdom. Who will be victorious?"
+ hkkurgun_must_not_exist:0 "Kingdom of Kurgun must not exist."
+ form_hkkurgun:0 "Form the Kingdom of Kurgun"
+ form_hkkurgun_desc:0 "Kurgun is the most civilised from all the realms of man. This is the last place the Enukku abandoned when they moved to their home island of Dilmun. Today the area is devided between rivaling ensi and the invading Urtenites. Will the new recently converted tribes be able to unite the realm or will ensi band together to drive out the intruders? Will the jewel of old empire will know piece once more?"

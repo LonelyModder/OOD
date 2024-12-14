@@ -942,6 +942,8 @@
  #Modded Formables
  HKSalgar_name:0 "Kingdom of Salgar"
  HKSalgar_adj:0 "Salgari"
+ HKKurgun_name:0 "Kingdom of Kurgun"
+ HKKurgun_adj:0 "Kurgunese"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

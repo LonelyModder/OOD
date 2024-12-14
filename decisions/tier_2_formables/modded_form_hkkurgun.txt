@@ -1,17 +1,16 @@
 ﻿country_decisions = {
 	
-	# Form High Kingdom of Salgar
-	form_hksalgar = {
+	# Form High Kingdom of Kurgun
+	form_hkkurgun = {
 		
 		potential = {
 			OR = {
-				country_culture_group = salgari
-				country_culture_group = sagentar
-				country_culture_group = nuban
+				country_culture_group = kengiri
+				country_culture_group = susigu
 			}
 			#is_tribal = yes
 			NOT = {
-				tag = XSG
+				tag = XKG
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -22,7 +21,7 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 506
+					province_id = 278
 					province_id = 496
 					province_id = 486
 					province_id = 480
@@ -34,15 +33,15 @@
 		
 		allow = {
 			custom_tooltip = {
-				text = hksalgar_must_not_exist
+				text = hkkurgun_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XSG
+						tag = XKG
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 506
+			owns = 278
 			owns_or_subject_owns = 496
 			owns_or_subject_owns = 486
 			owns_or_subject_owns = 480
@@ -52,8 +51,8 @@
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			change_country_name = "HKSalgar_name"
-			change_country_flag = Eye_of_Ra
+			change_country_name = "HKKurgun_name"
+			change_country_flag = Wings_of_Ashur
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -64,34 +63,33 @@
 				switch_government_type_event_clearup_effect = yes
 			}
 			hidden_effect = {
-				change_country_adjective = "HKSalgar_adj"
-				change_country_color =  "HKSalgar_color"
-				change_country_tag = XSG
+				change_country_adjective = "HKKurgun_adj"
+				change_country_color =  "HKKurgun_color"
+				change_country_tag = XKG
 			}
 			if = {
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 506
+							province_id = 278
 						}
 					}
 				}
-				set_capital = 506
+				set_capital = 278
 				hidden_effect = {
-					p:506.state = {
-						set_state_capital = 506
+					p:278.state = {
+						set_state_capital = 278
 					}
 				}
 			}
-			p:506 = {
+			p:278 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}
 			add_2_free_province_investments = yes
 			hidden_effect = {
-				region:modded_girigu_region = { formable_region_province_effect = yes }
-				region:modded_nub_region = { formable_region_province_effect = yes }
-				region:modded_barrim_region = { formable_region_province_effect = yes }
+				region:modded_kurgun_region = { formable_region_province_effect = yes }
+				region:modded_skurgun_region = { formable_region_province_effect = yes }
 			}
 		}
 		

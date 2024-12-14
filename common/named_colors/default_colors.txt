@@ -160,25 +160,9 @@ colors = {
 	tuscia_color = rgb { 22 33 120 }
 	
 	#Modded Colors
-	HKAlinor_color = rgb { 232 121 9 }
-	orsinium_color = rgb { 28 112 59 }
-	HKCyrod_color = rgb { 209 14 0 }
-	HKValen_color = rgb { 58 189 9 }
-	KAuridon_color = rgb { 232 149 26 }
-	KColovia_color = rgb { 74 74 72 }
-	KNiben_color = rgb { 240 187 12 }
-	KSommerset_color = rgb { 255 203 43 }
-	KCyroNordic_color = rgb { 255 194 28 }
-	KCraglorn_color = rgb { 186 72 19 }
-	HKDeathlands_color = rgb { 94 94 92 }
-	HKHighRock_color = rgb { 12 53 176 }
-	EDcovenant_color = rgb { 12 53 176 }
-	KAnequina_color = rgb { 224 144 22 }
-	KPalatine_color = rgb { 69 30 8 }
-	HKElsweyr_color = rgb { 140 41 24 }
-	EMoonEmpire_color = rgb { 184 121 6 }
-	#Event Colors
-	KAlessian_color = rgb { 186 19 13 }
+	HKSalgar_color = rgb { 224 160 49 }
+	HKKurgun_color = rgb { 121 122 118 }
+	
 	
 	##metals
 	#ck2_white 			= rgb { 255 255 255 }
