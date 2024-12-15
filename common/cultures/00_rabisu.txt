@@ -29,6 +29,7 @@
 	}
 	culture = {
 		clanless = {}
+		rkubadi = {}
 		bashari = {}
 		zuthu = {}
 		labashi = {}

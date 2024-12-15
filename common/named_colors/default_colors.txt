@@ -162,6 +162,8 @@ colors = {
 	#Modded Colors
 	HKSalgar_color = rgb { 224 160 49 }
 	HKKurgun_color = rgb { 121 122 118 }
+	HKDilmun_color = rgb { 110 237 19 }
+	RedHorde_color = rgb { 224 0 30 }
 	
 	
 	##metals

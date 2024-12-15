@@ -1,6 +1,6 @@
 ﻿520={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0
@@ -19,7 +19,7 @@
 
 541={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0
@@ -63,7 +63,7 @@
 
 577={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0
@@ -82,7 +82,7 @@
 
 578={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0
@@ -101,7 +101,7 @@
 
 579={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -120,7 +120,7 @@
 
 580={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -139,7 +139,7 @@
 
 591={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -161,7 +161,7 @@
 
 592={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -180,7 +180,7 @@
 
 596={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -199,7 +199,7 @@
 
 597={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -218,7 +218,7 @@
 
 593={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -237,7 +237,7 @@
 
 594={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -259,7 +259,7 @@
 
 595={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -278,7 +278,7 @@
 
 598={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -297,7 +297,7 @@
 
 599={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -316,7 +316,7 @@
 
 600={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -335,7 +335,7 @@
 
 601={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -354,7 +354,7 @@
 
 645={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -376,7 +376,7 @@
 
 646={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -395,7 +395,7 @@
 
 647={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 648={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -433,7 +433,7 @@
 
 548={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -452,7 +452,7 @@
 
 549={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -471,7 +471,7 @@
 
 570={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -490,7 +490,7 @@
 
 571={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -509,7 +509,7 @@
 
 572={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -528,7 +528,7 @@
 
 573={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -547,7 +547,7 @@
 
 574={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -566,7 +566,7 @@
 
 575={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -585,7 +585,7 @@
 
 576={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -604,7 +604,7 @@
 
 519={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0
@@ -623,7 +623,7 @@
 
 581={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -645,7 +645,7 @@
 
 582={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
@@ -664,7 +664,7 @@
 
 583={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
@@ -683,7 +683,7 @@
 
 584={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="menzunu"
 	civilization_value=0
@@ -702,7 +702,7 @@
 
 585={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="menzunu"
 	civilization_value=0
@@ -721,7 +721,7 @@
 
 586={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -740,7 +740,7 @@
 
 587={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
@@ -759,7 +759,7 @@
 
 588={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
@@ -778,7 +778,7 @@
 
 589={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="menzunu"
 	civilization_value=0
@@ -794,7 +794,7 @@
 
 590={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="menzunu"
 	civilization_value=0
@@ -813,7 +813,7 @@
 
 644={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -851,7 +851,7 @@
 
 729={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -870,7 +870,7 @@
 
 730={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -889,7 +889,7 @@
 
 740={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -908,7 +908,7 @@
 
 741={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -927,7 +927,7 @@
 
 724={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -946,7 +946,7 @@
 
 725={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -965,7 +965,7 @@
 
 727={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -1005,7 +1005,7 @@
 
 660={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0

@@ -22,11 +22,11 @@
 			scope:province = {
 				OR = {
 					province_id = 278
-					province_id = 496
-					province_id = 486
-					province_id = 480
-					province_id = 508
-					province_id = 515
+					province_id = 260
+					province_id = 300
+					province_id = 313
+					province_id = 351
+					province_id = 358
 				}
 			}
 		}
@@ -42,11 +42,11 @@
 			}
 			can_form_nation_trigger = yes
 			owns = 278
-			owns_or_subject_owns = 496
-			owns_or_subject_owns = 486
-			owns_or_subject_owns = 480
-			owns_or_subject_owns = 508
-			owns_or_subject_owns = 515
+			owns_or_subject_owns = 260
+			owns_or_subject_owns = 300
+			owns_or_subject_owns = 313
+			owns_or_subject_owns = 351
+			owns_or_subject_owns = 358
 		}
 		
 		effect = {

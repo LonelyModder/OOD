@@ -944,6 +944,10 @@
  HKSalgar_adj:0 "Salgari"
  HKKurgun_name:0 "Kingdom of Kurgun"
  HKKurgun_adj:0 "Kurgunese"
+ HKDilmun_name:0 "Kingdom of Dilmun"
+ HKDilmun_adj:0 "Dilmunite"
+ RedHorde_name:0 "Red Horde"
+ RedHorde_adj:0 "Gardite"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

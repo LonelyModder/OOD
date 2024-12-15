@@ -1,8 +1,8 @@
 ﻿603={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -38,7 +38,7 @@
 
 605={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -76,7 +76,7 @@
 
 607={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -114,7 +114,7 @@
 
 609={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -174,9 +174,9 @@
 
 612={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -193,9 +193,9 @@
 
 613={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -214,7 +214,7 @@
 	terrain="desert"
 	trade_goods="camel"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -231,7 +231,7 @@
 
 615={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -250,9 +250,9 @@
 
 616={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -269,7 +269,7 @@
 
 617={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -288,7 +288,7 @@
 
 618={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -307,7 +307,7 @@
 
 619={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -348,9 +348,9 @@
 
 714={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -367,9 +367,9 @@
 
 715={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -386,7 +386,7 @@
 
 716={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -405,7 +405,7 @@
 
 689={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -462,7 +462,7 @@
 
 621={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -500,7 +500,7 @@
 
 623={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -598,7 +598,7 @@
 
 693={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -619,7 +619,7 @@
 	terrain="desert"
 	trade_goods="horses"
 	religion="khorism_pantheon"
-	culture="bgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -636,9 +636,9 @@
 
 695={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="bgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -655,7 +655,7 @@
 
 696={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -674,7 +674,7 @@
 
 717={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -693,7 +693,7 @@
 
 721={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -712,7 +712,7 @@
 
 722={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -734,7 +734,7 @@
 
 723={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -753,7 +753,7 @@
 
 750={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -772,7 +772,7 @@
 
 739={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -791,7 +791,7 @@
 
 742={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -810,7 +810,7 @@
 
 718={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -829,7 +829,7 @@
 
 719={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -848,7 +848,7 @@
 
 701={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -867,9 +867,9 @@
 
 698={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="bgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -924,7 +924,7 @@
 
 629={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -943,7 +943,7 @@
 
 697={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -962,7 +962,7 @@
 
 699={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0
@@ -1000,9 +1000,9 @@
 
 700={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="bgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1019,9 +1019,9 @@
 
 702={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1038,9 +1038,9 @@
 
 703={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1057,7 +1057,7 @@
 
 631={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1098,7 +1098,7 @@
 
 633={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1155,7 +1155,7 @@
 
 636={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1193,9 +1193,9 @@
 
 704={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1212,9 +1212,9 @@
 
 705={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1231,9 +1231,9 @@
 
 706={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1250,9 +1250,9 @@
 
 707={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1269,9 +1269,9 @@
 
 708={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1288,7 +1288,7 @@
 
 709={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1307,7 +1307,7 @@
 
 638={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1364,7 +1364,7 @@
 
 641={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1402,7 +1402,7 @@
 
 643={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1421,7 +1421,7 @@
 
 710={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="blgardu"
 	civilization_value=0
@@ -1440,9 +1440,9 @@
 
 711={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1459,9 +1459,9 @@
 
 712={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1478,9 +1478,9 @@
 
 713={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1497,9 +1497,9 @@
 
 720={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="blgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -1,6 +1,6 @@
 ﻿is_tier_1_formable_trigger = {
 	OR = {
-		#tag = XAU #Auridon
+		#tag = XAU 
 	}
 }
 
@@ -8,12 +8,14 @@ is_tier_2_formable_trigger = {
 	OR = {
 		tag = XSG #Kingdom of Salgar
 		tag = XKG #Kingdom of Kurgun
+		tag = XDM #Kingdom of Dilmun
+		tag = XRH #Red Horde
 	}
 }
 
 is_endgame_tag_trigger = {
 	OR = {
-		#tag = XAD #Aldmeri Dominion
+		#tag = XAD 
 	}
 }
 
