@@ -18,6 +18,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_anu"
 }
 
 192={ 
@@ -328,6 +329,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_taltal"
 }
 
 208={ 
@@ -888,6 +890,7 @@
 	slaves={
 		amount=4
 	}
+	holy_site="omen_nam"
 }
 
 237={ 
@@ -1277,6 +1280,7 @@
 	slaves={
 		amount=4
 	}
+	holy_site="omen_galzu"
 }
 
 257={ 

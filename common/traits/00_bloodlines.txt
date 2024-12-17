@@ -1,8 +1,8 @@
-﻿aranas = {
+﻿bloodofscorpion = {
 	type = status
 	
 	prominence = 20
-	charisma = 1
+	zeal = 1
 	
 	support_for_character_as_heir = 10
 

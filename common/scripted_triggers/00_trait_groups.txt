@@ -190,21 +190,6 @@ char_is_civic_trigger = {
 
 has_bloodline_trigger = {
 	OR = {
-		has_trait = aranas
-		has_trait = ulorome
-		has_trait = unfeathered
-		has_trait = atatar
-		has_trait = dynar
-		has_trait = tor
-		has_trait = ceyatar
-		has_trait = ninendava
-		has_trait = miscarcandite
-		has_trait = camoran
-		has_trait = direnni
-		has_trait = alesh
-		has_trait = corelanya
-		has_trait = dragonblood
-		has_trait = banequina
-		has_trait = tharn
+		has_trait = bloodofscorpion
 	}
 }

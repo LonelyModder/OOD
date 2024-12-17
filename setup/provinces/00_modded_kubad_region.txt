@@ -1163,6 +1163,7 @@
 	slaves={
 		amount=4
 	}
+	holy_site="omen_khastor"
 }
 
 458={ 

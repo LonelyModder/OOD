@@ -504,7 +504,7 @@
 
 538={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="ziluhi"
 	civilization_value=0
@@ -1037,7 +1037,7 @@
 
 672={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0
@@ -1192,7 +1192,7 @@
 
 658={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0

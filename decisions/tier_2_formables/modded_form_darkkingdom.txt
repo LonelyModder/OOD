@@ -1,13 +1,16 @@
 ﻿country_decisions = {
 	
-	# Form Red Khanate
-	form_redhorde = {
+	# Form Dark Kingdom
+	form_darkkingdom = {
 		
 		potential = {
-			country_culture_group = gardu
+			OR = {
+				country_culture_group = rabisu
+				country_culture_group = ekimmu
+			}
 			#is_tribal = yes
 			NOT = {
-				tag = XRH
+				tag = XDK
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -18,10 +21,10 @@
 		
 		allow = {
 			custom_tooltip = {
-				text = redhorde_must_not_exist
+				text = darkkingdom_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XRH
+						tag = XDK
 					}
 				}
 			}
@@ -31,8 +34,8 @@
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			change_country_name = "RedHorde_name"
-			change_country_flag = Red_Stalion
+			change_country_name = "DarkKingdom_name"
+			change_country_flag = Black_Skull
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -43,9 +46,9 @@
 				switch_government_type_event_clearup_effect = yes
 			}
 			hidden_effect = {
-				change_country_adjective = "RedHorde_adj"
-				change_country_color =  "RedHorde_color"
-				change_country_tag = XRH
+				change_country_adjective = "DarkKingdom_adj"
+				change_country_color =  "DarkKingdom_color"
+				change_country_tag = XDK
 			}
 			capital_scope = {
 				if = {

@@ -164,6 +164,7 @@ colors = {
 	HKKurgun_color = rgb { 121 122 118 }
 	HKDilmun_color = rgb { 110 237 19 }
 	RedHorde_color = rgb { 224 0 30 }
+	DarkKingdom_color = rgb { 89 86 86 }
 	
 	
 	##metals

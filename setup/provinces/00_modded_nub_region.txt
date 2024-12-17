@@ -354,7 +354,7 @@
 
 645={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0

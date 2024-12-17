@@ -18,6 +18,7 @@
 	slaves={
 		amount=8
 	}
+	holy_site="omen_lumma"
 }
 
 261={ 
@@ -369,6 +370,7 @@
 	slaves={
 		amount=5
 	}
+	holy_site="omen_usu"
 }
 
 279={ 

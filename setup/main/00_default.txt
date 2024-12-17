@@ -5,7 +5,34 @@ treasure_manager = {
 		# Joe 61-120
 		# Drikus 121-180
 		# Henrik 181-240
-		
+		1 = { # Nisaba
+			key = "treasure_spear_of_anu"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_cohort_start_experience = 15
+			}
+		}
+		2 = { # Deoraith
+			key = "treasure_dark_orb"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_research_points_modifier = 0.1
+			}
+		}
+		3 = { # Menre
+			key = "treasure_sun_shield"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_nobles_happyness = 0.1
+			}
+		}
+		4 = { # Amsouru
+			key = "treasure_scorpions_crown"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_unrest = -0.1
+			}
+		}
     }
 }
 family={
@@ -23,7 +50,18 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
-	
+	184 = { # Nisaba
+		treasure_slots = { 	treasures = { 1 } }
+	}
+	457 = { # Deoraith
+		treasure_slots = { 	treasures = { 2 } }
+	}
+	480 = { # Menre
+		treasure_slots = { 	treasures = { 3 } }
+	}
+	506 = { # Amsouru
+		treasure_slots = { 	treasures = { 4 } }
+	}
 
 	#Pirates
 	
