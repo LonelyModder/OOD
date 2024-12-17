@@ -8,12 +8,8 @@
 		unit_owner = {
 			OR = {
 				num_of_cities < 1
-				NOR = {
+				NOT = {
 					is_tradition_tree_allowed = nuban_philosophy
-					heritage = illyric_heritage
-					heritage = dravidic_heritage
-					heritage = veddic_heritage
-					heritage = germanic_heritage
 				}
 			}
 		}
@@ -28,16 +24,6 @@
 			trigger_if = {
 				limit = { is_tradition_tree_allowed = enukku_philosophy }
 				has_military_bonus = enukku_path_4b
-			}
-			trigger_else_if = {
-				limit = {
-					OR = {
-						heritage = illyric_heritage
-						heritage = dravidic_heritage
-						heritage = veddic_heritage
-						heritage = germanic_heritage
-					}
-				}
 			}
 			trigger_else = {
 				always = no

@@ -72,18 +72,6 @@ wonder_hanging_gardens={
 	great_work_category_slot=0
 }
 
-wonder_isagil_temple={ #Modded
-	entity_name={"wonder_isagil_temple_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_choga_zunbil={ #Modded
-	entity_name={"wonder_choga_zunbil_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
 wonder_halicarnassus={
 	entity_name={"wonder_halicarnassus_entity"}
 	great_work_category="gw_category_ancient"
@@ -120,124 +108,8 @@ wonder_stonehenge_event={
 	great_work_category_slot=0
 }
 
-wonder_crystal_tower={
-	entity_name={"building_special_crystal_like_law_entity"}
+wonder_blackpyramid_tower={ #Modified
+	entity_name={"wonder_blackpyramid_entity"}
 	great_work_category="gw_category_ancient"
 	great_work_category_slot=0
 }
-
-wonder_ceporah_tower={
-	entity_name={"building_special_ada_mantia_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_dusk_tower={
-	entity_name={"building_special_ada_mantia_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_imperial_city={
-	entity_name={"building_special_imperial_city_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_skytemple={
-	entity_name={"wonder_skytemple_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_falinesti={
-	entity_name={"wonder_falinesti_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_eldentree={
-	entity_name={"wonder_eldentree_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_adamantia={
-	entity_name={"building_special_ada_mantia_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_doomcrag={
-	entity_name={"building_special_ada_mantia_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_wyrdtree={
-	entity_name={"wonder_eldentree_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_arcaneuniversity={
-	entity_name={"building_special_arcane_university_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_templegarrison={
-	entity_name={"building_special_imperial_fort_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_moongate={
-	entity_name={"building_special_moon_gate_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_waterfront={
-	entity_name={"building_special_waterfront_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_highelves_02_01={
-	entity_name={"highelves_02_01_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_highelves_02_02={
-	entity_name={"highelves_02_02_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_highelves_03_01={
-	entity_name={"highelves_03_01_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_highelves_03_02={
-	entity_name={"highelves_03_02_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_highelves_04_01={
-	entity_name={"highelves_04_01_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-wonder_highelves_04_02={
-	entity_name={"highelves_04_02_entity"}
-	great_work_category="gw_category_ancient"
-	great_work_category_slot=0
-}
-
-
