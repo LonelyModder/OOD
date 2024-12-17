@@ -2,6 +2,9 @@ provinces = {
 	485 = { # Black Pyramid
 		great_work=1
 	}
+	236 = { # Bleeding Tree
+		great_work=2
+	}
 }
 
 great_work_manager={	
@@ -11,7 +14,7 @@ great_work_manager={
 			key="blackpyramid"
 			great_work_category="building"
 			great_work_state=great_work_state_completed
-			finished_date=450.10.1
+			finished_date=150.10.1
 
 			great_work_name={
 				name="wonder_blackpyramid"
@@ -25,6 +28,30 @@ great_work_manager={
 			great_work_effect_selections={
 				{
 					great_work_effect="gw_effect_blackpyramid"
+					great_work_effect_tier = "gw_effect_tier_4"
+				}
+			}
+		}
+		
+		2={
+			ancient_wonder = yes
+			key="bloodtree"
+			great_work_category="building"
+			great_work_state=great_work_state_completed
+			finished_date=1.10.1
+
+			great_work_name={
+				name="wonder_bloodtree"
+			}
+			great_work_components={
+				{
+					great_work_module="wonder_bloodtree"
+				}
+			}
+
+			great_work_effect_selections={
+				{
+					great_work_effect="gw_effect_bloodtree"
 					great_work_effect_tier = "gw_effect_tier_4"
 				}
 			}

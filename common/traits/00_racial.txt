@@ -14,13 +14,13 @@ human = {
 	charisma = 1
 }
 
-igigi = { #reptilians
-	type = status
-	
-	health = 2.0
-	finesse = 1
-	zeal = 1
-}
+#igigi = { #reptilians
+#	type = status
+#	
+#	health = 2.0
+#	finesse = 1
+#	zeal = 1
+#}
 
 ekimmu = { #demonic dark elves
 	type = status

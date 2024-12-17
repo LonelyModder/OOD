@@ -113,3 +113,9 @@ wonder_blackpyramid_tower={ #Modified
 	great_work_category="gw_category_ancient"
 	great_work_category_slot=0
 }
+
+wonder_bloodtree={ #Modified
+	entity_name={"wonder_falinesti_entity"}
+	great_work_category="gw_category_ancient"
+	great_work_category_slot=0
+}

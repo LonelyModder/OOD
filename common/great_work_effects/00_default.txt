@@ -2239,3 +2239,50 @@ gw_effect_blackpyramid = {
 		}
 	}
 }
+
+gw_effect_bloodtree = {
+	icon = "gw_effect_military_education"	
+
+	flags = {
+		"gw_effect_military_education"
+	}
+	
+	great_work_tier_effect_modifiers = {
+		gw_effect_bloodtree_tier_1 = {
+			great_work_effect_tier = gw_effect_tier_1
+		
+			country_modifier = {
+				stability_monthly_change = 0.02
+				omen_power = 0.05
+				war_exhaustion = -0.05
+			}
+		}
+		gw_effect_bloodtree_tier_2 = {
+			great_work_effect_tier = gw_effect_tier_2
+		
+			country_modifier = {
+				stability_monthly_change = 0.03
+				omen_power = 0.1
+				war_exhaustion = -0.06
+			}
+		}
+		gw_effect_bloodtree_tier_3 = {
+			great_work_effect_tier = gw_effect_tier_3
+		
+			country_modifier = {
+				stability_monthly_change = 0.04
+				omen_power = 0.15
+				war_exhaustion = -0.07
+			}
+		}
+		gw_effect_bloodtree_tier_4 = {
+			great_work_effect_tier = gw_effect_tier_4
+		
+			country_modifier = {
+				stability_monthly_change = 0.05
+				omen_power = 0.2
+				war_exhaustion = -0.08
+			}
+		}
+	}
+}

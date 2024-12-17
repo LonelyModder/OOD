@@ -267,7 +267,7 @@ country = {
 		}
 		
 		AAF = {          
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = nubatan
 			religion = ancestors_pantheon
 			capital = 581
