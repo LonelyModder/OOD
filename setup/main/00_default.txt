@@ -33,6 +33,13 @@ treasure_manager = {
 				local_unrest = -0.1
 			}
 		}
+		5 = { # Nisaba
+			key = "treasure_statue_of_anu"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_citizen_happyness = 0.1
+			}
+		}
     }
 }
 family={
@@ -40,7 +47,12 @@ family={
 		#Numbers do not have to appear in numerical order but do have to be unique:
 		#Current first free ID is 90.
 		#Roman Families on Start:
-		
+		1={
+			key="Grey-Scorpions"
+			owner=ABK
+			culture = amsouran
+			prestige=300
+		}
 		
 		}
 }
@@ -51,7 +63,7 @@ diplomacy = {
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
 	184 = { # Nisaba
-		treasure_slots = { 	treasures = { 1 } }
+		treasure_slots = { 	treasures = { 1 5 } }
 	}
 	457 = { # Deoraith
 		treasure_slots = { 	treasures = { 2 } }
@@ -778,7 +790,8 @@ country = {
 			}
 		}
 		
-		ABK = {          
+		ABK = { 
+			family = 1
 			government = despotic_monarchy
 			primary_culture = amsouran
 			religion = atun_pantheon
