@@ -24,6 +24,7 @@ confident = { #
 	unit = {
 		unit_chariots_discipline = 0.05
 		unit_mushusshu_discipline = 0.05
+		unit_elephants_discipline = 0.05
 	}
 }
 tactician = { #
@@ -35,12 +36,7 @@ tactician = { #
 		unit_archers_discipline = 0.05
 		unit_scirmishers_discipline = 0.05
 		unit_chariots_discipline = 0.05
-		unit_saighdiuir_discipline = 0.05					
-		unit_magaidh_discipline = 0.05 
-		unit_saighdeoir_discipline = 0.05
-		unit_gudu_discipline = 0.05
-		unit_pana_discipline = 0.05 
-		unit_urudu_discipline = 0.05
+		unit_elephants_discipline = 0.05
 	}
 }
 disciplined = { #
@@ -59,9 +55,6 @@ steadfast = { #
 	
 	unit = {
 		unit_spearmen_discipline = 0.05
-		unit_gudu_discipline = 0.05
-		unit_urudu_discipline = 0.05
-		unit_saighdiuir_discipline = 0.05
 	}
 }
 aggressive = { #

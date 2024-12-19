@@ -73,46 +73,6 @@ texticon = {
 }
 
 texticon = {
-    icon = unit_saighdiuir
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_saighdiuir.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}
-
-texticon = {
-    icon = unit_magaidh
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_magaidh.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}
-
-texticon = {
-    icon = unit_laochra
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_laochra.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}
-
-texticon = {
-    icon = unit_saighdeoir
-    iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_saighdeoir.dds"
-        size = { 25 25 }
-        offset = { 0 6 }
-        fontsize = 16
-    }
-}
-
-texticon = {
     icon = unit_sealgair
     iconsize = {
         texture = "gfx/interface/icons/subunits/unit_sealgair.dds"
@@ -123,9 +83,9 @@ texticon = {
 }
 
 texticon = {
-    icon = unit_gudu
+    icon = unit_berserkers
     iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_gudu.dds"
+        texture = "gfx/interface/icons/subunits/unit_berserkers.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
@@ -133,9 +93,9 @@ texticon = {
 }
 
 texticon = {
-    icon = unit_pana
+    icon = unit_elephants
     iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_pana.dds"
+        texture = "gfx/interface/icons/subunits/unit_elephants.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16
@@ -143,9 +103,9 @@ texticon = {
 }
 
 texticon = {
-    icon = unit_urudu
+    icon = unit_camels
     iconsize = {
-        texture = "gfx/interface/icons/subunits/unit_urudu.dds"
+        texture = "gfx/interface/icons/subunits/unit_camels.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16

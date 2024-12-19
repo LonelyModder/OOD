@@ -11,20 +11,16 @@ engineer_cohort = {
 	maneuver = 1
 	movement_speed = 2.5
 
-	unit_chariots = 0.1
+	unit_chariots = 0.1	
 	unit_archers = 0.1
-	unit_scirmishers = 0.1				
+	unit_scirmishers = 0.1 				
 	unit_spearmen = 0.1
-	unit_axemen = 0.1
-	unit_mushusshu = 0.1
-	unit_saighdiuir = 0.1
-	unit_magaidh = 0.1
-	unit_laochra = 0.1
-	unit_saighdeoir = 0.1
+	unit_axemen = 0.1	
+	unit_mushusshu = 0.1	
 	unit_sealgair = 0.1
-	unit_gudu = 0.1
-	unit_pana = 0.1
-	unit_urudu = 0.1
+	unit_berserkers = 0.1
+	unit_elephants = 0.1
+	unit_camels = 0.1
 	
 	supply_train = 1
 	

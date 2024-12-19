@@ -13,9 +13,10 @@ levy_default = {
 levy_annuna = { #anunaki militia
 	default = no
 
-	unit_gudu = 0.5
-	unit_pana = 0.3
-	unit_urudu = 0.2
+	unit_spearmen = 0.4
+	unit_axemen = 0.2
+	unit_archers = 0.3
+	unit_chariots = 0.1
 }
 
 #Kengiri
@@ -47,7 +48,7 @@ levy_nuban = { #nuban militia
 
 	unit_spearmen = 0.3
 	unit_scirmishers = 0.2
-	unit_axemen = 0.1
+	unit_elephants = 0.1
 	unit_archers = 0.4
 }
 
@@ -70,7 +71,7 @@ levy_sagentar = { #beduin militia
 	unit_spearmen = 0.5
 	unit_scirmishers = 0.3
 	unit_archers = 0.1
-	unit_chariots = 0.2
+	unit_camels = 0.2
 }
 
 #Rabisu
@@ -78,9 +79,10 @@ levy_sagentar = { #beduin militia
 levy_orcish = { #rabisu militia
 	default = no
 
-	unit_laochra = 0.6
-	unit_saighdeoir = 3
-	unit_sealgair = 0.1
+	unit_spearmen = 0.5
+	unit_berserkers = 0.1
+	unit_scirmishers = 0.2
+	unit_sealgair = 0.2
 }
 
 #Susigu - europeish sth
@@ -100,6 +102,7 @@ levy_ekimmu = { #ekimmu militia
 	default = no
 
 	unit_mushusshu = 0.2
-	unit_saighdiuir = 0.6
-	unit_magaidh = 0.2
+	unit_spearmen = 0.5
+	unit_axemen = 0.2
+	unit_archers = 0.1
 }

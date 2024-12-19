@@ -1,8 +1,8 @@
 ﻿ekimmu = {	
 	color = hsv { 0.92 0.04 0.22 }
 
-	primary = unit_magaidh
-	second = unit_saighdiuir
+	primary = unit_archers
+	second = unit_spearmen
 	flank = unit_mushusshu
 	
 	primary_navy = tetrere

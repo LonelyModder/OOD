@@ -1,8 +1,8 @@
 ﻿rabisu = {	
 	color = hsv { 0.01 0.94 0.85 }
 
-	primary = unit_saighdeoir
-	second = unit_laochra
+	primary = unit_berserkers
+	second = unit_spearmen
 	flank = unit_sealgair
 
 	primary_navy = tetrere
