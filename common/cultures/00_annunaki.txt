@@ -1,7 +1,7 @@
 ﻿annunaki = {	
 	color = hsv { 0.66 0.93 0.67 }
 
-	primary = unit_spearmen
+	primary = unit_archers
 	second = unit_spearmen
 	flank = unit_chariots
  
