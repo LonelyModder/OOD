@@ -1,5 +1,5 @@
 ﻿nuban = {
-	color = hsv { 0.07  0.96  0.5 }
+	color = hsv { 0.07  0.96  0.48 }
 	primary = unit_elephants
 	second = unit_archers
 	flank = unit_scirmishers

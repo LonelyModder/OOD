@@ -79,8 +79,7 @@
 	
 	nuban_path_1a = { ###altmer path
 		modifier = { 
-			desert_combat_bonus = 0.1
-			land_unit_attrition = -0.15
+			unit_elephants_discipline = 0.1
 		}
 		icon = nuban_mini_trad
 		requires = {nuban_path_1}

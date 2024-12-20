@@ -2179,39 +2179,23 @@ entity = {
 	name = "rabisu_gfx_unit_mushusshu"
 	clone = "orc_gfx_light_infantry"
 	version = 10
-}		
-entity = {
-	name = "rabisu_gfx_unit_saighdiuir"
-	clone = "orc_gfx_light_infantry"
-}
-entity = {
-	name = "rabisu_gfx_unit_magaidh"
-	clone = "orc_gfx_light_infantry"
-}	
-entity = {
-	name = "rabisu_gfx_unit_laochra"
-	clone = "orc_gfx_light_infantry"
-} 
-entity = {
-	name = "rabisu_gfx_unit_saighdeoir"
-	clone = "orc_gfx_light_infantry"
 }
 entity = {
 	name = "rabisu_gfx_unit_sealgair"
 	clone = "orc_gfx_light_infantry"
-}
+}	
 entity = {
-	name = "rabisu_gfx_unit_gudu"
+	name = "rabisu_gfx_unit_berserkers"
 	clone = "orc_gfx_light_infantry"
 }
 entity = {
-	name = "rabisu_gfx_unit_pana"
+	name = "rabisu_gfx_unit_elephants"
 	clone = "orc_gfx_light_infantry"
 }
 entity = {
-	name = "rabisu_gfx_unit_urudu"
+	name = "rabisu_gfx_unit_camels"
 	clone = "orc_gfx_light_infantry"
-}	  
+}  
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -2286,43 +2270,6 @@ entity ={
 	name = "rabisu_gfx_legion_unit_mushusshu"
 	clone = "rabisu_gfx_legion"
 }
-
-### Hall Guards ----------------------------------------------------------------
-entity ={
-	name = "rabisu_gfx_levy_unit_saighdiuir"
-	clone = "rabisu_gfx_levy"
-}
-entity ={
-	name = "rabisu_gfx_legion_unit_saighdiuir"
-	clone = "rabisu_gfx_legion"
-}
-### Shamans ----------------------------------------------------------------
-entity ={
-	name = "rabisu_gfx_levy_unit_magaidh"
-	clone = "rabisu_gfx_levy"
-}
-entity ={
-	name = "rabisu_gfx_legion_unit_magaidh"
-	clone = "rabisu_gfx_legion"
-}
-### Warriors ----------------------------------------------------------------
-entity ={
-	name = "rabisu_gfx_levy_unit_laochra"
-	clone = "rabisu_gfx_levy"
-}
-entity ={
-	name = "rabisu_gfx_legion_unit_laochra"
-	clone = "rabisu_gfx_legion"
-}
-### Raiders ----------------------------------------------------------------
-entity ={
-	name = "rabisu_gfx_levy_unit_saighdeoir"
-	clone = "rabisu_gfx_levy"
-}
-entity ={
-	name = "rabisu_gfx_legion_unit_saighdeoir"
-	clone = "rabisu_gfx_legion"
-}
 ### Hunters ----------------------------------------------------------------
 entity ={
 	name = "rabisu_gfx_levy_unit_sealgair"
@@ -2332,30 +2279,30 @@ entity ={
 	name = "rabisu_gfx_legion_unit_sealgair"
 	clone = "rabisu_gfx_legion"
 }
-### Protectors ----------------------------------------------------------------
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "rabisu_gfx_levy_unit_gudu"
+	name = "rabisu_gfx_levy_unit_berserkers"
 	clone = "rabisu_gfx_levy"
 }
 entity ={
-	name = "rabisu_gfx_legion_unit_gudu"
+	name = "rabisu_gfx_legion_unit_berserkers"
 	clone = "rabisu_gfx_legion"
 }
-### Marines ----------------------------------------------------------------
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "rabisu_gfx_levy_unit_pana"
+	name = "rabisu_gfx_levy_unit_elephants"
 	clone = "rabisu_gfx_levy"
 }
 entity ={
-	name = "rabisu_gfx_legion_unit_pana"
+	name = "rabisu_gfx_legion_unit_elephants"
 	clone = "rabisu_gfx_legion"
 }
-### Spears ----------------------------------------------------------------
+### Camels ----------------------------------------------------------------
 entity ={
-	name = "rabisu_gfx_levy_unit_urudu"
+	name = "rabisu_gfx_levy_unit_camels"
 	clone = "rabisu_gfx_levy"
 }
 entity ={
-	name = "rabisu_gfx_legion_unit_urudu"
+	name = "rabisu_gfx_legion_unit_camels"
 	clone = "rabisu_gfx_legion"
 }

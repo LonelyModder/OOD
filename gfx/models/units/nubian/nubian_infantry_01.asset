@@ -1292,39 +1292,24 @@ entity = {
 	name = "nubian_gfx_unit_mushusshu"
 	clone = "nubian_gfx_heavy_infantry"
 	version = 10
-}		
-entity = {
-	name = "nubian_gfx_unit_saighdiuir"
-	clone = "nubian_gfx_heavy_infantry"
-}
-entity = {
-	name = "nubian_gfx_unit_magaidh"
-	clone = "nubian_gfx_heavy_infantry"
-}	
-entity = {
-	name = "nubian_gfx_unit_laochra"
-	clone = "nubian_gfx_heavy_infantry"
-} 
-entity = {
-	name = "nubian_gfx_unit_saighdeoir"
-	clone = "nubian_gfx_heavy_infantry"
 }
 entity = {
 	name = "nubian_gfx_unit_sealgair"
 	clone = "nubian_gfx_heavy_infantry"
 }
 entity = {
-	name = "nubian_gfx_unit_gudu"
+	name = "nubian_gfx_unit_berserkers"
 	clone = "nubian_gfx_heavy_infantry"
 }
 entity = {
-	name = "nubian_gfx_unit_pana"
+	name = "nubian_gfx_unit_elephants"
 	clone = "nubian_gfx_heavy_infantry"
 }
 entity = {
-	name = "nubian_gfx_unit_urudu"
+	name = "nubian_gfx_unit_camels"
 	clone = "nubian_gfx_heavy_infantry"
-}	
+}
+
 ##############
 #### Levy #### ----------------------------------------------------------------
 ### Legion ### ----------------------------------------------------------------
@@ -1400,43 +1385,6 @@ entity ={
 	name = "nubian_gfx_legion_unit_mushusshu"
 	clone = "nubian_gfx_legion"
 }
-
-### Hall Guards ----------------------------------------------------------------
-entity ={
-	name = "nubian_gfx_levy_unit_saighdiuir"
-	clone = "nubian_gfx_levy"
-}
-entity ={
-	name = "nubian_gfx_legion_unit_saighdiuir"
-	clone = "nubian_gfx_legion"
-}
-### Shamans ----------------------------------------------------------------
-entity ={
-	name = "nubian_gfx_levy_unit_magaidh"
-	clone = "nubian_gfx_levy"
-}
-entity ={
-	name = "nubian_gfx_legion_unit_magaidh"
-	clone = "nubian_gfx_legion"
-}
-### Warriors ----------------------------------------------------------------
-entity ={
-	name = "nubian_gfx_levy_unit_laochra"
-	clone = "nubian_gfx_levy"
-}
-entity ={
-	name = "nubian_gfx_legion_unit_laochra"
-	clone = "nubian_gfx_legion"
-}
-### Raiders ----------------------------------------------------------------
-entity ={
-	name = "nubian_gfx_levy_unit_saighdeoir"
-	clone = "nubian_gfx_levy"
-}
-entity ={
-	name = "nubian_gfx_legion_unit_saighdeoir"
-	clone = "nubian_gfx_legion"
-}
 ### Hunters ----------------------------------------------------------------
 entity ={
 	name = "nubian_gfx_levy_unit_sealgair"
@@ -1446,30 +1394,30 @@ entity ={
 	name = "nubian_gfx_legion_unit_sealgair"
 	clone = "nubian_gfx_legion"
 }
-### Protectors ----------------------------------------------------------------
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "nubian_gfx_levy_unit_gudu"
+	name = "nubian_gfx_levy_unit_berserkers"
 	clone = "nubian_gfx_levy"
 }
 entity ={
-	name = "nubian_gfx_legion_unit_gudu"
+	name = "nubian_gfx_legion_unit_berserkers"
 	clone = "nubian_gfx_legion"
 }
-### Marines ----------------------------------------------------------------
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "nubian_gfx_levy_unit_pana"
+	name = "nubian_gfx_levy_unit_elephants"
 	clone = "nubian_gfx_levy"
 }
 entity ={
-	name = "nubian_gfx_legion_unit_pana"
+	name = "nubian_gfx_legion_unit_elephants"
 	clone = "nubian_gfx_legion"
 }
-### Spears ----------------------------------------------------------------
+### Camels ----------------------------------------------------------------
 entity ={
-	name = "nubian_gfx_levy_unit_urudu"
+	name = "nubian_gfx_levy_unit_camels"
 	clone = "nubian_gfx_levy"
 }
 entity ={
-	name = "nubian_gfx_legion_unit_urudu"
+	name = "nubian_gfx_legion_unit_camels"
 	clone = "nubian_gfx_legion"
 }

@@ -855,39 +855,23 @@ entity = {
 	name = "gardan_gfx_unit_mushusshu"
 	clone = "hurrian_gfx_light_infantry"
 	version = 10
-}			
-entity = {
-	name = "gardan_gfx_unit_saighdiuir"
-	clone = "hurrian_gfx_light_infantry"
-}
-entity = {
-	name = "gardan_gfx_unit_magaidh"
-	clone = "hurrian_gfx_light_infantry"
 }	
-entity = {
-	name = "gardan_gfx_unit_laochra"
-	clone = "hurrian_gfx_light_infantry"
-} 
-entity = {
-	name = "gardan_gfx_unit_saighdeoir"
-	clone = "hurrian_gfx_light_infantry"
-}
 entity = {
 	name = "gardan_gfx_unit_sealgair"
 	clone = "hurrian_gfx_light_infantry"
 }
 entity = {
-	name = "gardan_gfx_unit_gudu"
+	name = "gardan_gfx_unit_berserkers"
 	clone = "hurrian_gfx_light_infantry"
 }
 entity = {
-	name = "gardan_gfx_unit_pana"
+	name = "gardan_gfx_unit_elephants"
 	clone = "hurrian_gfx_light_infantry"
 }
 entity = {
-	name = "gardan_gfx_unit_urudu"
+	name = "gardan_gfx_unit_camels"
 	clone = "hurrian_gfx_light_infantry"
-}	
+}
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -963,43 +947,6 @@ entity ={
 	name = "gardan_gfx_legion_unit_mushusshu"
 	clone = "gardan_gfx_legion"
 }
-
-### Hall Guards ----------------------------------------------------------------
-entity ={
-	name = "gardan_gfx_levy_unit_saighdiuir"
-	clone = "gardan_gfx_levy"
-}
-entity ={
-	name = "gardan_gfx_legion_unit_saighdiuir"
-	clone = "gardan_gfx_legion"
-}
-### Shamans ----------------------------------------------------------------
-entity ={
-	name = "gardan_gfx_levy_unit_magaidh"
-	clone = "gardan_gfx_levy"
-}
-entity ={
-	name = "gardan_gfx_legion_unit_magaidh"
-	clone = "gardan_gfx_legion"
-}
-### Warriors ----------------------------------------------------------------
-entity ={
-	name = "gardan_gfx_levy_unit_laochra"
-	clone = "gardan_gfx_levy"
-}
-entity ={
-	name = "gardan_gfx_legion_unit_laochra"
-	clone = "gardan_gfx_legion"
-}
-### Raiders ----------------------------------------------------------------
-entity ={
-	name = "gardan_gfx_levy_unit_saighdeoir"
-	clone = "gardan_gfx_levy"
-}
-entity ={
-	name = "gardan_gfx_legion_unit_saighdeoir"
-	clone = "gardan_gfx_legion"
-}
 ### Hunters ----------------------------------------------------------------
 entity ={
 	name = "gardan_gfx_levy_unit_sealgair"
@@ -1009,30 +956,30 @@ entity ={
 	name = "gardan_gfx_legion_unit_sealgair"
 	clone = "gardan_gfx_legion"
 }
-### Protectors ----------------------------------------------------------------
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "gardan_gfx_levy_unit_gudu"
+	name = "gardan_gfx_levy_unit_berserkers"
 	clone = "gardan_gfx_levy"
 }
 entity ={
-	name = "gardan_gfx_legion_unit_gudu"
+	name = "gardan_gfx_legion_unit_berserkers"
 	clone = "gardan_gfx_legion"
 }
-### Marines ----------------------------------------------------------------
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "gardan_gfx_levy_unit_pana"
+	name = "gardan_gfx_levy_unit_elephants"
 	clone = "gardan_gfx_levy"
 }
 entity ={
-	name = "gardan_gfx_legion_unit_pana"
+	name = "gardan_gfx_legion_unit_elephants"
 	clone = "gardan_gfx_legion"
 }
-### Spears ----------------------------------------------------------------
+### Camels ----------------------------------------------------------------
 entity ={
-	name = "gardan_gfx_levy_unit_urudu"
+	name = "gardan_gfx_levy_unit_camels"
 	clone = "gardan_gfx_levy"
 }
 entity ={
-	name = "gardan_gfx_legion_unit_urudu"
+	name = "gardan_gfx_legion_unit_camels"
 	clone = "gardan_gfx_legion"
 }

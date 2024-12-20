@@ -1,9 +1,9 @@
 #Trade Goods
 
 texticon = {
-    icon = guar
+    icon = hunters
     iconsize = {
-        texture = "gfx/interface/icons/tradegoods/guar.dds"
+        texture = "gfx/interface/icons/tradegoods/hunters.dds"
         size = { 25 25 }
         offset = { 0 6 }
         fontsize = 16

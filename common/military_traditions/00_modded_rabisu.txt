@@ -71,7 +71,7 @@
 	
 	rabisu_path_1 = { ###altmer path
 		modifier = { 
-			unit_laochra_offensive = 0.1
+			unit_spearmen_offensive = 0.1
 			cave_combat_bonus = 0.1
 		}
 		icon = rabisu_mini_trad
@@ -90,7 +90,7 @@
 	
 	rabisu_path_3 = { ###altmer path
 		modifier = { 
-			unit_laochra_discipline = 0.1
+			unit_spearmen_discipline = 0.1
 			mountain_combat_bonus = 0.1
 		}
 		icon = rabisu_mini_trad
@@ -108,8 +108,8 @@
 	
 	rabisu_path_4a = { ###altmer path
 		modifier = { 
-			unit_saighdeoir_morale = 0.1
-			unit_saighdeoir_offensive = 0.1
+			unit_scirmishers_morale = 0.1
+			unit_scirmishers_offensive = 0.1
 		}
 		icon = rabisu_mini_trad
 		requires = {rabisu_path_3a}
@@ -118,6 +118,7 @@
 	rabisu_path_5a = { ###altmer path
 		modifier = { 
 			land_morale_modifier = 0.1
+			unit_berserkers_offensive= 0.1
 		}
 		icon = rabisu_mini_trad
 		requires = {rabisu_path_4a}
@@ -155,7 +156,7 @@
 	
 	rabisu_states_path_end_bonus = {
 		modifier = { 
-			unit_laochra_offensive = 0.15
+			unit_berserkers_offensive = 0.15
 			cave_combat_bonus = 0.2
 		}
 		requires = { rabisu_path_5a rabisu_path_5b } 

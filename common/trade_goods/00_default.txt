@@ -248,6 +248,22 @@ steppe_horses = { #90 territories
 	color = hsv { 0.1 0.5 0.8 }
 }
 
+hunters = { #90 territories
+	category = 0
+	allow_unit_type = unit_sealgair
+	
+	gold = 0.3
+	
+	province = {
+		local_tribesmen_happyness = happiness_small_svalue
+	}
+	country = {
+		unit_sealgair_discipline = 0.1
+	}
+	
+	color = hsv { 0.36 0.96 0.60 }
+}
+
 cattle = { #495 territories
 	category = 1
 

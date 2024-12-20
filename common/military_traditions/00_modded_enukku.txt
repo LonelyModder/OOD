@@ -71,8 +71,8 @@
 	
 	enukku_path_1 = { ###altmer path
 		modifier = { 
-			unit_gudu_discipline = 0.1
-			unit_gudu_offensive = 0.1
+			unit_spearmen_discipline = 0.1
+			unit_spearmen_offensive = 0.1
 		}
 		enable_tactic = greek_phalanx
 		icon = enukku_mini_trad
@@ -81,9 +81,8 @@
 	
 	enukku_path_2 = { ###altmer path
 		modifier = { 
-			unit_gudu_defensive = 0.1
-			unit_pana_defensive = 0.1
-			unit_urudu_defensive = 0.1
+			unit_spearmen_defensive = 0.2
+			unit_archers_defensive = 0.2
 		}
 		icon = enukku_mini_trad
 		requires = {enukku_path_1}
@@ -91,9 +90,9 @@
 	
 	enukku_path_3 = { ###altmer path
 		modifier = { 
-			unit_pana_discipline = 0.1
-			unit_pana_offensive = 0.1
-			unit_pana_cost = -0.1
+			unit_archers_discipline = 0.1
+			unit_archers_offensive = 0.1
+			unit_archers_cost = -0.1
 		}
 		icon = enukku_mini_trad
 		requires = {enukku_path_2}
@@ -101,8 +100,8 @@
 	
 	enukku_path_3a = { ###altmer path
 		modifier = { 
-			unit_urudu_discipline = 0.1
-			unit_urudu_offensive = 0.1
+			unit_chariots_discipline = 0.1
+			unit_chariots_offensive = 0.1
 		}
 		icon = enukku_mini_trad
 		requires = {enukku_path_3}
@@ -186,7 +185,7 @@
 	
 	enukku_states_path_end_bonus = {
 		modifier = { 
-			lv_pana_offensive = 0.15
+			lv_archers_offensive = 0.15
 			ocean_combat_bonus = 0.2
 		}
 		requires = { enukku_path_4a enukku_path_6b } 

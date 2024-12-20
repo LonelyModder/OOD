@@ -71,8 +71,8 @@
 	
 	ekimmu_path_1 = { ###altmer path
 		modifier = { 
-			unit_saighdiuir_offensive = 0.1
-			unit_saighdiuir_discipline = 0.1
+			unit_spearmen_offensive = 0.1
+			unit_spearmen_discipline = 0.1
 		}
 		icon = ekimmu_mini_trad
 		requires = {}
@@ -80,7 +80,16 @@
 	
 	ekimmu_path_2 = { ###altmer path
 		modifier = { 
-			unit_magaidh_offensive = 0.2
+			general_loyalty = 5
+		}
+		on_activate = {
+			custom_tooltip = "create_high_martial_rising_star"
+			hidden_effect = {
+				create_character = {
+					add_martial = 8
+					add_trait = victorious
+				}
+			}
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_1}
@@ -115,9 +124,9 @@
 	
 	ekimmu_path_2c = { ###altmer path
 		modifier = { 
-			unit_laochra_discipline = 0.1
-			unit_laochra_offensive = 0.1
-			unit_saighdeoir_offensive = 0.1
+			unit_spearmen_discipline = 0.1
+			unit_spearmen_offensive = 0.1
+			unit_archers_offensive = 0.1
 		}
 		icon = ekimmu_mini_trad
 		requires = {ekimmu_path_2}
@@ -160,7 +169,7 @@
 	
 	ekimmu_states_path_end_bonus = {
 		modifier = { 
-			unit_magaidh_offensive = 0.2
+			unit_mushushu_offensive = 0.2
 			hall_combat_bonus = 0.1
 		}
 		requires = { ekimmu_path_4a ekimmu_path_4b ekimmu_path_2c} 

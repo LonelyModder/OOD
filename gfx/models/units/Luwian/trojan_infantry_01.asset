@@ -685,35 +685,19 @@ entity = {
 	version = 10
 }	
 entity = {
-	name = "luwian_gfx_unit_saighdiuir"
-	clone = "trojan_heavy_infantry"
-}
-entity = {
-	name = "luwian_gfx_unit_magaidh"
-	clone = "trojan_heavy_infantry"
-}	
-entity = {
-	name = "luwian_gfx_unit_laochra"
-	clone = "trojan_heavy_infantry"
-} 
-entity = {
-	name = "luwian_gfx_unit_saighdeoir"
-	clone = "trojan_heavy_infantry"
-}
-entity = {
 	name = "luwian_gfx_unit_sealgair"
 	clone = "trojan_heavy_infantry"
 }
 entity = {
-	name = "luwian_gfx_unit_gudu"
+	name = "luwian_gfx_unit_berserkers"
 	clone = "trojan_heavy_infantry"
 }
 entity = {
-	name = "luwian_gfx_unit_pana"
+	name = "luwian_gfx_unit_elephants"
 	clone = "trojan_heavy_infantry"
 }
 entity = {
-	name = "luwian_gfx_unit_urudu"
+	name = "luwian_gfx_unit_camels"
 	clone = "trojan_heavy_infantry"
 }
 
@@ -794,42 +778,6 @@ entity ={
 	name = "luwian_gfx_legion_unit_mushusshu"
 	clone = "trojan_legion"
 }
-### Hall Guards ----------------------------------------------------------------
-entity ={
-	name = "luwian_gfx_levy_unit_saighdiuir"
-	clone = "trojan_levy"
-}
-entity ={
-	name = "luwian_gfx_legion_unit_saighdiuir"
-	clone = "trojan_legion"
-}
-### Shamans ----------------------------------------------------------------
-entity ={
-	name = "luwian_gfx_levy_unit_magaidh"
-	clone = "trojan_levy"
-}
-entity ={
-	name = "luwian_gfx_legion_unit_magaidh"
-	clone = "trojan_legion"
-}
-### Warriors ----------------------------------------------------------------
-entity ={
-	name = "luwian_gfx_levy_unit_laochra"
-	clone = "trojan_levy"
-}
-entity ={
-	name = "luwian_gfx_legion_unit_laochra"
-	clone = "trojan_legion"
-}
-### Raiders ----------------------------------------------------------------
-entity ={
-	name = "luwian_gfx_levy_unit_saighdeoir"
-	clone = "trojan_levy"
-}
-entity ={
-	name = "luwian_gfx_legion_unit_saighdeoir"
-	clone = "trojan_legion"
-}
 ### Hunters ----------------------------------------------------------------
 entity ={
 	name = "luwian_gfx_levy_unit_sealgair"
@@ -839,30 +787,30 @@ entity ={
 	name = "luwian_gfx_legion_unit_sealgair"
 	clone = "trojan_legion"
 }
-### Protectors ----------------------------------------------------------------
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "luwian_gfx_levy_unit_gudu"
+	name = "luwian_gfx_levy_unit_berserkers"
 	clone = "trojan_levy"
 }
 entity ={
-	name = "luwian_gfx_legion_unit_gudu"
+	name = "luwian_gfx_legion_unit_berserkers"
 	clone = "trojan_legion"
 }
-### Marines ----------------------------------------------------------------
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "luwian_gfx_levy_unit_pana"
+	name = "luwian_gfx_levy_unit_elephants"
 	clone = "trojan_levy"
 }
 entity ={
-	name = "luwian_gfx_legion_unit_pana"
+	name = "luwian_gfx_legion_unit_elephants"
 	clone = "trojan_legion"
 }
-### Spears ----------------------------------------------------------------
+### Camels ----------------------------------------------------------------
 entity ={
-	name = "luwian_gfx_levy_unit_urudu"
+	name = "luwian_gfx_levy_unit_camels"
 	clone = "trojan_levy"
 }
 entity ={
-	name = "luwian_gfx_legion_unit_urudu"
+	name = "luwian_gfx_legion_unit_camels"
 	clone = "trojan_legion"
 }

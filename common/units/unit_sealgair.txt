@@ -3,10 +3,14 @@
 	assault = yes
 	is_flank = yes
 
+	allow = {
+		trade_good_surplus = { target = hunters value > 0 }
+	}
+
 	levy_tier = basic
 
-	maneuver = 2
-	movement_speed = 2.5
+	maneuver = 5
+	movement_speed = 4
 	build_time = 45
 										
 	unit_chariots = 1.1									
@@ -29,7 +33,7 @@
 	attrition_loss = 0.05
 	ai_max_percentage = 15
 	build_cost = {
-		gold = 4
+		gold = 8
 		manpower = 1
 	}
 	food_consumption = 0.1

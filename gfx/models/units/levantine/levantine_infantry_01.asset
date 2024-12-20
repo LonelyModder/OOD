@@ -901,39 +901,23 @@ entity = {
 	name = "levantine_gfx_unit_mushusshu"
 	clone = "levantine_gfx_heavy_infantry"
 	version = 10
-}		
-entity = {
-	name = "levantine_gfx_unit_saighdiuir"
-	clone = "levantine_gfx_heavy_infantry"
-}
-entity = {
-	name = "levantine_gfx_unit_magaidh"
-	clone = "levantine_gfx_heavy_infantry"
 }	
-entity = {
-	name = "levantine_gfx_unit_laochra"
-	clone = "levantine_gfx_heavy_infantry"
-} 
-entity = {
-	name = "levantine_gfx_unit_saighdeoir"
-	clone = "levantine_gfx_heavy_infantry"
-}
 entity = {
 	name = "levantine_gfx_unit_sealgair"
 	clone = "levantine_gfx_heavy_infantry"
-}
+}	
 entity = {
-	name = "levantine_gfx_unit_gudu"
+	name = "levantine_gfx_unit_berserkers"
 	clone = "levantine_gfx_heavy_infantry"
 }
 entity = {
-	name = "levantine_gfx_unit_pana"
+	name = "levantine_gfx_unit_elephants"
 	clone = "levantine_gfx_heavy_infantry"
 }
 entity = {
-	name = "levantine_gfx_unit_urudu"
+	name = "levantine_gfx_unit_camels"
 	clone = "levantine_gfx_heavy_infantry"
-}		 
+} 
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -1009,43 +993,6 @@ entity ={
 	name = "levantine_gfx_legion_unit_mushusshu"
 	clone = "levantine_gfx_legion"
 }
-
-### Hall Guards ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_saighdiuir"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_saighdiuir"
-	clone = "levantine_gfx_legion"
-}
-### Shamans ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_magaidh"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_magaidh"
-	clone = "levantine_gfx_legion"
-}
-### Warriors ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_laochra"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_laochra"
-	clone = "levantine_gfx_legion"
-}
-### Raiders ----------------------------------------------------------------
-entity ={
-	name = "levantine_gfx_levy_unit_saighdeoir"
-	clone = "levantine_gfx_levy"
-}
-entity ={
-	name = "levantine_gfx_legion_unit_saighdeoir"
-	clone = "levantine_gfx_legion"
-}
 ### Hunters ----------------------------------------------------------------
 entity ={
 	name = "levantine_gfx_levy_unit_sealgair"
@@ -1055,30 +1002,30 @@ entity ={
 	name = "levantine_gfx_legion_unit_sealgair"
 	clone = "levantine_gfx_legion"
 }
-### Protectors ----------------------------------------------------------------
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "levantine_gfx_levy_unit_gudu"
+	name = "levantine_gfx_levy_unit_berserkers"
 	clone = "levantine_gfx_levy"
 }
 entity ={
-	name = "levantine_gfx_legion_unit_gudu"
+	name = "levantine_gfx_legion_unit_berserkers"
 	clone = "levantine_gfx_legion"
 }
-### Marines ----------------------------------------------------------------
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "levantine_gfx_levy_unit_pana"
+	name = "levantine_gfx_levy_unit_elephants"
 	clone = "levantine_gfx_levy"
 }
 entity ={
-	name = "levantine_gfx_legion_unit_pana"
+	name = "levantine_gfx_legion_unit_elephants"
 	clone = "levantine_gfx_legion"
 }
-### Spears ----------------------------------------------------------------
+### Camels ----------------------------------------------------------------
 entity ={
-	name = "levantine_gfx_levy_unit_urudu"
+	name = "levantine_gfx_levy_unit_camels"
 	clone = "levantine_gfx_levy"
 }
 entity ={
-	name = "levantine_gfx_legion_unit_urudu"
+	name = "levantine_gfx_legion_unit_camels"
 	clone = "levantine_gfx_legion"
 }

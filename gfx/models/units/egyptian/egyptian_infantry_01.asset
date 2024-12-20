@@ -845,39 +845,23 @@ entity = {
 	name = "egyptian_gfx_unit_mushusshu"
 	clone = "egyptian_gfx_heavy_infantry"
 	version = 10
-}	
-entity = {
-	name = "egyptian_gfx_unit_saighdiuir"
-	clone = "egyptian_gfx_heavy_infantry"
-}
-entity = {
-	name = "egyptian_gfx_unit_magaidh"
-	clone = "egyptian_gfx_heavy_infantry"
-}	
-entity = {
-	name = "egyptian_gfx_unit_laochra"
-	clone = "egyptian_gfx_heavy_infantry"
-} 
-entity = {
-	name = "egyptian_gfx_unit_saighdeoir"
-	clone = "egyptian_gfx_heavy_infantry"
 }
 entity = {
 	name = "egyptian_gfx_unit_sealgair"
 	clone = "egyptian_gfx_heavy_infantry"
-}
+} 
 entity = {
-	name = "egyptian_gfx_unit_gudu"
-	clone = "egyptian_gfx_heavy_infantry"
-}
+	name = "egyptian_gfx_unit_berserkers"
+	clone = "egyptian_gfx_heavy_berserkers"
+} 
 entity = {
-	name = "egyptian_gfx_unit_pana"
-	clone = "egyptian_gfx_heavy_infantry"
-}
+	name = "egyptian_gfx_unit_elephants"
+	clone = "egyptian_gfx_heavy_elephants"
+} 
 entity = {
-	name = "egyptian_gfx_unit_urudu"
-	clone = "egyptian_gfx_heavy_infantry"
-}		 
+	name = "egyptian_gfx_unit_camels"
+	clone = "egyptian_gfx_heavy_camels"
+} 
 
 ##############
 #### Levy #### ----------------------------------------------------------------
@@ -955,42 +939,6 @@ entity ={
 	clone = "egyptian_gfx_legion"
 }
 
-### Hall Guards ----------------------------------------------------------------
-entity ={
-	name = "egyptian_gfx_levy_unit_saighdiuir"
-	clone = "egyptian_gfx_levy"
-}
-entity ={
-	name = "egyptian_gfx_legion_unit_saighdiuir"
-	clone = "egyptian_gfx_legion"
-}
-### Shamans ----------------------------------------------------------------
-entity ={
-	name = "egyptian_gfx_levy_unit_magaidh"
-	clone = "egyptian_gfx_levy"
-}
-entity ={
-	name = "egyptian_gfx_legion_unit_magaidh"
-	clone = "egyptian_gfx_legion"
-}
-### Warriors ----------------------------------------------------------------
-entity ={
-	name = "egyptian_gfx_levy_unit_laochra"
-	clone = "egyptian_gfx_levy"
-}
-entity ={
-	name = "egyptian_gfx_legion_unit_laochra"
-	clone = "egyptian_gfx_legion"
-}
-### Raiders ----------------------------------------------------------------
-entity ={
-	name = "egyptian_gfx_levy_unit_saighdeoir"
-	clone = "egyptian_gfx_levy"
-}
-entity ={
-	name = "egyptian_gfx_legion_unit_saighdeoir"
-	clone = "egyptian_gfx_legion"
-}
 ### Hunters ----------------------------------------------------------------
 entity ={
 	name = "egyptian_gfx_levy_unit_sealgair"
@@ -1000,30 +948,33 @@ entity ={
 	name = "egyptian_gfx_legion_unit_sealgair"
 	clone = "egyptian_gfx_legion"
 }
-### Protectors ----------------------------------------------------------------
+
+### Berserkers ----------------------------------------------------------------
 entity ={
-	name = "egyptian_gfx_levy_unit_gudu"
+	name = "egyptian_gfx_levy_unit_berserkers"
 	clone = "egyptian_gfx_levy"
 }
 entity ={
-	name = "egyptian_gfx_legion_unit_gudu"
+	name = "egyptian_gfx_legion_unit_berserkers"
 	clone = "egyptian_gfx_legion"
 }
-### Marines ----------------------------------------------------------------
+
+### Elephants ----------------------------------------------------------------
 entity ={
-	name = "egyptian_gfx_levy_unit_pana"
+	name = "egyptian_gfx_levy_unit_elephants"
 	clone = "egyptian_gfx_levy"
 }
 entity ={
-	name = "egyptian_gfx_legion_unit_pana"
+	name = "egyptian_gfx_legion_unit_elephants"
 	clone = "egyptian_gfx_legion"
 }
-### Spears ----------------------------------------------------------------
+
+### Camels ----------------------------------------------------------------
 entity ={
-	name = "egyptian_gfx_levy_unit_urudu"
+	name = "egyptian_gfx_levy_unit_camels"
 	clone = "egyptian_gfx_levy"
 }
 entity ={
-	name = "egyptian_gfx_legion_unit_urudu"
+	name = "egyptian_gfx_legion_unit_camels"
 	clone = "egyptian_gfx_legion"
 }
