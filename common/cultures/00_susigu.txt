@@ -12,51 +12,50 @@
 	levy_template = levy_druidic
 
 	male_names = {
-		Acco Addedomarus Adiatuanus Adminius Aiorix Ambicatos Andecombogius Aneroestes Ariovistus Arverus Arvirargus Atis Avitus 
-		Bellicianus Bellovesus Boduognatus Boio Boiorix Bolgios Brennus Bricussa Britomaris Brucetius Buite Cailtram Caractacus 
-		Carvilius Cassivellaunus Cattulanus Cartorites Catugnatus Cavarinus Cavarus Celatus Cingetorix Coilus Commios Comux Concolitanus Correus Cottius Crixus
-		Cunobelinus Diviciacus Divico Donnus Drappes Dubnovellaunus Dumnacus Ducarius Duratios Dumnocoveros Dumnorix Elitovius Etitovius Epatticus
-		Galan Galba Guiderius Iacus Iccius Immanuentius Inamarcus Inammicus Indutiomarus Kimarcus Lucterius Lugotorix Lutarius Mallaius Mandubracius Marganus Mascelio
-		Orgetorix Prasutagus Segovax Sinatus Sinorix Sisillius Talorc Tasciovanus Tasgetius Taximagulus Teutomalius Tincomarus Togodumnus Vertiscus
-		Venutius Viridorix Vosenius Vodenos
+		Anittas Arnuwandas Hattusilis Katuzili Lubarna Mursilis Mutalla Muwatallis Piyamaradu Saplulme Suppiluliuma Telipinus 
+		Tudhaliyas Abdihepa Tatuhepa Abutesup Akia Akitesup Akiizzi Alaksandu Amaiase Anuwaanza Arnuanta Artamaania Artataama 
+		Artaassumara Artesupa Arzaia Asali Atamu Bantisinni Barbuiluwa Ariaenni Etagama Giliia Giluhepa Halpasulubi Hibia Initesup 
+		Eniel Irsappa Katihutisupa Peruwa Galulu Saktanuwa Suppiahsu
 		
 	}
 	female_names = {
-		Aife Airmed Ancasta Banna Billica Boudica Bricta Cata Cartimandua Chiomara Damona Diseta Gwendolen Litavis Iamcilla Maeve Verica
-		Cingetessa Conna Catia Carssouna Cunovinna Illica Lovernisca Magunna Lucilia Oconea Ria Rosula Senica Sentica Sulicena
-		Vassura Vinoma Vorvena Urca Veloriga Velibia Totia Titocuna Velbutena Seniciana Senila Vrocata Exuperata Deiana Cunolava Cunsa Aucissa
-		Allauna Alatucca Aessicunia Bodicacia Britivenda Catissena Cantisena 
+		Pudukhepa Labbaia Lieia Hepatuzzi Walawala Allaiturahi Ziza Hatasusar Hati Manna Waliwali Ammi Satahsusar Paskuwa Asupnawiya 
+		Kupapa Muwatti Arsakiti Tiwatawiya Zuskana Kipi Asdu Wasti Hasusra Nasazi Hahaluwan Manniya Ilalilka Asmunikal Hapuwahsusar 
+		Kuwattalla Aliwanatti Halwati
 	}
 	family = {
-		Ambonus.Ambona.Ambonii.Ambonid
-		Auaroses.Auarosa.Auarosii.Auarosian
-		Audaxus.Audaxa.Audaxii.Audaxian
-		Carosus.Carosa.Carosii.Carosian
-		Culchus.Culcha.Culchi.Culchian
-		Leukus.Leuka.Leuki.Leukian
-		Mandonus.Mandonia.Mandonii.Mandonian
-		Punicus.Punica.Punici.Punician
-		Tautalus.Tautala.Tautalii.Tautalid
-		Correius.Correia.Correid.Correian
-		Divicus.Divica.Divici.Divicid
-		Duratus.Durata.Duratii.Duratian
-		Elitovus.Elitova.Elitovii.Elitovian
-		Galbus.Galba.Galbi.Galbid
-		Iacus.Iaca.Iaci.Iacid
-		Marganus.Margana.Marganii.Marganid
-		Sinatus.Sinata.Sinatii.Sinatid
-		Vodenosus.Vodenosa.Vodenosii.Vodenosian
-		Indutius.Indutia.Indutii.Indutian
-		Dumnus.Dumna.Dumnii.Dumnid
-		Epatticus.Epattica.Epatticii.Epatticid
-		Teutomalus.Teutomala.Teutomalii.Teutomalian
-		Viridorrius.Viridorria.Viridorrii.Viridorrian
-		Magunnus.Magunna.Magunnii.Magunnid
-		Brennus.Brenna.Brennii.Brennid
-		Boius.Boia.Boii.Boian
-		Tannus.Tanna.Tanni.Tannid
-		Iccuius.Iccuia.Iccui.Iccian
-		Galanus.Galana.Galanii.Galanid
+		Utruwasu.Utruwasu.Utruwasu.Utruwasu 
+		Temetteni.Temetteni.Temetteni.Temetteni 
+		Simnuman.Simnuman.Simnuman.Simnuman 
+		Walkui.Walkui.Walkui.Walkui 
+		Huhasarma.Huhasarma.Huhasarma.Huhasarma 
+		Walahsina.Walahsina.Walahsina.Walahsina 
+		Ashapala.Ashapala.Ashapala.Ashapala 
+		Immaraziti.Immaraziti.Immaraziti.Immaraziti 
+		Hasarti.Hasarti.Hasarti.Hasarti 
+		Tarhupiya.Tarhupiya.Tarhupiya.Tarhupiya 
+		Niwalla.Niwalla.Niwalla.Niwalla 
+		Piha.Piha.Piha.Piha 
+		Tawaniyama.Tawaniyama.Tawaniyama.Tawaniyama 
+		Takuhili.Takuhili.Takuhili.Takuhili 
+		Zuzzu.Zuzzu.Zuzzu.Zuzzu 
+		Zuru.Zuru.Zuru.Zuru 
+		Siptikuni.Siptikuni.Siptikuni.Siptikuni 
+		Pazzu.Pazzu.Pazzu.Pazzu 
+		Zida.Zida.Zida.Zida 
+		Attaniya.Attaniya.Attaniya.Attaniya 
+		Ispua.Ispua.Ispua.Ispua 
+		Muwalanni.Muwalanni.Muwalanni.Muwalanni 
+		Nuhati.Nuhati.Nuhati.Nuhati 
+		Akiya.Akiya.Akiya.Akiya 
+		Arnuman.Arnuman.Arnuman.Arnuman 
+		Tazzi.Tazzi.Tazzi.Tazzi 
+		Hantili.Hantili.Hantili.Hantili 
+		Kuniyapiya.Kuniyapiya.Kuniyapiya.Kuniyapiya 
+		Zelliya.Zelliya.Zelliya.Zelliya 
+		Apapiya.Apapiya.Apapiya.Apapiya 
+		Himuili.Himuili.Himuili.Himuili 
+		Kuwadar.Kuwadar.Kuwadar.Kuwadar 
 	}
 	culture = {
 		skurgunic = {}

@@ -7,8 +7,62 @@
 	support_for_character_as_heir = 10
 
 	country = {
-		stability_cost_modifier = -0.2
-		global_monthly_state_loyalty = 0.05
+		global_commerce_modifier = 0.1
+		discipline = 0.1
+	}
+	
+	province = {
+		local_monthly_civilization = 0.075
+	}
+	
+	unit = {
+		unit_spearmen_discipline = 0.05
+	}
+	
+}
+
+urur = {
+	type = status
+	
+	prominence = 20
+	finesse = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		discipline = 0.1
+		monthly_legitimacy = 0.05
+	}
+	
+	province = {
+		local_manpower_modifier = 0.1
+	}
+	
+	unit = {
+		unit_axemen_discipline = 0.05
+	}
+	
+}
+
+anittas = {
+	type = status
+	
+	prominence = 20
+	martial = 1
+	
+	support_for_character_as_heir = 10
+
+	country = {
+		agressive_expansion_impact = -0.1
+		agressive_expansion_monthly_change = -0.05
+	}
+	
+	province = {
+		local_cohort_start_experience = 0.1
+	}
+	
+	unit = {
+		lv_scirmishers_discipline = 0.05
 	}
 	
 }

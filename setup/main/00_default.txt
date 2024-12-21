@@ -53,6 +53,18 @@ family={
 			culture = amsouran
 			prestige=300
 		}
+		2={
+			key="Urur"
+			owner=AAE
+			culture = galkari
+			prestige=300
+		}
+		3={
+			key="Urur"
+			owner=AAJ
+			culture = skurgunic
+			prestige=300
+		}
 		
 		}
 }
@@ -296,7 +308,8 @@ country = {
 			}
 		}
 		
-		AAE = {          
+		AAE = {
+			family=2
 			government = aristocratic_monarchy
 			primary_culture = galkari
 			religion = divineorder_pantheon
@@ -372,7 +385,8 @@ country = {
 			}
 		}
 		
-		AAJ = {          
+		AAJ = {    
+			family=3
 			government = tribal_kingdom
 			primary_culture = skurgunic
 			religion = divineorder_pantheon

@@ -11,6 +11,8 @@ character_events.35 = {
 				father = {
 					OR = {
 						has_trait = bloodofscorpion
+						has_trait = urur
+						has_trait = anittas
 					}
 				}
 			}
@@ -25,7 +27,28 @@ character_events.35 = {
 				}
 				add_trait = bloodofscorpion
 			}
-			
+			if = {
+				limit = {
+					father = {
+						has_trait = urur
+					}
+					NOT = {
+						has_trait = urur
+					}
+				}
+				add_trait = urur
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = anittas
+					}
+					NOT = {
+						has_trait = anittas
+					}
+				}
+				add_trait = anittas
+			}
 		}
 		if = {
 			limit = {
@@ -39,6 +62,29 @@ character_events.35 = {
 			}
 			add_trait = bloodofscorpion	
 		}
-		
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = urur
+				}
+				NOT = {
+					has_trait = urur
+				}
+			}
+			add_trait = urur	
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = anittas
+				}
+				NOT = {
+					has_trait = anittas
+				}
+			}
+			add_trait = anittas	
+		}
 	}
 }

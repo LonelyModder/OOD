@@ -191,5 +191,7 @@ char_is_civic_trigger = {
 has_bloodline_trigger = {
 	OR = {
 		has_trait = bloodofscorpion
+		has_trait = urur
+		has_trait = anittas
 	}
 }

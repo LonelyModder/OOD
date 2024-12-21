@@ -119,3 +119,9 @@ wonder_bloodtree={ #Modified
 	great_work_category="gw_category_ancient"
 	great_work_category_slot=0
 }
+
+wonder_kaburra={ #Modified
+	entity_name={"building_special_moon_gate_entity"}
+	great_work_category="gw_category_ancient"
+	great_work_category_slot=0
+}

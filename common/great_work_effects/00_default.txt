@@ -2286,3 +2286,50 @@ gw_effect_bloodtree = {
 		}
 	}
 }
+
+gw_effect_kaburra = {
+	icon = "gw_effect_military_education"	
+
+	flags = {
+		"gw_effect_military_education"
+	}
+	
+	great_work_tier_effect_modifiers = {
+		gw_effect_kaburra_tier_1 = {
+			great_work_effect_tier = gw_effect_tier_1
+		
+			country_modifier = {
+				global_slaves_output = 0.04
+				happiness_for_same_culture_modifier = 0.04
+				land_morale_modifier = 0.02
+			}
+		}
+		gw_effect_kaburra_tier_2 = {
+			great_work_effect_tier = gw_effect_tier_2
+		
+			country_modifier = {
+				global_slaves_output = 0.06
+				happiness_for_same_culture_modifier = 0.05
+				land_morale_modifier = 0.03
+			}
+		}
+		gw_effect_kaburra_tier_3 = {
+			great_work_effect_tier = gw_effect_tier_3
+		
+			country_modifier = {
+				global_slaves_output = 0.08
+				happiness_for_same_culture_modifier = 0.06
+				land_morale_modifier = 0.04
+			}
+		}
+		gw_effect_kaburra_tier_4 = {
+			great_work_effect_tier = gw_effect_tier_4
+		
+			country_modifier = {
+				global_slaves_output = 0.1
+				happiness_for_same_culture_modifier = 0.7
+				land_morale_modifier = 0.05
+			}
+		}
+	}
+}

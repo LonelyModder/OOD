@@ -63,6 +63,7 @@ on_game_initialized = {
 		nbw_startup.9
 		#Bloodlines
 		bloodlines_startup.1  #Blood of Scorpion
+		bloodlines_startup.2  #Blood of Urur
 		#Militarism level mechanic
 		militarism_events.1
 	}

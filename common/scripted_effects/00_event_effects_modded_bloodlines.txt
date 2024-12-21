@@ -7,6 +7,8 @@ pass_down_traits_effect = {
 				father = {
 					OR = {
 						has_trait = bloodofscorpion
+						has_trait = urur
+						has_trait = anittas
 					}
 				}
 						
@@ -22,6 +24,28 @@ pass_down_traits_effect = {
 				}
 				add_trait = bloodofscorpion
 			}
+			if = {
+				limit = {
+					father = {
+						has_trait = urur
+					}
+					NOT = {
+						has_trait = urur
+					}
+				}
+				add_trait = urur
+			}
+			if = {
+				limit = {
+					father = {
+						has_trait = anittas
+					}
+					NOT = {
+						has_trait = anittas
+					}
+				}
+				add_trait = anittas
+			}
 		}
 		if = {
 			limit = {
@@ -35,6 +59,30 @@ pass_down_traits_effect = {
 			}
 			add_trait = bloodofscorpion
 		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = urur
+				}
+				NOT = {
+					has_trait = urur
+				}
+			}
+			add_trait = urur
+		}
+		if = {
+			limit = {
+				exists = mother
+				mother = {
+					has_trait = anittas
+				}
+				NOT = {
+					has_trait = anittas
+				}
+			}
+			add_trait = anittas
+		}
 	}
 }
 
@@ -46,5 +94,21 @@ bastard_major_bloodline_effect = {
 			}
 		}
 		add_trait = bloodofscorpion
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = urur
+			}
+		}
+		add_trait = urur
+	}
+	if = {
+		limit = {
+			scope:bastard_ruler = {
+				has_trait = anittas
+			}
+		}
+		add_trait = anittas
 	}
 }

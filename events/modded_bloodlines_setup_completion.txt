@@ -25,7 +25,30 @@ bloodlines_setup_completion.1 = {
 				}
 				add_trait = bloodofscorpion
 			}
-			
+			if = {
+				limit = {
+					exists = father
+					father = {
+						has_trait = urur
+					}
+					NOT = {
+						has_trait = urur
+					}
+				}
+				add_trait = urur
+			}
+			if = {
+				limit = {
+					exists = father
+					father = {
+						has_trait = anittas
+					}
+					NOT = {
+						has_trait = anittas
+					}
+				}
+				add_trait = anittas
+			}
 			if = {
 				limit = {
 					exists = mother
@@ -38,7 +61,30 @@ bloodlines_setup_completion.1 = {
 				}
 				add_trait = bloodofscorpion	
 			}
-			
+			if = {
+				limit = {
+					exists = mother
+					mother = {
+						has_trait = urur
+					}
+					NOT = {
+						has_trait = urur
+					}
+				}
+				add_trait = urur	
+			}
+			if = {
+				limit = {
+					exists = mother
+					mother = {
+						has_trait = anittas
+					}
+					NOT = {
+						has_trait = anittas
+					}
+				}
+				add_trait = anittas	
+			}
 		}
 	}
 }
