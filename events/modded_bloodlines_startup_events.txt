@@ -6,13 +6,19 @@ bloodlines_startup.1 = { #Salgari
 	hidden = yes
 	
 	trigger = {
-		tag = ABK
+		OR = {
+			tag = ABK
+			tag = ABI
+		}
 	}
 	
 	immediate = {
 		every_character = {
 			limit = {
-				has_same_family = char:0
+				OR = {
+					has_same_family = char:0
+					has_same_family = char:3
+				}
 			}
 			add_trait = bloodofscorpion
 		

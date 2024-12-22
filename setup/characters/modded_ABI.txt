@@ -1,0 +1,24 @@
+﻿"ABI"={
+	country="ABI"
+	3={
+		first_name="Atenemhat"
+		family = c:ABI.fam:Black-Scorpions
+		birth_date=2100.10.6
+		culture="amsouran"
+		religion="atun_pantheon"
+		no_stats=yes
+		add_martial=7
+		add_charisma=3
+		add_finesse=4
+		add_zeal=4
+		no_traits=yes
+		add_trait="human"
+		add_trait="bloodofscorpion"
+		add_gold=500
+		add_popularity=100
+		c:ABI={
+			set_as_ruler=char:3
+		}
+		#dna=""
+	}
+}

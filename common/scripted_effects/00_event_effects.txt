@@ -2503,7 +2503,7 @@ add_relevant_loyal_subunit_effect = {
 		}
 		random_list = {
 			25 = {
-				add_loyal_subunit = unit_spearmen
+				add_loyal_subunit = unit_archers
 			}
 		}
 	}

@@ -5,8 +5,14 @@ provinces = {
 	236 = { # Bleeding Tree
 		great_work=2
 	}
-	184 = { # Star Gate
+	184 = { # Outer Gate
 		great_work=3
+	}
+	504 = { # Gates of Sand
+		great_work=4
+	}
+	260 = { # Lumma's Gardens
+		great_work=5
 	}
 }
 
@@ -79,6 +85,54 @@ great_work_manager={
 			great_work_effect_selections={
 				{
 					great_work_effect="gw_effect_kaburra"
+					great_work_effect_tier = "gw_effect_tier_4"
+				}
+			}
+		}
+		
+		4={
+			ancient_wonder = yes
+			key="kasahar"
+			great_work_category="building"
+			great_work_state=great_work_state_completed
+			finished_date=1.10.1
+
+			great_work_name={
+				name="wonder_kasahar"
+			}
+			great_work_components={
+				{
+					great_work_module="wonder_kasahar"
+				}
+			}
+
+			great_work_effect_selections={
+				{
+					great_work_effect="gw_effect_kasahar"
+					great_work_effect_tier = "gw_effect_tier_4"
+				}
+			}
+		}
+		
+		5={
+			ancient_wonder = yes
+			key="governors_palace"
+			great_work_category="building"
+			great_work_state=great_work_state_completed
+			finished_date=1.10.1
+
+			great_work_name={
+				name="wonder_governors_palace"
+			}
+			great_work_components={
+				{
+					great_work_module="wonder_governors_palace"
+				}
+			}
+
+			great_work_effect_selections={
+				{
+					great_work_effect="gw_effect_governors_palace"
 					great_work_effect_tier = "gw_effect_tier_4"
 				}
 			}

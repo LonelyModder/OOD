@@ -15,75 +15,80 @@ bloodlines_setup_completion.1 = {
 			}
 			if = {
 				limit = {
-					exists = father
-					father = {
-						has_trait = bloodofscorpion
-					}
-					NOT = {
-						has_trait = bloodofscorpion
-					}
+					has_trait = human
 				}
-				add_trait = bloodofscorpion
-			}
-			if = {
-				limit = {
-					exists = father
-					father = {
-						has_trait = urur
+				if = {
+					limit = {
+						exists = father
+						father = {
+							has_trait = bloodofscorpion
+						}
+						NOT = {
+							has_trait = bloodofscorpion
+						}
 					}
-					NOT = {
-						has_trait = urur
-					}
+					add_trait = bloodofscorpion
 				}
-				add_trait = urur
-			}
-			if = {
-				limit = {
-					exists = father
-					father = {
-						has_trait = anittas
+				if = {
+					limit = {
+						exists = father
+						father = {
+							has_trait = urur
+						}
+						NOT = {
+							has_trait = urur
+						}
 					}
-					NOT = {
-						has_trait = anittas
-					}
+					add_trait = urur
 				}
-				add_trait = anittas
-			}
-			if = {
-				limit = {
-					exists = mother
-					mother = {
-						has_trait = bloodofscorpion
+				if = {
+					limit = {
+						exists = father
+						father = {
+							has_trait = anittas
+						}
+						NOT = {
+							has_trait = anittas
+						}
 					}
-					NOT = {
-						has_trait = bloodofscorpion
-					}
+					add_trait = anittas
 				}
-				add_trait = bloodofscorpion	
-			}
-			if = {
-				limit = {
-					exists = mother
-					mother = {
-						has_trait = urur
+				if = {
+					limit = {
+						exists = mother
+						mother = {
+							has_trait = bloodofscorpion
+						}
+						NOT = {
+							has_trait = bloodofscorpion
+						}
 					}
-					NOT = {
-						has_trait = urur
-					}
+					add_trait = bloodofscorpion	
 				}
-				add_trait = urur	
-			}
-			if = {
-				limit = {
-					exists = mother
-					mother = {
-						has_trait = anittas
+				if = {
+					limit = {
+						exists = mother
+						mother = {
+							has_trait = urur
+						}
+						NOT = {
+							has_trait = urur
+						}
 					}
-					NOT = {
-						has_trait = anittas
-					}
+					add_trait = urur	
 				}
-				add_trait = anittas	
+				if = {
+					limit = {
+						exists = mother
+						mother = {
+							has_trait = anittas
+						}
+						NOT = {
+							has_trait = anittas
+						}
+					}
+					add_trait = anittas	
+				}
 			}
 		}
 	}

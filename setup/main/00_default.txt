@@ -40,6 +40,20 @@ treasure_manager = {
 				local_citizen_happyness = 0.1
 			}
 		}
+		6 = { # Galkar
+			key = "treasure_statue_of_lumma"
+			icon = "treasure_architecture"
+			state_modifier = {
+				local_population_growth = 0.03
+			}
+		}
+		7 = { # Irkalla
+			key = "treasure_mace_of_usu"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_manpower_modifier = 0.1
+			}
+		}
     }
 }
 family={
@@ -65,6 +79,12 @@ family={
 			culture = skurgunic
 			prestige=300
 		}
+		4={
+			key="Black-Scorpions"
+			owner=ABI
+			culture = amsouran
+			prestige=300
+		}
 		
 		}
 }
@@ -85,6 +105,12 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	506 = { # Amsouru
 		treasure_slots = { 	treasures = { 4 } }
+	}
+	260 = { # Galkar
+		treasure_slots = { 	treasures = { 6 } }
+	}
+	278 = { # Irkalla
+		treasure_slots = { 	treasures = { 7 } }
 	}
 
 	#Pirates
@@ -768,7 +794,8 @@ country = {
 			}
 		}
 		
-		ABI = {          
+		ABI = { 
+			family=4
 			government = despotic_monarchy
 			primary_culture = amsouran
 			religion = atun_pantheon
