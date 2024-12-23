@@ -835,18 +835,18 @@
 369={ 
 	terrain="plains"
 	trade_goods="olive"
-	religion="atun_pantheon"
-	culture="menran"
+	religion="ancient_pantheon"
+	culture="uttu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		amount=1
-	}
 	citizen={
-		amount=5
+		amount=2
 	}
 	freemen={
+		amount=4
+	}
+	tribesmen={
 		amount=8
 	}
 	slaves={
@@ -857,79 +857,97 @@
 370={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="atun_pantheon"
-	culture="menran"
+	religion="ancient_pantheon"
+	culture="uttu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=1
+	}
+	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=2
+		amount=1
 	}
 }
 
 473={ 
 	terrain="plains"
 	trade_goods="amber"
-	religion="atun_pantheon"
-	culture="menran"
+	religion="ancient_pantheon"
+	culture="radjni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=1
+	}
+	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=2
+		amount=1
 	}
 }
 
 474={ 
 	terrain="plains"
 	trade_goods="wild_game"
-	religion="atun_pantheon"
-	culture="menran"
+	religion="ancient_pantheon"
+	culture="radjni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
+		amount=1
+	}
+	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=2
+		amount=1
 	}
 }
 
 475={ 
 	terrain="plains"
 	trade_goods="fish"
-	religion="atun_pantheon"
-	culture="menran"
+	religion="ancient_pantheon"
+	culture="radjni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=1
+	}
+	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=2
+		amount=1
 	}
 }
 
 476={ 
 	terrain="plains"
 	trade_goods="cattle"
-	religion="atun_pantheon"
-	culture="menran"
+	religion="ancient_pantheon"
+	culture="radjni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=1
+	}
+	tribesmen={
 		amount=4
 	}
 	slaves={
-		amount=2
+		amount=1
 	}
 }

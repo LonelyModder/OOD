@@ -229,7 +229,7 @@
 
 489={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="horses"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -430,7 +430,7 @@
 
 500={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -918,7 +918,7 @@
 
 653={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0

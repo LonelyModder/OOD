@@ -584,7 +584,7 @@
 
 221={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="divineorder_pantheon"
 	culture="annuni"
 	civilization_value=0

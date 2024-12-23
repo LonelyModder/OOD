@@ -38,6 +38,8 @@
 		gemeti = {}
 		zakiri = {}
 		amatu = {}
+		uttu = {}
+		radjni = {}
 	}
 	
 	barbarian_names = { 

@@ -405,7 +405,7 @@
 
 689={ 
 	terrain="steppe"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -943,7 +943,7 @@
 
 697={ 
 	terrain="steppe"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="khorism_pantheon"
 	culture="bgardu"
 	civilization_value=0

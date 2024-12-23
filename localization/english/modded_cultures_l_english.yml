@@ -80,8 +80,10 @@
  hunzu:0 "Hunzu"
  tattannu:0 "Tattannu"
  gemeti:0 "Gemeti"
+ uttu:0 "Uttan"
  zakiri:0 "Zakiri"
  amatu:0 "Amatu"
+ radjni:0 "Radjnite"
  rabisu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  rabisu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Urten

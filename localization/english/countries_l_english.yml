@@ -855,8 +855,8 @@
  AAP_ADJ:0 "Qusulite"
  AAR:0 "Irkalla"
  AAR_ADJ:0 "Irkallan"
- AAS:0 "Shurk"
- AAS_ADJ:0 "Shurkan"
+ AAS:0 "Uttu"
+ AAS_ADJ:0 "Uttan"
  AAT:0 "Azi"
  AAT_ADJ:0 "Azite"
  AAU:0 "Siduri"
@@ -939,6 +939,8 @@
  ACL_ADJ:0 "Zakiran"
  ACM:0 "Amatu"
  ACM_ADJ:0 "Amatite"
+ ACN:0 "Radjni"
+ ACN_ADJ:0 "Radjnite"
  #Modded Formables
  HKSalgar_name:0 "Kingdom of Salgar"
  HKSalgar_adj:0 "Salgari"
@@ -949,7 +951,7 @@
  RedHorde_name:0 "Red Khanate"
  RedHorde_adj:0 "Gardite"
  DarkKingdom_name:0 "Dark Kingdom"
- DarkKingdom_adj:0 "Evil"
+ DarkKingdom_adj:0 "Dark"
  #Event Names
  Alessia_NAME:0 "Alessian Revolt"
  Alessia_ADJECTIVE:0 "Alessian"

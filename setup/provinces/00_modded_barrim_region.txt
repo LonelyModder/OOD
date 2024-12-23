@@ -640,7 +640,7 @@
 
 552={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="atun_pantheon"
 	culture="adiri"
 	civilization_value=0

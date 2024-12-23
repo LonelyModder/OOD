@@ -543,20 +543,13 @@ country = {
 		}
 		
 		AAS = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
+			government = tribal_kingdom
+			primary_culture = uttu
+			religion = ancient_pantheon
 			capital = 369
 			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
 			own_control_core = 	{ 
-				369 370 473 474 475 476
+				369 370
 			}
 		}
 		
@@ -1129,6 +1122,17 @@ country = {
 			
 			own_control_core = 	{ 
 				472
+			}
+		}
+		
+		ACN = {          
+			government = tribal_kingdom
+			primary_culture = radjni
+			religion = ancient_pantheon
+			capital = 474
+			
+			own_control_core = 	{ 
+				474 473 475 476
 			}
 		}
 	}

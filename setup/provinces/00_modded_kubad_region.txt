@@ -645,7 +645,7 @@
 
 431={ 
 	terrain="mountain"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -702,7 +702,7 @@
 
 434={ 
 	terrain="mountain"
-	trade_goods="wild_game"
+	trade_goods="steppe_horses"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -971,7 +971,7 @@
 
 448={ 
 	terrain="hall"
-	trade_goods="wild_game"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="zuthu"
 	civilization_value=0
@@ -1129,7 +1129,7 @@
 
 456={ 
 	terrain="hall"
-	trade_goods="leather"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="vallakite"
 	civilization_value=0
@@ -1326,7 +1326,7 @@
 
 466={ 
 	terrain="cave"
-	trade_goods="wild_game"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="hunzu"
 	civilization_value=0
@@ -1386,7 +1386,7 @@
 
 469={ 
 	terrain="cave"
-	trade_goods="wild_game"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="gemeti"
 	civilization_value=0
