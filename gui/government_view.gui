@@ -592,7 +592,105 @@ base_window = {
 								spriteType = Corneredtiled
 								spriteborder = { 4 4 }
 							  }
-							  visible = "[EqualTo_string(LobbyView.GetSelectedPlayable.GetCountry.GetRuler.GetCulture.GetCultureGroup.GetKey, 'rabisu')]"
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'rabisu')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_salgari_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'salgari')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_kengiri_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'kengiri')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_susigu_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'susigu')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_sagentar_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'sagentar')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_ekimmu_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'ekimmu')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_annunaki_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'annunaki')]"
+							}
+							
+							icon = {
+							  texture = "gfx/interface/government_background/background_nuban_huge.dds"
+							  spriteType = Corneredtiled
+							  size = { 100% 100% }
+							  modify_texture = {
+								name = "Alpha"
+								block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+								blend_mode = alphamultiply
+								spriteType = Corneredtiled
+								spriteborder = { 4 4 }
+							  }
+							  visible = "[EqualTo_string(GovernmentView.GetPlayer.GetRuler.GetCulture.GetCultureGroup.GetKey, 'nuban')]"
 							}
 							
 							#Place for the Govgraphics

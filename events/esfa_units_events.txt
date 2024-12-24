@@ -89,8 +89,11 @@ units_allowance_events.1 = {
 		}
 		if = {
 			limit =  {
-				owner = {
-					country_culture_group = rabisu
+				any_owned_province = {
+					OR = {
+						is_importing_trade_good = urgaz
+						trade_goods = urgaz
+					}
 				}
 			}
 			allow_unit_berserkers = yes

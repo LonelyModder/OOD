@@ -91,7 +91,6 @@
 			hidden_effect = {
 				region:modded_girigu_region = { formable_region_province_effect = yes }
 				region:modded_nub_region = { formable_region_province_effect = yes }
-				region:modded_barrim_region = { formable_region_province_effect = yes }
 			}
 		}
 		

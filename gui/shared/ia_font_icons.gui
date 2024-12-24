@@ -10,6 +10,16 @@ texticon = {
     }
 }
 
+texticon = {
+    icon = urgaz
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/urgaz.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
 #Units
 
 texticon = {

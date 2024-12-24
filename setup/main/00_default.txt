@@ -1059,7 +1059,7 @@ country = {
 			}
 		}
 		
-		ACH = {          
+		ACO = {          
 			government = tribal_chiefdom
 			primary_culture = labashi
 			religion = ancient_pantheon

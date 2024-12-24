@@ -172,6 +172,22 @@ elephants = { #82 territories
 	color = hsv { 0.6 0.2 0.4 }	
 }
 
+urgaz = { #23 territories
+	category = 0
+	allow_unit_type = unit_berserkers
+	
+	gold = 0.5
+	
+	province = {
+		local_tribesmen_happyness = happiness_small_svalue
+	}
+	country = {
+		unit_berserkers_offensive = 0.1
+	}
+	
+	color = { 0.12 0.48 0.49 }
+}
+
 papyrus = { #23 territories
 	category = 2
 	
