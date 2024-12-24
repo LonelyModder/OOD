@@ -74,7 +74,7 @@ family={
 			prestige=300
 		}
 		3={
-			key="Urur"
+			key="Attaniya"
 			owner=AAJ
 			culture = skurgunic
 			prestige=300
