@@ -48,19 +48,10 @@
 	}
 	culture = {
 		galkari = {}
-		kqusulic = {}
 		irkallic = {}
-		azite = {}
 		siduri = {}
-		bibiric = {}
-		tazari = {}
-		beylite = {}
 		gulani = {}
-		ashyamite = {}
-		akiyan = {}
-		ninbanda = {}
 		lehsiri = {}
-		zugushan = {}
 		#new
 	}
 	

@@ -338,7 +338,7 @@
 
 495={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -641,7 +641,7 @@
 
 512={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -718,7 +718,7 @@
 
 516={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -880,7 +880,7 @@
 
 651={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0
@@ -1032,7 +1032,7 @@
 
 734={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0

@@ -514,7 +514,7 @@ country = {
 			
 			poptype_rights = {
 				{
-					culture = kqusulic 
+					culture = irkallic 
 					type = citizen
 				}
 			}
@@ -555,7 +555,7 @@ country = {
 		
 		AAT = {          
 			government = despotic_monarchy
-			primary_culture = azite
+			primary_culture = irkallic
 			religion = divineorder_pantheon
 			capital = 300
 			
@@ -591,7 +591,7 @@ country = {
 		
 		AAW = {          
 			government = despotic_monarchy
-			primary_culture = bibiric
+			primary_culture = siduri
 			religion = divineorder_pantheon
 			capital = 365
 			
@@ -609,7 +609,7 @@ country = {
 		
 		AAY = {          
 			government = despotic_monarchy
-			primary_culture = tazari
+			primary_culture = siduri
 			religion = divineorder_pantheon
 			capital = 358
 			
@@ -627,7 +627,7 @@ country = {
 		
 		AAZ = {          
 			government = despotic_monarchy
-			primary_culture = beylite
+			primary_culture = gulani
 			religion = divineorder_pantheon
 			capital = 345
 			
@@ -663,7 +663,7 @@ country = {
 		
 		ABB = {          
 			government = despotic_monarchy
-			primary_culture = ashyamite
+			primary_culture = gulani
 			religion = divineorder_pantheon
 			capital = 341
 			
@@ -681,7 +681,7 @@ country = {
 		
 		ABC = {          
 			government = despotic_monarchy
-			primary_culture = akiyan
+			primary_culture = gulani
 			religion = divineorder_pantheon
 			capital = 327
 			
@@ -699,7 +699,7 @@ country = {
 		
 		ABD = {          
 			government = despotic_monarchy
-			primary_culture = ninbanda
+			primary_culture = lehsiri
 			religion = divineorder_pantheon
 			capital = 319
 			
@@ -735,7 +735,7 @@ country = {
 		
 		ABF = {          
 			government = despotic_monarchy
-			primary_culture = zugushan
+			primary_culture = lehsiri
 			religion = divineorder_pantheon
 			capital = 297
 			

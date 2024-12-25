@@ -121,3 +121,57 @@ deity_rulerofall = {
 		add_1_free_province_investments = yes
 	}
 }
+
+deity_setesh = { 
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			country_culture_group = sagentar
+			common_deity_trigger = {
+				RELIGION = atun_pantheon
+			}
+			deity:omen_setesh = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_setesh
+	passive_modifier = { land_unit_attrition = -0.1 }
+	omen = { happiness_for_wrong_culture_group_modifier = omen_happiness_for_wrong_culture_group_modifier_svalue } #Bonus from Omen
+	religion = atun_pantheon
+	deity_category = war #This Deity uses a war slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		add_military_experience = 2
+	}
+}
+
+deity_khasut = { 
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			country_culture_group = sagentar
+			common_deity_trigger = {
+				RELIGION = atun_pantheon
+			}
+			deity:omen_khasut = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_khasut
+	passive_modifier = { monthly_corruption = deity_monthly_corruption_svalue }
+	omen = { monthly_tyranny = omen_monthly_tyranny_svalue } #Bonus from Omen
+	religion = atun_pantheon
+	deity_category = culture #This Deity uses a culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		add_1_free_province_investments = yes
+	}
+}

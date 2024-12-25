@@ -72,7 +72,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="akiyan"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -88,7 +88,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="akiyan"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -104,7 +104,7 @@
 	terrain="forest"
 	trade_goods="leather"
 	religion="divineorder_pantheon"
-	culture="akiyan"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -126,7 +126,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="akiyan"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -142,7 +142,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="akiyan"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -352,7 +352,7 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="divineorder_pantheon"
-	culture="ashyamite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -374,7 +374,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="ashyamite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -422,7 +422,7 @@
 	terrain="plains"
 	trade_goods="earthware"
 	religion="divineorder_pantheon"
-	culture="beylite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -476,7 +476,7 @@
 	terrain="plains"
 	trade_goods="leather"
 	religion="divineorder_pantheon"
-	culture="ashyamite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -492,7 +492,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="beylite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -508,7 +508,7 @@
 	terrain="plains"
 	trade_goods="leather"
 	religion="divineorder_pantheon"
-	culture="beylite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -562,7 +562,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="beylite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -578,7 +578,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="beylite"
+	culture="gulani"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="tazari"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -642,7 +642,7 @@
 	terrain="plains"
 	trade_goods="earthware"
 	religion="divineorder_pantheon"
-	culture="tazari"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -664,7 +664,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="tazari"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 
 360={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="siduri"
 	civilization_value=0
@@ -750,7 +750,7 @@
 	terrain="plains"
 	trade_goods="salt"
 	religion="divineorder_pantheon"
-	culture="bibiric"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -766,7 +766,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="bibiric"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -788,7 +788,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="divineorder_pantheon"
-	culture="bibiric"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -804,7 +804,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="bibiric"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -820,7 +820,7 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="divineorder_pantheon"
-	culture="bibiric"
+	culture="siduri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

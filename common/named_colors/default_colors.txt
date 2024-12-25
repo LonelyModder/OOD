@@ -165,6 +165,8 @@ colors = {
 	HKDilmun_color = rgb { 110 237 19 }
 	RedHorde_color = rgb { 224 0 30 }
 	DarkKingdom_color = rgb { 89 86 86 }
+	IAten_color = rgb { 237 236 187 }
+	TaSeti_color = rgb { 204 200 8 }
 	
 	
 	##metals

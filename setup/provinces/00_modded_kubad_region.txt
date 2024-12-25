@@ -152,7 +152,7 @@
 
 405={ 
 	terrain="mountain"
-	trade_goods="wild_game"
+	trade_goods="stone"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -933,7 +933,7 @@
 
 446={ 
 	terrain="hall"
-	trade_goods="wild_game"
+	trade_goods="urgaz"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -1072,7 +1072,7 @@
 
 453={ 
 	terrain="mountain"
-	trade_goods="wild_game"
+	trade_goods="urgaz"
 	religion="ancient_pantheon"
 	culture="labashi"
 	civilization_value=0
@@ -1266,7 +1266,7 @@
 
 463={ 
 	terrain="cave"
-	trade_goods="wild_game"
+	trade_goods="urgaz"
 	religion="ancient_pantheon"
 	culture="bashari"
 	civilization_value=0
@@ -1348,7 +1348,7 @@
 
 467={ 
 	terrain="cave"
-	trade_goods="wild_game"
+	trade_goods="urgaz"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0

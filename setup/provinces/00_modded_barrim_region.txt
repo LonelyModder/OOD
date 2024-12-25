@@ -561,7 +561,7 @@
 
 526={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -786,6 +786,7 @@
 	slaves={
 		amount=6
 	}
+	holy_site="omen_setesh"
 }
 
 559={ 
@@ -942,7 +943,7 @@
 
 685={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="jabari"
 	civilization_value=0
@@ -1366,7 +1367,7 @@
 
 669={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0

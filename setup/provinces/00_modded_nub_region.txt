@@ -237,7 +237,7 @@
 
 594={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -414,7 +414,7 @@
 
 648={ 
 	terrain="hills"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -433,7 +433,7 @@
 
 548={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -623,7 +623,7 @@
 
 581={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -721,7 +721,7 @@
 
 586={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -759,7 +759,7 @@
 
 588={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
@@ -794,7 +794,7 @@
 
 590={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="elephants"
 	religion="atun_pantheon"
 	culture="menzunu"
 	civilization_value=0

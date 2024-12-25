@@ -221,7 +221,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="kqusulic"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -237,7 +237,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -259,7 +259,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="divineorder_pantheon"
-	culture="kqusulic"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="farmland"
 	trade_goods="wine"
 	religion="divineorder_pantheon"
-	culture="kqusulic"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -291,7 +291,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="kqusulic"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -322,7 +322,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="kqusulic"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -425,7 +425,7 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -441,7 +441,7 @@
 	terrain="plains"
 	trade_goods="hemp"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -635,7 +635,7 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -651,7 +651,7 @@
 	terrain="plains"
 	trade_goods="leather"
 	religion="divineorder_pantheon"
-	culture="zugushan"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -667,7 +667,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="zugushan"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -683,7 +683,7 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="divineorder_pantheon"
-	culture="zugushan"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -705,7 +705,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -721,7 +721,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -737,7 +737,7 @@
 	terrain="plains"
 	trade_goods="earthware"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -775,7 +775,7 @@
 	terrain="plains"
 	trade_goods="woad"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -823,7 +823,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -855,7 +855,7 @@
 	terrain="plains"
 	trade_goods="horses"
 	religion="divineorder_pantheon"
-	culture="azite"
+	culture="irkallic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -973,7 +973,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="ninbanda"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1005,7 +1005,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="ninbanda"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1037,7 +1037,7 @@
 	terrain="forest"
 	trade_goods="fur"
 	religion="divineorder_pantheon"
-	culture="ninbanda"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1053,7 +1053,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="ninbanda"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -1075,7 +1075,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="ninbanda"
+	culture="lehsiri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

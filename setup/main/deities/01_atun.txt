@@ -16,6 +16,14 @@ deity_manager = {
 			key = omen_rulerofall
 			deity = deity_rulerofall
 		}
+		10025 = {
+			key = omen_setesh
+			deity = deity_setesh
+		}
+		10026 = {
+			key = omen_khasut
+			deity = deity_khasut
+		}
 	}
 }
 
