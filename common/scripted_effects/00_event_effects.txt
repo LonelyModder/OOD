@@ -2511,7 +2511,7 @@ add_relevant_loyal_subunit_effect = {
 		limit = {
 			exists = commander
 			commander = {
-				has_culture_group = kingiri
+				has_culture_group = kengiri
 			}
 		}
 		commander = {

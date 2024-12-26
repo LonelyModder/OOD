@@ -17,6 +17,7 @@ militarism_events.1 = {
 				OR = {
 					country_culture_group = rabisu
 					country_culture_group = gardu
+					country_culture_group = sagentar
 				}				
 			}
 			add_country_modifier = {
@@ -28,8 +29,8 @@ militarism_events.1 = {
 			limit = {
 				OR = {
 					country_culture_group = susigu
-					country_culture_group = sagentar
 					country_culture_group = ekimmu
+					country_culture_group = kengiri
 				}				
 			}
 			add_country_modifier = {
@@ -40,8 +41,7 @@ militarism_events.1 = {
 		else_if = {
 			limit = {
 				OR = {
-					country_culture_group = annunaki	
-					country_culture_group = salgari
+					country_culture_group = annunaki
 				}				
 			}
 			add_country_modifier = {
