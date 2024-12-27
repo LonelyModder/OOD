@@ -1,6 +1,6 @@
 ﻿603={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -250,7 +250,7 @@
 
 616={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -598,7 +598,7 @@
 
 693={ 
 	terrain="steppe"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="wgardu"
 	civilization_value=0
@@ -753,7 +753,7 @@
 
 750={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -829,7 +829,7 @@
 
 719={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -848,7 +848,7 @@
 
 701={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -867,7 +867,7 @@
 
 698={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1000,7 +1000,7 @@
 
 700={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1038,7 +1038,7 @@
 
 703={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1212,7 +1212,7 @@
 
 705={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1250,7 +1250,7 @@
 
 707={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1440,7 +1440,7 @@
 
 711={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1459,7 +1459,7 @@
 
 712={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0

@@ -1,6 +1,6 @@
 ﻿520={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="papyrus"
 	religion="atun_pantheon"
 	culture="nephtite"
 	civilization_value=0
@@ -139,7 +139,7 @@
 
 591={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -218,7 +218,7 @@
 
 593={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -297,7 +297,7 @@
 
 599={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="horses"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -335,7 +335,7 @@
 
 601={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="wabutu"
 	civilization_value=0
@@ -395,7 +395,7 @@
 
 647={ 
 	terrain="hills"
-	trade_goods="wild_game"
+	trade_goods="precious_metals"
 	religion="atun_pantheon"
 	culture="khasi"
 	civilization_value=0
@@ -471,7 +471,7 @@
 
 570={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -490,7 +490,7 @@
 
 571={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0
@@ -528,7 +528,7 @@
 
 573={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -645,7 +645,7 @@
 
 582={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="gesairi"
 	civilization_value=0
@@ -702,7 +702,7 @@
 
 585={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="menzunu"
 	civilization_value=0
@@ -889,7 +889,7 @@
 
 740={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="leather"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -965,7 +965,7 @@
 
 727={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
@@ -1005,7 +1005,7 @@
 
 660={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="fur"
 	religion="atun_pantheon"
 	culture="kissoru"
 	civilization_value=0

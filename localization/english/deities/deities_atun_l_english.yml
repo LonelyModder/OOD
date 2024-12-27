@@ -18,3 +18,6 @@
  deity_khasut:0 "$omen_khasut$"
  omen_khasut:1 "Khasut"
  omen_khasut_desc:4 "A diety of justice. He is a protector of those who need to travel during the night. He is traditionally portrayed as a man with a head of a volture and a cloak. Often those who got robbed of families who lost a member pray to him for justice. He knows no forgiveness for criminals."
+ deity_scorpion:0 "$omen_scorpion$"
+ omen_scorpion:1 "Scorpion"
+ omen_scorpion_desc:4 "Hero for all inhabitants of the Sahargal and a proof that humans also can create empires of their own. With the aid of the Meded tribes and inhabitants of upper Nissimu he managed to topple the rule of Shemsu-Hor(Annunaki) over the Sahargal desert. In Salgar he is worshipped like a god."

@@ -12,3 +12,6 @@
  deity_yathis:0 "$omen_yathis$"
  omen_yathis:1 "Yathis"
  omen_yathis_desc:4 "One of the few elder beings capable of assuming a humanoid form and perhaps the only one with a vested interest in the mortal plane. She usually appears as an attractive woman of oriental beauty. She has created an entire dimension in the void. She feeds on love energy. Under certain conditions, if enough followers gather, it is possible to open a gate between dimensions, although this is extremely dangerous. Those who return often bring powerful artifacts."
+ deity_demon:0 "$omen_demon$"
+ omen_demon:1 "Demon"
+ omen_demon_desc:4 "Enigmatic ancient king of the ekimmu that lead them in their journey across the stars. He is believed to be the father of the rabisu who terrorize the kingdoms of man and enukku to this day. He was supposingly immortal and coupld be reborn as long as there were living rabisu nearby thats why his folowers believe that during the lost battle at Menre he was captured and imprisoned by the Annunaki. Today even the rabisu worship him and pray for his forgiveness."

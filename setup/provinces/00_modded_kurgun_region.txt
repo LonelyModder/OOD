@@ -563,7 +563,7 @@
 
 290={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0

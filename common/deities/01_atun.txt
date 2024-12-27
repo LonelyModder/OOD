@@ -175,3 +175,27 @@ deity_khasut = {
 		add_1_free_province_investments = yes
 	}
 }
+
+deity_scorpion = {
+	trigger = {
+		country_dulture_group = salgari
+		country_dulture_group = sagentar
+	}
+	icon = deity_scorpion
+	passive_modifier = { monthly_experience_gain = deity_monthly_experience_gain_svalue }
+	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = atun_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		if = {
+			limit = { manpower_percentage < 0.8 }
+			add_manpower = 1.5
+		}
+		else = {
+			add_military_experience = 2
+		}
+	}
+}

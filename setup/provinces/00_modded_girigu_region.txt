@@ -54,7 +54,7 @@
 
 480={ 
 	terrain="farmland"
-	trade_goods="papyrus"
+	trade_goods="grain"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -532,7 +532,7 @@
 
 506={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="glass"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0

@@ -15,7 +15,7 @@ deity_thuulu = {
 		}
 	}
 	icon = deity_thuulu
-	passive_modifier = { unit_magaidh_offensive = 0.1 }
+	passive_modifier = { global_cohort_start_experience = deity_global_cohort_start_experience_svalue }
 	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
 	religion = ancient_pantheon
 	deity_category = war #This Deity uses a War slot.
@@ -103,5 +103,25 @@ deity_azath = {
 	
 	on_activate = {
 		culture_apotheosis_capital_effect = yes
+	}
+}
+
+deity_demon = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		country_culture_group = ekimmu
+		country_culture_group = rabisu
+	}
+	icon = deity_demon
+	passive_modifier = { agressive_expansion_monthly_change = deity_agressive_expansion_monthly_change_svalue }
+	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = ancient_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
 	}
 }
