@@ -11,7 +11,7 @@ anunnaki_heritage = {
 	}
 	
 	trigger = {
-		country_culture_group = anunnaki
+		country_culture_group = annunaki
 	}
 }
 
