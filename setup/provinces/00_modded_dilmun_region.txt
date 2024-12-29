@@ -793,7 +793,7 @@
 
 232={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="shedrenite"
 	civilization_value=0
@@ -853,7 +853,7 @@
 
 235={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="limestone"
 	religion="divineorder_pantheon"
 	culture="ishan"
 	civilization_value=0
@@ -1107,7 +1107,7 @@
 
 248={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="limestone"
 	religion="divineorder_pantheon"
 	culture="amaran"
 	civilization_value=0
@@ -1126,7 +1126,7 @@
 
 249={ 
 	terrain="hills"
-	trade_goods="wood"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="amaran"
 	civilization_value=0

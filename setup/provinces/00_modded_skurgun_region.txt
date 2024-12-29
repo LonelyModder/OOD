@@ -1,6 +1,6 @@
 ﻿321={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cheese"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -372,7 +372,7 @@
 
 342={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="gulani"
 	civilization_value=0

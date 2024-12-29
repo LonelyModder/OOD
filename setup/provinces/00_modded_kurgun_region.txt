@@ -320,7 +320,7 @@
 
 276={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="irkallic"
 	civilization_value=0
@@ -987,7 +987,7 @@
 
 315={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="lehsiri"
 	civilization_value=0

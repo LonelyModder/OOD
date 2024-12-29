@@ -72,6 +72,8 @@ nbw_startup.5 = { #Salgari
 
     option = {    
         name = nbw_startup.5.a
+		region:modded_nub_region = { formable_region_province_effect = yes }
+		region:modded_girigu_region = { formable_region_province_effect = yes }
     }
 }
 

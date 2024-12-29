@@ -403,12 +403,18 @@
 	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=12
+	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=2
+		amount=4
 	}
 }
 
@@ -823,7 +829,7 @@
 
 545={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0
@@ -959,11 +965,17 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	freemen={
 		amount=4
 	}
-	slaves={
+	tribesmen={
 		amount=2
+	}
+	slaves={
+		amount=1
 	}
 }
 
@@ -1130,7 +1142,7 @@
 
 745={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="atun_pantheon"
 	culture="senori"
 	civilization_value=0

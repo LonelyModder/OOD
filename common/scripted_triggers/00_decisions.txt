@@ -34,6 +34,8 @@ has_food_trade_good_trigger = {
 			trade_goods = fish
 			trade_goods = cattle
 			trade_goods = vegetables
+			trade_goods = cheese
+			trade_goods = coconut
 		}
 	}
 }
@@ -44,6 +46,8 @@ has_non_food_trade_good_trigger = {
 		trade_goods = fish
 		trade_goods = cattle
 		trade_goods = vegetables
+		trade_goods = cheese
+		trade_goods = coconut
 	}
 }
 
@@ -78,6 +82,8 @@ has_minable_trade_good_trigger = {
 			trade_goods = precious_metals
 			trade_goods = base_metals
 			trade_goods = iron
+			trade_goods = limestone
+			trade_goods = coal
 			#trade_goods = tin
 		}
 	}
@@ -90,6 +96,8 @@ has_unminable_trade_good_trigger = {
 		trade_goods = precious_metals
 		trade_goods = base_metals
 		trade_goods = iron
+		trade_goods = limestone
+		trade_goods = coal
 		#trade_goods = tin
 	}
 }

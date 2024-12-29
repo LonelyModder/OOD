@@ -22,7 +22,7 @@
 
 562={ 
 	terrain="forest"
-	trade_goods="wild_game"
+	trade_goods="coconut"
 	religion="divineorder_pantheon"
 	culture="maladhamn"
 	civilization_value=0
@@ -376,7 +376,7 @@
 
 532={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="coconut"
 	religion="atun_pantheon"
 	culture="dohali"
 	civilization_value=0
@@ -542,7 +542,7 @@
 
 525={ 
 	terrain="mountain"
-	trade_goods="wild_game"
+	trade_goods="limestone"
 	religion="atun_pantheon"
 	culture="thyleni"
 	civilization_value=0
@@ -599,7 +599,7 @@
 
 550={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="coconut"
 	religion="atun_pantheon"
 	culture="adiri"
 	civilization_value=0
@@ -867,7 +867,7 @@
 
 680={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="atun_pantheon"
 	culture="jabari"
 	civilization_value=0
@@ -1076,7 +1076,7 @@
 
 674={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="cheese"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0
@@ -1155,7 +1155,7 @@
 
 656={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="atun_pantheon"
 	culture="karza"
 	civilization_value=0

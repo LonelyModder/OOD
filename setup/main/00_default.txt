@@ -330,7 +330,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				480 482 483 477 478 479 481 484 487 488 489
+				480  
 			}
 		}
 		
@@ -356,7 +356,7 @@ country = {
 		}
 		
 		AAF = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = nubatan
 			religion = ancestors_pantheon
 			capital = 581
@@ -373,8 +373,8 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				548 549 570 574 571 575 572 573 576 660
-				582 587 583 588 584 589 585 590 644 581 586
+				571 575 572 573 576 644 581 586
+				582 587 583 588 584 589 585 590
 			}
 		}
 		
@@ -765,7 +765,7 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				486 485 490 491 492 493 494 495
+				486 485 493 494
 			}
 		}
 		
@@ -783,13 +783,13 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				496 498 497 499 501 500
+				496 497 501
 			}
 		}
 		
 		ABI = { 
 			family=4
-			government = despotic_monarchy
+			government = theocratic_republic
 			primary_culture = amsouran
 			religion = atun_pantheon
 			capital = 506
@@ -899,7 +899,7 @@ country = {
 		}
 		
 		ABR = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = fasanu
 			religion = atun_pantheon
 			capital = 591
@@ -910,18 +910,18 @@ country = {
 		}
 		
 		ABS = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = wabutu
 			religion = atun_pantheon
 			capital = 594
 			
 			own_control_core = 	{ 
-				594 593 598 599 595 600 601
+				594 593 598 599 
 			}
 		}
 		
 		ABT = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = khasi
 			religion = atun_pantheon
 			capital = 645
@@ -983,13 +983,13 @@ country = {
 		}
 		
 		ACA = {          
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = sekhenu
 			religion = atun_pantheon
 			capital = 728
 			
 			own_control_core = 	{ 
-				728 730
+				728
 			}
 		}
 		
@@ -1133,6 +1133,172 @@ country = {
 			
 			own_control_core = 	{ 
 				474 473 475 476
+			}
+		}
+		
+		ACP = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 481
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				481 484
+			}
+		}
+		
+		ACR = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 478
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				478 479 477
+			}
+		}
+		
+		ACS = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 483
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				483 482
+			}
+		}
+		
+		ACT = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 489
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				489 488
+			}
+		}
+		
+		ACU = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 487
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				487
+			}
+		}
+		
+		ACW = {          
+			government = despotic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 492
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				492 495 491 490
+			}
+		}
+		
+		ACY = {          
+			government = despotic_monarchy
+			primary_culture = amsouran
+			religion = atun_pantheon
+			capital = 498
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				498 499 500
+			}
+		}
+		
+		ACZ = {          
+			government = despotic_monarchy
+			primary_culture = amsouran
+			religion = atun_pantheon
+			capital = 662
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				662 661
+			}
+		}
+		
+		ADA = {          
+			government = tribal_kingdom
+			primary_culture = kissoru
+			religion = atun_pantheon
+			capital = 570
+			
+			own_control_core = 	{ 
+				570 574 548 549
+			}
+		}
+		
+		ADB = {          
+			government = tribal_kingdom
+			primary_culture = wabutu
+			religion = atun_pantheon
+			capital = 600
+			
+			own_control_core = 	{ 
+				600 601 595
 			}
 		}
 	}

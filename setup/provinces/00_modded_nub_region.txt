@@ -161,7 +161,7 @@
 
 592={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -180,7 +180,7 @@
 
 596={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="fasanu"
 	civilization_value=0
@@ -322,6 +322,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -477,6 +480,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -585,7 +591,7 @@
 
 576={ 
 	terrain="plains"
-	trade_goods="wild_game"
+	trade_goods="cheese"
 	religion="atun_pantheon"
 	culture="khasu"
 	civilization_value=0
@@ -838,20 +844,20 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
 	tribesmen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 729={ 
 	terrain="desert"
-	trade_goods="wild_game"
+	trade_goods="wool"
 	religion="atun_pantheon"
 	culture="sekhenu"
 	civilization_value=0
