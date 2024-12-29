@@ -20,6 +20,76 @@ texticon = {
     }
 }
 
+texticon = {
+    icon = cheese
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/cheese.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = limestone
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/limestone.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = wasabi
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/wasabi.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = wool
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/wool.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = coal
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/coal.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = coconut
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/coconut.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
+texticon = {
+    icon = tea
+    iconsize = {
+        texture = "gfx/interface/icons/tradegoods/tea.dds"
+        size = { 25 25 }
+        offset = { 0 6 }
+        fontsize = 16
+    }
+}
+
 #Units
 
 texticon = {

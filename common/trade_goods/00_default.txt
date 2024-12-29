@@ -550,3 +550,110 @@ dates = { #60 Territories
 	
 	color = { 0.18 0.01 0.24 }
 }
+
+#From ES
+
+cheese = { #Added
+	category = 1
+	
+	gold = 0.2
+	
+	province = {
+		local_monthly_food_modifier = 0.03
+	}
+	country = {
+		global_freemen_happyness = happiness_large_svalue
+	}
+
+	color = rgb { 237 205 26 } #hsv { 0.14 0.56 0.86 }
+}
+
+limestone = { #282 territories
+	category = 5
+	
+	gold = 0.35
+	
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		build_cost = -0.05
+	}
+	
+	color = hsv { 0.01 0.06 0.61 }
+}
+
+wasabi = { #23 territories
+	category = 5
+	
+	gold = 0.5
+	
+	province = {
+		local_citizen_happyness = happiness_small_svalue
+	}
+	country = {
+		global_nobles_output = output_small_svalue
+	}
+	
+	color = rgb { 124 207 76 }
+}
+
+wool = { #338 territories
+	category = 4
+
+	gold = 0.2
+
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		local_freemen_happyness = happiness_large_svalue
+	}
+	
+	color = rgb { 158 167 181 }
+}
+
+coal = { #338 territories
+	category = 4
+
+	gold = 0.4
+
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		discipline = 0.05
+	}
+	
+	color = rgb { 48 45 45 }
+}
+
+coconut = { #86 territories
+	category = 3
+
+	gold = 0.3
+
+	province = {
+		local_monthly_food_modifier = 0.03
+	}
+	country = {
+		global_citizen_happyness = happiness_large_svalue
+	}
+	
+	color = rgb { 140 70 15 }
+}
+
+tea = { #60 Territories
+	category = 4
+
+	gold = 0.3
+
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		global_commerce_modifier = 0.05
+	}
+	
+	color = rgb { 166 77 33 }
+}
