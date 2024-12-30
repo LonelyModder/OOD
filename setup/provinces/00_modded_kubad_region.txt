@@ -1031,7 +1031,7 @@
 }
 
 451={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="coal"
 	religion="ancient_pantheon"
 	culture="rkubadi"
@@ -1050,7 +1050,7 @@
 }
 
 452={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="gems"
 	religion="ancient_pantheon"
 	culture="labashi"
@@ -1072,7 +1072,7 @@
 }
 
 453={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="urgaz"
 	religion="ancient_pantheon"
 	culture="labashi"
@@ -1091,7 +1091,7 @@
 }
 
 454={ 
-	terrain="mountain"
+	terrain="hall"
 	trade_goods="precious_metals"
 	religion="ancient_pantheon"
 	culture="rkubadi"

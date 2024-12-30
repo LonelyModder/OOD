@@ -1008,7 +1008,7 @@ entity = {
 		start_event = { node = Left_hand_node_1 entity = "Dunydurceg_shield_02_entity" }
     }
 	
-    attach = { Character1_Head = "Dunydurceg_helmet_02_entity" }
+    attach = { Character1_Head = "Dunydurceg_helmet_02_entity" } #Dunydurceg_helmet_02_entity
 }
 
 entity = {
@@ -1335,7 +1335,7 @@ entity = {
 		start_event = { node = Left_hand_node_1 entity = "Dunydurceg_shield_03_entity" }
     }
 	
-    attach = { Character1_Head = "Dunydurceg_helmet_03_entity" }
+    attach = { Character1_Head = "Dunydurceg_helmet_02_entity" } #Dunydurceg_helmet_03_entity
 }
 
 # Spear unit
@@ -1627,7 +1627,7 @@ entity = {
 		start_event = { node = Left_hand_node_1 entity = "Dunydurceg_shield_03_entity" }
     }
 	
-    attach = { Character1_Head = "Dunydurceg_helmet_04_entity" }
+    attach = { Character1_Head = "Dunydurceg_helmet_02_entity" } #Dunydurceg_helmet_04_entity
 }
 
 ##############
