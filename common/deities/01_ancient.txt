@@ -67,7 +67,7 @@ deity_yathis = {
 		}
 	}
 	icon = deity_yathis
-	passive_modifier = { happyness_for_wrong_culture_group_modifier = deity_happiness_for_wrong_culture_group_modifier_svalue }
+	passive_modifier = { happiness_for_wrong_culture_group_modifier = deity_happiness_for_wrong_culture_group_modifier_svalue }
 	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
 	religion = ancient_pantheon
 	deity_category = fertility #This Deity uses a fertility slot.
