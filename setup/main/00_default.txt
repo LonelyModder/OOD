@@ -402,7 +402,7 @@ country = {
 		
 		AAI = {          
 			government = tribal_chiefdom
-			primary_culture = bashari
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 463
 			
@@ -544,7 +544,7 @@ country = {
 		
 		AAS = {          
 			government = tribal_kingdom
-			primary_culture = uttu
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 369
 			
@@ -1050,7 +1050,7 @@ country = {
 		
 		ACG = {          
 			government = tribal_chiefdom
-			primary_culture = zuthu
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 448
 			
@@ -1061,7 +1061,7 @@ country = {
 		
 		ACO = {          
 			government = tribal_chiefdom
-			primary_culture = labashi
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 452
 			
@@ -1072,7 +1072,7 @@ country = {
 		
 		ACI = {          
 			government = tribal_chiefdom
-			primary_culture = hunzu
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 466
 			
@@ -1083,7 +1083,7 @@ country = {
 		
 		ACJ = {          
 			government = tribal_chiefdom
-			primary_culture = tattannu
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 458
 			
@@ -1094,7 +1094,7 @@ country = {
 		
 		ACK = {          
 			government = tribal_chiefdom
-			primary_culture = gemeti
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 469
 			
@@ -1105,7 +1105,7 @@ country = {
 		
 		ACL = {          
 			government = tribal_chiefdom
-			primary_culture = zakiri
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 445
 			
@@ -1116,7 +1116,7 @@ country = {
 		
 		ACM = {          
 			government = tribal_kingdom
-			primary_culture = amatu
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 472
 			
@@ -1127,7 +1127,7 @@ country = {
 		
 		ACN = {          
 			government = tribal_kingdom
-			primary_culture = radjni
+			primary_culture = rkubadi
 			religion = ancient_pantheon
 			capital = 474
 			

@@ -836,7 +836,7 @@
 	terrain="plains"
 	trade_goods="olive"
 	religion="ancient_pantheon"
-	culture="uttu"
+	culture="rkubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -858,7 +858,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="ancient_pantheon"
-	culture="uttu"
+	culture="rkubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -877,7 +877,7 @@
 	terrain="plains"
 	trade_goods="amber"
 	religion="ancient_pantheon"
-	culture="radjni"
+	culture="rkubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -896,7 +896,7 @@
 	terrain="plains"
 	trade_goods="wild_game"
 	religion="ancient_pantheon"
-	culture="radjni"
+	culture="rkubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -918,7 +918,7 @@
 	terrain="plains"
 	trade_goods="fish"
 	religion="ancient_pantheon"
-	culture="radjni"
+	culture="rkubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -937,7 +937,7 @@
 	terrain="plains"
 	trade_goods="cattle"
 	religion="ancient_pantheon"
-	culture="radjni"
+	culture="rkubadi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

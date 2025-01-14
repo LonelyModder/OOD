@@ -30,16 +30,6 @@
 	culture = {
 		clanless = {}
 		rkubadi = {}
-		bashari = {}
-		zuthu = {}
-		labashi = {}
-		hunzu = {}
-		tattannu = {}
-		gemeti = {}
-		zakiri = {}
-		amatu = {}
-		uttu = {}
-		radjni = {}
 	}
 	
 	barbarian_names = { 
