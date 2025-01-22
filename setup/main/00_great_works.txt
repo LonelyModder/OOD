@@ -1,19 +1,7 @@
 provinces = {
-	485 = { # Black Pyramid
-		great_work=1
-	}
-	236 = { # Bleeding Tree
-		great_work=2
-	}
-	184 = { # Outer Gate
-		great_work=3
-	}
-	504 = { # Gates of Sand
-		great_work=4
-	}
-	260 = { # Lumma's Gardens
-		great_work=5
-	}
+	#485 = { # Black Pyramid
+	#	great_work=1
+	#}
 }
 
 great_work_manager={	
