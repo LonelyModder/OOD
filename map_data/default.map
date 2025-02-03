@@ -11,7 +11,7 @@ climate = "climate.txt"
 
 #Seazones, list:
 sea_zones = RANGE { 4 9 }
-sea_zones = RANGE { 11 30 }
+sea_zones = RANGE { 11 80 }
 impassable_terrain = LIST {  }  
 wasteland = LIST { 1 2 3 }
 lakes = LIST {  }
