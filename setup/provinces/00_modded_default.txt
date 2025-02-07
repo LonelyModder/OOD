@@ -41,7 +41,7 @@
 }
 
 5={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -51,7 +51,7 @@
 }
 
 6={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -61,7 +61,7 @@
 }
 
 7={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -71,7 +71,7 @@
 }
 
 8={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -91,7 +91,7 @@
 }
 
 11={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 20={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -211,7 +211,7 @@
 }
 
 23={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -221,7 +221,7 @@
 }
 
 24={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -231,7 +231,7 @@
 }
 
 25={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -271,7 +271,7 @@
 }
 
 29={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -281,7 +281,7 @@
 }
 
 30={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 46={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -461,7 +461,7 @@
 }
 
 48={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -471,7 +471,7 @@
 }
 
 49={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -481,7 +481,7 @@
 }
 
 50={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -491,7 +491,7 @@
 }
 
 51={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -501,7 +501,7 @@
 }
 
 52={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -511,7 +511,7 @@
 }
 
 53={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -521,7 +521,7 @@
 }
 
 54={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -531,7 +531,7 @@
 }
 
 55={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -541,7 +541,7 @@
 }
 
 56={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -551,7 +551,7 @@
 }
 
 57={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -561,7 +561,7 @@
 }
 
 58={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 59={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -581,7 +581,7 @@
 }
 
 60={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -591,7 +591,7 @@
 }
 
 61={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -601,7 +601,7 @@
 }
 
 62={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -611,7 +611,7 @@
 }
 
 63={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -621,7 +621,7 @@
 }
 
 64={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -631,7 +631,7 @@
 }
 
 65={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -641,7 +641,7 @@
 }
 
 66={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -651,7 +651,7 @@
 }
 
 67={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -661,7 +661,7 @@
 }
 
 68={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -671,7 +671,7 @@
 }
 
 69={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -681,7 +681,7 @@
 }
 
 70={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -691,7 +691,7 @@
 }
 
 71={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -701,7 +701,7 @@
 }
 
 72={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -711,7 +711,7 @@
 }
 
 73={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -721,7 +721,7 @@
 }
 
 74={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -731,7 +731,7 @@
 }
 
 75={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -741,7 +741,7 @@
 }
 
 76={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -861,7 +861,7 @@
 }
 
 88={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1061,7 +1061,7 @@
 }
 
 108={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1251,7 +1251,7 @@
 }
 
 127={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1261,7 +1261,7 @@
 }
 
 128={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1421,7 +1421,7 @@
 }
 
 144={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1431,7 +1431,7 @@
 }
 
 145={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1441,7 +1441,7 @@
 }
 
 146={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1451,7 +1451,7 @@
 }
 
 147={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1461,7 +1461,7 @@
 }
 
 148={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1471,7 +1471,7 @@
 }
 
 149={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1481,7 +1481,7 @@
 }
 
 150={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1491,7 +1491,7 @@
 }
 
 151={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1501,7 +1501,7 @@
 }
 
 152={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1511,7 +1511,7 @@
 }
 
 153={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1521,7 +1521,7 @@
 }
 
 154={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1531,7 +1531,7 @@
 }
 
 155={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1541,7 +1541,7 @@
 }
 
 156={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1551,7 +1551,7 @@
 }
 
 157={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1561,7 +1561,7 @@
 }
 
 158={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1571,7 +1571,7 @@
 }
 
 159={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1581,7 +1581,7 @@
 }
 
 160={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1591,7 +1591,7 @@
 }
 
 161={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1601,7 +1601,7 @@
 }
 
 162={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1611,7 +1611,7 @@
 }
 
 163={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1621,7 +1621,7 @@
 }
 
 164={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1631,7 +1631,7 @@
 }
 
 165={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1641,7 +1641,7 @@
 }
 
 166={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1651,7 +1651,7 @@
 }
 
 167={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1661,7 +1661,7 @@
 }
 
 168={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1671,7 +1671,7 @@
 }
 
 169={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1681,7 +1681,7 @@
 }
 
 170={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1691,7 +1691,7 @@
 }
 
 171={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1701,7 +1701,7 @@
 }
 
 172={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1711,7 +1711,7 @@
 }
 
 173={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1721,7 +1721,7 @@
 }
 
 174={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1731,7 +1731,7 @@
 }
 
 175={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1741,7 +1741,7 @@
 }
 
 176={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1751,7 +1751,7 @@
 }
 
 177={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1761,7 +1761,7 @@
 }
 
 178={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1771,7 +1771,7 @@
 }
 
 179={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1781,7 +1781,7 @@
 }
 
 180={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1791,7 +1791,7 @@
 }
 
 181={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1801,7 +1801,7 @@
 }
 
 182={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1811,7 +1811,7 @@
 }
 
 183={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1821,7 +1821,7 @@
 }
 
 184={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1831,7 +1831,7 @@
 }
 
 185={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1841,7 +1841,7 @@
 }
 
 186={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1851,7 +1851,7 @@
 }
 
 187={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1861,7 +1861,7 @@
 }
 
 188={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1871,7 +1871,7 @@
 }
 
 189={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1881,7 +1881,7 @@
 }
 
 190={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1891,7 +1891,7 @@
 }
 
 191={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1901,7 +1901,7 @@
 }
 
 192={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1911,7 +1911,7 @@
 }
 
 193={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1921,7 +1921,7 @@
 }
 
 194={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1931,7 +1931,7 @@
 }
 
 195={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1941,7 +1941,7 @@
 }
 
 196={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1951,7 +1951,7 @@
 }
 
 197={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1961,7 +1961,7 @@
 }
 
 198={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1971,7 +1971,7 @@
 }
 
 199={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1981,7 +1981,7 @@
 }
 
 200={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1991,7 +1991,7 @@
 }
 
 201={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2001,7 +2001,7 @@
 }
 
 202={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2011,7 +2011,7 @@
 }
 
 203={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2021,7 +2021,7 @@
 }
 
 204={ #Sailable
-	terrain="riverrine_terrain"
+	terrain="riverine_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
