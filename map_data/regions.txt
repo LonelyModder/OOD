@@ -20,3 +20,9 @@ modded_dilmun_region = {
 		dilmun5_area
 	}
 }
+
+modded_galkar_region = {
+	areas = {
+		
+	}
+}

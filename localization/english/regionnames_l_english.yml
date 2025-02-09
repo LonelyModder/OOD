@@ -2,6 +2,7 @@
  #Regions
  modded_tmp_region:0 "temporary"
  modded_dilmun_region:0 "Dilmun"
+ modded_galkar_region:0 "Galkar"
  #Areas
  tmp_area:0 "temporary"
  dilmun1_area:0 "?"
