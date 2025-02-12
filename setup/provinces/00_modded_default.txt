@@ -30,6 +30,16 @@
 	province_rank=""
 }
 
+406={ #Next Update
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
 4={ #Sailable
 	terrain="ocean"
 	culture=""
@@ -2044,6 +2054,256 @@
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+401={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+402={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+403={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+404={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+407={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+411={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+412={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+413={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+414={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+415={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+416={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+417={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+418={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+419={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+420={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+421={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+422={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+423={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+424={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+425={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+426={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+427={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+428={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+429={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+430={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

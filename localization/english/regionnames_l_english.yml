@@ -2,7 +2,8 @@
  #Regions
  modded_tmp_region:0 "temporary"
  modded_dilmun_region:0 "Dilmun"
- modded_galkar_region:0 "Galkar"
+ modded_galkar_region:0 "South Galkar"
+ modded_ngalkar_region:0 "North Galkar"
  #Areas
  tmp_area:0 "temporary"
  dilmun1_area:0 "?"
@@ -10,3 +11,9 @@
  dilmun3_area:0 "?"
  dilmun4_area:0 "?"
  dilmun5_area:0 "?"
+ galkar1_area:0 "?"
+ galkar2_area:0 "?"
+ galkar3_area:0 "?"
+ galkar4_area:0 "?"
+ galkar5_area:0 "?"
+ galkar6_area:0 "?"

@@ -23,6 +23,16 @@ modded_dilmun_region = {
 
 modded_galkar_region = {
 	areas = {
-		
+		galkar1_area
+		galkar2_area
+		galkar3_area
+		galkar4_area
+		galkar5_area
+	}
+}
+
+modded_ngalkar_region = {
+	areas = {
+		galkar6_area
 	}
 }
