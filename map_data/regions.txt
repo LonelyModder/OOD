@@ -28,11 +28,30 @@ modded_galkar_region = {
 		galkar3_area
 		galkar4_area
 		galkar5_area
+		galkar7_area
+		galkar8_area
+		galkar9_area
 	}
 }
 
 modded_ngalkar_region = {
 	areas = {
 		galkar6_area
+		galkar10_area
+		galkar11_area
+		galkar12_area
+		galkar13_area
+		galkar14_area
+		galkar15_area
+	}
+}
+
+modded_rngalkar_region = {
+	areas = {
+		galkar16_area
+		galkar17_area
+		galkar18_area
+		galkar19_area
+		galkar20_area
 	}
 }
