@@ -1,12 +1,20 @@
 ﻿l_english:
  #Regions
  modded_tmp_region:0 "temporary"
+ modded_sea_region:0 ""
  modded_dilmun_region:0 "Dilmun"
  modded_galkar_region:0 "East Galkar"
  modded_ngalkar_region:0 "Cantral Galkar"
  modded_rngalkar_region:0 "West Galkar"
+ modded_sahu_region:0 "Western Sahu"
  #Areas
  tmp_area:0 "temporary"
+ sahu1_area:0 "?"
+ sahu2_area:0 "?"
+ sahu3_area:0 "?"
+ sahu4_area:0 "?"
+ sahu5_area:0 "?"
+ sahu6_area:0 "?"
  dilmun1_area:0 "?"
  dilmun2_area:0 "?"
  dilmun3_area:0 "?"

@@ -2369,3 +2369,53 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+541={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+542={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+543={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+544={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+545={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}

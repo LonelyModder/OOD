@@ -11,6 +11,17 @@ modded_tmp_region = {
 	}
 }
 
+modded_sahu_region = {
+	areas = {
+		sahu1_area
+		sahu2_area
+		sahu3_area
+		sahu4_area
+		sahu5_area
+		sahu6_area
+	}
+}
+
 modded_dilmun_region = {
 	areas = {
 		dilmun1_area

@@ -15,7 +15,31 @@ sea_area = {
 
 
 tmp_area = { 
-    provinces = {  }    
+    provinces = {  }   
+}
+
+sahu1_area = { 
+    provinces = { 529 530 531 532 533 534 535 536 537 538 }
+}
+
+sahu2_area = { 
+    provinces = { 523 528 539 527 526 525 524 522 521 519 540 516 }
+}
+
+sahu3_area = { 
+    provinces = { 510 520 518 517 515 514 512 513 509 511 508 507 }
+}
+
+sahu4_area = { 
+    provinces = { 504 503 502 501 500 499 490 480 479 505 506 }
+}
+
+sahu5_area = { 
+    provinces = { 476 481 478 482 483 484 489 485 486 477 }
+}
+
+sahu6_area = { 
+    provinces = { 487 488 492 493 494 495 496 497 498 491 }
 }
 
 galkar1_area = { 
