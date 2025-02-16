@@ -11,6 +11,27 @@ modded_tmp_region = {
 	}
 }
 
+modded_taseti_region = {
+	areas = {
+		sahargal5_area
+		sahargal6_area
+		sahargal7_area
+		sahargal8_area
+		sahargal9_area
+		sahargal10_area
+		sahargal11_area
+	}
+}
+
+modded_salgar_region = {
+	areas = {
+		sahargal1_area
+		sahargal2_area
+		sahargal3_area
+		sahargal4_area
+	}
+}
+
 modded_sahu_region = {
 	areas = {
 		sahu1_area
