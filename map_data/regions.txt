@@ -29,6 +29,7 @@ modded_salgar_region = {
 		sahargal2_area
 		sahargal3_area
 		sahargal4_area
+		galkar7_area
 	}
 }
 
@@ -60,7 +61,6 @@ modded_galkar_region = {
 		galkar3_area
 		galkar4_area
 		galkar5_area
-		galkar7_area
 		galkar8_area
 		galkar9_area
 	}
