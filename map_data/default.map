@@ -15,7 +15,7 @@ sea_zones = RANGE { 11 143 }
 river_provinces = RANGE { 144 204 }
 river_provinces = RANGE { 411 430 }
 impassable_terrain = LIST { 245 400 401 402 403 404 462 463 464 465 466 475 407 541 542 
-							543 544 545 671 672 673 674 675 676 677 }  
+							543 544 545 671 672 673 674 675 676 677 701 734 735 }  
 wasteland = LIST { 1 2 3 406 }
 lakes = LIST {  }
 
