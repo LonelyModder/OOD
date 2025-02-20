@@ -14,6 +14,11 @@ modded_tmp_region = {
 modded_numun_region = {
 	areas = {
 		sahargal20_area
+		sahargal21_area
+		sahargal22_area
+		sahargal23_area
+		sahargal24_area
+		sahargal25_area
 	}
 }
 
