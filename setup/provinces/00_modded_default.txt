@@ -2539,3 +2539,13 @@
 	barbarian_power=0
 	province_rank=""
 }
+
+835={ #Mountain Chain
+	terrain="impassable_terrain"
+	culture="clanless"
+	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}

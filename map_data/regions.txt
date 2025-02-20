@@ -11,6 +11,24 @@ modded_tmp_region = {
 	}
 }
 
+modded_numun_region = {
+	areas = {
+		sahargal20_area
+	}
+}
+
+modded_barrim_region = {
+	areas = {
+		sahargal13_area
+		sahargal14_area
+		sahargal15_area
+		sahargal16_area
+		sahargal17_area
+		sahargal18_area
+		sahargal19_area
+	}
+}
+
 modded_taseti_region = {
 	areas = {
 		sahargal5_area
@@ -30,6 +48,7 @@ modded_salgar_region = {
 		sahargal3_area
 		sahargal4_area
 		galkar7_area
+		sahargal12_area
 	}
 }
 
