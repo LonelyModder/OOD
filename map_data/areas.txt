@@ -15,7 +15,7 @@ sea_area = {
 
 
 tmp_area = { 
-    provinces = {  }   
+    provinces = { 836 837 838 840 841 842 843 844 845 846 847 848 }   
 }
 
 sahargal25_area = { 
