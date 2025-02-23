@@ -31,6 +31,8 @@ modded_barrim_region = {
 		sahargal17_area
 		sahargal18_area
 		sahargal19_area
+		sahargal27_area
+		sahargal28_area
 	}
 }
 
@@ -43,6 +45,7 @@ modded_taseti_region = {
 		sahargal9_area
 		sahargal10_area
 		sahargal11_area
+		sahargal26_area
 	}
 }
 

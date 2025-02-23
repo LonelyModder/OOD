@@ -15,8 +15,31 @@ sea_area = {
 
 
 tmp_area = { 
-    provinces = { 836 837 838 840 841 842 843 844 845 846 847 848 
-				  849 }   
+    provinces = {  }   
+}
+
+sahargal28_area = { 
+    provinces = { 836 837 849 807 808 830 806 802 803 }
+}
+
+sahargal19_area = { 
+    provinces = { 791 804 801 833 805 668 766 844 845 843 }
+}
+
+sahargal27_area = { 
+    provinces = { 827 831 828 832 840 839 838 }
+}
+
+sahargal8_area = { 
+    provinces = { 618 621 622 631 632 633 634 665 664 635 623 }
+}
+
+sahargal26_area = { 
+    provinces = { 850 851 852 853 854 855 856 857 858 666 }
+}
+
+sahargal18_area = { 
+    provinces = { 670 810 811 812 813 814 829 842 841 815 }
 }
 
 sahargal25_area = { 
@@ -43,16 +66,8 @@ sahargal20_area = {
     provinces = { 736 737 738 739 740 741 742 }
 }
 
-sahargal19_area = { 
-    provinces = { 791 804 803 802 801 806 833 807 808 830 }
-}
-
-sahargal18_area = { 
-    provinces = { 670 810 811 812 813 814 832 831 829 828 827 }
-}
-
 sahargal17_area = { 
-    provinces = { 790 669 667 668 821 822 823 824 825 826 805 766 }
+    provinces = { 790 669 667 821 822 824 825 846 847 848 769 789 }
 }
 
 sahargal16_area = { 
@@ -60,7 +75,7 @@ sahargal16_area = {
 }
 
 sahargal15_area = { 
-    provinces = { 771 772 773 815 800 816 817 818 819 820 789 834 }
+    provinces = { 771 772 773 800 816 817 818 819 820 834 823 826 }
 }
 
 sahargal14_area = { 
@@ -68,7 +83,7 @@ sahargal14_area = {
 }
 
 sahargal13_area = { 
-    provinces = { 694 695 696 697 698 699 700 702 703 768 769 770 }
+    provinces = { 694 695 696 697 698 699 700 702 703 768 770 }
 }
 
 sahargal12_area = { 
@@ -84,12 +99,9 @@ sahargal10_area = {
 }
 
 sahargal9_area = { 
-    provinces = { 623 626 624 625 635 636 637 638 680 678 679 681 }
+    provinces = { 626 624 625 636 637 638 680 678 679 681 }
 }
 
-sahargal8_area = { 
-    provinces = { 618 621 622 631 632 633 634 665 664 666 }
-}
 
 sahargal7_area = { 
     provinces = { 611 612 613 614 615 627 629 630 628 616 620 617 }
