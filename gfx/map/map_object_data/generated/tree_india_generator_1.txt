@@ -14,9 +14,8 @@ object={
 	generated_content=yes
 	layer="tree_layer"
 	pdxmesh="tree_india_02_mesh"
-	count=1
-	transform="1801.107056 0.000000 1232.190674 0.000000 0.975687 0.000000 -0.219167 0.787670 0.787670 0.787670
-"}
+	count=0
+}
 object={
 	name="tree_india_generator_1_2"
 	clamp_to_water_level=no
