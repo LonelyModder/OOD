@@ -61,16 +61,16 @@ family={
 		#Numbers do not have to appear in numerical order but do have to be unique:
 		#Current first free ID is 90.
 		#Roman Families on Start:
+		1={
+			key="Urur"
+			owner=AAE
+			culture = galkari
+			prestige=300
+		}
 		#1={
 		#	key="Grey-Scorpions"
 		#	owner=ABK
 		#	culture = amsouran
-		#	prestige=300
-		#}
-		#2={
-		#	key="Urur"
-		#	owner=AAE
-		#	culture = galkari
 		#	prestige=300
 		#}
 		#3={
@@ -117,15 +117,26 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	
 	#Buildings
-	#331 = { 
-	#		port_building = 2
-	#		fortress_building = 1 
-	#	  }
+	10 = { port_building = 2  }
+	305 = { port_building = 1  }
 	#Passes
-	#233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	234 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	382 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	327 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	289 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	288 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	# Barbarian Spawn Spots
 	########################################
-	#395 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	462 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	475 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	463 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	464 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	465 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	545 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	544 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	787 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	788 = { modifier = { modifier = generic_barbarian_spawn_place } }
 }
 
 road_network = {
@@ -140,25 +151,44 @@ country = {
 		BAR = {
 			government = tribal_kingdom
 		}
-		##Dilmun
-		#AAA = {          
-		#	government = theocratic_monarchy
-		#	primary_culture = annuni
-		#	religion = divineorder_pantheon
-		#	capital = 184
-		#	
-		#	technology={
-		#		military_tech={ level=3 progress=0 }
-		#		civic_tech={ level=3 progress=0 }
-		#		oratory_tech={ level=3 progress=0 }
-		#		religious_tech= { level=3 progress=0  }
-		#	}
-		#	
-		#	own_control_core = 	{ 
-		#		184 192 193 194 195 198 197 199 
-		#		200 196 203 201 195 209 221
-		#	}
-		#}
+		#Dilmun
+		AAA = {          
+			government = theocratic_monarchy
+			primary_culture = annuni
+			religion = divineorder_pantheon
+			capital = 184
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				10
+			}
+		}
+		
+		#Galkar
+		AAE = {   
+			family=1
+			government = aristocratic_monarchy
+			primary_culture = galkari
+			religion = divineorder_pantheon
+			capital = 305
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				305
+			}
+		}
 	}
 }
 

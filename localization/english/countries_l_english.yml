@@ -821,8 +821,10 @@
  TANI:0 "Tania"
  TANI_ADJ:0 "Tanian"
  #Modded Countries
- AAA:0 "Additional"
- AAA_ADJ:0 "Additional"
+ AAA:0 "Dilmun"
+ AAA_ADJ:0 "Dilmun"
+ AAE:0 "Galkar"
+ AAE_ADJ:0 "Galkar"
  #Modded Formables
  HKSalgar_name:0 "Kingdom of Salgar"
  HKSalgar_adj:0 "Salgari"
