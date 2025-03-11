@@ -1,0 +1,24 @@
+﻿"ABK"={
+	country="ABK"
+	0={
+		first_name="Atenmesse"
+		family = c:ABK.fam:Grey-Scorpions
+		birth_date=2100.10.6
+		culture="amsouran"
+		religion="atun_pantheon"
+		no_stats=yes
+		add_martial=10
+		add_charisma=7
+		add_finesse=6
+		add_zeal=9
+		no_traits=yes
+		add_trait="human"
+		add_trait="bloodofscorpion"
+		add_gold=500
+		add_popularity=100
+		c:ABK={
+			set_as_ruler=char:0
+		}
+		#dna=""
+	}
+}

@@ -1,5 +1,5 @@
 ﻿476={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -18,7 +18,7 @@
 }
 
 477={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -37,7 +37,7 @@
 }
 
 478={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -56,7 +56,7 @@
 }
 
 479={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -75,7 +75,7 @@
 }
 
 480={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -94,7 +94,7 @@
 }
 
 481={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -113,7 +113,7 @@
 }
 
 482={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -132,7 +132,7 @@
 }
 
 483={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -151,7 +151,7 @@
 }
 
 484={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -170,7 +170,7 @@
 }
 
 485={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -189,7 +189,7 @@
 }
 
 486={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -208,7 +208,7 @@
 }
 
 487={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -227,7 +227,7 @@
 }
 
 488={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -246,7 +246,7 @@
 }
 
 489={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -265,7 +265,7 @@
 }
 
 490={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -284,7 +284,7 @@
 }
 
 491={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -303,7 +303,7 @@
 }
 
 492={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -322,7 +322,7 @@
 }
 
 493={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -341,7 +341,7 @@
 }
 
 494={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -360,7 +360,7 @@
 }
 
 495={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -379,7 +379,7 @@
 }
 
 496={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -398,7 +398,7 @@
 }
 
 497={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -417,7 +417,7 @@
 }
 
 498={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -436,7 +436,7 @@
 }
 
 499={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -455,7 +455,7 @@
 }
 
 500={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -474,7 +474,7 @@
 }
 
 501={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -493,7 +493,7 @@
 }
 
 502={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -512,7 +512,7 @@
 }
 
 503={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -531,7 +531,7 @@
 }
 
 504={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -550,7 +550,7 @@
 }
 
 505={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -569,7 +569,7 @@
 }
 
 506={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -588,7 +588,7 @@
 }
 
 507={ 
-	terrain="plains"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -607,7 +607,7 @@
 }
 
 508={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -626,7 +626,7 @@
 }
 
 509={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -645,7 +645,7 @@
 }
 
 510={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -664,7 +664,7 @@
 }
 
 511={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -683,7 +683,7 @@
 }
 
 512={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -702,7 +702,7 @@
 }
 
 513={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -721,7 +721,7 @@
 }
 
 514={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -740,7 +740,7 @@
 }
 
 515={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -759,7 +759,7 @@
 }
 
 516={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -778,7 +778,7 @@
 }
 
 517={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -797,7 +797,7 @@
 }
 
 518={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -816,7 +816,7 @@
 }
 
 519={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -835,7 +835,7 @@
 }
 
 520={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -854,7 +854,7 @@
 }
 
 521={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -873,7 +873,7 @@
 }
 
 522={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -892,7 +892,7 @@
 }
 
 523={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -911,7 +911,7 @@
 }
 
 524={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -930,7 +930,7 @@
 }
 
 525={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -949,7 +949,7 @@
 }
 
 526={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -968,7 +968,7 @@
 }
 
 527={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -987,7 +987,7 @@
 }
 
 528={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1006,7 +1006,7 @@
 }
 
 529={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1025,7 +1025,7 @@
 }
 
 530={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1044,7 +1044,7 @@
 }
 
 531={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1063,7 +1063,7 @@
 }
 
 532={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1082,7 +1082,7 @@
 }
 
 533={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1101,7 +1101,7 @@
 }
 
 534={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1120,7 +1120,7 @@
 }
 
 535={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1139,7 +1139,7 @@
 }
 
 536={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1158,7 +1158,7 @@
 }
 
 537={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1177,7 +1177,7 @@
 }
 
 538={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1196,7 +1196,7 @@
 }
 
 539={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -1215,7 +1215,7 @@
 }
 
 540={ 
-	terrain="plains"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
