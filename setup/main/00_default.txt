@@ -73,16 +73,16 @@ family={
 		#	culture = amsouran
 		#	prestige=300
 		#}
-		#3={
-		#	key="Attaniya"
-		#	owner=AAJ
-		#	culture = skurgunic
-		#	prestige=300
-		#}
 		#4={
 		#	key="Black-Scorpions"
 		#	owner=ABI
 		#	culture = amsouran
+		#	prestige=300
+		#}
+		#3={
+		#	key="Attaniya"
+		#	owner=AAJ
+		#	culture = skurgunic
 		#	prestige=300
 		#}
 		

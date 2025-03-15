@@ -10,12 +10,16 @@ is_steppe = {
 	local_tribesmen_desired_pop_ratio = 0.05
 }
 
+is_savanna = {
+	local_tribesmen_desired_pop_ratio = 0.05
+}
+
 is_cave = {
 	local_tribesmen_desired_pop_ratio = 0.05
 }
 
 is_hall = {
-	local_freemen_desired_pop_ratio = 0.05
+	local_citizen_desired_pop_ratio = 0.04
 }
 
 #invasions?
