@@ -1,5 +1,5 @@
 ﻿476={ 
-	terrain="steppe"
+	terrain="forest"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"
@@ -37,7 +37,7 @@
 }
 
 478={ 
-	terrain="forest"
+	terrain="steppe"
 	trade_goods="spices"
 	religion="slavic_pantheon"
 	culture="wvenedi"

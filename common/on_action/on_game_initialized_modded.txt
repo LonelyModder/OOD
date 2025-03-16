@@ -62,8 +62,9 @@ on_game_initialized = {
 		nbw_startup.8
 		nbw_startup.9
 		#Bloodlines
-		bloodlines_startup.1  #Blood of Scorpion
-		bloodlines_startup.2  #Blood of Urur
+		bloodlines_startup.1 #Blood of Scorpion
+		bloodlines_startup.2 #Blood of Urur
+		bloodlines_startup.3 #Blood of Anitta
 		#Militarism level mechanic
 		militarism_events.1
 	}

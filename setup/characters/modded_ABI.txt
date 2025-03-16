@@ -4,7 +4,7 @@
 		first_name="Atenemhat"
 		family = c:ABI.fam:Black-Scorpions
 		birth_date=2100.10.6
-		culture="amsouran"
+		culture="menran"
 		religion="atun_pantheon"
 		no_stats=yes
 		add_martial=7

@@ -67,19 +67,19 @@ family={
 			culture = galkari
 			prestige=300
 		}
-		#1={
+		2={
+			key="Black-Scorpions"
+			owner=ABI
+			culture = menran
+			prestige=300
+		}
+		#3={
 		#	key="Grey-Scorpions"
 		#	owner=ABK
 		#	culture = amsouran
 		#	prestige=300
 		#}
 		#4={
-		#	key="Black-Scorpions"
-		#	owner=ABI
-		#	culture = amsouran
-		#	prestige=300
-		#}
-		#3={
 		#	key="Attaniya"
 		#	owner=AAJ
 		#	culture = skurgunic
@@ -119,6 +119,7 @@ provinces = { #Any entry must contain a comment with city name.
 	#Buildings
 	10 = { port_building = 2  }
 	305 = { port_building = 1  }
+	549 = { port_building = 1  }
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	234 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -187,6 +188,26 @@ country = {
 			
 			own_control_core = 	{ 
 				305
+			}
+		}
+		
+		#Lower Salgar
+		ABI = {   
+			family=2
+			government = aristocratic_monarchy
+			primary_culture = menran
+			religion = divineorder_pantheon
+			capital = 549
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				549
 			}
 		}
 	}
