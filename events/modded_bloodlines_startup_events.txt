@@ -56,7 +56,7 @@ bloodlines_startup.2 = { #Galkar
 
 }
 
-bloodlines_startup.3 = { #Galkar
+bloodlines_startup.3 = { #Urtenite
 
 	type = country_event
 	hidden = yes

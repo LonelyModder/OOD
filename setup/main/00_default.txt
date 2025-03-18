@@ -79,12 +79,12 @@ family={
 		    culture = amsouran
 			prestige=300
 		}
-		#4={
-		#	key="Attaniya"
-		#	owner=AAJ
-		#	culture = skurgunic
-		#	prestige=300
-		#}
+		4={
+			key="Attaniya"
+			owner=AAJ
+			culture = skurgunic
+			prestige=300
+		}
 		
 		}
 }
@@ -120,6 +120,7 @@ provinces = { #Any entry must contain a comment with city name.
 	10 = { port_building = 2  }
 	305 = { port_building = 1  }
 	549 = { port_building = 1  }
+	367 = { port_building = 1  }
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	234 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -234,6 +235,19 @@ country = {
 				608 604 603 602 605 606 609 610 607 661 662 663
 				611 612 613 614 615 616 620 617 618 621 622 623 
 				626 624 625
+			}
+		}
+		
+		AAJ = {   
+			family=4
+			government = despotic_monarchy
+			primary_culture = skurgunic
+			religion = divineorder_pantheon
+			capital = 367
+			
+			
+			own_control_core = 	{ 
+				367
 			}
 		}
 	}
