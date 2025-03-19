@@ -1,7 +1,19 @@
 provinces = {
-	#485 = { # Black Pyramid
-	#	great_work=1
-	#}
+	558 = { # Black Pyramid
+		great_work=1
+	}
+	211 = { # Bloodtree
+		great_work=2
+	}
+	10 = { # Water Gate
+		great_work=3
+	}
+	594 = { # Sand Gate
+		great_work=4
+	}
+	305 = { # Galkar
+		great_work=5
+	}
 }
 
 great_work_manager={	
