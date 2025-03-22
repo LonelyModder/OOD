@@ -822,7 +822,7 @@
  TANI_ADJ:0 "Tanian"
  #Modded Countries
  AAA:0 "Dilmun"
- AAA_ADJ:0 "Dilmun"
+ AAA_ADJ:0 "Dilmunite"
  AAE:0 "Galkar"
  AAE_ADJ:0 "Galkar"
  ABI:0 "Lower Salgar"
@@ -831,6 +831,12 @@
  ABK_ADJ:0 "Salgari"
  AAJ:0 "Urtu"
  AAJ_ADJ:0 "Urtenite"
+ AAB:0 "Huhasarma"
+ AAB_ADJ:0 "Urtenite"
+ AAC:0 "Takuhili"
+ AAC_ADJ:0 "Urtenite"
+ AAD:0 "Galzor"
+ AAD_ADJ:0 "Galzori"
  #Modded Formables
  HKSalgar_name:0 "Kingdom of Salgar"
  HKSalgar_adj:0 "Salgari"

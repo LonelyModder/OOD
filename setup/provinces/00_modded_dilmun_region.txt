@@ -1,13 +1,13 @@
 ﻿10={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount=4
 	}
 	citizen={
 		amount=12
@@ -23,15 +23,15 @@
 205={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -42,15 +42,15 @@
 206={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -61,15 +61,15 @@
 207={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -80,15 +80,15 @@
 208={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -99,15 +99,15 @@
 209={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -118,15 +118,15 @@
 210={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -137,15 +137,15 @@
 211={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -156,34 +156,37 @@
 212={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 213={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -193,35 +196,38 @@
 
 214={ 
 	terrain="hills"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="iron"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 215={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -231,16 +237,16 @@
 
 216={ 
 	terrain="farmland"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="wine"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -251,15 +257,15 @@
 217={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -269,16 +275,16 @@
 
 218={ 
 	terrain="farmland"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="grain"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -289,15 +295,15 @@
 219={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -308,15 +314,15 @@
 220={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -327,15 +333,15 @@
 221={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -346,15 +352,15 @@
 222={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -365,34 +371,37 @@
 223={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 224={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -403,15 +412,15 @@
 225={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -422,15 +431,15 @@
 226={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -441,15 +450,15 @@
 227={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -460,15 +469,15 @@
 228={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -479,15 +488,15 @@
 229={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -498,15 +507,15 @@
 230={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -517,15 +526,15 @@
 231={ 
 	terrain="forest"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -536,15 +545,15 @@
 232={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -554,16 +563,16 @@
 
 233={ 
 	terrain="mountain"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="iron"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -573,16 +582,16 @@
 
 234={ 
 	terrain="mountain"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="iron"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -593,15 +602,15 @@
 235={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -611,16 +620,16 @@
 
 236={ 
 	terrain="hills"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="iron"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -631,15 +640,15 @@
 237={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -650,15 +659,15 @@
 238={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -669,34 +678,37 @@
 239={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 240={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -707,15 +719,15 @@
 241={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -725,16 +737,16 @@
 
 242={ 
 	terrain="hills"
-	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	trade_goods="iron"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -745,15 +757,15 @@
 243={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -764,15 +776,15 @@
 244={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="slavic_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={

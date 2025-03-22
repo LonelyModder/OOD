@@ -118,6 +118,11 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	10 = { port_building = 2  }
+	397 = { port_building = 2  }
+	212 = { port_building = 2  }
+	239 = { port_building = 2  }
+	223 = { port_building = 2  }
+	214 = { port_building = 2  }
 	305 = { port_building = 1  }
 	549 = { port_building = 1  }
 	367 = { port_building = 1  }
@@ -156,7 +161,7 @@ country = {
 		#Dilmun
 		AAA = {          
 			government = theocratic_monarchy
-			primary_culture = annuni
+			primary_culture = adilmunite
 			religion = divineorder_pantheon
 			capital = 184
 			
@@ -168,7 +173,29 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				10
+				10 205 206 207 208 209 210 211 212
+				216 217 218 219 220 221 222 223 224 225
+				226 227 228 229 230 231
+				213 214 215 235 236 237 238 233
+				234 239 240 241 243 244 232 242
+			}
+		}
+		
+		AAD = {          
+			government = theocratic_monarchy
+			primary_culture = akurgunic
+			religion = divineorder_pantheon
+			capital = 397
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				395 396 397 398 399
 			}
 		}
 		
@@ -188,7 +215,15 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				305
+				305 306 308 309 310 340 339 314 313 341 346
+				246 247 248 249 250 251 252 261 260 262 254 253
+				259 256 255 258 268 269 267 270 272 277 278
+				265 264 263 266 271 274 273 275 276 279
+				298 297 295 293 292 300 299 296 291 294
+				311 307 315 316 312 317 319 318 328 330
+				351 349 350 344 338 337 352 354 353 355 356 359
+				357 343 342 345 347 348 358 362 360 363 361
+				320 321 331 334 332 335 333 336
 			}
 		}
 		
@@ -197,7 +232,7 @@ country = {
 			family=2
 			government = aristocratic_monarchy
 			primary_culture = menran
-			religion = divineorder_pantheon
+			religion = atun_pantheon
 			capital = 549
 			
 			technology={
@@ -211,8 +246,7 @@ country = {
 				548 549 550 552 551 553 546 547 554 555 257 557
 				556 558 560 559 561 562 569 570 564 563 565 567
 				566 568 571 573 572 574 583 584 575 576 577 288
-				588 590 578 579 585 580 596 581 582 597 598 599
-				467 471 457 455 454 456 458 470
+				588 590 578 579 467 471 457 455 454 456 458 470
 			}
 		}
 		
@@ -220,7 +254,7 @@ country = {
 			family=3
 			government = aristocratic_monarchy
 			primary_culture = amsouran
-			religion = divineorder_pantheon
+			religion = atun_pantheon
 			capital = 609
 			
 			technology={
@@ -240,14 +274,56 @@ country = {
 		
 		AAJ = {   
 			family=4
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = skurgunic
 			religion = divineorder_pantheon
 			capital = 367
 			
 			
 			own_control_core = 	{ 
-				367
+				364 365 366 367 368 369 370 373 374 371 375
+			}
+		}
+		
+		AAB = {   
+			government = tribal_kingdom
+			primary_culture = skurgunic
+			religion = divineorder_pantheon
+			capital = 367
+			
+			
+			own_control_core = 	{ 
+				380 381 379 378 377 376 372 383 384
+			}
+		}
+		
+		AAC = {   
+			government = tribal_kingdom
+			primary_culture = skurgunic
+			religion = divineorder_pantheon
+			capital = 367
+			
+			
+			own_control_core = 	{ 
+				385 386 387 388 389 390 391 392 393 394
+			}
+		}
+		
+		AAF = {   
+			government = aristocratic_monarchy
+			primary_culture = vallakite
+			religion = ancient_pantheon
+			capital = 405
+			
+			technology={
+				military_tech={ level=6 progress=0 }
+				civic_tech={ level=6 progress=0 }
+				oratory_tech={ level=6 progress=0 }
+				religious_tech= { level=6 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				405
 			}
 		}
 	}
