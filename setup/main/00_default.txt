@@ -82,7 +82,7 @@ family={
 		4={
 			key="Attaniya"
 			owner=AAJ
-			culture = skurgunic
+			culture = urtic
 			prestige=300
 		}
 		
@@ -125,6 +125,7 @@ provinces = { #Any entry must contain a comment with city name.
 	214 = { port_building = 2  }
 	305 = { port_building = 1  }
 	549 = { port_building = 1  }
+	551 = { port_building = 1  }
 	367 = { port_building = 1  }
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
@@ -265,17 +266,16 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				589 586 587 591 592 593 595 594 600 619 601
+				589 586 587 591 592 593 595 594 600 619 601 626 624 625
 				608 604 603 602 605 606 609 610 607 661 662 663
 				611 612 613 614 615 616 620 617 618 621 622 623 
-				626 624 625
 			}
 		}
 		
 		AAJ = {   
 			family=4
 			government = tribal_kingdom
-			primary_culture = skurgunic
+			primary_culture = urtic
 			religion = divineorder_pantheon
 			capital = 367
 			
@@ -287,9 +287,9 @@ country = {
 		
 		AAB = {   
 			government = tribal_kingdom
-			primary_culture = skurgunic
+			primary_culture = hasarmite
 			religion = divineorder_pantheon
-			capital = 367
+			capital = 379
 			
 			
 			own_control_core = 	{ 
@@ -299,9 +299,9 @@ country = {
 		
 		AAC = {   
 			government = tribal_kingdom
-			primary_culture = skurgunic
+			primary_culture = takuhilic
 			religion = divineorder_pantheon
-			capital = 367
+			capital = 389
 			
 			
 			own_control_core = 	{ 
@@ -323,7 +323,45 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				405
+				405 285
+			}
+		}
+		
+		AAG = {   
+			government = tribal_kingdom
+			primary_culture = rgardu
+			religion = khorism_pantheon
+			capital = 540
+			
+			
+			own_control_core = 	{ 
+				523 528 539 527 526 525 524 522 521 519 540 516 520 518 517 515
+			}
+		}
+		
+		AAH = {   
+			government = tribal_kingdom
+			primary_culture = rgardu
+			religion = khorism_pantheon
+			capital = 500
+			
+			
+			own_control_core = 	{ 
+				504 503 502 501 500 499 490 480 479 505 506
+				510 514 512 513 509 511 508 507
+			}
+		}
+		
+		AAI = {   
+			government = tribal_kingdom
+			primary_culture = rgardu
+			religion = khorism_pantheon
+			capital = 487
+			
+			
+			own_control_core = 	{ 
+				487 488 492 493 494 495 496 497 498 491
+				476 481 478 482 483 484 489 485 486 477
 			}
 		}
 	}

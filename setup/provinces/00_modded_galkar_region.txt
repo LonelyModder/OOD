@@ -724,14 +724,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="ancient_pantheon"
-	culture="rkubadi"
+	culture="vallakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2209,7 +2209,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2228,7 +2228,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2247,7 +2247,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2266,7 +2266,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="skurgunic"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
@@ -2291,7 +2291,7 @@
 	terrain="hills"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2310,7 +2310,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2329,7 +2329,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2348,7 +2348,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2367,7 +2367,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2386,7 +2386,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2405,7 +2405,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2424,7 +2424,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="urtic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2443,7 +2443,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2462,7 +2462,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2481,7 +2481,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2500,10 +2500,13 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -2519,7 +2522,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2538,7 +2541,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2576,7 +2579,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2595,7 +2598,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="hasarmite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2614,7 +2617,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2633,7 +2636,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2652,7 +2655,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2671,7 +2674,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2690,10 +2693,13 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -2709,7 +2715,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2728,7 +2734,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2747,7 +2753,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2766,7 +2772,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2785,7 +2791,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="takuhilic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
