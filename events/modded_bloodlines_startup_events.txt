@@ -62,7 +62,7 @@ bloodlines_startup.3 = { #Urtenite
 	hidden = yes
 	
 	trigger = {
-		tag = AAJ
+		tag = AAW
 	}
 	
 	immediate = {

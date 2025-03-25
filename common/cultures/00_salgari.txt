@@ -363,6 +363,7 @@
 	culture = {
 		menran = {}
 		amsouran = {}
+		skushan = {}
 	}
 	
 	barbarian_names = { kemetic_barb }

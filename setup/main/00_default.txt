@@ -118,6 +118,9 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Buildings
 	10 = { port_building = 2  }
+	722 = { port_building = 1  }
+	727 = { port_building = 2  }
+	736 = { port_building = 2  }
 	397 = { port_building = 2  }
 	212 = { port_building = 2  }
 	239 = { port_building = 2  }
@@ -164,7 +167,7 @@ country = {
 			government = theocratic_monarchy
 			primary_culture = adilmunite
 			religion = divineorder_pantheon
-			capital = 184
+			capital = 10
 			
 			technology={
 				military_tech={ level=3 progress=0 }
@@ -203,7 +206,7 @@ country = {
 		#Galkar
 		AAE = {   
 			family=1
-			government = aristocratic_monarchy
+			government = despotic_monarchy
 			primary_culture = galkari
 			religion = divineorder_pantheon
 			capital = 305
@@ -228,7 +231,7 @@ country = {
 			}
 		}
 		
-		#Lower Salgar
+		#Salgar
 		ABI = {   
 			family=2
 			government = aristocratic_monarchy
@@ -256,7 +259,7 @@ country = {
 			government = aristocratic_monarchy
 			primary_culture = amsouran
 			religion = atun_pantheon
-			capital = 609
+			capital = 604
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -362,6 +365,162 @@ country = {
 			own_control_core = 	{ 
 				487 488 492 493 494 495 496 497 498 491
 				476 481 478 482 483 484 489 485 486 477
+			}
+		}
+		
+		AAK = {          
+			government = theocratic_monarchy
+			primary_culture = asaharic
+			religion = divineorder_pantheon
+			capital = 727
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				727 725 726
+			}
+		}
+		
+		AAL = {          
+			government = theocratic_monarchy
+			primary_culture = anumuni
+			religion = divineorder_pantheon
+			capital = 736
+			
+			technology={
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				736 737 738 739 740 741 742
+			}
+		}
+		
+		AAM = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 723
+			
+			own_control_core = 	{ 
+				723 722 721 728 724
+			}
+		}
+		
+		AAN = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 731
+			
+			own_control_core = 	{ 
+				731 755 732 756 733
+			}
+		}
+		
+		AAO = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 760
+			
+			own_control_core = 	{ 
+				760 730 729 759 763
+			}
+		}
+		
+		AAP = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 746
+			
+			own_control_core = 	{ 
+				746 747 753 745 754
+			}
+		}
+		
+		AAR = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 750
+			
+			own_control_core = 	{ 
+				750 751 752 749 748
+			}
+		}
+		
+		AAS = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 717
+			
+			own_control_core = 	{ 
+				717 716 718 719 720
+			}
+		}
+		
+		AAT = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 713
+			
+			own_control_core = 	{ 
+				713 712 714 715
+			}
+		}
+		
+		AAU = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 798
+			
+			own_control_core = 	{ 
+				798 797 764 761
+			}
+		}
+		
+		AAW = {   
+			government = despotic_monarchy
+			primary_culture = esugan
+			religion = divineorder_pantheon
+			capital = 323
+			
+			own_control_core = 	{ 
+				301 302 303 304 323 324 325 322 326 329
+			}
+		}
+		
+		AAY = {   
+			government = despotic_monarchy
+			primary_culture = skushan
+			religion = atun_pantheon
+			capital = 645
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				639 641 643 645 640 642 644 646 647 648 649 650
+				651 652 653 654 655 656 657 658 659 660 775
+				850 851 852 853 854 855 856 857 858 666 630 629
+				664 665 682 631 632 633 634 635 636 637 638 678 679 680 681 
 			}
 		}
 	}

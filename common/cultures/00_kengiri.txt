@@ -48,10 +48,6 @@
 	}
 	culture = {
 		galkari = {}
-		irkallic = {}
-		siduri = {}
-		gulani = {}
-		lehsiri = {}
 		#new
 	}
 	

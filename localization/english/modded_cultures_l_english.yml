@@ -4,22 +4,20 @@
  annunaki:2 "Enukku"
  adilmunite:0 "Dilmunite"
  akurgunic:0 "Kurgunic"
- asaharic:0 "Saharic"
+ asaharic:0 "Sahargali"
+ anumuni:0 "Numunite"
  annunaki_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  annunaki_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Kengiri
  kengiri:2 "Kengiri"
  galkari:0 "Galkari"
- irkallic:0 "Kallite"
- siduri:0 "Siduran"
- gulani:0 "Gulani"
- lehsiri:0 "Lehsiri"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Salgari
  salgari:2 "Salgari"
  menran:0 "Lower Salgari"
  amsouran:0 "Upper Salgari"
+ skushan:0 "Setite"
  salgari_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  salgari_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Nubans
@@ -56,6 +54,7 @@
  urtic:0 "Urtic"
  hasarmite:0 "Hasarmite"
  takuhilic:0 "Takuhilic"
+ esugan:0 "Esugan"
  susigu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  susigu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Ekimmu

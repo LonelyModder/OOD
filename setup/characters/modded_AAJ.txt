@@ -1,10 +1,10 @@
-﻿"AAJ"={
-	country="AAJ"
+﻿"AAW"={
+	country="AAW"
 	2={
 		first_name="Annitas"
-		family = c:AAJ.fam:Attaniya
+		family = c:AAW.fam:Attaniya
 		birth_date=2100.10.6
-		culture="skurgunic"
+		culture="esugan"
 		religion="divineorder_pantheon"
 		no_stats=yes
 		add_martial=7
@@ -16,7 +16,7 @@
 		add_trait="anittas"
 		add_gold=500
 		add_popularity=100
-		c:AAJ={
+		c:AAW={
 			set_as_ruler=char:2
 		}
 		#dna=""

@@ -50,6 +50,7 @@
 		adilmunite = {}
 		akurgunic = {}
 		asaharic = {}
+		anumuni = {}
 		#new
 	}
 	

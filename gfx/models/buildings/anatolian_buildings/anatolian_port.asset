@@ -39,3 +39,13 @@ entity = {
 	name = "luwian_gfx_port_entity"
 	clone = "hurrian_gfx_port_entity"
 }
+
+entity = {
+	name = "mesopotamian_gfx_port_entity"
+	clone = "hurrian_gfx_port_entity"
+}
+
+entity = {
+	name = "anunnaki_gfx_port_entity"
+	clone = "hurrian_gfx_port_entity"
+}

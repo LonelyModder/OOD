@@ -1009,7 +1009,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1028,7 +1028,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1047,7 +1047,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1066,7 +1066,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1411,7 +1411,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1430,18 +1430,24 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=6
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1449,7 +1455,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1468,7 +1474,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1487,7 +1493,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1544,7 +1550,7 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="esugan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
