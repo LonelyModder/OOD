@@ -7,7 +7,6 @@
 			OR = {
 				country_culture_group = salgari
 				country_culture_group = sagentar
-				country_culture_group = nuban
 			}
 			#is_tribal = yes
 			NOT = {
@@ -22,12 +21,8 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 506
-					province_id = 496
-					province_id = 486
-					province_id = 480
-					province_id = 508
-					province_id = 515
+					province_id = 549
+					province_id = 604
 				}
 			}
 		}
@@ -42,12 +37,8 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 506
-			owns_or_subject_owns = 496
-			owns_or_subject_owns = 486
-			owns_or_subject_owns = 480
-			owns_or_subject_owns = 508
-			owns_or_subject_owns = 515
+			owns = 549
+			owns_or_subject_owns = 604
 		}
 		
 		effect = {
@@ -72,25 +63,25 @@
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 506
+							province_id = 549
 						}
 					}
 				}
-				set_capital = 506
+				set_capital = 549
 				hidden_effect = {
-					p:506.state = {
-						set_state_capital = 506
+					p:549.state = {
+						set_state_capital = 549
 					}
 				}
 			}
-			p:506 = {
+			p:549 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}
 			add_2_free_province_investments = yes
 			hidden_effect = {
-				region:modded_girigu_region = { formable_region_province_effect = yes }
-				region:modded_nub_region = { formable_region_province_effect = yes }
+				region:modded_taseti_region = { formable_region_province_effect = yes }
+				region:modded_salgar_region = { formable_region_province_effect = yes }
 			}
 		}
 		

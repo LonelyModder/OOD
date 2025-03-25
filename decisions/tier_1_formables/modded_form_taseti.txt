@@ -4,13 +4,10 @@
 	form_taseti = {
 		
 		potential = {
-			OR = {
-				country_culture_group = nuban
-				country_culture_group = salgari
-			}
+			country_culture_group = salgari
 			#is_tribal = yes
 			NOT = {
-				tag = XTS
+				tag = AAY
 			}
 			NOR = {
 				is_tier_1_formable_trigger = yes
@@ -22,8 +19,9 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 581
-					province_id = 560
+					province_id = 645
+					province_id = 652
+					province_id = 633
 				}
 			}
 		}
@@ -33,13 +31,14 @@
 				text = taseti_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XTS
+						tag = AAY
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns= 581
-			owns_or_subject_owns = 560
+			owns= 645
+			owns_or_subject_owns = 652
+			owns_or_subject_owns = 633
 		}
 		
 		effect = {
@@ -58,36 +57,36 @@
 			hidden_effect = {
 				change_country_adjective = "TaSeti_adj"
 				change_country_color =  "TaSeti_color"
-				change_country_tag = XTS
+				change_country_tag = AAY
 			}
 			if = {
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 581
+							province_id = 645
 						}
 					}
 				}
-				set_capital = 581
+				set_capital = 645
 				hidden_effect = {
-					p:581.state = {
-						set_state_capital = 581
+					p:645.state = {
+						set_state_capital = 645
 					}
 				}
 			}
-			#p:581 = {
+			#p:645 = {
 			#	if = {
 			#		limit = { has_city_status = no }
 			#		set_city_status = city
 			#	}
 			#}
-			p:581 = {
+			p:645 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}
 			add_2_free_province_investments = yes
 			hidden_effect = {
-				region:modded_nub_region = { formable_region_province_effect = yes }
+				region:modded_taseti_region = { formable_region_province_effect = yes }
 			}
 		}
 		

@@ -4400,7 +4400,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="mhajari""
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

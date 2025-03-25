@@ -7,7 +7,7 @@
 			country_culture_group = annunaki
 			#is_tribal = yes
 			NOT = {
-				tag = XDM
+				tag = AAA
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -33,7 +33,7 @@
 				text = hkdilmun_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XDM
+						tag = AAA
 					}
 				}
 			}
@@ -62,7 +62,7 @@
 			hidden_effect = {
 				change_country_adjective = "HKDilmun_adj"
 				change_country_color =  "HKDilmun_color"
-				change_country_tag = XDM
+				change_country_tag = AAA
 			}
 			if = {
 				limit = {
