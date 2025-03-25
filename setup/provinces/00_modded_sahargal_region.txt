@@ -5,15 +5,18 @@
 	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -147,15 +150,18 @@
 	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -223,15 +229,18 @@
 	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -435,15 +444,18 @@
 	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -571,15 +583,18 @@
 	culture="menran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -667,6 +682,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -935,15 +953,18 @@
 	culture="amsouran"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=10
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1568,7 +1589,7 @@
 	terrain="farmland"
 	trade_goods="grain"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="skushan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1587,7 +1608,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="skushan"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1685,15 +1706,18 @@
 	culture="skushan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1913,15 +1937,18 @@
 	culture="skushan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -2046,15 +2073,18 @@
 	culture="skushan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -2328,7 +2358,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2347,7 +2377,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2366,7 +2396,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2385,7 +2415,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2670,7 +2700,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="skushan"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2689,7 +2719,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2708,7 +2738,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2727,7 +2757,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2746,7 +2776,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2765,7 +2795,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2784,7 +2814,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2802,8 +2832,8 @@
 689={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2821,8 +2851,8 @@
 690={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2840,8 +2870,8 @@
 691={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2859,8 +2889,8 @@
 692={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2878,8 +2908,8 @@
 693={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2897,8 +2927,8 @@
 694={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2916,8 +2946,8 @@
 695={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2935,8 +2965,8 @@
 696={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2954,8 +2984,8 @@
 697={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2973,8 +3003,8 @@
 698={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2992,8 +3022,8 @@
 699={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3011,8 +3041,8 @@
 700={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3030,8 +3060,8 @@
 702={ 
 	terrain="hills"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3049,8 +3079,8 @@
 703={ 
 	terrain="plains"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3069,7 +3099,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3088,7 +3118,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3107,7 +3137,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3126,7 +3156,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3145,7 +3175,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3164,7 +3194,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3183,7 +3213,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -3202,7 +3232,7 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4237,7 +4267,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4274,8 +4304,8 @@
 768={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4294,7 +4324,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4313,7 +4343,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4331,8 +4361,8 @@
 771={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4350,8 +4380,8 @@
 772={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4369,8 +4399,8 @@
 773={ 
 	terrain="desert"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari""
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4389,7 +4419,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4426,8 +4456,8 @@
 776={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4445,8 +4475,8 @@
 777={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4464,8 +4494,8 @@
 778={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4483,8 +4513,8 @@
 779={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4502,8 +4532,8 @@
 780={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4521,8 +4551,8 @@
 781={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4540,8 +4570,8 @@
 782={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4559,8 +4589,8 @@
 783={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4578,8 +4608,8 @@
 784={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4597,8 +4627,8 @@
 785={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4616,8 +4646,8 @@
 786={ 
 	terrain="cave"
 	trade_goods="spices"
-	religion="atun_pantheon"
-	culture="wvenedi"
+	religion="divineorder_pantheon"
+	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4636,7 +4666,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4655,7 +4685,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4674,7 +4704,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4848,7 +4878,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4867,7 +4897,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4886,7 +4916,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4905,7 +4935,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4924,7 +4954,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4943,7 +4973,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4962,7 +4992,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -4981,7 +5011,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5000,7 +5030,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5038,7 +5068,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5057,7 +5087,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5076,7 +5106,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5095,7 +5125,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5114,7 +5144,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5133,7 +5163,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5152,7 +5182,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5171,7 +5201,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5190,7 +5220,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5209,7 +5239,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5228,7 +5258,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5247,7 +5277,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5266,7 +5296,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5285,7 +5315,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5304,7 +5334,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5323,7 +5353,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5342,7 +5372,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5361,7 +5391,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5380,7 +5410,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5399,7 +5429,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5418,7 +5448,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5437,7 +5467,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5456,7 +5486,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5475,7 +5505,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5494,7 +5524,7 @@
 	terrain="oasis"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5513,7 +5543,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5532,7 +5562,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5551,7 +5581,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5570,7 +5600,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5589,7 +5619,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5608,7 +5638,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5627,7 +5657,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5646,7 +5676,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5665,7 +5695,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5684,7 +5714,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5703,7 +5733,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5722,7 +5752,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5741,7 +5771,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -5760,7 +5790,7 @@
 	terrain="desert"
 	trade_goods="spices"
 	religion="atun_pantheon"
-	culture="wvenedi"
+	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -11,6 +11,12 @@
  #Kengiri
  kengiri:2 "Kengiri"
  galkari:0 "Galkari"
+ zandakite:0 "Zandakite"
+ izzimite:0 "Izzimite"
+ buteni:0 "Buteni"
+ nanumi:0 "Nanumi"
+ nazuri:0 "Nazuri"
+ diuili:0 "Diuili"
  kengiri_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  kengiri_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Salgari
@@ -32,15 +38,8 @@
  gardu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Sagentari
  sagentar:2 "Meded"
- maladhamn:0 "Maladhani"
- radahite:0 "Radahite"
- adiri:0 "Adiri"
- dohali:0 "Dohali"
- ziluhi:0 "Ziluhi"
- jabari:0 "Jabari"
- karza:0 "Karza"
- thyleni:0 "Hajari"
- adranu:0 "Adranu"
+ mhajari:0 "Hajari"
+ msaharic:0 "Sahari"
  sagentar_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  sagentar_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Rabisu
@@ -55,6 +54,7 @@
  hasarmite:0 "Hasarmite"
  takuhilic:0 "Takuhilic"
  esugan:0 "Esugan"
+ kalmari:0 "Kalmari"
  susigu_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  susigu_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  #Ekimmu

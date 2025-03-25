@@ -2,18 +2,21 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -21,14 +24,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -40,14 +43,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -59,14 +62,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -78,14 +81,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -97,14 +100,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -116,14 +119,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -135,18 +138,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -154,14 +160,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -173,14 +179,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -192,18 +198,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -211,14 +220,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -230,14 +239,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -249,14 +258,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -268,14 +277,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -287,14 +296,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -306,14 +315,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -325,14 +334,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -344,14 +353,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -363,14 +372,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -382,14 +391,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="zandakite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -401,14 +410,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -420,14 +429,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -439,14 +448,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -458,14 +467,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -477,14 +486,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -496,14 +505,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -515,14 +524,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -534,14 +543,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -553,14 +562,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -572,14 +581,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -591,14 +600,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -610,14 +619,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="diuili"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -819,14 +828,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -838,14 +847,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -857,18 +866,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -876,18 +888,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -895,14 +910,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -914,14 +929,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -933,14 +948,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -952,18 +967,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -971,14 +989,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -990,14 +1008,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="buteni"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1107,14 +1125,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1126,18 +1144,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1145,14 +1166,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1164,14 +1185,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1183,14 +1204,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1202,14 +1223,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1221,18 +1242,21 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1240,14 +1264,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1259,14 +1283,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1278,14 +1302,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1297,14 +1321,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1316,14 +1340,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1335,14 +1359,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1354,14 +1378,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1373,18 +1397,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1392,14 +1419,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1512,14 +1539,14 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1531,14 +1558,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1569,14 +1596,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nanumi"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1588,14 +1615,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1607,14 +1634,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1626,14 +1653,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1645,14 +1672,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1664,14 +1691,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1683,14 +1710,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="izzimite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1702,14 +1729,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1721,14 +1748,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1740,14 +1767,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1759,18 +1786,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1778,14 +1808,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1797,14 +1827,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1816,18 +1846,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1835,14 +1868,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1854,14 +1887,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1873,14 +1906,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1892,14 +1925,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1911,14 +1944,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1930,14 +1963,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="galkari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1949,14 +1982,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1968,14 +2001,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -1987,14 +2020,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2006,14 +2039,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2025,14 +2058,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2044,14 +2077,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2063,14 +2096,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2082,14 +2115,14 @@
 	terrain="farmland"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2101,14 +2134,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2120,14 +2153,14 @@
 	terrain="forest"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2139,18 +2172,21 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
-	tribesmen={
-		amount=4
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -2158,14 +2194,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2177,14 +2213,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2196,14 +2232,14 @@
 	terrain="plains"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="nazuri"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -2566,14 +2602,14 @@
 	terrain="mountain"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3297,14 +3333,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3316,14 +3352,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3335,14 +3371,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3354,14 +3390,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3373,14 +3409,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3392,14 +3428,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3411,14 +3447,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3449,14 +3485,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3487,14 +3523,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3506,14 +3542,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3525,14 +3561,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3544,14 +3580,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={
@@ -3563,14 +3599,14 @@
 	terrain="cave"
 	trade_goods="spices"
 	religion="divineorder_pantheon"
-	culture="wvenedi"
+	culture="kalmari"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		amount=1
 	}
-	tribesmen={
+	freemen={
 		amount=4
 	}
 	slaves={

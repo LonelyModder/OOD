@@ -677,7 +677,7 @@
 
 239={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
