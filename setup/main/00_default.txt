@@ -94,27 +94,27 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
-	#184 = { # Nisaba
-	#	treasure_slots = { 	treasures = { 1 5 } }
-	#}
-	#457 = { # Deoraith
-	#	treasure_slots = { 	treasures = { 2 } }
-	#}
-	#480 = { # Menre
-	#	treasure_slots = { 	treasures = { 3 } }
-	#}
-	#506 = { # Amsouru
-	#	treasure_slots = { 	treasures = { 4 } }
-	#}
-	#260 = { # Galkar
-	#	treasure_slots = { 	treasures = { 6 } }
-	#}
-	#278 = { # Irkalla
-	#	treasure_slots = { 	treasures = { 7 } }
-	#}
+	10 = { # Nisaba
+		treasure_slots = { 	treasures = { 1 5 } }
+	}
+	405 = { # Thorduar
+		treasure_slots = { 	treasures = { 2 } }
+	}
+	549 = { # Menre
+		treasure_slots = { 	treasures = { 3 } }
+	}
+	604 = { # Amsouru
+		treasure_slots = { 	treasures = { 4 } }
+	}
+	260 = { # Galkar
+		treasure_slots = { 	treasures = { 6 } }
+	}
+	246 = { # Irkalla
+		treasure_slots = { 	treasures = { 7 } }
+	}
 
 	#Pirates
-	
+	#439 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
 	10 = { port_building = 2  }
@@ -130,6 +130,8 @@ provinces = { #Any entry must contain a comment with city name.
 	549 = { port_building = 1  }
 	551 = { port_building = 1  }
 	253 = { port_building = 1  }
+	604 = { port_building = 1  }
+	645 = { port_building = 1  }
 	340 = { port_building = 1  }
 	343 = { port_building = 1  }
 	246 = { fortress_building = 1 }

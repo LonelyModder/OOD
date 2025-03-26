@@ -18,6 +18,7 @@
 	slaves={
 		amount=3
 	}
+	holy_site="omen_anu"
 }
 
 205={ 
