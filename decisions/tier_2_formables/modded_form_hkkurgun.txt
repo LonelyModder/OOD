@@ -44,7 +44,7 @@
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			change_country_name = "HKKurgun_name"
-			change_country_flag = Wings_of_Ashur
+			change_country_flag = AAE
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {

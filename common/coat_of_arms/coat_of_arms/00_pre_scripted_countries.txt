@@ -51,7 +51,7 @@ Eye_of_Ra = { #Salgar
 	}
 }
 
-Wings_of_Ashur = { #Kurgun
+AAE = { #Kurgun
 	pattern = "pattern_solid.tga"
 	color1 = "bone_white"
 	color2 = "bone_white"
@@ -62,7 +62,7 @@ Wings_of_Ashur = { #Kurgun
 	}
 }
 
-Tree_of_Life = { #Dilmun
+AAA = { #Dilmun
 	pattern = "pattern_solid.tga"
 	color1 = rgb { 255 255 255 }
 	color2 = rgb { 255 255 255 }
@@ -108,7 +108,7 @@ Atens_Sun = { #Imamate of Aten
 	}
 }
 
-Setite_Bow = { #Imamate of Aten
+AAY = { #Imamate of Aten
 	pattern = "pattern_solid.tga"
 	color1 = "bone_white"
 	color2 = "bone_white"

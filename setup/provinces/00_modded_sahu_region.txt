@@ -1,6 +1,6 @@
 ﻿476={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -57,7 +57,7 @@
 
 479={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -133,7 +133,7 @@
 
 483={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -152,7 +152,7 @@
 
 484={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -579,7 +579,7 @@
 
 506={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -598,7 +598,7 @@
 
 507={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1041,6 +1041,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1136,6 +1139,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1174,6 +1180,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}

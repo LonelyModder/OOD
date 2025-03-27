@@ -106,7 +106,7 @@ provinces = { #Any entry must contain a comment with city name.
 	604 = { # Amsouru
 		treasure_slots = { 	treasures = { 4 } }
 	}
-	260 = { # Galkar
+	305 = { # Galkar
 		treasure_slots = { 	treasures = { 6 } }
 	}
 	246 = { # Irkalla
@@ -114,7 +114,11 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 
 	#Pirates
-	#439 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	710 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	700 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	690 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	367 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	722 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
 	10 = { port_building = 2  }
@@ -128,6 +132,12 @@ provinces = { #Any entry must contain a comment with city name.
 	214 = { port_building = 2  }
 	305 = { port_building = 1  }
 	549 = { port_building = 1  }
+	705 = { port_building = 1  }
+	708 = { port_building = 1  }
+	710 = { port_building = 1  }
+	700 = { port_building = 1  }
+	690 = { port_building = 1  }
+	695 = { port_building = 1  }
 	551 = { port_building = 1  }
 	253 = { port_building = 1  }
 	604 = { port_building = 1  }
@@ -137,7 +147,6 @@ provinces = { #Any entry must contain a comment with city name.
 	246 = { fortress_building = 1 }
 	256 = { fortress_building = 1 }
 	343 = { fortress_building = 1 }
-	360 = { fortress_building = 1 }
 	294 = { fortress_building = 1 }
 	575 = { fortress_building = 1 }
 	592 = { fortress_building = 1 }
@@ -221,7 +230,7 @@ country = {
 		#Galkar
 		AAE = {   
 			family=1
-			government = despotic_monarchy
+			government = aristocratic_monarchy
 			primary_culture = galkari
 			religion = divineorder_pantheon
 			capital = 305
@@ -339,6 +348,13 @@ country = {
 			primary_culture = vallakite
 			religion = ancient_pantheon
 			capital = 405
+			
+			poptype_rights = {
+				{
+					culture = rkubadi 
+					type = citizen
+				}
+			}
 			
 			technology={
 				military_tech={ level=6 progress=0 }
@@ -554,6 +570,215 @@ country = {
 			
 			own_control_core = 	{ 
 				580 585 581 582 599 598 597 596
+			}
+		}
+		
+		ABA = {   
+			government = tribal_kingdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 705
+			
+			own_control_core = 	{ 
+				705
+			}
+		}
+		
+		ABB = {   
+			government = tribal_kingdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 708
+			
+			own_control_core = 	{ 
+				708
+			}
+		}
+		
+		ABC = {   
+			government = tribal_kingdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 710
+			
+			own_control_core = 	{ 
+				710
+			}
+		}
+		
+		ABD = {   
+			government = tribal_kingdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 700
+			
+			own_control_core = 	{ 
+				700
+			}
+		}
+		
+		ABE = {   
+			government = tribal_kingdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 695
+			
+			own_control_core = 	{ 
+				695
+			}
+		}
+		
+		ABF = {   
+			government = tribal_kingdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 690
+			
+			own_control_core = 	{ 
+				690
+			}
+		}
+		
+		ABG = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 802
+			
+			own_control_core = 	{ 
+				802 801 803
+			}
+		}
+		
+		ABH = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 822
+			
+			own_control_core = 	{ 
+				822 823
+			}
+		}
+		
+		ABJ = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 812
+			
+			own_control_core = 	{ 
+				812 811
+			}
+		}
+		
+		ABL = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 668
+			
+			own_control_core = 	{ 
+				668 669
+			}
+		}
+		
+		ABM = {   
+			government = tribal_chiefdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 776
+			
+			own_control_core = 	{ 
+				776 778
+			}
+		}
+		
+		ABN = {   
+			government = tribal_chiefdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 784
+			
+			own_control_core = 	{ 
+				784 783
+			}
+		}
+		
+		ABO = {   
+			government = tribal_kingdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 287
+			
+			own_control_core = 	{ 
+				287 290 286 280 281
+			}
+		}
+		
+		ABP = {   
+			government = tribal_kingdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 283
+			
+			own_control_core = 	{ 
+				283 282 284
+			}
+		}
+		
+		ABR = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 433
+			
+			own_control_core = 	{ 
+				433 434
+			}
+		}
+		
+		ABS = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 442
+			
+			own_control_core = 	{ 
+				442 443
+			}
+		}
+		
+		ABT = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 530
+			
+			own_control_core = 	{ 
+				530 529
+			}
+		}
+		
+		ABU = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 537
+			
+			own_control_core = 	{ 
+				537 535
+			}
+		}
+		
+		ABW = {   
+			government = tribal_kingdom
+			primary_culture = kalmari
+			religion = divineorder_pantheon
+			capital = 448
+			
+			own_control_core = 	{ 
+				448 450 449
 			}
 		}
 	}

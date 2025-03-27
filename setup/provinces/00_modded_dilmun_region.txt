@@ -23,7 +23,7 @@
 
 205={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -42,7 +42,7 @@
 
 206={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -61,7 +61,7 @@
 
 207={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -80,7 +80,7 @@
 
 208={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -99,7 +99,7 @@
 
 209={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -118,7 +118,7 @@
 
 210={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -137,7 +137,7 @@
 
 211={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -156,7 +156,7 @@
 
 212={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -178,7 +178,7 @@
 
 213={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -257,7 +257,7 @@
 
 217={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -295,7 +295,7 @@
 
 219={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -314,7 +314,7 @@
 
 220={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -333,7 +333,7 @@
 
 221={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -352,7 +352,7 @@
 
 222={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -371,7 +371,7 @@
 
 223={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -393,7 +393,7 @@
 
 224={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -412,7 +412,7 @@
 
 225={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -431,7 +431,7 @@
 
 226={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -450,7 +450,7 @@
 
 227={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -469,7 +469,7 @@
 
 228={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -488,7 +488,7 @@
 
 229={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -507,7 +507,7 @@
 
 230={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -526,7 +526,7 @@
 
 231={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0

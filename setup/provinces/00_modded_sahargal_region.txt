@@ -2377,12 +2377,15 @@
 
 668={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -2857,15 +2860,18 @@
 	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -2952,15 +2958,18 @@
 	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -3047,15 +3056,18 @@
 	culture="mhajari"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -3123,15 +3135,18 @@
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -3180,15 +3195,18 @@
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -3218,15 +3236,18 @@
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -3452,15 +3473,18 @@
 	culture="nubatan"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=12
 	}
 	slaves={
-		amount=1
+		amount=6
 	}
 }
 
@@ -4463,6 +4487,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -4615,6 +4642,9 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -4666,7 +4696,7 @@
 
 789={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -4916,12 +4946,15 @@
 
 802={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -5030,7 +5063,7 @@
 
 808={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5106,12 +5139,15 @@
 
 812={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -5220,7 +5256,7 @@
 
 818={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5296,12 +5332,15 @@
 
 822={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -5467,7 +5506,7 @@
 
 831={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5524,7 +5563,7 @@
 
 834={ 
 	terrain="oasis"
-	trade_goods="spices"
+	trade_goods="dates"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0

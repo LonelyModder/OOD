@@ -44,7 +44,7 @@
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			change_country_name = "TaSeti_name"
-			change_country_flag = Setite_Bow
+			change_country_flag = AAY
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
