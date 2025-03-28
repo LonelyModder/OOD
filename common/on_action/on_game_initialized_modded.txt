@@ -44,7 +44,8 @@ on_game_initialized = {
 			#	militarisation_level_effect = yes
 				#hidden_equipment_effect = yes
 			#}
-			#besarabic_war_conflict_effect = yes
+			urtenite_invasion = yes
+			salgari_civil_war = yes
 		}
 	}
 	#Events
