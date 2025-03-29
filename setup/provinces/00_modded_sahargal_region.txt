@@ -323,7 +323,7 @@
 
 562={ 
 	terrain="farmland"
-	trade_goods="grain"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -557,7 +557,7 @@
 
 574={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -1066,7 +1066,7 @@
 
 600={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -1241,7 +1241,7 @@
 
 609={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -1437,7 +1437,7 @@
 
 619={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -1494,7 +1494,7 @@
 
 622={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="amsouran"
 	civilization_value=0
@@ -1994,7 +1994,7 @@
 
 648={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="skushan"
 	civilization_value=0
@@ -2513,7 +2513,7 @@
 
 288={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -2532,7 +2532,7 @@
 
 467={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="atun_pantheon"
 	culture="menran"
 	civilization_value=0
@@ -2915,7 +2915,7 @@
 
 693={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -2975,7 +2975,7 @@
 
 696={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -3013,7 +3013,7 @@
 
 698={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -3092,7 +3092,7 @@
 
 703={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -3231,7 +3231,7 @@
 
 710={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -3468,7 +3468,7 @@
 
 722={ 
 	terrain="savanna"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -3486,6 +3486,7 @@
 	slaves={
 		amount=6
 	}
+	holy_site="omen_nikinaka"
 }
 
 723={ 
@@ -3512,7 +3513,7 @@
 
 724={ 
 	terrain="savanna"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -3531,7 +3532,7 @@
 
 725={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="asaharic"
 	civilization_value=0
@@ -3550,7 +3551,7 @@
 
 726={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="asaharic"
 	civilization_value=0
@@ -3569,7 +3570,7 @@
 
 727={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="coconut"
 	religion="divineorder_pantheon"
 	culture="asaharic"
 	civilization_value=0
@@ -3648,7 +3649,7 @@
 
 731={ 
 	terrain="savanna"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -3670,7 +3671,7 @@
 
 732={ 
 	terrain="savanna"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -3708,7 +3709,7 @@
 
 736={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3730,7 +3731,7 @@
 
 737={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3749,7 +3750,7 @@
 
 738={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="coconut"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3768,7 +3769,7 @@
 
 739={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="coconut"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3787,7 +3788,7 @@
 
 740={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3806,7 +3807,7 @@
 
 741={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3825,7 +3826,7 @@
 
 742={ 
 	terrain="forest"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="anumuni"
 	civilization_value=0
@@ -3962,7 +3963,7 @@
 
 749={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="coconut"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -4196,7 +4197,7 @@
 
 761={ 
 	terrain="savanna"
-	trade_goods="spices"
+	trade_goods="elephants"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -4234,7 +4235,7 @@
 
 763={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="ancestors_pantheon"
 	culture="nubatan"
 	civilization_value=0
@@ -4386,7 +4387,7 @@
 
 771={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -4424,7 +4425,7 @@
 
 773={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -4636,7 +4637,7 @@
 
 784={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="mhajari"
 	civilization_value=0
@@ -4987,7 +4988,7 @@
 
 804={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5120,7 +5121,7 @@
 
 811={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5354,7 +5355,7 @@
 
 823={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5601,7 +5602,7 @@
 
 837={ 
 	terrain="desert"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="msaharic"
 	civilization_value=0
@@ -5905,7 +5906,7 @@
 
 853={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="camel"
 	religion="atun_pantheon"
 	culture="skushan"
 	civilization_value=0

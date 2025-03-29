@@ -21,7 +21,7 @@
 				OR = {
 					province_id = 822
 					province_id = 705
-					province_id = 700
+					province_id = 802
 				}
 			}
 		}
@@ -38,7 +38,7 @@
 			can_form_nation_trigger = yes
 			owns= 822
 			owns_or_subject_owns = 705
-			owns_or_subject_owns = 700
+			owns_or_subject_owns = 802
 		}
 		
 		effect = {

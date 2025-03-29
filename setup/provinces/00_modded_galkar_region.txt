@@ -23,7 +23,7 @@
 
 247={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -137,7 +137,7 @@
 
 253={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -409,7 +409,7 @@
 
 268={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -975,7 +975,7 @@
 
 298={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -1016,7 +1016,7 @@
 
 300={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -1134,7 +1134,7 @@
 
 306={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1153,7 +1153,7 @@
 
 307={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1232,7 +1232,7 @@
 
 311={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1251,7 +1251,7 @@
 
 312={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1387,7 +1387,7 @@
 
 319={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cheese"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1817,7 +1817,7 @@
 
 341={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1877,7 +1877,7 @@
 
 344={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1991,7 +1991,7 @@
 
 350={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2124,7 +2124,7 @@
 
 357={ 
 	terrain="farmland"
-	trade_goods="spices"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2317,7 +2317,7 @@
 
 367={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2611,7 +2611,7 @@
 
 382={ 
 	terrain="mountain"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -2706,7 +2706,7 @@
 
 387={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="takuhilic"
 	civilization_value=0
@@ -2899,7 +2899,7 @@
 
 397={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
 	culture="akurgunic"
 	civilization_value=0
@@ -2917,6 +2917,7 @@
 	slaves={
 		amount=3
 	}
+	holy_site="omen_galzu"
 }
 
 398={ 
@@ -3194,7 +3195,7 @@
 
 439={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0

@@ -231,7 +231,7 @@
 
 488={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -250,7 +250,7 @@
 
 489={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -459,7 +459,7 @@
 
 500={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -480,11 +480,12 @@
 	slaves={
 		amount=6
 	}
+	holy_site="omen_oathkeeper"
 }
 
 501={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -731,7 +732,7 @@
 
 514={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -845,7 +846,7 @@
 
 520={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
