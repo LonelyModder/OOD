@@ -137,3 +137,9 @@ wonder_governors_palace={ #Modified
 	great_work_category="gw_category_ancient"
 	great_work_category_slot=0
 }
+
+wonder_spearofaten={ #Modified
+	entity_name={"building_special_crystal_like_law_entity"}
+	great_work_category="gw_category_ancient"
+	great_work_category_slot=0
+}

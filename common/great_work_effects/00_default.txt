@@ -2427,3 +2427,50 @@ gw_effect_governors_palace = {
 		}
 	}
 }
+
+gw_effect_spearofaten = {
+	icon = "gw_effect_military_education"	
+
+	flags = {
+		"gw_effect_military_education"
+	}
+	
+	great_work_tier_effect_modifiers = {
+		gw_effect_spearofaten_tier_1 = {
+			great_work_effect_tier = gw_effect_tier_1
+		
+			country_modifier = {
+				stability_monthly_change = 0.02
+				global_population_growth = 0.03
+				global_population_capacity_modifier = 0.04
+			}
+		}
+		gw_effect_spearofaten_tier_2 = {
+			great_work_effect_tier = gw_effect_tier_2
+		
+			country_modifier = {
+				stability_monthly_change = 0.03
+				global_population_growth = 0.04
+				global_population_capacity_modifier = 0.06
+			}
+		}
+		gw_effect_spearofaten_tier_3 = {
+			great_work_effect_tier = gw_effect_tier_3
+		
+			country_modifier = {
+				stability_monthly_change = 0.04
+				global_population_growth = 0.05
+				global_population_capacity_modifier = 0.08
+			}
+		}
+		gw_effect_spearofaten_tier_4 = {
+			great_work_effect_tier = gw_effect_tier_4
+		
+			country_modifier = {
+				stability_monthly_change = 0.05
+				global_population_growth = 0.06
+				global_population_capacity_modifier = 0.1
+			}
+		}
+	}
+}

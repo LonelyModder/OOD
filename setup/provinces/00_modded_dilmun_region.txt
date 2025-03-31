@@ -1,6 +1,6 @@
 ﻿10={ 
 	terrain="farmland"
-	trade_goods="wine"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -23,7 +23,7 @@
 
 205={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="salt"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -118,7 +118,7 @@
 
 210={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -156,7 +156,7 @@
 
 212={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -178,7 +178,7 @@
 
 213={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -257,7 +257,7 @@
 
 217={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -295,7 +295,7 @@
 
 219={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -333,7 +333,7 @@
 
 221={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -371,7 +371,7 @@
 
 223={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="glass"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -412,7 +412,7 @@
 
 225={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -507,7 +507,7 @@
 
 230={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -640,7 +640,7 @@
 
 237={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="marble"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -659,7 +659,7 @@
 
 238={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="gems"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -700,7 +700,7 @@
 
 240={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="limestone"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0

@@ -14,6 +14,9 @@ provinces = {
 	305 = { # Galkar
 		great_work=5
 	}
+	822 = { # Spear of Aten
+		great_work=6
+	}
 }
 
 great_work_manager={	
@@ -133,6 +136,30 @@ great_work_manager={
 			great_work_effect_selections={
 				{
 					great_work_effect="gw_effect_governors_palace"
+					great_work_effect_tier = "gw_effect_tier_4"
+				}
+			}
+		}
+		
+		6={
+			ancient_wonder = yes
+			key="spearofaten"
+			great_work_category="building"
+			great_work_state=great_work_state_completed
+			finished_date=1.10.1
+
+			great_work_name={
+				name="wonder_spearofaten"
+			}
+			great_work_components={
+				{
+					great_work_module="wonder_spearofaten"
+				}
+			}
+
+			great_work_effect_selections={
+				{
+					great_work_effect="gw_effect_spearofaten"
 					great_work_effect_tier = "gw_effect_tier_4"
 				}
 			}

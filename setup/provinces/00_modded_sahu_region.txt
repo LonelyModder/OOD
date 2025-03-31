@@ -114,7 +114,7 @@
 
 482={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -269,7 +269,7 @@
 
 490={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -307,7 +307,7 @@
 
 492={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -504,7 +504,7 @@
 
 502={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -618,7 +618,7 @@
 
 508={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -865,7 +865,7 @@
 
 521={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1134,7 +1134,7 @@
 
 535={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -1156,7 +1156,7 @@
 
 536={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -1216,7 +1216,7 @@
 
 539={ 
 	terrain="steppe"
-	trade_goods="spices"
+	trade_goods="woad"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
