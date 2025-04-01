@@ -14,7 +14,7 @@ provinces = {
 	305 = { # Galkar
 		great_work=5
 	}
-	822 = { # Spear of Aten
+	668 = { # Spear of Aten
 		great_work=6
 	}
 }

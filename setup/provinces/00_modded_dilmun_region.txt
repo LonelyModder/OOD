@@ -156,7 +156,7 @@
 
 212={ 
 	terrain="forest"
-	trade_goods="amber"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -219,7 +219,7 @@
 
 215={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -507,7 +507,7 @@
 
 230={ 
 	terrain="forest"
-	trade_goods="amber"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0
@@ -776,7 +776,7 @@
 
 244={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="adilmunite"
 	civilization_value=0

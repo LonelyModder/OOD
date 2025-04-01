@@ -42,7 +42,7 @@
 
 248={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -118,7 +118,7 @@
 
 252={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -159,7 +159,7 @@
 
 254={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -197,7 +197,7 @@
 
 256={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -219,7 +219,7 @@
 
 258={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -238,7 +238,7 @@
 
 259={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -314,7 +314,7 @@
 
 263={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -352,7 +352,7 @@
 
 265={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -371,7 +371,7 @@
 
 266={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -390,7 +390,7 @@
 
 267={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cheese"
 	religion="divineorder_pantheon"
 	culture="zandakite"
 	civilization_value=0
@@ -427,8 +427,8 @@
 }
 
 269={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="forest"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -526,7 +526,7 @@
 
 274={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -564,7 +564,7 @@
 
 276={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -583,7 +583,7 @@
 
 277={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -602,7 +602,7 @@
 
 278={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -621,7 +621,7 @@
 
 279={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="diuili"
 	civilization_value=0
@@ -640,7 +640,7 @@
 
 280={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -659,7 +659,7 @@
 
 281={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="leather"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -678,7 +678,7 @@
 
 282={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -835,8 +835,8 @@
 }
 
 291={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="limestone"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -855,7 +855,7 @@
 
 292={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -874,7 +874,7 @@
 
 293={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -918,7 +918,7 @@
 
 295={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -936,8 +936,8 @@
 }
 
 296={ 
-	terrain="forest"
-	trade_goods="wood"
+	terrain="plains"
+	trade_goods="cheese"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -956,7 +956,7 @@
 
 297={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="buteni"
 	civilization_value=0
@@ -1035,7 +1035,7 @@
 
 301={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="esugan"
 	civilization_value=0
@@ -1054,7 +1054,7 @@
 
 302={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="esugan"
 	civilization_value=0
@@ -1073,7 +1073,7 @@
 
 303={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="esugan"
 	civilization_value=0
@@ -1091,8 +1091,8 @@
 }
 
 304={ 
-	terrain="plains"
-	trade_goods="spices"
+	terrain="hills"
+	trade_goods="limestone"
 	religion="divineorder_pantheon"
 	culture="esugan"
 	civilization_value=0
@@ -1175,7 +1175,7 @@
 
 308={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1213,7 +1213,7 @@
 
 310={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1292,7 +1292,7 @@
 
 314={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1311,7 +1311,7 @@
 
 315={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1330,7 +1330,7 @@
 
 316={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1368,7 +1368,7 @@
 
 318={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1406,7 +1406,7 @@
 
 320={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="izzimite"
 	civilization_value=0
@@ -1428,7 +1428,7 @@
 
 321={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="izzimite"
 	civilization_value=0
@@ -1491,7 +1491,7 @@
 
 324={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="divineorder_pantheon"
 	culture="esugan"
 	civilization_value=0
@@ -1567,7 +1567,7 @@
 
 328={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1605,7 +1605,7 @@
 
 330={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0
@@ -1700,7 +1700,7 @@
 
 335={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fur"
 	religion="divineorder_pantheon"
 	culture="izzimite"
 	civilization_value=0
@@ -1738,7 +1738,7 @@
 
 337={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1836,7 +1836,7 @@
 
 342={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1855,7 +1855,7 @@
 
 343={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="earthware"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1896,7 +1896,7 @@
 
 345={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1915,7 +1915,7 @@
 
 346={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -1972,7 +1972,7 @@
 
 349={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="galkari"
 	civilization_value=0
@@ -2010,7 +2010,7 @@
 
 351={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wool"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2029,7 +2029,7 @@
 
 352={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2048,7 +2048,7 @@
 
 353={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2067,7 +2067,7 @@
 
 354={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2105,7 +2105,7 @@
 
 356={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="olive"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2203,7 +2203,7 @@
 
 361={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2222,7 +2222,7 @@
 
 362={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2241,7 +2241,7 @@
 
 363={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="nazuri"
 	civilization_value=0
@@ -2260,7 +2260,7 @@
 
 364={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2298,7 +2298,7 @@
 
 366={ 
 	terrain="hills"
-	trade_goods="spices"
+	trade_goods="amber"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2361,7 +2361,7 @@
 
 369={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="leather"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2380,7 +2380,7 @@
 
 370={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2399,7 +2399,7 @@
 
 371={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cheese"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2437,7 +2437,7 @@
 
 373={ 
 	terrain="plains"
-	trade_goods="spices"
+	trade_goods="cattle"
 	religion="divineorder_pantheon"
 	culture="urtic"
 	civilization_value=0
@@ -2960,7 +2960,7 @@
 
 405={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="ancient_pantheon"
 	culture="vallakite"
 	civilization_value=0
@@ -3002,7 +3002,7 @@
 
 409={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3021,7 +3021,7 @@
 
 410={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3059,7 +3059,7 @@
 
 432={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3078,7 +3078,7 @@
 
 433={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3100,7 +3100,7 @@
 
 434={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="iron"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3138,7 +3138,7 @@
 
 436={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3157,7 +3157,7 @@
 
 437={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3176,7 +3176,7 @@
 
 438={ 
 	terrain="hall"
-	trade_goods="spices"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3252,7 +3252,7 @@
 
 442={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3274,7 +3274,7 @@
 
 443={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3312,7 +3312,7 @@
 
 445={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3350,7 +3350,7 @@
 
 447={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="precious_metals"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3391,7 +3391,7 @@
 
 449={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3410,7 +3410,7 @@
 
 450={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3448,7 +3448,7 @@
 
 452={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3467,7 +3467,7 @@
 
 453={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3486,7 +3486,7 @@
 
 459={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="hunters"
 	religion="ancient_pantheon"
 	culture="rkubadi"
 	civilization_value=0
@@ -3505,7 +3505,7 @@
 
 460={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3543,7 +3543,7 @@
 
 468={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3562,7 +3562,7 @@
 
 469={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
@@ -3619,7 +3619,7 @@
 
 474={ 
 	terrain="cave"
-	trade_goods="spices"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
 	culture="kalmari"
 	civilization_value=0
