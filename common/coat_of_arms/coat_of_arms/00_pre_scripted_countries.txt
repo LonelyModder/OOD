@@ -51,6 +51,28 @@ Eye_of_Ra = { #Salgar
 	}
 }
 
+ABI = { #Lower Salgar
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 224 160 49 }
+	color2 = rgb { 224 160 49 }
+
+	colored_emblem = {
+		texture = "ce_scorpion.dds"
+		color1 = "pitch_black"
+	}
+}
+
+ABK = { #Upper Salgar
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 224 160 49 }
+	color2 = rgb { 224 160 49 }
+
+	colored_emblem = {
+		texture = "ce_scorpion.dds"
+		color1 = rgb { 101 102 101 }
+	}
+}
+
 AAE = { #Kurgun
 	pattern = "pattern_solid.tga"
 	color1 = "bone_white"

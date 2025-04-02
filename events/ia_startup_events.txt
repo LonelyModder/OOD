@@ -51,6 +51,9 @@ nbw_startup.4 = { #Kengiri
     desc = nbw_startup.4.desc
     picture = welcoming_window_4
 	
+	left_portrait=c:AAE.current_ruler
+	right_portrait=c:AAW.current_ruler
+	
     trigger = {
 		country_culture_group = kengiri
     }
@@ -65,6 +68,9 @@ nbw_startup.5 = { #Salgari
     title = nbw_startup.5.t
     desc = nbw_startup.5.desc
     picture = welcoming_window_5
+	
+	left_portrait=c:ABI.current_ruler
+	right_portrait=c:ABK.current_ruler
 	
     trigger = {
 		country_culture_group = salgari
@@ -134,5 +140,11 @@ nbw_startup.9 = { #Urten
 
     option = {    
         name = nbw_startup.9.a
+		c:AAW={ 
+			add_country_modifier = { 
+				name = lepontic_invasion_modifier
+				duration = 3650 # 10 years
+			}
+		}
     }
 }

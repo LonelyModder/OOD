@@ -607,7 +607,7 @@ country = {
 		}
 		
 		ABD = {   
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = mhajari
 			religion = divineorder_pantheon
 			capital = 700
@@ -618,7 +618,7 @@ country = {
 		}
 		
 		ABE = {   
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = mhajari
 			religion = divineorder_pantheon
 			capital = 695
@@ -629,7 +629,7 @@ country = {
 		}
 		
 		ABF = {   
-			government = tribal_kingdom
+			government = despotic_monarchy
 			primary_culture = mhajari
 			religion = divineorder_pantheon
 			capital = 690

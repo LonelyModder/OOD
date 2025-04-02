@@ -1153,7 +1153,7 @@
 
 307={ 
 	terrain="plains"
-	trade_goods="earthware"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
 	culture="nanumi"
 	civilization_value=0

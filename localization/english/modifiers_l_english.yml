@@ -3690,6 +3690,8 @@
  desc_sed_festival_med:1 "A recent Sed festival of a respectable scale has left the populace in good spirits."
  sed_festival_huge:0 "Massive Sed Festival"
  desc_sed_festival_huge:1 "The populace is still nursing the hangover of one of the most spectacular Sed festivals in recorded history."
+ lepontic_invasion_modifier:0 "Annitas Invasion"
+ desc_lepontic_invasion_modifier:1 "Annitas, the great leader of the Urtenites Invaded the Kingdom of Kurgun seeking safe home for his people."
  fanatical_culture:0 "Fanatics"
  desc_fanatical_culture:1 "Due to religious, cultural reasons or constant threat, the culture of this country has developed a militarized society. The army is one of the pillars there and service is a duty. As the saying goes, in this case the army has a country, not the other way around."
  militarized_culture:0 "Militarised culture"
