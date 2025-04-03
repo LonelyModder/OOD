@@ -431,9 +431,6 @@
 		Nama-zzani-Nubadig.Nama-zzani-Nubadig.Nama-zzani-Nubadig.Nama-zzani-Nubadig
 	}
 	culture = {
-		wgardu = {}
-		bgardu = {}
-		blgardu = {}
 		rgardu = {}
 		
 	}

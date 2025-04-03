@@ -333,33 +333,33 @@ entity = {
 	default_state = "idle"
 	state = {
 		name = "idle"
-    	animation = "idle_2_base_animation"
+    	animation = "idle_1_base_animation"
 		looping = no
 		chance = 5
 		next_state = "idle"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = THE_RIG:world_node_1 entity = "troy_shield_01_entity" }
     }
 	state = {
 		name = "idle"
-    	animation = "idle_2_var_1_animation"
+    	animation = "idle_1_var_1_animation"
 		looping = no
 		chance = 1
 		next_state = "idle"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = THE_RIG:world_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "move"
-    	animation = "moving_2_animation"
+    	animation = "moving_1_animation"
     	start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "force_march"
-    	animation = "force_march_2_animation"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" }
+    	animation = "force_march_1_animation"
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = THE_RIG:back_node_1 entity = "troy_shield_01_entity" }
 		start_event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_generic_walk"}}
     }
@@ -459,14 +459,14 @@ entity = {
     }
     state = {
     	name = "combat_ready"
-    	animation = "combat_ready_2"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" }
+    	animation = "combat_ready_1"
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "army_drill"
-    	animation = "army_drill_2_animation"
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = army_drill}
+    	animation = "army_drill_1_animation"
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = army_drill}
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
 		start_event = { node = THE_RIG:root entity = "italian_drill_post_entity" state = attack }
 		event = { sound = { soundeffect = "event:/SFX/Animations/Units/Generic/sfx_anim_unit_drill2"}}
@@ -482,101 +482,101 @@ entity = {
 	##############
     state = {
     	name = "offensive_successful"
-    	animation = "weapon_2_offensive_successful"
+    	animation = "weapon_1_offensive_successful"
 	#	animation_blend_time = 0.3
 		chance = 1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_successful }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_successful }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_dodge"
-    	animation = "weapon_2_offensive_dodge"
+    	animation = "weapon_1_offensive_dodge"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_dodge }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_dodge }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_block"
-    	animation = "weapon_2_offensive_block"
+    	animation = "weapon_1_offensive_block"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_block }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_block }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_counter"
-    	animation = "weapon_2_offensive_counter"
+    	animation = "weapon_1_offensive_counter"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_counter }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_counter }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
 	
 	### Alternative attacks (slash) ###
     state = {
     	name = "offensive_successful"
-    	animation = "weapon_2_alt_offensive_successful"
+    	animation = "weapon_1_alt_offensive_successful"
 	#	animation_blend_time = 0.3
 		chance = 1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_successful_alt }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_successful_alt }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_dodge"
-    	animation = "weapon_2_alt_offensive_dodge"
+    	animation = "weapon_1_alt_offensive_dodge"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_dodge_alt }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_dodge_alt }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_block"
-    	animation = "weapon_2_alt_offensive_block"
+    	animation = "weapon_1_alt_offensive_block"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_block_alt }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_block_alt }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_counter"
-    	animation = "weapon_2_alt_offensive_counter"
+    	animation = "weapon_1_alt_offensive_counter"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_counter_alt }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_counter_alt }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
 	
     state = {
     	name = "offensive_sequence_1"
-    	animation = "weapon_2_offensive_sequence_1"
+    	animation = "weapon_1_offensive_sequence_1"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_sequence_1 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_1 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_sequence_2"
-    	animation = "weapon_2_offensive_sequence_2"
+    	animation = "weapon_1_offensive_sequence_2"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_sequence_2 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_2 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_sequence_3"
-    	animation = "weapon_2_offensive_sequence_3"
+    	animation = "weapon_1_offensive_sequence_3"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" attachment_id = "main_weapon" state = offensive_sequence_3 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" state = offensive_sequence_3 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
-		event = { time = 4.18 node = THE_RIG:world_node_1 entity = "ROM_sword_entity" attachment_id = "main_weapon" life = 2.88 }
-		event = { time = 7.05 node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" attachment_id = "main_weapon" life = 0.95 }
+		event = { time = 4.18 node = THE_RIG:world_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" life = 2.88 }
+		event = { time = 7.05 node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" attachment_id = "main_weapon" life = 0.95 }
 		event = { time = 7.95 remove_attachment = "main_weapon" }
     }
     state = {
     	name = "offensive_sequence_4"
-    	animation = "weapon_2_offensive_sequence_4"
+    	animation = "weapon_1_offensive_sequence_4"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_sequence_4 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_4 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "offensive_sequence_5"
-    	animation = "weapon_2_offensive_sequence_5"
+    	animation = "weapon_1_offensive_sequence_5"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = offensive_sequence_5 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = offensive_sequence_5 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
 	
@@ -587,66 +587,66 @@ entity = {
 	##############
     state = {
     	name = "defensive_hit"
-    	animation = "weapon_2_defensive_hit"
+    	animation = "weapon_1_defensive_hit"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_hit }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_hit }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_dodge"
-    	animation = "weapon_2_defensive_dodge"
+    	animation = "weapon_1_defensive_dodge"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_dodge }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_dodge }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_block"
-    	animation = "weapon_2_defensive_block"
+    	animation = "weapon_1_defensive_block"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_block }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_block }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_counter"
-    	animation = "weapon_2_defensive_counter"
+    	animation = "weapon_1_defensive_counter"
 	#	animation_blend_time = 0.3
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_counter }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_counter }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
 	
     state = {
     	name = "defensive_sequence_1"
-    	animation = "weapon_2_defensive_sequence_1"
+    	animation = "weapon_1_defensive_sequence_1"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_sequence_1 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_1 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_sequence_2"
-    	animation = "weapon_2_defensive_sequence_2"
+    	animation = "weapon_1_defensive_sequence_2"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_sequence_2 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_2 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_sequence_3"
-    	animation = "weapon_2_defensive_sequence_3"
+    	animation = "weapon_1_defensive_sequence_3"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_sequence_3 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_3 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_sequence_4"
-    	animation = "weapon_2_defensive_sequence_4"
+    	animation = "weapon_1_defensive_sequence_4"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_sequence_4 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_4 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
     state = {
     	name = "defensive_sequence_5"
-    	animation = "weapon_2_defensive_sequence_5"
+    	animation = "weapon_1_defensive_sequence_5"
 	#	animation_blend_time = 0.1
-		start_event = { node = THE_RIG:Right_hand_node_1 entity = "ROM_sword_entity" state = defensive_sequence_5 }
+		start_event = { node = THE_RIG:Right_hand_node_1 entity = "egyptian_spear_01_entity" state = defensive_sequence_5 }
 		start_event = { node = THE_RIG:Left_hand_node_1 entity = "troy_shield_01_entity" }
     }
 	

@@ -10,11 +10,15 @@ ports = "ports.csv"
 climate = "climate.txt"
 
 #Seazones, list:
-sea_zones = RANGE { 5 133 }
-impassable_terrain = RANGE { 185 191 }  
-impassable_terrain = RANGE { 371 396 } 
-impassable_terrain = LIST { 568 649 650 686 687 688 743 744 4 751 }
+sea_zones = RANGE { 4 9 }
+sea_zones = RANGE { 11 143 }
+river_provinces = RANGE { 144 204 }
+river_provinces = RANGE { 411 430 }
+impassable_terrain = LIST { 245 400 401 402 403 404 462 463 464 465 466 475 407 541 542 
+							543 544 545 671 672 673 674 675 676 677 701 734 735 406 787 
+							788 835 }  
 wasteland = LIST { 1 2 3 }
 lakes = LIST {  }
-river_provinces = RANGE { 134 183 }
+
+
 

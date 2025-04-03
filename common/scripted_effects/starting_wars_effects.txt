@@ -1,19 +1,29 @@
-﻿besarabic_war_conflict_effect = {
-	c:CBP = {
-		add_alliance = CBO
-		add_alliance = CCB
-		add_alliance = CCD
+﻿urtenite_invasion = {
+	c:AAW = {
+		add_alliance = AAJ
+		add_alliance = AAB
+		add_alliance = AAC
 	} 
-	c:CCE = {
+	c:AAE = {
 		declare_war_with_wargoal = {
 			war_goal = conquer_wargoal
-		    province = p:1618
-			target = c:CBP
+		    province = p:323
+			target = c:AAW
 		}
 	}
-	c:CBP = {
-		break_alliance = CBO
-		break_alliance = CCB
-		break_alliance = CCD
+	c:AAW = {
+		break_alliance = AAJ
+		break_alliance = AAB
+		break_alliance = AAC
+	} 
+}
+
+salgari_civil_war = {
+	c:ABK = {
+		declare_war_with_wargoal = {
+			war_goal = conquer_wargoal
+		    province = p:549
+			target = c:ABI
+		}
 	} 
 }

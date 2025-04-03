@@ -1,281 +1,31 @@
-﻿184={ 
-	terrain="hills"
-	trade_goods="glass"
+﻿10={ 
+	terrain="farmland"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=3
+		amount=4
 	}
 	citizen={
 		amount=12
 	}
 	freemen={
-		amount=10
+		amount=6
 	}
 	slaves={
-		amount=5
+		amount=3
 	}
 	holy_site="omen_anu"
 }
 
-192={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-193={ 
-	terrain="farmland"
-	trade_goods="wine"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-194={ 
-	terrain="plains"
-	trade_goods="wild_game"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-195={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-196={ 
-	terrain="forest"
-	trade_goods="fish"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-197={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-198={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-199={ 
-	terrain="plains"
-	trade_goods="fish"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-200={ 
-	terrain="plains"
-	trade_goods="cattle"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-201={ 
-	terrain="farmland"
-	trade_goods="cloth"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=10
-	}
-	freemen={
-		amount=8
-	}
-	slaves={
-		amount=4
-	}
-}
-
-202={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="divineorder_pantheon"
-	culture="shedrenite"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-203={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="divineorder_pantheon"
-	culture="annuni"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-204={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="divineorder_pantheon"
-	culture="shedrenite"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
 205={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="salt"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -292,9 +42,9 @@
 
 206={ 
 	terrain="forest"
-	trade_goods="amber"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -311,32 +61,28 @@
 
 207={ 
 	terrain="forest"
-	trade_goods="dye"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=3
-	}
+	province_rank="settlement"
 	citizen={
-		amount=12
+		amount=1
 	}
 	freemen={
-		amount=10
+		amount=4
 	}
 	slaves={
-		amount=5
+		amount=1
 	}
-	holy_site="omen_taltal"
 }
 
 208={ 
 	terrain="forest"
-	trade_goods="fish"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -352,32 +98,29 @@
 }
 
 209={ 
-	terrain="farmland"
-	trade_goods="cloth"
+	terrain="forest"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
+	province_rank="settlement"
+	citizen={
 		amount=1
 	}
-	citizen={
-		amount=8
-	}
 	freemen={
-		amount=6
+		amount=4
 	}
 	slaves={
-		amount=4
+		amount=1
 	}
 }
 
 210={ 
 	terrain="forest"
-	trade_goods="woad"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -394,9 +137,9 @@
 
 211={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="honey"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -413,28 +156,31 @@
 
 212={ 
 	terrain="forest"
-	trade_goods="woad"
+	trade_goods="cloth"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 213={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -450,29 +196,32 @@
 }
 
 214={ 
-	terrain="forest"
-	trade_goods="hemp"
+	terrain="hills"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 215={ 
-	terrain="forest"
+	terrain="hills"
 	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -488,10 +237,10 @@
 }
 
 216={ 
-	terrain="forest"
-	trade_goods="hemp"
+	terrain="farmland"
+	trade_goods="wine"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -508,9 +257,9 @@
 
 217={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -526,10 +275,10 @@
 }
 
 218={ 
-	terrain="forest"
-	trade_goods="wood"
+	terrain="farmland"
+	trade_goods="grain"
 	religion="divineorder_pantheon"
-	culture="iltanite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -546,9 +295,9 @@
 
 219={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -565,9 +314,9 @@
 
 220={ 
 	terrain="forest"
-	trade_goods="wild_game"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -583,10 +332,10 @@
 }
 
 221={ 
-	terrain="plains"
-	trade_goods="horses"
+	terrain="forest"
+	trade_goods="honey"
 	religion="divineorder_pantheon"
-	culture="annuni"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -605,7 +354,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -622,28 +371,31 @@
 
 223={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="glass"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 224={ 
 	terrain="forest"
-	trade_goods="hemp"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -660,9 +412,9 @@
 
 225={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="hemp"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -679,9 +431,9 @@
 
 226={ 
 	terrain="forest"
-	trade_goods="wild_game"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -700,7 +452,7 @@
 	terrain="forest"
 	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,9 +469,9 @@
 
 228={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -736,9 +488,9 @@
 
 229={ 
 	terrain="forest"
-	trade_goods="woad"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -755,9 +507,9 @@
 
 230={ 
 	terrain="forest"
-	trade_goods="wood"
+	trade_goods="dye"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -773,10 +525,10 @@
 }
 
 231={ 
-	terrain="hills"
-	trade_goods="fish"
+	terrain="forest"
+	trade_goods="wood"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -793,9 +545,9 @@
 
 232={ 
 	terrain="hills"
-	trade_goods="stone"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="shedrenite"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -814,7 +566,7 @@
 	terrain="mountain"
 	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -830,32 +582,29 @@
 }
 
 234={ 
-	terrain="hills"
-	trade_goods="glass"
+	terrain="mountain"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
+	province_rank="settlement"
+	citizen={
 		amount=1
 	}
-	citizen={
-		amount=10
-	}
 	freemen={
-		amount=8
+		amount=4
 	}
 	slaves={
-		amount=4
+		amount=1
 	}
 }
 
 235={ 
 	terrain="hills"
-	trade_goods="limestone"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -871,33 +620,29 @@
 }
 
 236={ 
-	terrain="forest"
-	trade_goods="earthware"
+	terrain="hills"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="city"
-	nobles={
+	province_rank="settlement"
+	citizen={
 		amount=1
 	}
-	citizen={
-		amount=8
-	}
 	freemen={
-		amount=6
-	}
-	slaves={
 		amount=4
 	}
-	holy_site="omen_nam"
+	slaves={
+		amount=1
+	}
 }
 
 237={ 
-	terrain="forest"
-	trade_goods="wood"
+	terrain="hills"
+	trade_goods="marble"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -913,10 +658,10 @@
 }
 
 238={ 
-	terrain="forest"
-	trade_goods="fish"
+	terrain="hills"
+	trade_goods="gems"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -932,29 +677,32 @@
 }
 
 239={ 
-	terrain="forest"
-	trade_goods="wild_game"
+	terrain="hills"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="ishan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=8
 	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
 240={ 
-	terrain="forest"
-	trade_goods="leather"
+	terrain="hills"
+	trade_goods="limestone"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -970,10 +718,10 @@
 }
 
 241={ 
-	terrain="forest"
-	trade_goods="wood"
+	terrain="hills"
+	trade_goods="fish"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -989,10 +737,10 @@
 }
 
 242={ 
-	terrain="forest"
-	trade_goods="salt"
+	terrain="hills"
+	trade_goods="iron"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,10 +756,10 @@
 }
 
 243={ 
-	terrain="mountain"
-	trade_goods="iron"
+	terrain="hills"
+	trade_goods="stone"
 	religion="divineorder_pantheon"
-	culture="chekkan"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1028,304 +776,9 @@
 
 244={ 
 	terrain="hills"
-	trade_goods="dye"
+	trade_goods="wild_game"
 	religion="divineorder_pantheon"
-	culture="chekkan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=10
-	}
-	freemen={
-		amount=8
-	}
-	slaves={
-		amount=4
-	}
-}
-
-245={ 
-	terrain="mountain"
-	trade_goods="stone"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-246={ 
-	terrain="hills"
-	trade_goods="amber"
-	religion="divineorder_pantheon"
-	culture="chekkan"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-247={ 
-	terrain="hills"
-	trade_goods="iron"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-248={ 
-	terrain="hills"
-	trade_goods="limestone"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-249={ 
-	terrain="hills"
-	trade_goods="stone"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-250={ 
-	terrain="mountain"
-	trade_goods="iron"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-251={ 
-	terrain="farmland"
-	trade_goods="grain"
-	religion="divineorder_pantheon"
-	culture="iltanite"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=10
-	}
-	freemen={
-		amount=8
-	}
-	slaves={
-		amount=4
-	}
-}
-
-252={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="divineorder_pantheon"
-	culture="iltanite"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-253={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="divineorder_pantheon"
-	culture="iltanite"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-254={ 
-	terrain="forest"
-	trade_goods="wood"
-	religion="divineorder_pantheon"
-	culture="iltanite"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-255={ 
-	terrain="mountain"
-	trade_goods="stone"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-256={ 
-	terrain="hills"
-	trade_goods="dye"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=1
-	}
-	citizen={
-		amount=8
-	}
-	freemen={
-		amount=6
-	}
-	slaves={
-		amount=4
-	}
-	holy_site="omen_galzu"
-}
-
-257={ 
-	terrain="hills"
-	trade_goods="amber"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-258={ 
-	terrain="plains"
-	trade_goods="cattle"
-	religion="divineorder_pantheon"
-	culture="amaran"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-259={ 
-	terrain="hills"
-	trade_goods="tin"
-	religion="divineorder_pantheon"
-	culture="amaran"
+	culture="adilmunite"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"

@@ -1,6 +1,6 @@
-﻿603={ 
-	terrain="desert"
-	trade_goods="leather"
+﻿476={ 
+	terrain="forest"
+	trade_goods="wood"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -17,11 +17,106 @@
 	}
 }
 
-604={ 
+477={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+478={ 
+	terrain="steppe"
+	trade_goods="fur"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+479={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+480={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+481={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+482={ 
 	terrain="steppe"
 	trade_goods="hemp"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -36,11 +131,49 @@
 	}
 }
 
-605={ 
+483={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+484={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+485={ 
 	terrain="steppe"
 	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -55,49 +188,11 @@
 	}
 }
 
-606={ 
-	terrain="steppe"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-607={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-608={ 
+486={ 
 	terrain="steppe"
 	trade_goods="woad"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -112,30 +207,11 @@
 	}
 }
 
-609={ 
+487={ 
 	terrain="steppe"
 	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-610={ 
-	terrain="steppe"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -153,203 +229,10 @@
 	}
 }
 
-611={ 
-	terrain="steppe"
-	trade_goods="hemp"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-612={ 
-	terrain="desert"
-	trade_goods="fur"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-613={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-614={ 
-	terrain="desert"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-615={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-616={ 
-	terrain="desert"
-	trade_goods="fur"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-617={ 
-	terrain="steppe"
-	trade_goods="cattle"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-618={ 
-	terrain="steppe"
-	trade_goods="cattle"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-619={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=8
-	}
-	slaves={
-		amount=4
-	}
-}
-
-620={ 
+488={ 
 	terrain="steppe"
 	trade_goods="horses"
 	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-714={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
@@ -365,87 +248,11 @@
 	}
 }
 
-715={ 
-	terrain="desert"
-	trade_goods="leather"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-716={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-689={ 
-	terrain="steppe"
-	trade_goods="fur"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-690={ 
-	terrain="steppe"
-	trade_goods="hemp"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-691={ 
+489={ 
 	terrain="steppe"
 	trade_goods="horses"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -460,128 +267,11 @@
 	}
 }
 
-621={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-622={ 
-	terrain="steppe"
-	trade_goods="fish"
-	religion="khorism_pantheon"
-	culture="wgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-623={ 
-	terrain="steppe"
-	trade_goods="cattle"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-624={ 
-	terrain="steppe"
-	trade_goods="fish"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-625={ 
-	terrain="steppe"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-626={ 
-	terrain="steppe"
-	trade_goods="fish"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-692={ 
+490={ 
 	terrain="steppe"
 	trade_goods="woad"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -596,11 +286,11 @@
 	}
 }
 
-693={ 
+491={ 
 	terrain="steppe"
-	trade_goods="wool"
+	trade_goods="wild_game"
 	religion="khorism_pantheon"
-	culture="wgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -615,8 +305,186 @@
 	}
 }
 
-694={ 
-	terrain="desert"
+492={ 
+	terrain="steppe"
+	trade_goods="hemp"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+493={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+494={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+495={ 
+	terrain="steppe"
+	trade_goods="fish"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+496={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+497={ 
+	terrain="steppe"
+	trade_goods="leather"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+498={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+499={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+500={ 
+	terrain="steppe"
+	trade_goods="horses"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=6
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+	holy_site="omen_oathkeeper"
+}
+
+501={ 
+	terrain="steppe"
 	trade_goods="horses"
 	religion="khorism_pantheon"
 	culture="rgardu"
@@ -634,261 +502,11 @@
 	}
 }
 
-695={ 
-	terrain="desert"
-	trade_goods="wool"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-696={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-717={ 
-	terrain="desert"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-721={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-722={ 
-	terrain="desert"
-	trade_goods="cheese"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-723={ 
-	terrain="desert"
-	trade_goods="leather"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-750={ 
-	terrain="desert"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-739={ 
-	terrain="desert"
-	trade_goods="leather"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-742={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-718={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-719={ 
-	terrain="desert"
-	trade_goods="leather"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-701={ 
-	terrain="desert"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-698={ 
-	terrain="desert"
-	trade_goods="leather"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-627={ 
+502={ 
 	terrain="steppe"
 	trade_goods="woad"
 	religion="khorism_pantheon"
-	culture="bgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -903,11 +521,106 @@
 	}
 }
 
-628={ 
+503={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+504={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+505={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+506={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+507={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+508={ 
 	terrain="steppe"
 	trade_goods="hemp"
 	religion="khorism_pantheon"
-	culture="bgardu"
+	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -922,85 +635,9 @@
 	}
 }
 
-629={ 
+509={ 
 	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-697={ 
-	terrain="steppe"
-	trade_goods="fur"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-699={ 
-	terrain="steppe"
-	trade_goods="cattle"
-	religion="khorism_pantheon"
-	culture="bgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-630={ 
-	terrain="steppe"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-700={ 
-	terrain="desert"
-	trade_goods="fur"
+	trade_goods="leather"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1017,8 +654,65 @@
 	}
 }
 
-702={ 
-	terrain="desert"
+510={ 
+	terrain="steppe"
+	trade_goods="woad"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+511={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+512={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+513={ 
+	terrain="steppe"
 	trade_goods="fur"
 	religion="khorism_pantheon"
 	culture="rgardu"
@@ -1036,165 +730,10 @@
 	}
 }
 
-703={ 
-	terrain="desert"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-631={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-632={ 
+514={ 
 	terrain="steppe"
 	trade_goods="horses"
 	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-633={ 
-	terrain="steppe"
-	trade_goods="cattle"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-634={ 
-	terrain="steppe"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-635={ 
-	terrain="steppe"
-	trade_goods="hemp"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-636={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-637={ 
-	terrain="steppe"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-704={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
@@ -1210,65 +749,8 @@
 	}
 }
 
-705={ 
-	terrain="desert"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-706={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-707={ 
-	terrain="desert"
-	trade_goods="camel"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-708={ 
-	terrain="desert"
+515={ 
+	terrain="steppe"
 	trade_goods="wool"
 	religion="khorism_pantheon"
 	culture="rgardu"
@@ -1286,160 +768,8 @@
 	}
 }
 
-709={ 
+516={ 
 	terrain="steppe"
-	trade_goods="leather"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-638={ 
-	terrain="steppe"
-	trade_goods="cattle"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-639={ 
-	terrain="steppe"
-	trade_goods="woad"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-640={ 
-	terrain="steppe"
-	trade_goods="hemp"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-641={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-642={ 
-	terrain="steppe"
-	trade_goods="horses"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-643={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-710={ 
-	terrain="steppe"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="blgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-
-711={ 
-	terrain="desert"
 	trade_goods="camel"
 	religion="khorism_pantheon"
 	culture="rgardu"
@@ -1457,9 +787,436 @@
 	}
 }
 
-712={ 
-	terrain="desert"
+517={ 
+	terrain="steppe"
+	trade_goods="hemp"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+518={ 
+	terrain="steppe"
+	trade_goods="camel"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+519={ 
+	terrain="steppe"
+	trade_goods="wool"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+520={ 
+	terrain="steppe"
+	trade_goods="horses"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+521={ 
+	terrain="steppe"
+	trade_goods="hemp"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+522={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+523={ 
+	terrain="steppe"
+	trade_goods="fish"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+524={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+525={ 
+	terrain="steppe"
+	trade_goods="camel"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+526={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+527={ 
+	terrain="steppe"
+	trade_goods="horses"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+528={ 
+	terrain="steppe"
+	trade_goods="wild_game"
+	religion="khorism_pantheon"
+	culture="rgardu"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+529={ 
+	terrain="cave"
+	trade_goods="leather"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+530={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+531={ 
+	terrain="cave"
+	trade_goods="hunters"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+532={ 
+	terrain="cave"
 	trade_goods="fur"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+533={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+534={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+535={ 
+	terrain="cave"
+	trade_goods="precious_metals"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+536={ 
+	terrain="cave"
+	trade_goods="hunters"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+537={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+538={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+539={ 
+	terrain="steppe"
+	trade_goods="woad"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
@@ -1476,14 +1233,17 @@
 	}
 }
 
-713={ 
-	terrain="desert"
+540={ 
+	terrain="steppe"
 	trade_goods="wild_game"
 	religion="khorism_pantheon"
 	culture="rgardu"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1494,23 +1254,3 @@
 		amount=1
 	}
 }
-
-720={ 
-	terrain="desert"
-	trade_goods="wild_game"
-	religion="khorism_pantheon"
-	culture="rgardu"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=4
-	}
-	slaves={
-		amount=1
-	}
-}
-

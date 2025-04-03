@@ -39,15 +39,8 @@
 		Samani-Ea.Samani-Ea.Samani-Ea.Samani-Ea 	
 	}
 	culture = {
-		maladhamn = {}
-		radahite = {}
-		adiri = {}
-		dohali = {}
-		ziluhi = {}
-		jabari = {}
-		karza = {}
-		thyleni = {}
-		adranu = {}
+		mhajari = {}
+		msaharic = {}
 	}
 	
 	barbarian_names = { 

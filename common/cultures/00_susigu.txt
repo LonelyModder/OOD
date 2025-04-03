@@ -58,9 +58,11 @@
 		Kuwadar.Kuwadar.Kuwadar.Kuwadar 
 	}
 	culture = {
-		skurgunic = {}
-		zaranite = {}
-		nqusulite = {}
+		urtic = {}
+		hasarmite = {}
+		takuhilic = {}
+		esugan = {}
+		kalmari = {}
 	}
 	
 	barbarian_names = { INSUBRES LINGONES TAURINI ALLOBROGES CADURCI BITURIGES LEUCI LEXOVII NAMNETES NITIOBROGES OSISMII RAURACI SALLUVII TRIBOCI }

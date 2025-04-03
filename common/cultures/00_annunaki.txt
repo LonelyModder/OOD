@@ -47,12 +47,10 @@
 		Ishu-Inanna.Ishu-Inanna.Ishu-Inanna.Ishu-Inanna 
 	}
 	culture = {
-		annuni = {}
-		shedrenite = {}
-		chekkan = {}
-		ishan = {}
-		amaran = {}
-		iltanite = {}
+		adilmunite = {}
+		akurgunic = {}
+		asaharic = {}
+		anumuni = {}
 		#new
 	}
 	

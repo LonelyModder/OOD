@@ -62,27 +62,27 @@ family={
 		#Current first free ID is 90.
 		#Roman Families on Start:
 		1={
-			key="Grey-Scorpions"
-			owner=ABK
-			culture = amsouran
-			prestige=300
-		}
-		2={
 			key="Urur"
 			owner=AAE
 			culture = galkari
 			prestige=300
 		}
+		2={
+			key="Black-Scorpions"
+			owner=ABI
+			culture = menran
+			prestige=300
+		}
 		3={
-			key="Attaniya"
-			owner=AAJ
-			culture = skurgunic
+			key="Grey-Scorpions"
+			owner=ABK
+		    culture = amsouran
 			prestige=300
 		}
 		4={
-			key="Black-Scorpions"
-			owner=ABI
-			culture = amsouran
+			key="Attaniya"
+			owner=AAJ
+			culture = urtic
 			prestige=300
 		}
 		
@@ -94,164 +94,90 @@ diplomacy = {
 
 provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
-	184 = { # Nisaba
+	10 = { # Nisaba
 		treasure_slots = { 	treasures = { 1 5 } }
 	}
-	457 = { # Deoraith
+	405 = { # Thorduar
 		treasure_slots = { 	treasures = { 2 } }
 	}
-	480 = { # Menre
+	549 = { # Menre
 		treasure_slots = { 	treasures = { 3 } }
 	}
-	506 = { # Amsouru
+	604 = { # Amsouru
 		treasure_slots = { 	treasures = { 4 } }
 	}
-	260 = { # Galkar
+	305 = { # Galkar
 		treasure_slots = { 	treasures = { 6 } }
 	}
-	278 = { # Irkalla
+	246 = { # Irkalla
 		treasure_slots = { 	treasures = { 7 } }
 	}
 
 	#Pirates
-	
+	710 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	700 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	690 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	367 = { modifier = { modifier = pirate_haven_modifier always = yes } }
+	722 = { modifier = { modifier = pirate_haven_modifier always = yes } }
 	
 	#Buildings
-	184 = { port_building = 2 }
-	256 = { port_building = 2 }
-	275 = { port_building = 2 }
-	207 = { port_building = 2 }
-	251 = { port_building = 2 }
-	244 = { port_building = 2 }
-	234 = { port_building = 2 }
-	209 = { port_building = 1 }
-	480 = { port_building = 1 }
-	260 = { port_building = 1 }
-	270 = { port_building = 1 }
-	319 = { port_building = 1 }
-	327 = { port_building = 1 }
-	492 = { port_building = 1 }
-	487 = { port_building = 1 }
-	489 = { port_building = 1 }
-	565 = { port_building = 1 }
-	351 = { port_building = 1 }
-	534 = { port_building = 1 }
-	581 = { port_building = 1 }
-	278 = { port_building = 1 }
-	497 = { port_building = 1 }
-	558 = { port_building = 1 }
-	345 = { port_building = 1 }
-	508 = { port_building = 1 }
-	515 = { port_building = 1 }
-	560 = { port_building = 1 }
-	369 = { port_building = 1 }
-	363 = { port_building = 1 }
-	265 = { port_building = 1 }
-	284 = { port_building = 2 }
-	201 = { port_building = 2 }
-	292 = { fortress_building = 1 }
-	284 = { fortress_building = 1 }
-	736 = { fortress_building = 1 }
-	483 = { fortress_building = 1 }
-	331 = { 
-			port_building = 2
-			fortress_building = 1 
-		  }
-	506 = { 
-			port_building = 1
-			fortress_building = 1 
-	 	  }
+	10 = { port_building = 2  }
+	722 = { port_building = 1  }
+	727 = { port_building = 2  }
+	736 = { port_building = 2  }
+	397 = { port_building = 2  }
+	212 = { port_building = 2  }
+	239 = { port_building = 2  }
+	223 = { port_building = 2  }
+	214 = { port_building = 2  }
+	305 = { port_building = 1  }
+	549 = { port_building = 1  }
+	705 = { port_building = 1  }
+	708 = { port_building = 1  }
+	710 = { port_building = 1  }
+	700 = { port_building = 1  }
+	690 = { port_building = 1  }
+	695 = { port_building = 1  }
+	551 = { port_building = 1  }
+	253 = { port_building = 1  }
+	604 = { port_building = 1  }
+	645 = { port_building = 1  }
+	340 = { port_building = 1  }
+	343 = { port_building = 1  }
+	246 = { fortress_building = 1 }
+	256 = { fortress_building = 1 }
+	343 = { fortress_building = 1 }
+	294 = { fortress_building = 1 }
+	575 = { fortress_building = 1 }
+	592 = { fortress_building = 1 }
+	613 = { fortress_building = 1 }
+	546 = { fortress_building = 1 }
+	247 = { port_building = 1 }
+	367 = { port_building = 1  }
 	#Passes
 	233 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	243 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	245 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	250 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	399 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	406 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	409 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	412 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	411 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	423 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	426 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	431 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	433 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	435 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	439 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	440 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	442 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	522 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	528 = { modifier = { modifier = lesser_pass_modifier always = yes } }
-	########################################
+	234 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	382 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	327 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	289 = { modifier = { modifier = lesser_pass_modifier always = yes } }
+	288 = { modifier = { modifier = lesser_pass_modifier always = yes } }
 	# Barbarian Spawn Spots
 	########################################
-	395 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	389 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	384 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	380 = { modifier = { modifier = generic_barbarian_spawn_place } }
-	375 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	462 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	475 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	463 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	464 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	465 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	545 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	544 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	787 = { modifier = { modifier = generic_barbarian_spawn_place } }
+	788 = { modifier = { modifier = generic_barbarian_spawn_place } }
 }
 
 road_network = {
 	#Dilmun
-	184=193
-	193=195
-	209=198
-	197=198
-	197=199 
-	199=201
-	201=202
-	202=205 
-	205=207
-	207=230
-	230=231
-	231=232
-	232=234
-	234=233
-	233=228
-	228=225
-	225=236
-	236=239
-	239=240
-	240=244
-	244=246
-	246=247
-	247=248
-	248=249
-	249=256
-	257=258
-	258=254
-	254=251
-	211=251
-	212=211
-	212=195
-	222=240
-	222=209
-	236=210
-	210=203
-	203=201
-	#Kurgun
-	287=260
-	260=291
-	291=292
-	287=286
-	286=284
-	335=333
-	333=332
-	332=331
-	335=336
-	351=362
-	362=363
-	364=365
-	363=364
-	365=366
-	364=365
-	366=359
-	359=369
-	284=280
-	280=279
-	279=278
-	278=277
-	277=275
+	#184=193
+	
 }
 
 country = {
@@ -263,9 +189,9 @@ country = {
 		#Dilmun
 		AAA = {          
 			government = theocratic_monarchy
-			primary_culture = annuni
+			primary_culture = adilmunite
 			religion = divineorder_pantheon
-			capital = 184
+			capital = 10
 			
 			technology={
 				military_tech={ level=3 progress=0 }
@@ -275,71 +201,74 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				184 192 193 194 195 198 197 199 
-				200 196 203 201 195 209 221
-			}
-		}
-		
-		AAB = {          
-			government = theocratic_monarchy
-			primary_culture = shedrenite
-			religion = divineorder_pantheon
-			capital = 207
-			
-			technology={
-				military_tech={ level=3 progress=0 }
-				civic_tech={ level=3 progress=0 }
-				oratory_tech={ level=3 progress=0 }
-				religious_tech= { level=3 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				206 207 230 205 227 229 226 202 204 224 231 232
-			}
-		}
-		
-		AAC = {          
-			government = theocratic_monarchy
-			primary_culture = chekkan
-			religion = divineorder_pantheon
-			capital = 244
-			
-			technology={
-				military_tech={ level=3 progress=0 }
-				civic_tech={ level=3 progress=0 }
-				oratory_tech={ level=3 progress=0 }
-				religious_tech= { level=3 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				244 241 240 243 222 220 219 246 242
+				10 205 206 207 208 209 210 211 212
+				216 217 218 219 220 221 222 223 224 225
+				226 227 228 229 230 231
+				213 214 215 235 236 237 238 233
+				234 239 240 241 243 244 232 242
 			}
 		}
 		
 		AAD = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 480
+			government = theocratic_monarchy
+			primary_culture = akurgunic
+			religion = divineorder_pantheon
+			capital = 397
 			
 			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
 			}
 			
 			own_control_core = 	{ 
-				480  
+				395 396 397 398 399
 			}
 		}
 		
-		AAE = {
-			family=2
+		#Galkar
+		AAE = {   
+			family=1
 			government = aristocratic_monarchy
 			primary_culture = galkari
 			religion = divineorder_pantheon
-			capital = 260
+			capital = 305
+			
+			poptype_rights = {
+				{
+					culture = zandakite 
+					type = citizen
+				}
+			}
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				305 306 308 309 310 340 339 314 313 341 346
+				246 247 248 249 250 251 252 261 260 262 254 253
+				259 256 255 258 268 269 267 270 272 277 278
+				265 264 263 266 271 274 273 275 276 279
+				298 297 295 293 292 300 299 296 291 294
+				311 307 315 316 312 317 319 318 328 330
+				351 349 350 344 338 337 352 354 353 355 356 359
+				357 343 342 345 347 348 358 362 360 363 361
+				320 321 331 334 332 335 333 336
+			}
+		}
+		
+		#Salgar
+		ABI = {   
+			family=2
+			government = aristocratic_monarchy
+			primary_culture = menran
+			religion = atun_pantheon
+			capital = 549
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -349,114 +278,157 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				287 260 291 290 289 288 286 284 
-				285 293 333 332 331 338 334 344 321
-				335 304 292 303 323 322 306 310 330 324
+				548 549 550 552 551 553 546 547 554 555 257 557
+				556 558 560 559 561 562 569 570 564 563 565 567
+				566 568 571 573 572 574 583 584 575 576 577 288
+				588 590 578 579 467 471 457 455 454 456 458 470
 			}
 		}
 		
-		AAF = {          
+		ABK = {   
+			family=3
+			government = aristocratic_monarchy
+			primary_culture = amsouran
+			religion = atun_pantheon
+			capital = 604
+			
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				oratory_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+			}
+			
+			own_control_core = 	{ 
+				589 586 587 591 592 593 595 594 600 619 601 626 624 625
+				608 604 603 602 605 606 609 610 607 661 662 663
+				611 612 613 614 615 616 620 617 618 621 622 623 
+			}
+		}
+		
+		AAJ = {   
+			family=4
 			government = tribal_kingdom
-			primary_culture = nubatan
-			religion = ancestors_pantheon
-			capital = 581
+			primary_culture = urtic
+			religion = divineorder_pantheon
+			capital = 367
+			
+			
+			own_control_core = 	{ 
+				364 365 366 367 368 369 370 373 374 371 375
+			}
+		}
+		
+		AAB = {   
+			government = tribal_kingdom
+			primary_culture = hasarmite
+			religion = divineorder_pantheon
+			capital = 379
+			
+			
+			own_control_core = 	{ 
+				380 381 379 378 377 376 372 383 384
+			}
+		}
+		
+		AAC = {   
+			government = tribal_kingdom
+			primary_culture = takuhilic
+			religion = divineorder_pantheon
+			capital = 389
+			
+			
+			own_control_core = 	{ 
+				385 386 387 388 389 390 391 392 393 394
+			}
+		}
+		
+		AAF = {   
+			government = aristocratic_monarchy
+			primary_culture = vallakite
+			religion = ancient_pantheon
+			capital = 405
 			
 			poptype_rights = {
 				{
-					culture = khasu 
-					type = citizen
-				}
-				{
-					culture = gesairi 
+					culture = rkubadi 
 					type = citizen
 				}
 			}
 			
+			technology={
+				military_tech={ level=6 progress=0 }
+				civic_tech={ level=6 progress=0 }
+				oratory_tech={ level=6 progress=0 }
+				religious_tech= { level=6 progress=0  }
+			}
+			
 			own_control_core = 	{ 
-				571 575 572 573 576 644 581 586
-				582 587 583 588 584 589 585 590
+				405 285
 			}
 		}
 		
-		AAG = {          
-			government = tribal_chiefdom
-			primary_culture = wgardu
+		AAG = {   
+			government = tribal_kingdom
+			primary_culture = rgardu
 			religion = khorism_pantheon
-			capital = 610
+			capital = 540
+			
 			
 			own_control_core = 	{ 
-				610 611 609
+				523 528 539 527 526 525 524 522 521 519 540 516 520 518 517 515
 			}
 		}
 		
-		AAH = {          
+		AAH = {   
 			government = tribal_kingdom
-			primary_culture = maladhamn
-			religion = divineorder_pantheon
-			capital = 565
+			primary_culture = rgardu
+			religion = khorism_pantheon
+			capital = 500
+			
 			
 			own_control_core = 	{ 
-				565 567 566 564 563 562 561
+				504 503 502 501 500 499 490 480 479 505 506
+				510 514 512 513 509 511 508 507
 			}
 		}
 		
-		AAI = {          
-			government = tribal_chiefdom
-			primary_culture = bashari
-			religion = ancient_pantheon
-			capital = 463
-			
-			own_control_core = 	{ 
-				463 464 465
-			}
-		}
-		
-		AAJ = {    
-			family=3
+		AAI = {   
 			government = tribal_kingdom
-			primary_culture = skurgunic
-			religion = divineorder_pantheon
-			capital = 265
+			primary_culture = rgardu
+			religion = khorism_pantheon
+			capital = 487
+			
 			
 			own_control_core = 	{ 
-				265 266 268 267 264 263 262 261
+				487 488 492 493 494 495 496 497 498 491
+				476 481 478 482 483 484 489 485 486 477
 			}
 		}
 		
 		AAK = {          
 			government = theocratic_monarchy
-			primary_culture = vallakite
-			religion = ancient_pantheon
-			capital = 457
+			primary_culture = asaharic
+			religion = divineorder_pantheon
+			capital = 727
 			
 			technology={
-				military_tech={ level=4 progress=0 }
-				civic_tech={ level=4 progress=0 }
-				oratory_tech={ level=4 progress=0 }
-				religious_tech= { level=4 progress=0  }
+				military_tech={ level=3 progress=0 }
+				civic_tech={ level=3 progress=0 }
+				oratory_tech={ level=3 progress=0 }
+				religious_tech= { level=3 progress=0  }
 			}
 			
 			own_control_core = 	{ 
-				457 456
+				727 725 726
 			}
 		}
 		
 		AAL = {          
-			government = tribal_kingdom
-			primary_culture = zaranite
-			religion = divineorder_pantheon
-			capital = 270
-			
-			own_control_core = 	{ 
-				270 269
-			}
-		}
-		
-		AAM = {          
 			government = theocratic_monarchy
-			primary_culture = ishan
+			primary_culture = anumuni
 			religion = divineorder_pantheon
-			capital = 236
+			capital = 736
 			
 			technology={
 				military_tech={ level=3 progress=0 }
@@ -466,510 +438,115 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				236 238 237 239 223 210 235 234 233 228 225
+				736 737 738 739 740 741 742
 			}
 		}
 		
-		AAN = {          
-			government = theocratic_monarchy
-			primary_culture = amaran
-			religion = divineorder_pantheon
-			capital = 256
-			
-			technology={
-				military_tech={ level=3 progress=0 }
-				civic_tech={ level=3 progress=0 }
-				oratory_tech={ level=3 progress=0 }
-				religious_tech= { level=3 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				256 249 248 247 245 250 255 257 259 258
-			}
-		}
-		
-		AAO = {          
-			government = theocratic_monarchy
-			primary_culture = iltanite
-			religion = divineorder_pantheon
-			capital = 251
-			
-			technology={
-				military_tech={ level=3 progress=0 }
-				civic_tech={ level=3 progress=0 }
-				oratory_tech={ level=3 progress=0 }
-				religious_tech= { level=3 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				251 218 217 216 215 213 214 211 212 208 254 252 253
-			}
-		}
-		
-		AAP = {          
-			government = despotic_monarchy
-			primary_culture = nqusulite
-			religion = divineorder_pantheon
-			capital = 275
-			
-			poptype_rights = {
-				{
-					culture = irkallic 
-					type = citizen
-				}
-			}
-			
-			own_control_core = 	{ 
-				275 274 273 276 271
-			}
-		}
-		
-		AAR = {          
-			government = despotic_monarchy
-			primary_culture = irkallic
-			religion = divineorder_pantheon
-			capital = 278
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				278 277 279 280 281
-			}
-		}
-		
-		AAS = {          
+		AAM = {   
 			government = tribal_kingdom
-			primary_culture = uttu
-			religion = ancient_pantheon
-			capital = 369
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 723
 			
 			own_control_core = 	{ 
-				369 370
+				723 722 721 728 724
 			}
 		}
 		
-		AAT = {          
-			government = despotic_monarchy
-			primary_culture = irkallic
-			religion = divineorder_pantheon
-			capital = 300
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				300 305 282 283 299 302 307 272 298 294
-			}
-		}
-		
-		AAU = {          
-			government = despotic_monarchy
-			primary_culture = siduri
-			religion = divineorder_pantheon
-			capital = 351
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				351 336 352 337 356 343 355 362 363 361 360
-			}
-		}
-		
-		AAW = {          
-			government = despotic_monarchy
-			primary_culture = siduri
-			religion = divineorder_pantheon
-			capital = 365
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				365 364 368 366 367
-			}
-		}
-		
-		AAY = {          
-			government = despotic_monarchy
-			primary_culture = siduri
-			religion = divineorder_pantheon
-			capital = 358
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				358 359 357
-			}
-		}
-		
-		AAZ = {          
-			government = despotic_monarchy
-			primary_culture = gulani
-			religion = divineorder_pantheon
-			capital = 345
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				345 349 350 354 353 
-			}
-		}
-		
-		ABA = {          
-			government = despotic_monarchy
-			primary_culture = gulani
-			religion = divineorder_pantheon
-			capital = 339
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				339 346 347 340
-			}
-		}
-		
-		ABB = {          
-			government = despotic_monarchy
-			primary_culture = gulani
-			religion = divineorder_pantheon
-			capital = 341
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				341 348 342
-			}
-		}
-		
-		ABC = {          
-			government = despotic_monarchy
-			primary_culture = gulani
-			religion = divineorder_pantheon
-			capital = 327
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				327 329 325 328 326
-			}
-		}
-		
-		ABD = {          
-			government = despotic_monarchy
-			primary_culture = lehsiri
-			religion = divineorder_pantheon
-			capital = 319
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				319 320 318 316 314
-			}
-		}
-		
-		ABE = {          
-			government = despotic_monarchy
-			primary_culture = lehsiri
-			religion = divineorder_pantheon
-			capital = 313
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				313 311 312 317 315 309 308 301
-			}
-		}
-		
-		ABF = {          
-			government = despotic_monarchy
-			primary_culture = lehsiri
-			religion = divineorder_pantheon
-			capital = 297
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				297 296 295
-			}
-		}
-		
-		ABG = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 486
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				486 485 493 494
-			}
-		}
-		
-		ABH = {          
-			government = despotic_monarchy
-			primary_culture = amsouran
-			religion = atun_pantheon
-			capital = 496
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				496 497 501
-			}
-		}
-		
-		ABI = { 
-			family=4
-			government = theocratic_republic
-			primary_culture = amsouran
-			religion = atun_pantheon
-			capital = 506
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				506 502 503 504 507 505 661 662
-			}
-		}
-		
-		ABJ = {          
-			government = despotic_monarchy
-			primary_culture = amsouran
-			religion = atun_pantheon
-			capital = 508
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				508 511 509 510
-			}
-		}
-		
-		ABK = { 
-			family = 1
-			government = despotic_monarchy
-			primary_culture = amsouran
-			religion = atun_pantheon
-			capital = 515
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				515 513 514 516 518 512 517
-			}
-		}
-		
-		ABL = {          
+		AAN = {   
 			government = tribal_kingdom
-			primary_culture = radahite
-			religion = atun_pantheon
-			capital = 558
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 731
 			
 			own_control_core = 	{ 
-				558 559 557 556 555 554
+				731 755 732 756 733
 			}
 		}
 		
-		ABM = {          
+		AAO = {   
 			government = tribal_kingdom
-			primary_culture = adiri
-			religion = atun_pantheon
-			capital = 550
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 760
 			
 			own_control_core = 	{ 
-				550 540 553 551 552
+				760 730 729 759 763
 			}
 		}
 		
-		ABN = {          
+		AAP = {   
 			government = tribal_kingdom
-			primary_culture = dohali
-			religion = atun_pantheon
-			capital = 534
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 746
 			
 			own_control_core = 	{ 
-				534 533 532 535 536
+				746 747 753 745 754
 			}
 		}
 		
-		ABO = {          
+		AAR = {   
 			government = tribal_kingdom
-			primary_culture = ziluhi
-			religion = atun_pantheon
-			capital = 537
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 750
 			
 			own_control_core = 	{ 
-				537 538 539
+				750 751 752 749 748
 			}
 		}
 		
-		ABP = {          
+		AAS = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 717
+			
+			own_control_core = 	{ 
+				717 716 718 719 720
+			}
+		}
+		
+		AAT = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 713
+			
+			own_control_core = 	{ 
+				713 712 714 715
+			}
+		}
+		
+		AAU = {   
+			government = tribal_kingdom
+			primary_culture = nubatan
+			religion = ancestors_pantheon
+			capital = 798
+			
+			own_control_core = 	{ 
+				798 797 764 761
+			}
+		}
+		
+		AAW = {   
 			government = despotic_monarchy
-			primary_culture = nephtite
-			religion = atun_pantheon
-			capital = 560
+			primary_culture = esugan
+			religion = divineorder_pantheon
+			capital = 323
 			
 			own_control_core = 	{ 
-				560 541 578 577 520 519
+				301 302 303 304 323 324 325 322 326 329
 			}
 		}
 		
-		ABR = {          
-			government = tribal_kingdom
-			primary_culture = fasanu
-			religion = atun_pantheon
-			capital = 591
-			
-			own_control_core = 	{ 
-				591 579 580 597 592 596
-			}
-		}
-		
-		ABS = {          
-			government = tribal_kingdom
-			primary_culture = wabutu
-			religion = atun_pantheon
-			capital = 594
-			
-			own_control_core = 	{ 
-				594 593 598 599 
-			}
-		}
-		
-		ABT = {          
-			government = tribal_kingdom
-			primary_culture = khasi
+		AAY = {   
+			government = despotic_monarchy
+			primary_culture = skushan
 			religion = atun_pantheon
 			capital = 645
 			
-			own_control_core = 	{ 
-				645 646 
-			}
-		}
-		
-		ABU = {          
-			government = tribal_chiefdom
-			primary_culture = jabari
-			religion = atun_pantheon
-			capital = 676
-			
-			own_control_core = 	{ 
-				676 675
-			}
-		}
-		
-		ABW = {          
-			government = tribal_chiefdom
-			primary_culture = karza
-			religion = atun_pantheon
-			capital = 665
-			
-			own_control_core = 	{ 
-				665 666
-			}
-		}
-		
-		ABY = {          
-			government = tribal_chiefdom
-			primary_culture = thyleni
-			religion = atun_pantheon
-			capital = 747
-			
-			own_control_core = 	{ 
-				747 748 749
-			}
-		}
-		
-		ABZ = {          
-			government = despotic_monarchy
-			primary_culture = senori
-			religion = atun_pantheon
-			capital = 733
-			
 			technology={
 				military_tech={ level=1 progress=0 }
 				civic_tech={ level=1 progress=0 }
@@ -978,327 +555,230 @@ country = {
 			}
 			
 			own_control_core = 	{ 
-				733 736
+				639 641 643 645 640 642 644 646 647 648 649 650
+				651 652 653 654 655 656 657 658 659 660 775 627 628
+				850 851 852 853 854 855 856 857 858 666 630 629
+				664 665 631 632 633 634 635 636 637 638 678 679 680 681 
 			}
 		}
 		
-		ACA = {          
-			government = tribal_kingdom
-			primary_culture = sekhenu
-			religion = atun_pantheon
-			capital = 728
+		AAZ = {   
+			government = despotic_monarchy
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 580
 			
 			own_control_core = 	{ 
-				728
+				580 585 581 582 599 598 597 596
 			}
 		}
 		
-		ACB = {          
+		ABA = {   
 			government = tribal_kingdom
-			primary_culture = adranu
+			primary_culture = msaharic
 			religion = atun_pantheon
+			capital = 705
+			
+			own_control_core = 	{ 
+				705
+			}
+		}
+		
+		ABB = {   
+			government = tribal_kingdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 708
+			
+			own_control_core = 	{ 
+				708
+			}
+		}
+		
+		ABC = {   
+			government = tribal_kingdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 710
+			
+			own_control_core = 	{ 
+				710
+			}
+		}
+		
+		ABD = {   
+			government = despotic_monarchy
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 700
+			
+			own_control_core = 	{ 
+				700
+			}
+		}
+		
+		ABE = {   
+			government = despotic_monarchy
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 695
+			
+			own_control_core = 	{ 
+				695
+			}
+		}
+		
+		ABF = {   
+			government = despotic_monarchy
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 690
+			
+			own_control_core = 	{ 
+				690
+			}
+		}
+		
+		ABG = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 802
+			
+			own_control_core = 	{ 
+				802 801 803
+			}
+		}
+		
+		ABH = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 822
+			
+			own_control_core = 	{ 
+				822 823
+			}
+		}
+		
+		ABJ = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 812
+			
+			own_control_core = 	{ 
+				812 811
+			}
+		}
+		
+		ABL = {   
+			government = tribal_chiefdom
+			primary_culture = msaharic
+			religion = atun_pantheon
+			capital = 668
+			
+			own_control_core = 	{ 
+				668 669
+			}
+		}
+		
+		ABM = {   
+			government = tribal_chiefdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 776
+			
+			own_control_core = 	{ 
+				776 778
+			}
+		}
+		
+		ABN = {   
+			government = tribal_chiefdom
+			primary_culture = mhajari
+			religion = divineorder_pantheon
+			capital = 784
+			
+			own_control_core = 	{ 
+				784 783
+			}
+		}
+		
+		ABO = {   
+			government = tribal_kingdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 287
+			
+			own_control_core = 	{ 
+				287 290 286 280 281
+			}
+		}
+		
+		ABP = {   
+			government = tribal_kingdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 283
+			
+			own_control_core = 	{ 
+				283 282 284
+			}
+		}
+		
+		ABR = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 433
+			
+			own_control_core = 	{ 
+				433 434
+			}
+		}
+		
+		ABS = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
+			capital = 442
+			
+			own_control_core = 	{ 
+				442 443
+			}
+		}
+		
+		ABT = {   
+			government = tribal_chiefdom
+			primary_culture = rkubadi
+			religion = ancient_pantheon
 			capital = 530
 			
 			own_control_core = 	{ 
-				530 531
+				530 529
 			}
 		}
 		
-		ACC = {          
+		ABU = {   
 			government = tribal_chiefdom
-			primary_culture = rgardu
-			religion = khorism_pantheon
-			capital = 722
-			
-			own_control_core = 	{ 
-				722 723
-			}
-		}
-		
-		ACD = {          
-			government = tribal_chiefdom
-			primary_culture = wgardu
-			religion = khorism_pantheon
-			capital = 620
-			
-			own_control_core = 	{ 
-				620 690 621
-			}
-		}
-		
-		ACE = {          
-			government = tribal_chiefdom
-			primary_culture = bgardu
-			religion = khorism_pantheon
-			capital = 625
-			
-			own_control_core = 	{ 
-				625 696 624
-			}
-		}
-		
-		ACF = {          
-			government = tribal_chiefdom
-			primary_culture = blgardu
-			religion = khorism_pantheon
-			capital = 632
-			
-			own_control_core = 	{ 
-				632 633 631
-			}
-		}
-		
-		ACG = {          
-			government = tribal_chiefdom
-			primary_culture = zuthu
+			primary_culture = rkubadi
 			religion = ancient_pantheon
+			capital = 537
+			
+			own_control_core = 	{ 
+				537 535
+			}
+		}
+		
+		ABW = {   
+			government = tribal_kingdom
+			primary_culture = kalmari
+			religion = divineorder_pantheon
 			capital = 448
 			
 			own_control_core = 	{ 
-				448 447
-			}
-		}
-		
-		ACO = {          
-			government = tribal_chiefdom
-			primary_culture = labashi
-			religion = ancient_pantheon
-			capital = 452
-			
-			own_control_core = 	{ 
-				452 453
-			}
-		}
-		
-		ACI = {          
-			government = tribal_chiefdom
-			primary_culture = hunzu
-			religion = ancient_pantheon
-			capital = 466
-			
-			own_control_core = 	{ 
-				466 468
-			}
-		}
-		
-		ACJ = {          
-			government = tribal_chiefdom
-			primary_culture = tattannu
-			religion = ancient_pantheon
-			capital = 458
-			
-			own_control_core = 	{ 
-				458 460
-			}
-		}
-		
-		ACK = {          
-			government = tribal_chiefdom
-			primary_culture = gemeti
-			religion = ancient_pantheon
-			capital = 469
-			
-			own_control_core = 	{ 
-				469 471
-			}
-		}
-		
-		ACL = {          
-			government = tribal_chiefdom
-			primary_culture = zakiri
-			religion = ancient_pantheon
-			capital = 445
-			
-			own_control_core = 	{ 
-				445 444
-			}
-		}
-		
-		ACM = {          
-			government = tribal_kingdom
-			primary_culture = amatu
-			religion = ancient_pantheon
-			capital = 472
-			
-			own_control_core = 	{ 
-				472
-			}
-		}
-		
-		ACN = {          
-			government = tribal_kingdom
-			primary_culture = radjni
-			religion = ancient_pantheon
-			capital = 474
-			
-			own_control_core = 	{ 
-				474 473 475 476
-			}
-		}
-		
-		ACP = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 481
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				481 484
-			}
-		}
-		
-		ACR = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 478
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				478 479 477
-			}
-		}
-		
-		ACS = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 483
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				483 482
-			}
-		}
-		
-		ACT = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 489
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				489 488
-			}
-		}
-		
-		ACU = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 487
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				487
-			}
-		}
-		
-		ACW = {          
-			government = despotic_monarchy
-			primary_culture = menran
-			religion = atun_pantheon
-			capital = 492
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				492 495 491 490
-			}
-		}
-		
-		ACY = {          
-			government = despotic_monarchy
-			primary_culture = amsouran
-			religion = atun_pantheon
-			capital = 498
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				498 499 500
-			}
-		}
-		
-		ACZ = {          
-			government = despotic_monarchy
-			primary_culture = amsouran
-			religion = atun_pantheon
-			capital = 662
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			own_control_core = 	{ 
-				662 661
-			}
-		}
-		
-		ADA = {          
-			government = tribal_kingdom
-			primary_culture = kissoru
-			religion = atun_pantheon
-			capital = 570
-			
-			own_control_core = 	{ 
-				570 574 548 549
-			}
-		}
-		
-		ADB = {          
-			government = tribal_kingdom
-			primary_culture = wabutu
-			religion = atun_pantheon
-			capital = 600
-			
-			own_control_core = 	{ 
-				600 601 595
+				448 450 449
 			}
 		}
 	}

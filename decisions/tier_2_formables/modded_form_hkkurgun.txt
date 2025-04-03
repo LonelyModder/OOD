@@ -10,7 +10,7 @@
 			}
 			#is_tribal = yes
 			NOT = {
-				tag = XKG
+				tag = AAE
 			}
 			NOR = {
 				is_tier_2_formable_trigger = yes
@@ -21,12 +21,8 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 278
-					province_id = 260
-					province_id = 300
-					province_id = 313
-					province_id = 351
-					province_id = 358
+					province_id = 305
+					province_id = 246
 				}
 			}
 		}
@@ -36,23 +32,19 @@
 				text = hkkurgun_must_not_exist
 				NOT = {
 					any_country = {
-						tag = XKG
+						tag = AAE
 					}
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 278
-			owns_or_subject_owns = 260
-			owns_or_subject_owns = 300
-			owns_or_subject_owns = 313
-			owns_or_subject_owns = 351
-			owns_or_subject_owns = 358
+			owns = 305
+			owns_or_subject_owns = 246
 		}
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			change_country_name = "HKKurgun_name"
-			change_country_flag = Wings_of_Ashur
+			change_country_flag = AAE
 			if = {
 				limit = { is_tribal = yes }
 				add_country_modifier = {
@@ -65,31 +57,32 @@
 			hidden_effect = {
 				change_country_adjective = "HKKurgun_adj"
 				change_country_color =  "HKKurgun_color"
-				change_country_tag = XKG
+				change_country_tag = AAE
 			}
 			if = {
 				limit = {
 					NOT = {
 						capital_scope = {
-							province_id = 278
+							province_id = 305
 						}
 					}
 				}
-				set_capital = 278
+				set_capital = 305
 				hidden_effect = {
-					p:278.state = {
-						set_state_capital = 278
+					p:305.state = {
+						set_state_capital = 305
 					}
 				}
 			}
-			p:278 = {
+			p:305 = {
 				capital_formable_medium_effect = yes
 				formable_capital_modifier_normal_effect = yes
 			}
 			add_2_free_province_investments = yes
 			hidden_effect = {
-				region:modded_kurgun_region = { formable_region_province_effect = yes }
-				region:modded_skurgun_region = { formable_region_province_effect = yes }
+				region:modded_galkar_region = { formable_region_province_effect = yes }
+				region:modded_ngalkar_region = { formable_region_province_effect = yes }
+				region:modded_rngalkar_region = { formable_region_province_effect = yes }
 			}
 		}
 		

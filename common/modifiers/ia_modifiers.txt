@@ -10,12 +10,16 @@ is_steppe = {
 	local_tribesmen_desired_pop_ratio = 0.05
 }
 
+is_savanna = {
+	local_tribesmen_desired_pop_ratio = 0.05
+}
+
 is_cave = {
 	local_tribesmen_desired_pop_ratio = 0.05
 }
 
 is_hall = {
-	local_freemen_desired_pop_ratio = 0.05
+	local_citizen_desired_pop_ratio = 0.04
 }
 
 #invasions?
@@ -31,27 +35,22 @@ lepontic_invasion_modifier = {
 
 #militarism	
 fanatical_culture = {
-	levy_size_multiplier = 0.25
+	levy_size_multiplier = 0.15
 	land_morale_modifier = 0.1
 }
 
 militarized_culture = {
-	levy_size_multiplier = 0.15
+	levy_size_multiplier = 0.075
 	land_morale_modifier = 0.05
 }
 
 neutral_militarly_culture = {
 	levy_size_multiplier = 0.05
-	global_citizen_happyness = 0.05
-	global_freemen_happyness = 0.05
-	global_slaves_happyness = 0.05
 }
 
 pacifist_culture = {
 	levy_size_multiplier = 0.025
-	global_citizen_happyness = 0.1
-	global_freemen_happyness = 0.1
-	global_slaves_happyness = 0.1
+	land_morale_modifier = -0.05
 }
 
 #Colonization

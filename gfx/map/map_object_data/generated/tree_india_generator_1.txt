@@ -5,10 +5,8 @@
 	generated_content=yes
 	layer="tree_layer"
 	pdxmesh="tree_india_01_mesh"
-	count=2
-	transform="1800.630249 0.000000 1233.405518 0.000000 0.846667 0.000000 0.532123 0.654341 0.654341 0.654341
-2072.149902 0.000000 1643.301147 0.000000 0.171475 0.000000 -0.985188 1.023765 1.023765 1.023765
-"}
+	count=0
+}
 object={
 	name="tree_india_generator_1_1"
 	clamp_to_water_level=no

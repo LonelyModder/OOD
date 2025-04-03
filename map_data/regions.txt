@@ -11,83 +11,63 @@ modded_tmp_region = {
 	}
 }
 
-modded_gangun_region = {
+modded_numun_region = {
 	areas = {
-		gangun1_area
-		gangun2_area
-		gangun3_area
-		gangun4_area
-		gangun5_area
-		gangun6_area
-		gangun7_area
+		sahargal20_area
+		sahargal21_area
+		sahargal22_area
+		sahargal23_area
+		sahargal24_area
+		sahargal25_area
 	}
 }
 
 modded_barrim_region = {
 	areas = {
-		barrim1_area
-		barrim2_area
-		barrim3_area
-		barrim4_area
-		barrim5_area
-		barrim6_area
-		barrim7_area
+		sahargal13_area
+		sahargal14_area
+		sahargal15_area
+		sahargal16_area
+		sahargal17_area
+		sahargal18_area
+		sahargal19_area
+		sahargal27_area
+		sahargal28_area
 	}
 }
 
-modded_nub_region = {
+modded_taseti_region = {
 	areas = {
-		nub1_area
-		nub2_area
-		nub3_area
-		nub4_area
-		nub5_area
+		sahargal5_area
+		sahargal6_area
+		sahargal7_area
+		sahargal8_area
+		sahargal9_area
+		sahargal10_area
+		sahargal11_area
+		sahargal26_area
 	}
 }
 
-modded_girigu_region = {
-	areas = { 
-		girigu2_area
-		girigu3_area
-		girigu4_area
-		girigu5_area
-		girigu6_area
-		girigu7_area
-	}
-}
-
-modded_kubad_region = {
+modded_salgar_region = {
 	areas = {
-		kubad1_area
-		kubad2_area
-		kubad3_area
-		kubad4_area
-		kubad5_area
-		kubad6_area
-		kubad7_area
-		
+		sahargal1_area
+		sahargal2_area
+		sahargal3_area
+		sahargal4_area
+		galkar7_area
+		sahargal12_area
 	}
 }
 
-modded_skurgun_region = {
+modded_sahu_region = {
 	areas = {
-		skurgun1_area
-		skurgun2_area
-		skurgun3_area
-		skurgun4_area
-		skurgun5_area
-		girigu1_area
-	}
-}
-
-modded_kurgun_region = {
-	areas = {
-		kurgun1_area
-		kurgun2_area
-		kurgun3_area
-		kurgun4_area
-		kurgun5_area
-		kurgun6_area
+		sahu1_area
+		sahu2_area
+		sahu3_area
+		sahu4_area
+		sahu5_area
+		sahu6_area
 	}
 }
 
@@ -98,6 +78,39 @@ modded_dilmun_region = {
 		dilmun3_area
 		dilmun4_area
 		dilmun5_area
-		dilmun6_area
+	}
+}
+
+modded_galkar_region = {
+	areas = {
+		galkar1_area
+		galkar2_area
+		galkar3_area
+		galkar4_area
+		galkar5_area
+		galkar8_area
+		galkar9_area
+	}
+}
+
+modded_ngalkar_region = {
+	areas = {
+		galkar6_area
+		galkar10_area
+		galkar11_area
+		galkar12_area
+		galkar13_area
+		galkar14_area
+		galkar15_area
+	}
+}
+
+modded_rngalkar_region = {
+	areas = {
+		galkar16_area
+		galkar17_area
+		galkar18_area
+		galkar19_area
+		galkar20_area
 	}
 }

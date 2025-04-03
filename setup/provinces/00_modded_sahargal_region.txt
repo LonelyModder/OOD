@@ -1,0 +1,6020 @@
+﻿546={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+547={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+548={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+549={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city_metropolis"
+	nobles={
+		amount=7
+	}
+	citizen={
+		amount=20
+	}
+	freemen={
+		amount=15
+	}
+	slaves={
+		amount=9
+	}
+	holy_site="omen_sunswrath"
+}
+
+550={ 
+	terrain="farmland"
+	trade_goods="cloth"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+551={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+552={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+553={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+554={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+555={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+556={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+557={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+558={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+559={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+560={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+561={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+562={ 
+	terrain="farmland"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+563={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+564={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+565={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+566={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+567={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+568={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+569={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+570={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+571={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+572={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+573={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+574={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+575={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+576={ 
+	terrain="farmland"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+577={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+578={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+579={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+580={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+581={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+582={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+583={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+584={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+585={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+586={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+587={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+588={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+589={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+590={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+591={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+592={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+593={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+594={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+595={ 
+	terrain="desert"
+	trade_goods="cheese"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+596={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+597={ 
+	terrain="plains"
+	trade_goods="camel"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+598={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+599={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancient_pantheon"
+	culture="rkubadi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+600={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+601={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+602={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+603={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+604={ 
+	terrain="plains"
+	trade_goods="cloth"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+	holy_site="omen_lifegiver"
+}
+
+605={ 
+	terrain="plains"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+606={ 
+	terrain="desert"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+607={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+608={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+609={ 
+	terrain="desert"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+610={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+611={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+612={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+613={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=12
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=6
+	}
+}
+
+614={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+615={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+616={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+617={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+618={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+619={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+620={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+621={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+622={ 
+	terrain="plains"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+623={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+624={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+625={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+626={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+627={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+628={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+629={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+630={ 
+	terrain="farmland"
+	trade_goods="grain"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+631={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+632={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+633={ 
+	terrain="plains"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+634={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+635={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+636={ 
+	terrain="plains"
+	trade_goods="cheese"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+637={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+638={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+639={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+640={ 
+	terrain="plains"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+641={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+642={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+643={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+644={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+645={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+646={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+647={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+648={ 
+	terrain="plains"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+649={ 
+	terrain="plains"
+	trade_goods="papyrus"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+650={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+651={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+652={ 
+	terrain="desert"
+	trade_goods="earthware"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
+	}
+}
+
+653={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+654={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+655={ 
+	terrain="plains"
+	trade_goods="cattle"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+656={ 
+	terrain="plains"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+657={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+658={ 
+	terrain="plains"
+	trade_goods="cheese"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+659={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+660={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+661={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+662={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+663={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="amsouran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+664={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+665={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+666={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+667={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+668={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	holy_site="omen_rulerofall"
+}
+
+669={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+670={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+678={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+679={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+680={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+257={ 
+	terrain="hills"
+	trade_goods="marble"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+288={ 
+	terrain="mountain"
+	trade_goods="stone"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+467={ 
+	terrain="cave"
+	trade_goods="stone"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+471={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+457={ 
+	terrain="cave"
+	trade_goods="hunters"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+455={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+454={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+456={ 
+	terrain="cave"
+	trade_goods="stone"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+458={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+470={ 
+	terrain="cave"
+	trade_goods="urgaz"
+	religion="atun_pantheon"
+	culture="menran"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+681={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+682={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+683={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+684={ 
+	terrain="plains"
+	trade_goods="amber"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+685={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+686={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+687={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+688={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+689={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+690={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+}
+
+691={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+692={ 
+	terrain="hills"
+	trade_goods="amber"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+693={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+694={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+695={ 
+	terrain="hills"
+	trade_goods="limestone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+}
+
+696={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+697={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+698={ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+699={ 
+	terrain="hills"
+	trade_goods="amber"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+700={ 
+	terrain="hills"
+	trade_goods="limestone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+}
+
+702={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+703={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+704={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+705={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+}
+
+706={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+707={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+708={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+}
+
+709={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+710={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+}
+
+711={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+712={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+713={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+714={ 
+	terrain="plains"
+	trade_goods="fish"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+715={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+716={ 
+	terrain="plains"
+	trade_goods="salt"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+717={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+718={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+719={ 
+	terrain="plains"
+	trade_goods="leather"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+720={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+721={ 
+	terrain="savanna"
+	trade_goods="leather"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+722={ 
+	terrain="savanna"
+	trade_goods="fish"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		amount=6
+	}
+	holy_site="omen_nikinaka"
+}
+
+723={ 
+	terrain="savanna"
+	trade_goods="leather"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+724={ 
+	terrain="savanna"
+	trade_goods="elephants"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+725={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="divineorder_pantheon"
+	culture="asaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+726={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="divineorder_pantheon"
+	culture="asaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+727={ 
+	terrain="forest"
+	trade_goods="coconut"
+	religion="divineorder_pantheon"
+	culture="asaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+}
+
+728={ 
+	terrain="savanna"
+	trade_goods="cattle"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+729={ 
+	terrain="savanna"
+	trade_goods="cattle"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+730={ 
+	terrain="savanna"
+	trade_goods="fur"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+731={ 
+	terrain="savanna"
+	trade_goods="elephants"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+732={ 
+	terrain="savanna"
+	trade_goods="elephants"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+733={ 
+	terrain="savanna"
+	trade_goods="fur"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+736={ 
+	terrain="forest"
+	trade_goods="gems"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+}
+
+737={ 
+	terrain="forest"
+	trade_goods="salt"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+738={ 
+	terrain="forest"
+	trade_goods="coconut"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+739={ 
+	terrain="forest"
+	trade_goods="coconut"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+740={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+741={ 
+	terrain="forest"
+	trade_goods="wood"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+742={ 
+	terrain="forest"
+	trade_goods="fish"
+	religion="divineorder_pantheon"
+	culture="anumuni"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+743={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+744={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+
+745={ 
+	terrain="savanna"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+746={ 
+	terrain="savanna"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+747={ 
+	terrain="hills"
+	trade_goods="gems"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+748={ 
+	terrain="hills"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+749={ 
+	terrain="hills"
+	trade_goods="coconut"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+750={ 
+	terrain="hills"
+	trade_goods="fish"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+751={ 
+	terrain="savanna"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+752={ 
+	terrain="savanna"
+	trade_goods="fur"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+753={ 
+	terrain="savanna"
+	trade_goods="fur"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+754={ 
+	terrain="savanna"
+	trade_goods="cattle"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+755={ 
+	terrain="savanna"
+	trade_goods="papyrus"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+756={ 
+	terrain="savanna"
+	trade_goods="cheese"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+757={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+758={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+759={ 
+	terrain="savanna"
+	trade_goods="papyrus"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+760={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+761={ 
+	terrain="savanna"
+	trade_goods="elephants"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+762={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+763={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+764={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+765={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+766={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+767={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+768={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+769={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+770={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+771={ 
+	terrain="desert"
+	trade_goods="stone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+772={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+773={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+774={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+775={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+776={ 
+	terrain="cave"
+	trade_goods="urgaz"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+777={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+778={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+779={ 
+	terrain="cave"
+	trade_goods="gems"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+780={ 
+	terrain="cave"
+	trade_goods="precious_metals"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+781={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+782={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+783={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+784={ 
+	terrain="cave"
+	trade_goods="stone"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+785={ 
+	terrain="cave"
+	trade_goods="hunters"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+786={ 
+	terrain="cave"
+	trade_goods="wild_game"
+	religion="divineorder_pantheon"
+	culture="mhajari"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+789={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+790={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+791={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+792={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+793={ 
+	terrain="desert"
+	trade_goods="fur"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+794={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+795={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+796={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+797={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+798={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+799={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+800={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+801={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+802={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+803={ 
+	terrain="desert"
+	trade_goods="cheese"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+804={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+805={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+806={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+807={ 
+	terrain="desert"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+808={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+809={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="ancestors_pantheon"
+	culture="nubatan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+810={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+811={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+812={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+813={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+814={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+815={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+816={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+817={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+818={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+819={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+820={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+821={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+822={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+823={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+824={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+825={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+826={ 
+	terrain="desert"
+	trade_goods="cheese"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+827={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+828={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+829={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+830={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+831={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+832={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+833={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+834={ 
+	terrain="oasis"
+	trade_goods="dates"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+836={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+837={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+838={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+839={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+840={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+841={ 
+	terrain="desert"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+842={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+843={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+844={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+845={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+846={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+847={ 
+	terrain="desert"
+	trade_goods="leather"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+848={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+849={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="msaharic"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+850={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+851={ 
+	terrain="plains"
+	trade_goods="wool"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+852={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+853={ 
+	terrain="plains"
+	trade_goods="camel"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+854={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+855={ 
+	terrain="desert"
+	trade_goods="cheese"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+856={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+857={ 
+	terrain="desert"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+858={ 
+	terrain="plains"
+	trade_goods="wild_game"
+	religion="atun_pantheon"
+	culture="skushan"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}

@@ -20,7 +20,7 @@
 	province_rank=""
 }
 
-3={ #Mountains
+3={ #Mountains for Flatmap
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -30,10 +30,20 @@
 	province_rank=""
 }
 
-4={ #Mountains-Black?
+406={ #Next Update
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+4={ #Sailable
+	terrain="ocean"
+	culture=""
+	religion=""
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -41,7 +51,7 @@
 }
 
 5={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -51,7 +61,7 @@
 }
 
 6={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -61,7 +71,7 @@
 }
 
 7={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -71,7 +81,7 @@
 }
 
 8={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -90,18 +100,8 @@
 	province_rank=""
 }
 
-10={ #Sailable
-	terrain="ocean"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 11={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -191,7 +191,7 @@
 }
 
 20={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -221,7 +221,7 @@
 }
 
 23={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -231,7 +231,7 @@
 }
 
 24={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -241,7 +241,7 @@
 }
 
 25={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -281,7 +281,7 @@
 }
 
 29={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -291,7 +291,7 @@
 }
 
 30={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -361,7 +361,7 @@
 }
 
 37={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -371,7 +371,7 @@
 }
 
 38={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -381,7 +381,7 @@
 }
 
 39={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -391,7 +391,7 @@
 }
 
 40={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -401,7 +401,7 @@
 }
 
 41={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -411,7 +411,7 @@
 }
 
 42={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -421,7 +421,7 @@
 }
 
 43={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 45={ #Sailable
-	terrain="coastal_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -451,7 +451,7 @@
 }
 
 46={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -471,7 +471,7 @@
 }
 
 48={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -481,7 +481,7 @@
 }
 
 49={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -491,7 +491,7 @@
 }
 
 50={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -501,7 +501,7 @@
 }
 
 51={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -511,7 +511,7 @@
 }
 
 52={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -521,7 +521,7 @@
 }
 
 53={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -531,7 +531,7 @@
 }
 
 54={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -541,7 +541,7 @@
 }
 
 55={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -551,7 +551,7 @@
 }
 
 56={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -561,7 +561,7 @@
 }
 
 57={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 58={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -581,7 +581,7 @@
 }
 
 59={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -591,7 +591,7 @@
 }
 
 60={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -601,7 +601,7 @@
 }
 
 61={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -611,7 +611,7 @@
 }
 
 62={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -621,7 +621,7 @@
 }
 
 63={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -631,7 +631,7 @@
 }
 
 64={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -641,7 +641,7 @@
 }
 
 65={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -651,7 +651,7 @@
 }
 
 66={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -661,7 +661,7 @@
 }
 
 67={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -671,7 +671,7 @@
 }
 
 68={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -681,7 +681,7 @@
 }
 
 69={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -691,7 +691,7 @@
 }
 
 70={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -701,7 +701,7 @@
 }
 
 71={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -711,7 +711,7 @@
 }
 
 72={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -721,7 +721,7 @@
 }
 
 73={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -731,7 +731,7 @@
 }
 
 74={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -741,7 +741,7 @@
 }
 
 75={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -751,7 +751,7 @@
 }
 
 76={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -871,7 +871,7 @@
 }
 
 88={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1071,7 +1071,7 @@
 }
 
 108={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1261,7 +1261,7 @@
 }
 
 127={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1271,7 +1271,7 @@
 }
 
 128={ #Sailable
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1331,7 +1331,7 @@
 }
 
 134={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1341,7 +1341,7 @@
 }
 
 135={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1351,7 +1351,7 @@
 }
 
 136={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1361,7 +1361,7 @@
 }
 
 137={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1371,7 +1371,7 @@
 }
 
 138={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1381,7 +1381,7 @@
 }
 
 139={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1391,7 +1391,7 @@
 }
 
 140={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1401,7 +1401,7 @@
 }
 
 141={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1411,7 +1411,7 @@
 }
 
 142={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1421,7 +1421,7 @@
 }
 
 143={ #Sailable
-	terrain="riverine_terrain"
+	terrain="ocean"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1830,7 +1830,217 @@
 	province_rank=""
 }
 
-185={ #Lands
+184={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+185={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+186={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+187={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+188={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+189={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+190={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+191={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+192={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+193={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+194={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+195={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+196={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+197={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+198={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+199={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+200={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+201={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+202={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+203={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+204={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+245={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1840,7 +2050,7 @@
 	province_rank=""
 }
 
-186={ #Lands
+400={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1850,7 +2060,7 @@
 	province_rank=""
 }
 
-187={ #Lands
+401={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1860,7 +2070,7 @@
 	province_rank=""
 }
 
-188={ #Lands
+402={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1870,7 +2080,7 @@
 	province_rank=""
 }
 
-189={ #Lands
+403={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1880,7 +2090,7 @@
 	province_rank=""
 }
 
-190={ #Lands
+404={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1890,7 +2100,7 @@
 	province_rank=""
 }
 
-191={ #Lands
+407={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1900,7 +2110,207 @@
 	province_rank=""
 }
 
-371={ #Lands
+411={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+412={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+413={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+414={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+415={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+416={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+417={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+418={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+419={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+420={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+421={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+422={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+423={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+424={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+425={ #Sailable
+	terrain="coastal_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+426={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+427={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+428={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+429={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+430={ #Sailable
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+462={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1910,7 +2320,7 @@
 	province_rank=""
 }
 
-372={ #Lands
+463={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1920,7 +2330,7 @@
 	province_rank=""
 }
 
-373={ #Lands
+464={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1930,7 +2340,7 @@
 	province_rank=""
 }
 
-374={ #Lands
+465={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1940,7 +2350,7 @@
 	province_rank=""
 }
 
-375={ #Lands
+466={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1950,7 +2360,7 @@
 	province_rank=""
 }
 
-376={ #Lands
+475={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1960,7 +2370,7 @@
 	province_rank=""
 }
 
-377={ #Lands
+541={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1970,7 +2380,7 @@
 	province_rank=""
 }
 
-378={ #Lands
+542={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1980,7 +2390,7 @@
 	province_rank=""
 }
 
-379={ #Lands
+543={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -1990,7 +2400,7 @@
 	province_rank=""
 }
 
-380={ #Lands
+544={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2000,7 +2410,7 @@
 	province_rank=""
 }
 
-381={ #Lands
+545={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2010,7 +2420,7 @@
 	province_rank=""
 }
 
-382={ #Lands
+671={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2020,7 +2430,7 @@
 	province_rank=""
 }
 
-383={ #Lands
+672={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2030,7 +2440,7 @@
 	province_rank=""
 }
 
-384={ #Lands
+673={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2040,7 +2450,7 @@
 	province_rank=""
 }
 
-385={ #Lands
+674={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2050,7 +2460,7 @@
 	province_rank=""
 }
 
-386={ #Lands
+675={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2060,7 +2470,7 @@
 	province_rank=""
 }
 
-387={ #Lands
+676={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2070,7 +2480,7 @@
 	province_rank=""
 }
 
-388={ #Lands
+677={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2080,7 +2490,7 @@
 	province_rank=""
 }
 
-389={ #Lands
+701={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2090,7 +2500,7 @@
 	province_rank=""
 }
 
-390={ #Lands
+734={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2100,7 +2510,7 @@
 	province_rank=""
 }
 
-391={ #Lands
+735={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2110,7 +2520,7 @@
 	province_rank=""
 }
 
-392={ #Lands
+787={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2120,7 +2530,7 @@
 	province_rank=""
 }
 
-393={ #Lands
+788={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"
@@ -2130,117 +2540,7 @@
 	province_rank=""
 }
 
-394={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-395={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-396={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-568={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-649={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-650={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-686={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-687={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-688={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-743={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-744={ #Lands
-	terrain="impassable_terrain"
-	culture="clanless"
-	religion="ancient_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-751={ #Lands
+835={ #Mountain Chain
 	terrain="impassable_terrain"
 	culture="clanless"
 	religion="ancient_pantheon"

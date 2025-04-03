@@ -9,7 +9,7 @@
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\n The wars Anunnaki and Ekimmu fought all over the Continent were devastating. They changed the world, and ended the domination of the self proclaimed gods. The Kengiran Callendar that is used today starts when the falling star brought the worshippers of the Void on Nibiru.\n\n#TF That is not dead which can eternal lie, and with strange aeons, even death may die. - Ekimmu Prayer#!"
  DATE_TOOLTIP:0 "[Date.GetTimeUntil]\n years since the falling star brought the Ekimmu to Nibiru."
  THE_WORLD:1 "[GetDateString]#T  BA"
- THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BA stands for Bronze Age. Nibirans count time since the arrival of Ekimmu who changed the balance of power in the relm of mortals and ended the undisputed rule uf Annunaki. "
+ THE_WORLD_TOOLTIP:1 "#T Current Date#!\n BA stands for Bronze Age. Nibirans count time since the arrival of Ekimmu who changed the balance of power in the relm of mortals and ended the undisputed rule of Annunaki. "
  
  DilmunINTRO:0 "#T Dilmun#!\nDifficulty: #Y Medium#!\n\n TMP"
  Dilmun:0 "Dilmun"
@@ -21,10 +21,12 @@
  owns_no_neighboring_province:0 "Owns no neighbouring province"
  
  patch_notes:0 "Part I: Nibiru: Between Worlds"
- patch_notes_text:0 "What's new:\n- New Bronze Age World to explore. \n- Over 500 conquerable provinces. \n- 4 playable races. \n- 10 new units \n- New lore loosely based on Bronze Age middle eastern mythology, fanfiction and conspyracy theories."
+ patch_notes_text:0 "What's new:\n- New Bronze Age World to explore. \n- Over 600 conquerable provinces. \n- 4 playable races. \n- 10 new units \n- New lore loosely based on Bronze Age middle eastern mythology, fanfiction and conspyracy theories."
  
- osasis:0 "Oasis"
- osasis_desc:0 "The only water source in the desert and also the only permanent place to live in this harsh enviroment."
+ oasis:0 "Oasis"
+ oasis_desc:0 "The only water source in the desert and also the only permanent place to live in this harsh enviroment."
+ savanna:0 "Savanna"
+ savanna_desc:0 "A savanna or savannah is a mixed woodland-grassland biome and ecosystem characterised by the trees being sufficiently widely spaced so that the canopy does not close."
  steppe:0 "Steppe"
  steppe_desc:0 "Wide open grassland as far as eye can see. This unwelcoming place is a home for nomads and shepherds."
  cave:0 "Cave Complex"

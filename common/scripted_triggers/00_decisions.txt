@@ -1,15 +1,15 @@
 ﻿is_tier_1_formable_trigger = {
 	OR = {
 		tag = XIA #Imamate of Aten
-		tag = XTS #Ta-Seti
+		tag = AAY #Ta-Seti
 	}
 }
 
 is_tier_2_formable_trigger = {
 	OR = {
 		tag = XSG #Kingdom of Salgar
-		tag = XKG #Kingdom of Kurgun
-		tag = XDM #Kingdom of Dilmun
+		tag = AAE #Kingdom of Kurgun
+		tag = AAA #Kingdom of Dilmun
 		tag = XRH #Red Horde
 		tag = XDK #Dark Kingdom
 	}

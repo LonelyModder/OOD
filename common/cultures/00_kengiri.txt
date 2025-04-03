@@ -48,11 +48,12 @@
 	}
 	culture = {
 		galkari = {}
-		irkallic = {}
-		siduri = {}
-		gulani = {}
-		lehsiri = {}
-		#new
+		zandakite = {}
+		izzimite = {}
+		buteni = {}
+		nanumi = {}
+		nazuri = {}
+		diuili = {}
 	}
 	
 	barbarian_names = { 
